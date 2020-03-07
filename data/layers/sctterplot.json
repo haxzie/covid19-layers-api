@@ -1,0 +1,2987 @@
+[
+  {
+    "id": "7721b8e5279a9556fdf7998568083e76",
+    "location": [
+      "31.8257",
+      "117.2264"
+    ],
+    "country": "Mainland China",
+    "country_code": "CN",
+    "province": "Anhui",
+    "data": {
+      "confirmed": 990,
+      "deaths": 6,
+      "recovered": 979
+    }
+  },
+  {
+    "id": "9a68bcc28e4e761ec0c720e3a4b7c697",
+    "location": [
+      "40.1824",
+      "116.4142"
+    ],
+    "country": "Mainland China",
+    "country_code": "CN",
+    "province": "Beijing",
+    "data": {
+      "confirmed": 422,
+      "deaths": 8,
+      "recovered": 299
+    }
+  },
+  {
+    "id": "7de78254e88359fac9ebccf3bd9d8c69",
+    "location": [
+      "30.0572",
+      "107.874"
+    ],
+    "country": "Mainland China",
+    "country_code": "CN",
+    "province": "Chongqing",
+    "data": {
+      "confirmed": 576,
+      "deaths": 6,
+      "recovered": 513
+    }
+  },
+  {
+    "id": "74bbbf09ef97a541af18a8d07ed94054",
+    "location": [
+      "26.0789",
+      "117.9874"
+    ],
+    "country": "Mainland China",
+    "country_code": "CN",
+    "province": "Fujian",
+    "data": {
+      "confirmed": 296,
+      "deaths": 1,
+      "recovered": 284
+    }
+  },
+  {
+    "id": "350cee5d97b4f74372af94e11d0324fd",
+    "location": [
+      "36.0611",
+      "103.8343"
+    ],
+    "country": "Mainland China",
+    "country_code": "CN",
+    "province": "Gansu",
+    "data": {
+      "confirmed": 119,
+      "deaths": 2,
+      "recovered": 87
+    }
+  },
+  {
+    "id": "181e896afa38cc5aa9cf6484bdedad30",
+    "location": [
+      "23.3417",
+      "113.4244"
+    ],
+    "country": "Mainland China",
+    "country_code": "CN",
+    "province": "Guangdong",
+    "data": {
+      "confirmed": 1352,
+      "deaths": 7,
+      "recovered": 1216
+    }
+  },
+  {
+    "id": "282ff49f986448c940c0b60c61677e52",
+    "location": [
+      "23.8298",
+      "108.7881"
+    ],
+    "country": "Mainland China",
+    "country_code": "CN",
+    "province": "Guangxi",
+    "data": {
+      "confirmed": 252,
+      "deaths": 2,
+      "recovered": 217
+    }
+  },
+  {
+    "id": "f2041f07ece6f561a46410e1c78e8e3c",
+    "location": [
+      "26.8154",
+      "106.8748"
+    ],
+    "country": "Mainland China",
+    "country_code": "CN",
+    "province": "Guizhou",
+    "data": {
+      "confirmed": 146,
+      "deaths": 2,
+      "recovered": 114
+    }
+  },
+  {
+    "id": "0cb4d95281a179c7b1187eec404da2d1",
+    "location": [
+      "19.1959",
+      "109.7453"
+    ],
+    "country": "Mainland China",
+    "country_code": "CN",
+    "province": "Hainan",
+    "data": {
+      "confirmed": 168,
+      "deaths": 6,
+      "recovered": 158
+    }
+  },
+  {
+    "id": "03c760e818f3bbafd270700d5c0b17ae",
+    "location": [
+      "38.0428",
+      "114.5149"
+    ],
+    "country": "Mainland China",
+    "country_code": "CN",
+    "province": "Hebei",
+    "data": {
+      "confirmed": 318,
+      "deaths": 6,
+      "recovered": 305
+    }
+  },
+  {
+    "id": "e014bf30bb7405f0bd5d08b9a22b2b4b",
+    "location": [
+      "47.862",
+      "127.7615"
+    ],
+    "country": "Mainland China",
+    "country_code": "CN",
+    "province": "Heilongjiang",
+    "data": {
+      "confirmed": 481,
+      "deaths": 13,
+      "recovered": 396
+    }
+  },
+  {
+    "id": "4e694d2366cc81a3a53945358ca4f7e6",
+    "location": [
+      "33.88202",
+      "113.614"
+    ],
+    "country": "Mainland China",
+    "country_code": "CN",
+    "province": "Henan",
+    "data": {
+      "confirmed": 1272,
+      "deaths": 22,
+      "recovered": 1244
+    }
+  },
+  {
+    "id": "4e36d07923ddd532e21be9b4b9f7917b",
+    "location": [
+      "30.9756",
+      "112.2707"
+    ],
+    "country": "Mainland China",
+    "country_code": "CN",
+    "province": "Hubei",
+    "data": {
+      "confirmed": 67592,
+      "deaths": 2931,
+      "recovered": 42033
+    }
+  },
+  {
+    "id": "cdb44311fa61babefe661b0de15029e8",
+    "location": [
+      "27.6104",
+      "111.7088"
+    ],
+    "country": "Mainland China",
+    "country_code": "CN",
+    "province": "Hunan",
+    "data": {
+      "confirmed": 1018,
+      "deaths": 4,
+      "recovered": 955
+    }
+  },
+  {
+    "id": "ce1fc835cdefd77a6537c2e2e981e424",
+    "location": [
+      "44.0935",
+      "113.9448"
+    ],
+    "country": "Mainland China",
+    "country_code": "CN",
+    "province": "Inner Mongolia",
+    "data": {
+      "confirmed": 75,
+      "deaths": 1,
+      "recovered": 65
+    }
+  },
+  {
+    "id": "34b5a8cef2da45dfb1b641468f780d39",
+    "location": [
+      "32.9711",
+      "119.455"
+    ],
+    "country": "Mainland China",
+    "country_code": "CN",
+    "province": "Jiangsu",
+    "data": {
+      "confirmed": 631,
+      "deaths": 0,
+      "recovered": 594
+    }
+  },
+  {
+    "id": "4ae0e18e2a48818d4cf6528625191713",
+    "location": [
+      "27.614",
+      "115.7221"
+    ],
+    "country": "Mainland China",
+    "country_code": "CN",
+    "province": "Jiangxi",
+    "data": {
+      "confirmed": 935,
+      "deaths": 1,
+      "recovered": 909
+    }
+  },
+  {
+    "id": "f500d9ca3fca09791125ea031eaea586",
+    "location": [
+      "43.6661",
+      "126.1923"
+    ],
+    "country": "Mainland China",
+    "country_code": "CN",
+    "province": "Jilin",
+    "data": {
+      "confirmed": 93,
+      "deaths": 1,
+      "recovered": 90
+    }
+  },
+  {
+    "id": "e4d093a939591ba2d6f0d3de2b7dc478",
+    "location": [
+      "41.2956",
+      "122.6085"
+    ],
+    "country": "Mainland China",
+    "country_code": "CN",
+    "province": "Liaoning",
+    "data": {
+      "confirmed": 125,
+      "deaths": 1,
+      "recovered": 106
+    }
+  },
+  {
+    "id": "2ab69fab54bbe1ad1fbc14812bfc8f96",
+    "location": [
+      "37.2692",
+      "106.1655"
+    ],
+    "country": "Mainland China",
+    "country_code": "CN",
+    "province": "Ningxia",
+    "data": {
+      "confirmed": 75,
+      "deaths": 0,
+      "recovered": 71
+    }
+  },
+  {
+    "id": "f18a49119ee3bb32a43c1fdd2f019f47",
+    "location": [
+      "35.7452",
+      "95.9956"
+    ],
+    "country": "Mainland China",
+    "country_code": "CN",
+    "province": "Qinghai",
+    "data": {
+      "confirmed": 18,
+      "deaths": 0,
+      "recovered": 18
+    }
+  },
+  {
+    "id": "e6ad065d9e2aacccf453317c5bce3a60",
+    "location": [
+      "35.1917",
+      "108.8701"
+    ],
+    "country": "Mainland China",
+    "country_code": "CN",
+    "province": "Shaanxi",
+    "data": {
+      "confirmed": 245,
+      "deaths": 1,
+      "recovered": 226
+    }
+  },
+  {
+    "id": "16ebef9aa0827f63646f82d31c8340d9",
+    "location": [
+      "36.3427",
+      "118.1498"
+    ],
+    "country": "Mainland China",
+    "country_code": "CN",
+    "province": "Shandong",
+    "data": {
+      "confirmed": 758,
+      "deaths": 6,
+      "recovered": 618
+    }
+  },
+  {
+    "id": "df01d91cc234cef8c29e0de7d698ccdf",
+    "location": [
+      "31.202",
+      "121.4491"
+    ],
+    "country": "Mainland China",
+    "country_code": "CN",
+    "province": "Shanghai",
+    "data": {
+      "confirmed": 342,
+      "deaths": 3,
+      "recovered": 306
+    }
+  },
+  {
+    "id": "4e9530a56c70b7efad6a97e9f05d4cd6",
+    "location": [
+      "37.5777",
+      "112.2922"
+    ],
+    "country": "Mainland China",
+    "country_code": "CN",
+    "province": "Shanxi",
+    "data": {
+      "confirmed": 133,
+      "deaths": 0,
+      "recovered": 126
+    }
+  },
+  {
+    "id": "57a1b36cdf8f1d46aa3b957021f202a1",
+    "location": [
+      "30.6171",
+      "102.7103"
+    ],
+    "country": "Mainland China",
+    "country_code": "CN",
+    "province": "Sichuan",
+    "data": {
+      "confirmed": 539,
+      "deaths": 3,
+      "recovered": 442
+    }
+  },
+  {
+    "id": "4a69962f0190e1b6e3e2df55e4a0d635",
+    "location": [
+      "39.3054",
+      "117.323"
+    ],
+    "country": "Mainland China",
+    "country_code": "CN",
+    "province": "Tianjin",
+    "data": {
+      "confirmed": 136,
+      "deaths": 3,
+      "recovered": 128
+    }
+  },
+  {
+    "id": "a6e1b9165c123530cc22fe910f8f2384",
+    "location": [
+      "31.6927",
+      "88.0924"
+    ],
+    "country": "Mainland China",
+    "country_code": "CN",
+    "province": "Tibet",
+    "data": {
+      "confirmed": 1,
+      "deaths": 0,
+      "recovered": 1
+    }
+  },
+  {
+    "id": "18dfafb37e86900393e2212e791cf25f",
+    "location": [
+      "41.1129",
+      "85.2401"
+    ],
+    "country": "Mainland China",
+    "country_code": "CN",
+    "province": "Xinjiang",
+    "data": {
+      "confirmed": 76,
+      "deaths": 3,
+      "recovered": 71
+    }
+  },
+  {
+    "id": "a162aee93a984cc032be524b310856d8",
+    "location": [
+      "24.974",
+      "101.487"
+    ],
+    "country": "Mainland China",
+    "country_code": "CN",
+    "province": "Yunnan",
+    "data": {
+      "confirmed": 174,
+      "deaths": 2,
+      "recovered": 170
+    }
+  },
+  {
+    "id": "ecfe0923ad38c0c15d92a5c82a8dd0ff",
+    "location": [
+      "29.1832",
+      "120.0934"
+    ],
+    "country": "Mainland China",
+    "country_code": "CN",
+    "province": "Zhejiang",
+    "data": {
+      "confirmed": 1215,
+      "deaths": 1,
+      "recovered": 1147
+    }
+  },
+  {
+    "id": "8d28b79f9f192ce58b23bfd4f55499ca",
+    "location": [
+      "15",
+      "101"
+    ],
+    "country": "Thailand",
+    "country_code": "TH",
+    "province": "",
+    "data": {
+      "confirmed": 48,
+      "deaths": 1,
+      "recovered": 31
+    }
+  },
+  {
+    "id": "9e79cf8ffceff31ecbc57cbaed2c573f",
+    "location": [
+      "36",
+      "138"
+    ],
+    "country": "Japan",
+    "country_code": "JP",
+    "province": "",
+    "data": {
+      "confirmed": 420,
+      "deaths": 6,
+      "recovered": 46
+    }
+  },
+  {
+    "id": "04030d8c0cc6a5312aab0a96ddd582a1",
+    "location": [
+      "36",
+      "128"
+    ],
+    "country": "South Korea",
+    "country_code": "KR",
+    "province": "",
+    "data": {
+      "confirmed": 6593,
+      "deaths": 42,
+      "recovered": 135
+    }
+  },
+  {
+    "id": "7e93c9207171a5aa7c867f745a661cea",
+    "location": [
+      "23.7",
+      "121"
+    ],
+    "country": "Taiwan",
+    "country_code": "TW",
+    "province": "Taiwan",
+    "data": {
+      "confirmed": 45,
+      "deaths": 1,
+      "recovered": 12
+    }
+  },
+  {
+    "id": "5633ca8b91fbaf30417fd3c91b39f59d",
+    "location": [
+      "47.6062",
+      "-122.3321"
+    ],
+    "country": "US",
+    "country_code": "US",
+    "province": "King County, WA",
+    "data": {
+      "confirmed": 58,
+      "deaths": 12,
+      "recovered": 1
+    }
+  },
+  {
+    "id": "f681a5fa2497e51121d8c4ca4486fae7",
+    "location": [
+      "41.7377",
+      "-87.6976"
+    ],
+    "country": "US",
+    "country_code": "US",
+    "province": "Cook County, IL",
+    "data": {
+      "confirmed": 5,
+      "deaths": 0,
+      "recovered": 2
+    }
+  },
+  {
+    "id": "82f512cbe1bff2ef1be766c7da11c389",
+    "location": [
+      "33.4255",
+      "-111.94"
+    ],
+    "country": "US",
+    "country_code": "US",
+    "province": "Tempe, AZ",
+    "data": {
+      "confirmed": 1,
+      "deaths": 0,
+      "recovered": 1
+    }
+  },
+  {
+    "id": "39fbf54c68641940e913b023e61a74ea",
+    "location": [
+      "22.1667",
+      "113.55"
+    ],
+    "country": "Macau",
+    "country_code": "MO",
+    "province": "Macau",
+    "data": {
+      "confirmed": 10,
+      "deaths": 0,
+      "recovered": 10
+    }
+  },
+  {
+    "id": "d77a888c2183fd38c45079708c9cf0f5",
+    "location": [
+      "22.3",
+      "114.2"
+    ],
+    "country": "Hong Kong",
+    "country_code": "HK",
+    "province": "Hong Kong",
+    "data": {
+      "confirmed": 107,
+      "deaths": 2,
+      "recovered": 46
+    }
+  },
+  {
+    "id": "1c69c48d88e984fa3550723fa7de553d",
+    "location": [
+      "1.2833",
+      "103.8333"
+    ],
+    "country": "Singapore",
+    "country_code": "SG",
+    "province": "",
+    "data": {
+      "confirmed": 130,
+      "deaths": 0,
+      "recovered": 78
+    }
+  },
+  {
+    "id": "0dfdad8bdc860da5c957638b3e416ad3",
+    "location": [
+      "16",
+      "108"
+    ],
+    "country": "Vietnam",
+    "country_code": "VN",
+    "province": "",
+    "data": {
+      "confirmed": 16,
+      "deaths": 0,
+      "recovered": 16
+    }
+  },
+  {
+    "id": "ff8a7360abcb7c7086b0491befe99827",
+    "location": [
+      "47",
+      "2"
+    ],
+    "country": "France",
+    "country_code": "FR",
+    "province": "",
+    "data": {
+      "confirmed": 653,
+      "deaths": 9,
+      "recovered": 12
+    }
+  },
+  {
+    "id": "824d334831f44713ac52d9690ecf7c4d",
+    "location": [
+      "28.1667",
+      "84.25"
+    ],
+    "country": "Nepal",
+    "country_code": "NP",
+    "province": "",
+    "data": {
+      "confirmed": 1,
+      "deaths": 0,
+      "recovered": 1
+    }
+  },
+  {
+    "id": "3e03909e4a1cafe9fa2de89b064bebb0",
+    "location": [
+      "2.5",
+      "112.5"
+    ],
+    "country": "Malaysia",
+    "country_code": "MY",
+    "province": "",
+    "data": {
+      "confirmed": 83,
+      "deaths": 0,
+      "recovered": 22
+    }
+  },
+  {
+    "id": "a38b6ad565aa06cb726ece0334b995fb",
+    "location": [
+      "43.6532",
+      "-79.3832"
+    ],
+    "country": "Canada",
+    "country_code": "CA",
+    "province": "Toronto, ON",
+    "data": {
+      "confirmed": 24,
+      "deaths": 0,
+      "recovered": 2
+    }
+  },
+  {
+    "id": "24690c236151db5a6963322e85fbdca3",
+    "location": [
+      "49.2827",
+      "-123.1207"
+    ],
+    "country": "Canada",
+    "country_code": "CA",
+    "province": "British Columbia",
+    "data": {
+      "confirmed": 21,
+      "deaths": 0,
+      "recovered": 3
+    }
+  },
+  {
+    "id": "cc224d9502c917eaf68be842bcf26de9",
+    "location": [
+      "34.0522",
+      "-118.2437"
+    ],
+    "country": "US",
+    "country_code": "US",
+    "province": "Los Angeles, CA",
+    "data": {
+      "confirmed": 13,
+      "deaths": 0,
+      "recovered": 0
+    }
+  },
+  {
+    "id": "bb2a0d61cdc6c1756a1163bc4087004b",
+    "location": [
+      "-33.8688",
+      "151.2093"
+    ],
+    "country": "Australia",
+    "country_code": "AU",
+    "province": "New South Wales",
+    "data": {
+      "confirmed": 26,
+      "deaths": 1,
+      "recovered": 4
+    }
+  },
+  {
+    "id": "6193714356fd60982950ba8c23353c93",
+    "location": [
+      "-37.8136",
+      "144.9631"
+    ],
+    "country": "Australia",
+    "country_code": "AU",
+    "province": "Victoria",
+    "data": {
+      "confirmed": 10,
+      "deaths": 0,
+      "recovered": 7
+    }
+  },
+  {
+    "id": "b8e9dd1ecfb26a7a1add22bc186193d9",
+    "location": [
+      "-28.0167",
+      "153.4"
+    ],
+    "country": "Australia",
+    "country_code": "AU",
+    "province": "Queensland",
+    "data": {
+      "confirmed": 13,
+      "deaths": 0,
+      "recovered": 8
+    }
+  },
+  {
+    "id": "aaf6492ec30f1e055cddf00b9112ebb4",
+    "location": [
+      "11.55",
+      "104.9167"
+    ],
+    "country": "Cambodia",
+    "country_code": "KH",
+    "province": "",
+    "data": {
+      "confirmed": 1,
+      "deaths": 0,
+      "recovered": 1
+    }
+  },
+  {
+    "id": "8a6ceb8f3d9ec00205fb839656aa7c05",
+    "location": [
+      "7",
+      "81"
+    ],
+    "country": "Sri Lanka",
+    "country_code": "LK",
+    "province": "",
+    "data": {
+      "confirmed": 1,
+      "deaths": 0,
+      "recovered": 1
+    }
+  },
+  {
+    "id": "2a310fb8472b18f0bf73df1dbc95ff9e",
+    "location": [
+      "51",
+      "9"
+    ],
+    "country": "Germany",
+    "country_code": "DE",
+    "province": "",
+    "data": {
+      "confirmed": 670,
+      "deaths": 0,
+      "recovered": 17
+    }
+  },
+  {
+    "id": "e6166e937e865ff2cbe07ac245b8076a",
+    "location": [
+      "64",
+      "26"
+    ],
+    "country": "Finland",
+    "country_code": "FI",
+    "province": "",
+    "data": {
+      "confirmed": 15,
+      "deaths": 0,
+      "recovered": 1
+    }
+  },
+  {
+    "id": "536a49fbcd461fe6bf56e92a050cbaa0",
+    "location": [
+      "24",
+      "54"
+    ],
+    "country": "United Arab Emirates",
+    "country_code": "AE",
+    "province": "",
+    "data": {
+      "confirmed": 29,
+      "deaths": 0,
+      "recovered": 5
+    }
+  },
+  {
+    "id": "b0d85ec6638ded16a0a7d7fc46087a6d",
+    "location": [
+      "13",
+      "122"
+    ],
+    "country": "Philippines",
+    "country_code": "PH",
+    "province": "",
+    "data": {
+      "confirmed": 5,
+      "deaths": 1,
+      "recovered": 1
+    }
+  },
+  {
+    "id": "3bdf17b97f164a80db7d3dd307b19b61",
+    "location": [
+      "21",
+      "78"
+    ],
+    "country": "India",
+    "country_code": "IN",
+    "province": "",
+    "data": {
+      "confirmed": 31,
+      "deaths": 0,
+      "recovered": 3
+    }
+  },
+  {
+    "id": "944595cd56e1713d0399a64b4869f2ff",
+    "location": [
+      "42.9849",
+      "-81.2453"
+    ],
+    "country": "Canada",
+    "country_code": "CA",
+    "province": "London, ON",
+    "data": {
+      "confirmed": 1,
+      "deaths": 0,
+      "recovered": 1
+    }
+  },
+  {
+    "id": "79fe507bc8934e9ea8f18877cfde72e9",
+    "location": [
+      "43",
+      "12"
+    ],
+    "country": "Italy",
+    "country_code": "IT",
+    "province": "",
+    "data": {
+      "confirmed": 4636,
+      "deaths": 197,
+      "recovered": 523
+    }
+  },
+  {
+    "id": "2c59a1e424f4753e14e632911faa614e",
+    "location": [
+      "55",
+      "-3"
+    ],
+    "country": "UK",
+    "country_code": "GB",
+    "province": "",
+    "data": {
+      "confirmed": 163,
+      "deaths": 2,
+      "recovered": 8
+    }
+  },
+  {
+    "id": "4058fbcc46fe7e90ac9e099c47fc86ed",
+    "location": [
+      "60",
+      "90"
+    ],
+    "country": "Russia",
+    "country_code": "RU",
+    "province": "",
+    "data": {
+      "confirmed": 13,
+      "deaths": 0,
+      "recovered": 2
+    }
+  },
+  {
+    "id": "7f79ff90fdf2cc1c020804e905e07760",
+    "location": [
+      "63",
+      "16"
+    ],
+    "country": "Sweden",
+    "country_code": "SE",
+    "province": "",
+    "data": {
+      "confirmed": 101,
+      "deaths": 0,
+      "recovered": 0
+    }
+  },
+  {
+    "id": "8fd28a963447ed89a227f9a7aa6bbd7b",
+    "location": [
+      "37.3541",
+      "-121.9552"
+    ],
+    "country": "US",
+    "country_code": "US",
+    "province": "Santa Clara, CA",
+    "data": {
+      "confirmed": 20,
+      "deaths": 0,
+      "recovered": 1
+    }
+  },
+  {
+    "id": "269428fd931876b82e86f9108edd866f",
+    "location": [
+      "40",
+      "-4"
+    ],
+    "country": "Spain",
+    "country_code": "ES",
+    "province": "",
+    "data": {
+      "confirmed": 400,
+      "deaths": 5,
+      "recovered": 2
+    }
+  },
+  {
+    "id": "680cf1c1233c344e8a3a5f746c52eae1",
+    "location": [
+      "-34.9285",
+      "138.6007"
+    ],
+    "country": "Australia",
+    "country_code": "AU",
+    "province": "South Australia",
+    "data": {
+      "confirmed": 7,
+      "deaths": 0,
+      "recovered": 2
+    }
+  },
+  {
+    "id": "3dc84e34711ab2ad7d3dfab52b1cd705",
+    "location": [
+      "36.5761",
+      "-120.9876"
+    ],
+    "country": "US",
+    "country_code": "US",
+    "province": "San Benito, CA",
+    "data": {
+      "confirmed": 2,
+      "deaths": 0,
+      "recovered": 0
+    }
+  },
+  {
+    "id": "21482ec51fe5c71e336bf43adb945a1d",
+    "location": [
+      "50.8333",
+      "4"
+    ],
+    "country": "Belgium",
+    "country_code": "BE",
+    "province": "",
+    "data": {
+      "confirmed": 109,
+      "deaths": 0,
+      "recovered": 1
+    }
+  },
+  {
+    "id": "22e4ecacbddb03343ed10e0392d20223",
+    "location": [
+      "43.0731",
+      "-89.4012"
+    ],
+    "country": "US",
+    "country_code": "US",
+    "province": "Madison, WI",
+    "data": {
+      "confirmed": 1,
+      "deaths": 0,
+      "recovered": 1
+    }
+  },
+  {
+    "id": "504dec2e41845267765e8b72766874cd",
+    "location": [
+      "35.4437",
+      "139.638"
+    ],
+    "country": "Others",
+    "country_code": "XX",
+    "province": "Diamond Princess cruise ship",
+    "data": {
+      "confirmed": 696,
+      "deaths": 6,
+      "recovered": 40
+    }
+  },
+  {
+    "id": "0b9502141ec6ede24db273d975951ab7",
+    "location": [
+      "32.7157",
+      "-117.1611"
+    ],
+    "country": "US",
+    "country_code": "US",
+    "province": "San Diego County, CA",
+    "data": {
+      "confirmed": 3,
+      "deaths": 0,
+      "recovered": 1
+    }
+  },
+  {
+    "id": "88e8bc708c74f2e5bf9384e0f02bbc19",
+    "location": [
+      "29.4241",
+      "-98.4936"
+    ],
+    "country": "US",
+    "country_code": "US",
+    "province": "San Antonio, TX",
+    "data": {
+      "confirmed": 1,
+      "deaths": 0,
+      "recovered": 0
+    }
+  },
+  {
+    "id": "e26839c04cda440b1e0107beb369cb42",
+    "location": [
+      "26",
+      "30"
+    ],
+    "country": "Egypt",
+    "country_code": "EG",
+    "province": "",
+    "data": {
+      "confirmed": 15,
+      "deaths": 0,
+      "recovered": 1
+    }
+  },
+  {
+    "id": "48a54ea36a0a4155d200e8b6277cd17d",
+    "location": [
+      "32",
+      "53"
+    ],
+    "country": "Iran",
+    "country_code": "IR",
+    "province": "",
+    "data": {
+      "confirmed": 4747,
+      "deaths": 124,
+      "recovered": 913
+    }
+  },
+  {
+    "id": "1fe02887c3a3612b47027e40b693b185",
+    "location": [
+      "41.2545",
+      "-95.9758"
+    ],
+    "country": "US",
+    "country_code": "US",
+    "province": "Omaha, NE (From Diamond Princess)",
+    "data": {
+      "confirmed": 0,
+      "deaths": 0,
+      "recovered": 0
+    }
+  },
+  {
+    "id": "c60c8aff50accd1f6cd56f4d1e4167d4",
+    "location": [
+      "38.2721",
+      "-121.9399"
+    ],
+    "country": "US",
+    "country_code": "US",
+    "province": "Travis, CA (From Diamond Princess)",
+    "data": {
+      "confirmed": 0,
+      "deaths": 0,
+      "recovered": 0
+    }
+  },
+  {
+    "id": "57b0a80adebd4a6b714fa43fa93c3a01",
+    "location": [
+      "35.4437",
+      "139.638"
+    ],
+    "country": "Australia",
+    "country_code": "AU",
+    "province": "From Diamond Princess",
+    "data": {
+      "confirmed": 0,
+      "deaths": 0,
+      "recovered": 0
+    }
+  },
+  {
+    "id": "6caf661c0cf6bcaef78862406ead3afe",
+    "location": [
+      "29.3829",
+      "-98.6134"
+    ],
+    "country": "US",
+    "country_code": "US",
+    "province": "Lackland, TX (From Diamond Princess)",
+    "data": {
+      "confirmed": 0,
+      "deaths": 0,
+      "recovered": 0
+    }
+  },
+  {
+    "id": "5bcc8b3b0b4e6ea55b2198c43e172dae",
+    "location": [
+      "33.8547",
+      "35.8623"
+    ],
+    "country": "Lebanon",
+    "country_code": "LB",
+    "province": "",
+    "data": {
+      "confirmed": 22,
+      "deaths": 0,
+      "recovered": 1
+    }
+  },
+  {
+    "id": "0e0b932c50dd8287a333081b98e930f9",
+    "location": [
+      "40.745",
+      "-123.8695"
+    ],
+    "country": "US",
+    "country_code": "US",
+    "province": "Humboldt County, CA",
+    "data": {
+      "confirmed": 1,
+      "deaths": 0,
+      "recovered": 0
+    }
+  },
+  {
+    "id": "cc721afbb641fd5d426166aee543da5c",
+    "location": [
+      "38.4747",
+      "-121.3542"
+    ],
+    "country": "US",
+    "country_code": "US",
+    "province": "Sacramento County, CA",
+    "data": {
+      "confirmed": 2,
+      "deaths": 0,
+      "recovered": 0
+    }
+  },
+  {
+    "id": "c1b10162fd5d3c6ed1c939bc648bbcc1",
+    "location": [
+      "33",
+      "44"
+    ],
+    "country": "Iraq",
+    "country_code": "IQ",
+    "province": "",
+    "data": {
+      "confirmed": 40,
+      "deaths": 3,
+      "recovered": 0
+    }
+  },
+  {
+    "id": "9a7029627c512a3c1b0e64cbba4c9a50",
+    "location": [
+      "35.4437",
+      "139.638"
+    ],
+    "country": "US",
+    "country_code": "US",
+    "province": "Unassigned Location (From Diamond Princess)",
+    "data": {
+      "confirmed": 45,
+      "deaths": 0,
+      "recovered": 0
+    }
+  },
+  {
+    "id": "b8928d00073c1e1c5ad66bdb6c16ad70",
+    "location": [
+      "21",
+      "57"
+    ],
+    "country": "Oman",
+    "country_code": "OM",
+    "province": "",
+    "data": {
+      "confirmed": 16,
+      "deaths": 0,
+      "recovered": 2
+    }
+  },
+  {
+    "id": "12196ed8f5eee3db8c0de48e576d4db1",
+    "location": [
+      "33",
+      "65"
+    ],
+    "country": "Afghanistan",
+    "country_code": "AF",
+    "province": "",
+    "data": {
+      "confirmed": 1,
+      "deaths": 0,
+      "recovered": 0
+    }
+  },
+  {
+    "id": "0ecc2d7ec00118b2c41b1ed6abf15108",
+    "location": [
+      "26.0275",
+      "50.55"
+    ],
+    "country": "Bahrain",
+    "country_code": "BH",
+    "province": "",
+    "data": {
+      "confirmed": 60,
+      "deaths": 0,
+      "recovered": 4
+    }
+  },
+  {
+    "id": "25693c4469d67230df12f54b13e64079",
+    "location": [
+      "29.5",
+      "47.75"
+    ],
+    "country": "Kuwait",
+    "country_code": "KW",
+    "province": "",
+    "data": {
+      "confirmed": 58,
+      "deaths": 0,
+      "recovered": 0
+    }
+  },
+  {
+    "id": "59210dff57ce7907ff078b8be43c89b3",
+    "location": [
+      "28.0339",
+      "1.6596"
+    ],
+    "country": "Algeria",
+    "country_code": "DZ",
+    "province": "",
+    "data": {
+      "confirmed": 17,
+      "deaths": 0,
+      "recovered": 0
+    }
+  },
+  {
+    "id": "accb972813a9fbd2c2639fc25f86089f",
+    "location": [
+      "45.1",
+      "15.2"
+    ],
+    "country": "Croatia",
+    "country_code": "HR",
+    "province": "",
+    "data": {
+      "confirmed": 11,
+      "deaths": 0,
+      "recovered": 0
+    }
+  },
+  {
+    "id": "48213da42f51e28a345d60e1d0509c0e",
+    "location": [
+      "46.8182",
+      "8.2275"
+    ],
+    "country": "Switzerland",
+    "country_code": "CH",
+    "province": "",
+    "data": {
+      "confirmed": 214,
+      "deaths": 1,
+      "recovered": 3
+    }
+  },
+  {
+    "id": "b6d9a1714c397787defcd0b524eeef7c",
+    "location": [
+      "47.5162",
+      "14.5501"
+    ],
+    "country": "Austria",
+    "country_code": "AT",
+    "province": "",
+    "data": {
+      "confirmed": 55,
+      "deaths": 0,
+      "recovered": 0
+    }
+  },
+  {
+    "id": "cbef58f1f552b536bcc89bd85c517120",
+    "location": [
+      "31",
+      "35"
+    ],
+    "country": "Israel",
+    "country_code": "IL",
+    "province": "",
+    "data": {
+      "confirmed": 21,
+      "deaths": 0,
+      "recovered": 2
+    }
+  },
+  {
+    "id": "956206d8cb234ecedb6d6cc881bc0c04",
+    "location": [
+      "30.3753",
+      "69.3451"
+    ],
+    "country": "Pakistan",
+    "country_code": "PK",
+    "province": "",
+    "data": {
+      "confirmed": 6,
+      "deaths": 0,
+      "recovered": 0
+    }
+  },
+  {
+    "id": "7fa4503e74fd3da447d8d2ef8948ab15",
+    "location": [
+      "-14.235",
+      "-51.9253"
+    ],
+    "country": "Brazil",
+    "country_code": "BR",
+    "province": "",
+    "data": {
+      "confirmed": 13,
+      "deaths": 0,
+      "recovered": 0
+    }
+  },
+  {
+    "id": "6f19b87c734991ac2671923151cc47ac",
+    "location": [
+      "42.3154",
+      "43.3569"
+    ],
+    "country": "Georgia",
+    "country_code": "GE",
+    "province": "",
+    "data": {
+      "confirmed": 4,
+      "deaths": 0,
+      "recovered": 0
+    }
+  },
+  {
+    "id": "e5d5ecbe70371e112aada0503d3d5297",
+    "location": [
+      "39.0742",
+      "21.8243"
+    ],
+    "country": "Greece",
+    "country_code": "GR",
+    "province": "",
+    "data": {
+      "confirmed": 45,
+      "deaths": 0,
+      "recovered": 0
+    }
+  },
+  {
+    "id": "c1f5b5876f3afd7b40ae519533cdd6e9",
+    "location": [
+      "41.6086",
+      "21.7453"
+    ],
+    "country": "North Macedonia",
+    "country_code": "MK",
+    "province": "",
+    "data": {
+      "confirmed": 3,
+      "deaths": 0,
+      "recovered": 0
+    }
+  },
+  {
+    "id": "937f1afaf15d4163f4e11167382e7247",
+    "location": [
+      "60.472",
+      "8.4689"
+    ],
+    "country": "Norway",
+    "country_code": "NO",
+    "province": "",
+    "data": {
+      "confirmed": 108,
+      "deaths": 0,
+      "recovered": 0
+    }
+  },
+  {
+    "id": "0040842a32c1534c265b2ed5f4e97da5",
+    "location": [
+      "45.9432",
+      "24.9668"
+    ],
+    "country": "Romania",
+    "country_code": "RO",
+    "province": "",
+    "data": {
+      "confirmed": 9,
+      "deaths": 0,
+      "recovered": 1
+    }
+  },
+  {
+    "id": "56b2daabde9d151c5d2424902dd763fa",
+    "location": [
+      "56.2639",
+      "9.5018"
+    ],
+    "country": "Denmark",
+    "country_code": "DK",
+    "province": "",
+    "data": {
+      "confirmed": 23,
+      "deaths": 0,
+      "recovered": 1
+    }
+  },
+  {
+    "id": "75b6c325ca223a92f72d37785f094b8e",
+    "location": [
+      "58.5953",
+      "25.0136"
+    ],
+    "country": "Estonia",
+    "country_code": "EE",
+    "province": "",
+    "data": {
+      "confirmed": 10,
+      "deaths": 0,
+      "recovered": 0
+    }
+  },
+  {
+    "id": "b6f77c76772fc978af397c8584bf3766",
+    "location": [
+      "52.1326",
+      "5.2913"
+    ],
+    "country": "Netherlands",
+    "country_code": "NL",
+    "province": "",
+    "data": {
+      "confirmed": 128,
+      "deaths": 1,
+      "recovered": 0
+    }
+  },
+  {
+    "id": "f07f23b241e4f331b9e3cd74b1c5caf6",
+    "location": [
+      "43.9424",
+      "12.4578"
+    ],
+    "country": "San Marino",
+    "country_code": "SM",
+    "province": "",
+    "data": {
+      "confirmed": 21,
+      "deaths": 1,
+      "recovered": 0
+    }
+  },
+  {
+    "id": "b76db695466405b9518dfc0ca5013ad1",
+    "location": [
+      "53.7098",
+      "27.9534"
+    ],
+    "country": "Belarus",
+    "country_code": "BY",
+    "province": "",
+    "data": {
+      "confirmed": 6,
+      "deaths": 0,
+      "recovered": 0
+    }
+  },
+  {
+    "id": "e00fd5dbdd5201a87725d1ef554b66fb",
+    "location": [
+      "45.5017",
+      "-73.5673"
+    ],
+    "country": "Canada",
+    "country_code": "CA",
+    "province": " Montreal, QC",
+    "data": {
+      "confirmed": 2,
+      "deaths": 0,
+      "recovered": 0
+    }
+  },
+  {
+    "id": "0e94c4d875322d90664c141ce411bead",
+    "location": [
+      "64.9631",
+      "-19.0208"
+    ],
+    "country": "Iceland",
+    "country_code": "IS",
+    "province": "",
+    "data": {
+      "confirmed": 43,
+      "deaths": 0,
+      "recovered": 0
+    }
+  },
+  {
+    "id": "02344a9b8049d0db080f05bf5560326b",
+    "location": [
+      "55.1694",
+      "23.8813"
+    ],
+    "country": "Lithuania",
+    "country_code": "LT",
+    "province": "",
+    "data": {
+      "confirmed": 1,
+      "deaths": 0,
+      "recovered": 0
+    }
+  },
+  {
+    "id": "3eb78f353fa039b22ec276fc59d1d551",
+    "location": [
+      "23.6345",
+      "-102.5528"
+    ],
+    "country": "Mexico",
+    "country_code": "MX",
+    "province": "",
+    "data": {
+      "confirmed": 6,
+      "deaths": 0,
+      "recovered": 1
+    }
+  },
+  {
+    "id": "e9cc8ab30fa9c2e45a463b6ca7b7d87c",
+    "location": [
+      "-40.9006",
+      "174.886"
+    ],
+    "country": "New Zealand",
+    "country_code": "NZ",
+    "province": "",
+    "data": {
+      "confirmed": 4,
+      "deaths": 0,
+      "recovered": 0
+    }
+  },
+  {
+    "id": "9df24874e713bdbf9c0589bc805c9b40",
+    "location": [
+      "9.082",
+      "8.6753"
+    ],
+    "country": "Nigeria",
+    "country_code": "NG",
+    "province": "",
+    "data": {
+      "confirmed": 1,
+      "deaths": 0,
+      "recovered": 0
+    }
+  },
+  {
+    "id": "75d89f0c525353fca2bf35dcfbff621f",
+    "location": [
+      "-31.9505",
+      "115.8605"
+    ],
+    "country": "Australia",
+    "country_code": "AU",
+    "province": "Western Australia",
+    "data": {
+      "confirmed": 3,
+      "deaths": 1,
+      "recovered": 0
+    }
+  },
+  {
+    "id": "4085875647e5123f3c8cb010e67a9486",
+    "location": [
+      "53.1424",
+      "-7.6921"
+    ],
+    "country": "Ireland",
+    "country_code": "IE",
+    "province": "",
+    "data": {
+      "confirmed": 18,
+      "deaths": 0,
+      "recovered": 0
+    }
+  },
+  {
+    "id": "236cb46feb7441dec5a5301d20feb64d",
+    "location": [
+      "49.8153",
+      "6.1296"
+    ],
+    "country": "Luxembourg",
+    "country_code": "LU",
+    "province": "",
+    "data": {
+      "confirmed": 2,
+      "deaths": 0,
+      "recovered": 0
+    }
+  },
+  {
+    "id": "d0e049cd45348bf034dcfd188ecf5120",
+    "location": [
+      "43.7333",
+      "7.4167"
+    ],
+    "country": "Monaco",
+    "country_code": "MC",
+    "province": "",
+    "data": {
+      "confirmed": 1,
+      "deaths": 0,
+      "recovered": 0
+    }
+  },
+  {
+    "id": "b510cff972c34d2616809097c4cd1755",
+    "location": [
+      "25.3548",
+      "51.1839"
+    ],
+    "country": "Qatar",
+    "country_code": "QA",
+    "province": "",
+    "data": {
+      "confirmed": 8,
+      "deaths": 0,
+      "recovered": 0
+    }
+  },
+  {
+    "id": "638ba336e08d25a4546e4b872504a873",
+    "location": [
+      "48.033",
+      "-121.8339"
+    ],
+    "country": "US",
+    "country_code": "US",
+    "province": "Snohomish County, WA",
+    "data": {
+      "confirmed": 19,
+      "deaths": 1,
+      "recovered": 0
+    }
+  },
+  {
+    "id": "6d4d45bcb147f889985152b839b41e31",
+    "location": [
+      "-1.8312",
+      "-78.1834"
+    ],
+    "country": "Ecuador",
+    "country_code": "EC",
+    "province": "",
+    "data": {
+      "confirmed": 13,
+      "deaths": 0,
+      "recovered": 0
+    }
+  },
+  {
+    "id": "20d6d59beec80c6901fa581dc2abf8d3",
+    "location": [
+      "40.1431",
+      "47.5769"
+    ],
+    "country": "Azerbaijan",
+    "country_code": "AZ",
+    "province": "",
+    "data": {
+      "confirmed": 6,
+      "deaths": 0,
+      "recovered": 0
+    }
+  },
+  {
+    "id": "f15b312366398c038d1236746a2550b0",
+    "location": [
+      "49.8175",
+      "15.473"
+    ],
+    "country": "Czech Republic",
+    "country_code": "CZ",
+    "province": "",
+    "data": {
+      "confirmed": 18,
+      "deaths": 0,
+      "recovered": 0
+    }
+  },
+  {
+    "id": "8d33cca0f3bc9726cf976f0a73d2ece9",
+    "location": [
+      "40.0691",
+      "45.0382"
+    ],
+    "country": "Armenia",
+    "country_code": "AM",
+    "province": "",
+    "data": {
+      "confirmed": 1,
+      "deaths": 0,
+      "recovered": 0
+    }
+  },
+  {
+    "id": "b59aef80dfa9abb477f6511213f13362",
+    "location": [
+      "18.7357",
+      "-70.1627"
+    ],
+    "country": "Dominican Republic",
+    "country_code": "DO",
+    "province": "",
+    "data": {
+      "confirmed": 2,
+      "deaths": 0,
+      "recovered": 0
+    }
+  },
+  {
+    "id": "2a24e5294ce891ec0755a14fee91453f",
+    "location": [
+      "41.824",
+      "-71.4128"
+    ],
+    "country": "US",
+    "country_code": "US",
+    "province": "Providence, RI",
+    "data": {
+      "confirmed": 2,
+      "deaths": 0,
+      "recovered": 0
+    }
+  },
+  {
+    "id": "79a49e9b37b632d34884bb9ffe145800",
+    "location": [
+      "-0.7893",
+      "113.9213"
+    ],
+    "country": "Indonesia",
+    "country_code": "ID",
+    "province": "",
+    "data": {
+      "confirmed": 4,
+      "deaths": 0,
+      "recovered": 0
+    }
+  },
+  {
+    "id": "e4b41faa1c4d222b8581237e1a17dfc4",
+    "location": [
+      "39.3999",
+      "-8.2245"
+    ],
+    "country": "Portugal",
+    "country_code": "PT",
+    "province": "",
+    "data": {
+      "confirmed": 13,
+      "deaths": 0,
+      "recovered": 0
+    }
+  },
+  {
+    "id": "a2e6497d49783bb8d2f156872aefc02c",
+    "location": [
+      "42.5063",
+      "1.5218"
+    ],
+    "country": "Andorra",
+    "country_code": "AD",
+    "province": "",
+    "data": {
+      "confirmed": 1,
+      "deaths": 0,
+      "recovered": 0
+    }
+  },
+  {
+    "id": "f5c6ee86d51b5545b1cad0345115197e",
+    "location": [
+      "-41.4545",
+      "145.9707"
+    ],
+    "country": "Australia",
+    "country_code": "AU",
+    "province": "Tasmania",
+    "data": {
+      "confirmed": 1,
+      "deaths": 0,
+      "recovered": 0
+    }
+  },
+  {
+    "id": "435b64ca9ae667d6006a21f24a28a318",
+    "location": [
+      "56.8796",
+      "24.6032"
+    ],
+    "country": "Latvia",
+    "country_code": "LV",
+    "province": "",
+    "data": {
+      "confirmed": 1,
+      "deaths": 0,
+      "recovered": 0
+    }
+  },
+  {
+    "id": "f5eaf811d6f3b79815dd7e5a6cf5673c",
+    "location": [
+      "31.7917",
+      "-7.0926"
+    ],
+    "country": "Morocco",
+    "country_code": "MA",
+    "province": "",
+    "data": {
+      "confirmed": 2,
+      "deaths": 0,
+      "recovered": 0
+    }
+  },
+  {
+    "id": "367fd7893701bc5ffce2f80f6f4e2609",
+    "location": [
+      "24",
+      "45"
+    ],
+    "country": "Saudi Arabia",
+    "country_code": "SA",
+    "province": "",
+    "data": {
+      "confirmed": 5,
+      "deaths": 0,
+      "recovered": 0
+    }
+  },
+  {
+    "id": "7a2e8f7138298a0ed3fba4c3531c5417",
+    "location": [
+      "14.4974",
+      "-14.4524"
+    ],
+    "country": "Senegal",
+    "country_code": "SN",
+    "province": "",
+    "data": {
+      "confirmed": 4,
+      "deaths": 0,
+      "recovered": 0
+    }
+  },
+  {
+    "id": "1ab857b9cf36adeb2bafcb65f22d333b",
+    "location": [
+      "43.9088",
+      "-71.826"
+    ],
+    "country": "US",
+    "country_code": "US",
+    "province": "Grafton County, NH",
+    "data": {
+      "confirmed": 2,
+      "deaths": 0,
+      "recovered": 0
+    }
+  },
+  {
+    "id": "8b3f088c4ba9b18c5389daade2475c4c",
+    "location": [
+      "27.9904",
+      "-82.3018"
+    ],
+    "country": "US",
+    "country_code": "US",
+    "province": "Hillsborough, FL",
+    "data": {
+      "confirmed": 2,
+      "deaths": 0,
+      "recovered": 0
+    }
+  },
+  {
+    "id": "044bdc95328c41e686cfba3816e9396d",
+    "location": [
+      "39.0916",
+      "-120.8039"
+    ],
+    "country": "US",
+    "country_code": "US",
+    "province": "Placer County, CA",
+    "data": {
+      "confirmed": 5,
+      "deaths": 1,
+      "recovered": 0
+    }
+  },
+  {
+    "id": "c7e4ce1d77c1bc94dce6da4a8031a982",
+    "location": [
+      "37.563",
+      "-122.3255"
+    ],
+    "country": "US",
+    "country_code": "US",
+    "province": "San Mateo, CA",
+    "data": {
+      "confirmed": 2,
+      "deaths": 0,
+      "recovered": 0
+    }
+  },
+  {
+    "id": "d7d81e8fd431f3caa6603291ed5430f8",
+    "location": [
+      "27.3364",
+      "-82.5307"
+    ],
+    "country": "US",
+    "country_code": "US",
+    "province": "Sarasota, FL",
+    "data": {
+      "confirmed": 1,
+      "deaths": 0,
+      "recovered": 0
+    }
+  },
+  {
+    "id": "68c76bb7e9af7f2010466aec844ec185",
+    "location": [
+      "38.578",
+      "-122.9888"
+    ],
+    "country": "US",
+    "country_code": "US",
+    "province": "Sonoma County, CA",
+    "data": {
+      "confirmed": 1,
+      "deaths": 0,
+      "recovered": 0
+    }
+  },
+  {
+    "id": "fb203154cc30364c84e8fcfd432c23b7",
+    "location": [
+      "45.775",
+      "-118.7606"
+    ],
+    "country": "US",
+    "country_code": "US",
+    "province": "Umatilla, OR",
+    "data": {
+      "confirmed": 1,
+      "deaths": 0,
+      "recovered": 0
+    }
+  },
+  {
+    "id": "da6b3deb6de6a2d4cd4acef4c5976f80",
+    "location": [
+      "33.8034",
+      "-84.3963"
+    ],
+    "country": "US",
+    "country_code": "US",
+    "province": "Fulton County, GA",
+    "data": {
+      "confirmed": 2,
+      "deaths": 0,
+      "recovered": 0
+    }
+  },
+  {
+    "id": "f92efc0ea5e915037847f98c69923322",
+    "location": [
+      "45.547",
+      "-123.1386"
+    ],
+    "country": "US",
+    "country_code": "US",
+    "province": "Washington County, OR",
+    "data": {
+      "confirmed": 2,
+      "deaths": 0,
+      "recovered": 0
+    }
+  },
+  {
+    "id": "b16204203f31851a6d6ad95b72ada253",
+    "location": [
+      "-38.4161",
+      "-63.6167"
+    ],
+    "country": "Argentina",
+    "country_code": "AR",
+    "province": "",
+    "data": {
+      "confirmed": 2,
+      "deaths": 0,
+      "recovered": 0
+    }
+  },
+  {
+    "id": "6594c30f7321e1e989058ecbbc8059dd",
+    "location": [
+      "-35.6751",
+      "-71.543"
+    ],
+    "country": "Chile",
+    "country_code": "CL",
+    "province": "",
+    "data": {
+      "confirmed": 4,
+      "deaths": 0,
+      "recovered": 0
+    }
+  },
+  {
+    "id": "a19da7844c03cd022fe5f5a80ba3bf75",
+    "location": [
+      "31.24",
+      "36.51"
+    ],
+    "country": "Jordan",
+    "country_code": "JO",
+    "province": "",
+    "data": {
+      "confirmed": 1,
+      "deaths": 0,
+      "recovered": 0
+    }
+  },
+  {
+    "id": "9cac492b6d8e354bf0120013d651e0c7",
+    "location": [
+      "42.1767",
+      "-71.1449"
+    ],
+    "country": "US",
+    "country_code": "US",
+    "province": " Norfolk County, MA",
+    "data": {
+      "confirmed": 2,
+      "deaths": 0,
+      "recovered": 0
+    }
+  },
+  {
+    "id": "8e267646385c8f0c6b5356c6228bcc58",
+    "location": [
+      "37.8715",
+      "-122.273"
+    ],
+    "country": "US",
+    "country_code": "US",
+    "province": "Berkeley, CA",
+    "data": {
+      "confirmed": 1,
+      "deaths": 0,
+      "recovered": 0
+    }
+  },
+  {
+    "id": "1fee3555f519a5f32874b3b56dd0e1fa",
+    "location": [
+      "33.2918",
+      "-112.4291"
+    ],
+    "country": "US",
+    "country_code": "US",
+    "province": "Maricopa County, AZ",
+    "data": {
+      "confirmed": 2,
+      "deaths": 0,
+      "recovered": 0
+    }
+  },
+  {
+    "id": "c126470516aecb7e8ef88b366c19915e",
+    "location": [
+      "35.8032",
+      "-78.5661"
+    ],
+    "country": "US",
+    "country_code": "US",
+    "province": "Wake County, NC",
+    "data": {
+      "confirmed": 1,
+      "deaths": 0,
+      "recovered": 0
+    }
+  },
+  {
+    "id": "2236a6d78feec4ed6a074cda5ed6a248",
+    "location": [
+      "41.122",
+      "-73.7949"
+    ],
+    "country": "US",
+    "country_code": "US",
+    "province": "Westchester County, NY",
+    "data": {
+      "confirmed": 19,
+      "deaths": 0,
+      "recovered": 0
+    }
+  },
+  {
+    "id": "5791884be87df614ff7703c9dff606d1",
+    "location": [
+      "48.3794",
+      "31.1656"
+    ],
+    "country": "Ukraine",
+    "country_code": "UA",
+    "province": "",
+    "data": {
+      "confirmed": 1,
+      "deaths": 0,
+      "recovered": 0
+    }
+  },
+  {
+    "id": "895c1f9888d2afb1c1a54564727411d8",
+    "location": [
+      "17.9",
+      "-62.8333"
+    ],
+    "country": "Saint Barthelemy",
+    "country_code": "BL",
+    "province": "",
+    "data": {
+      "confirmed": 3,
+      "deaths": 0,
+      "recovered": 0
+    }
+  },
+  {
+    "id": "99ced478f3995b2238692f6b8baa6a95",
+    "location": [
+      "33.7879",
+      "-117.8531"
+    ],
+    "country": "US",
+    "country_code": "US",
+    "province": "Orange County, CA",
+    "data": {
+      "confirmed": 3,
+      "deaths": 0,
+      "recovered": 0
+    }
+  },
+  {
+    "id": "76b48d5705a5efc93518e4cf84f076a7",
+    "location": [
+      "47.1625",
+      "19.5033"
+    ],
+    "country": "Hungary",
+    "country_code": "HU",
+    "province": "",
+    "data": {
+      "confirmed": 2,
+      "deaths": 0,
+      "recovered": 0
+    }
+  },
+  {
+    "id": "d959ebe4193e54e7ac76b3f704bea35e",
+    "location": [
+      "-12.4634",
+      "130.8456"
+    ],
+    "country": "Australia",
+    "country_code": "AU",
+    "province": "Northern Territory",
+    "data": {
+      "confirmed": 0,
+      "deaths": 0,
+      "recovered": 0
+    }
+  },
+  {
+    "id": "25b93eb501e6771bd4b3d8e58e4cbf94",
+    "location": [
+      "61.8926",
+      "-6.9118"
+    ],
+    "country": "Faroe Islands",
+    "country_code": "FO",
+    "province": "",
+    "data": {
+      "confirmed": 1,
+      "deaths": 0,
+      "recovered": 0
+    }
+  },
+  {
+    "id": "a2b97d1f5e24bebdddb69f0207279fdc",
+    "location": [
+      "36.1408",
+      "-5.3536"
+    ],
+    "country": "Gibraltar",
+    "country_code": "GI",
+    "province": "",
+    "data": {
+      "confirmed": 1,
+      "deaths": 0,
+      "recovered": 0
+    }
+  },
+  {
+    "id": "e222d96500b19fa16ad69927c13d0ed7",
+    "location": [
+      "47.14",
+      "9.55"
+    ],
+    "country": "Liechtenstein",
+    "country_code": "LI",
+    "province": "",
+    "data": {
+      "confirmed": 1,
+      "deaths": 0,
+      "recovered": 0
+    }
+  },
+  {
+    "id": "650c16ec4da34583d8fd5e9f3a4aa988",
+    "location": [
+      "51.9194",
+      "19.1451"
+    ],
+    "country": "Poland",
+    "country_code": "PL",
+    "province": "",
+    "data": {
+      "confirmed": 5,
+      "deaths": 0,
+      "recovered": 0
+    }
+  },
+  {
+    "id": "f88eea6d3b10e6934b289ada982fb0ae",
+    "location": [
+      "34",
+      "9"
+    ],
+    "country": "Tunisia",
+    "country_code": "TN",
+    "province": "",
+    "data": {
+      "confirmed": 1,
+      "deaths": 0,
+      "recovered": 0
+    }
+  },
+  {
+    "id": "a2b1cbcba9b34c6a9e5bb5c29bb0b946",
+    "location": [
+      "37.8534",
+      "-121.9018"
+    ],
+    "country": "US",
+    "country_code": "US",
+    "province": "Contra Costa County, CA",
+    "data": {
+      "confirmed": 3,
+      "deaths": 0,
+      "recovered": 0
+    }
+  },
+  {
+    "id": "aa31c62d26dbacf737d2e1022012d207",
+    "location": [
+      "31.9522",
+      "35.2332"
+    ],
+    "country": "Palestine",
+    "country_code": "PS",
+    "province": "",
+    "data": {
+      "confirmed": 16,
+      "deaths": 0,
+      "recovered": 0
+    }
+  },
+  {
+    "id": "57c0fbaa1e1215a633bfb7ab7d75414f",
+    "location": [
+      "43.9159",
+      "17.6791"
+    ],
+    "country": "Bosnia and Herzegovina",
+    "country_code": "BA",
+    "province": "",
+    "data": {
+      "confirmed": 2,
+      "deaths": 0,
+      "recovered": 0
+    }
+  },
+  {
+    "id": "43a130e4e9e8fb6efbe4c21298f26482",
+    "location": [
+      "46.1512",
+      "14.9955"
+    ],
+    "country": "Slovenia",
+    "country_code": "SI",
+    "province": "",
+    "data": {
+      "confirmed": 7,
+      "deaths": 0,
+      "recovered": 0
+    }
+  },
+  {
+    "id": "7c1077dfb45c8b836676a6f2bcbad244",
+    "location": [
+      "40.9263",
+      "-74.077"
+    ],
+    "country": "US",
+    "country_code": "US",
+    "province": "Bergen County, NJ",
+    "data": {
+      "confirmed": 2,
+      "deaths": 0,
+      "recovered": 0
+    }
+  },
+  {
+    "id": "ca84847e91f7437ebc198e805df9924a",
+    "location": [
+      "29.7752",
+      "-95.3103"
+    ],
+    "country": "US",
+    "country_code": "US",
+    "province": "Harris County, TX",
+    "data": {
+      "confirmed": 3,
+      "deaths": 0,
+      "recovered": 0
+    }
+  },
+  {
+    "id": "7c69ef957cc466d77443d11419a41bc1",
+    "location": [
+      "37.7749",
+      "-122.4194"
+    ],
+    "country": "US",
+    "country_code": "US",
+    "province": "San Francisco County, CA",
+    "data": {
+      "confirmed": 2,
+      "deaths": 0,
+      "recovered": 0
+    }
+  },
+  {
+    "id": "5c103a94ea46f824169b9303b1fb482b",
+    "location": [
+      "-30.5595",
+      "22.9375"
+    ],
+    "country": "South Africa",
+    "country_code": "ZA",
+    "province": "",
+    "data": {
+      "confirmed": 1,
+      "deaths": 0,
+      "recovered": 0
+    }
+  },
+  {
+    "id": "01e24983172d9486942b34095ec16e87",
+    "location": [
+      "36.0796",
+      "-115.094"
+    ],
+    "country": "US",
+    "country_code": "US",
+    "province": "Clark County, NV",
+    "data": {
+      "confirmed": 1,
+      "deaths": 0,
+      "recovered": 0
+    }
+  },
+  {
+    "id": "de5064895dff89c872c47d469e3bb17c",
+    "location": [
+      "29.5693",
+      "-95.8143"
+    ],
+    "country": "US",
+    "country_code": "US",
+    "province": "Fort Bend County, TX",
+    "data": {
+      "confirmed": 1,
+      "deaths": 0,
+      "recovered": 0
+    }
+  },
+  {
+    "id": "a552ade78e04ff8a8bd66d423979e85a",
+    "location": [
+      "47.1981",
+      "-119.3732"
+    ],
+    "country": "US",
+    "country_code": "US",
+    "province": "Grant County, WA",
+    "data": {
+      "confirmed": 1,
+      "deaths": 0,
+      "recovered": 0
+    }
+  },
+  {
+    "id": "2a52836c4d8afc1e396b8e3474efcf68",
+    "location": [
+      "30.769",
+      "-86.9824"
+    ],
+    "country": "US",
+    "country_code": "US",
+    "province": "Santa Rosa County, FL",
+    "data": {
+      "confirmed": 1,
+      "deaths": 0,
+      "recovered": 0
+    }
+  },
+  {
+    "id": "99f90caad83d6cb047a145f2208ccd59",
+    "location": [
+      "35.9179",
+      "-86.8622"
+    ],
+    "country": "US",
+    "country_code": "US",
+    "province": "Williamson County, TN",
+    "data": {
+      "confirmed": 1,
+      "deaths": 0,
+      "recovered": 0
+    }
+  },
+  {
+    "id": "34a775427d10edaa432e2113a3556c8f",
+    "location": [
+      "40.7128",
+      "-74.006"
+    ],
+    "country": "US",
+    "country_code": "US",
+    "province": "New York County, NY",
+    "data": {
+      "confirmed": 16,
+      "deaths": 0,
+      "recovered": 0
+    }
+  },
+  {
+    "id": "ef52614c348761a7615638d0319b9292",
+    "location": [
+      "47.7511",
+      "-120.7401"
+    ],
+    "country": "US",
+    "country_code": "US",
+    "province": "Unassigned Location, WA",
+    "data": {
+      "confirmed": 5,
+      "deaths": 0,
+      "recovered": 0
+    }
+  },
+  {
+    "id": "5df6c80551808ee986cafa459b851132",
+    "location": [
+      "39.1547",
+      "-77.2405"
+    ],
+    "country": "US",
+    "country_code": "US",
+    "province": "Montgomery County, MD",
+    "data": {
+      "confirmed": 3,
+      "deaths": 0,
+      "recovered": 0
+    }
+  },
+  {
+    "id": "ca8278a5cffa28c6c5ce8ea5c7f96391",
+    "location": [
+      "42.3601",
+      "-71.0589"
+    ],
+    "country": "US",
+    "country_code": "US",
+    "province": "Suffolk County, MA",
+    "data": {
+      "confirmed": 3,
+      "deaths": 0,
+      "recovered": 1
+    }
+  },
+  {
+    "id": "5b7acf16517c45ff6044b67dd3649333",
+    "location": [
+      "39.7392",
+      "-104.9903"
+    ],
+    "country": "US",
+    "country_code": "US",
+    "province": "Denver County, CO",
+    "data": {
+      "confirmed": 2,
+      "deaths": 0,
+      "recovered": 0
+    }
+  },
+  {
+    "id": "1e406006fad1c3aa53867d92b05dd14d",
+    "location": [
+      "39.5912",
+      "-106.064"
+    ],
+    "country": "US",
+    "country_code": "US",
+    "province": "Summit County, CO",
+    "data": {
+      "confirmed": 2,
+      "deaths": 0,
+      "recovered": 0
+    }
+  },
+  {
+    "id": "281875eaae2c713a3d069c9f9d6c6543",
+    "location": [
+      "27.5142",
+      "90.4336"
+    ],
+    "country": "Bhutan",
+    "country_code": "BT",
+    "province": "",
+    "data": {
+      "confirmed": 1,
+      "deaths": 0,
+      "recovered": 0
+    }
+  },
+  {
+    "id": "b4acb07725f7e736ca5d6155cce9f1b4",
+    "location": [
+      "3.848",
+      "11.5021"
+    ],
+    "country": "Cameroon",
+    "country_code": "CM",
+    "province": "",
+    "data": {
+      "confirmed": 1,
+      "deaths": 0,
+      "recovered": 0
+    }
+  },
+  {
+    "id": "60aa0460d9d3139d28f61ac6abedcbba",
+    "location": [
+      "51.0447",
+      "-114.0719"
+    ],
+    "country": "Canada",
+    "country_code": "CA",
+    "province": "Calgary, Alberta",
+    "data": {
+      "confirmed": 1,
+      "deaths": 0,
+      "recovered": 0
+    }
+  },
+  {
+    "id": "666f66b308bf0d184b90b9d3c4f16ac3",
+    "location": [
+      "4.5709",
+      "-74.2973"
+    ],
+    "country": "Colombia",
+    "country_code": "CO",
+    "province": "",
+    "data": {
+      "confirmed": 1,
+      "deaths": 0,
+      "recovered": 0
+    }
+  },
+  {
+    "id": "94932bd940df7319f4e98ab3064c098b",
+    "location": [
+      "9.7489",
+      "-83.7534"
+    ],
+    "country": "Costa Rica",
+    "country_code": "CR",
+    "province": "",
+    "data": {
+      "confirmed": 1,
+      "deaths": 0,
+      "recovered": 0
+    }
+  },
+  {
+    "id": "857952692a1a987768ca9dba0e36bb36",
+    "location": [
+      "-9.19",
+      "-75.0152"
+    ],
+    "country": "Peru",
+    "country_code": "PE",
+    "province": "",
+    "data": {
+      "confirmed": 1,
+      "deaths": 0,
+      "recovered": 0
+    }
+  },
+  {
+    "id": "e8e926ffaef8e9b62164c0dd322516a8",
+    "location": [
+      "44.0165",
+      "21.0059"
+    ],
+    "country": "Serbia",
+    "country_code": "RS",
+    "province": "",
+    "data": {
+      "confirmed": 1,
+      "deaths": 0,
+      "recovered": 0
+    }
+  },
+  {
+    "id": "4d1042c7d8be30e7964bd832683f612f",
+    "location": [
+      "48.669",
+      "19.699"
+    ],
+    "country": "Slovakia",
+    "country_code": "SK",
+    "province": "",
+    "data": {
+      "confirmed": 1,
+      "deaths": 0,
+      "recovered": 0
+    }
+  },
+  {
+    "id": "66c9fc8a3ad2b1ef86cd230e9a0b4351",
+    "location": [
+      "8.6195",
+      "0.8248"
+    ],
+    "country": "Togo",
+    "country_code": "TG",
+    "province": "",
+    "data": {
+      "confirmed": 1,
+      "deaths": 0,
+      "recovered": 0
+    }
+  },
+  {
+    "id": "fd940b01f4f27904e612c9262d753ac4",
+    "location": [
+      "35.7211",
+      "-79.1781"
+    ],
+    "country": "US",
+    "country_code": "US",
+    "province": "Chatham County, NC",
+    "data": {
+      "confirmed": 1,
+      "deaths": 0,
+      "recovered": 0
+    }
+  },
+  {
+    "id": "1dcb0022ac501c84f709a270940ee395",
+    "location": [
+      "39.9078",
+      "-75.3879"
+    ],
+    "country": "US",
+    "country_code": "US",
+    "province": "Delaware County, PA",
+    "data": {
+      "confirmed": 1,
+      "deaths": 0,
+      "recovered": 0
+    }
+  },
+  {
+    "id": "8375b87c9dc9b2ecae760b9b69926d84",
+    "location": [
+      "41.3148",
+      "-96.1951"
+    ],
+    "country": "US",
+    "country_code": "US",
+    "province": "Douglas County, NE",
+    "data": {
+      "confirmed": 1,
+      "deaths": 0,
+      "recovered": 0
+    }
+  },
+  {
+    "id": "2cb92c64229e5be28de98c51c7dfa1ab",
+    "location": [
+      "38.0606",
+      "-84.4803"
+    ],
+    "country": "US",
+    "country_code": "US",
+    "province": "Fayette County, KY",
+    "data": {
+      "confirmed": 1,
+      "deaths": 0,
+      "recovered": 0
+    }
+  },
+  {
+    "id": "c0b30f2deabb3f4ba3b2ea719853ac7d",
+    "location": [
+      "34.2829",
+      "-85.2308"
+    ],
+    "country": "US",
+    "country_code": "US",
+    "province": "Floyd County, GA",
+    "data": {
+      "confirmed": 1,
+      "deaths": 0,
+      "recovered": 0
+    }
+  },
+  {
+    "id": "1b6521454d1f14a3bd28d350f525510e",
+    "location": [
+      "39.8362",
+      "-86.1752"
+    ],
+    "country": "US",
+    "country_code": "US",
+    "province": "Marion County, IN",
+    "data": {
+      "confirmed": 1,
+      "deaths": 0,
+      "recovered": 0
+    }
+  },
+  {
+    "id": "78f1915d2f085e47f51c51c0b1918cf2",
+    "location": [
+      "42.4672",
+      "-71.2874"
+    ],
+    "country": "US",
+    "country_code": "US",
+    "province": "Middlesex County, MA",
+    "data": {
+      "confirmed": 1,
+      "deaths": 0,
+      "recovered": 0
+    }
+  },
+  {
+    "id": "6514dbdde609e87070774f8971b5b37c",
+    "location": [
+      "40.6546",
+      "-73.5594"
+    ],
+    "country": "US",
+    "country_code": "US",
+    "province": "Nassau County, NY",
+    "data": {
+      "confirmed": 1,
+      "deaths": 0,
+      "recovered": 0
+    }
+  },
+  {
+    "id": "c5534b29953eeb16b268bc01f0dd16a3",
+    "location": [
+      "42.1615",
+      "-70.7928"
+    ],
+    "country": "US",
+    "country_code": "US",
+    "province": "Norwell County, MA",
+    "data": {
+      "confirmed": 1,
+      "deaths": 0,
+      "recovered": 0
+    }
+  },
+  {
+    "id": "b038f6fa64c2310688f8ced3c12cd8c3",
+    "location": [
+      "44.9964",
+      "-93.0616"
+    ],
+    "country": "US",
+    "country_code": "US",
+    "province": "Ramsey County, MN",
+    "data": {
+      "confirmed": 1,
+      "deaths": 0,
+      "recovered": 0
+    }
+  },
+  {
+    "id": "567178b010c5001ac62ea80db6b10abc",
+    "location": [
+      "40.5608",
+      "-119.6035"
+    ],
+    "country": "US",
+    "country_code": "US",
+    "province": "Washoe County, NV",
+    "data": {
+      "confirmed": 1,
+      "deaths": 0,
+      "recovered": 0
+    }
+  },
+  {
+    "id": "d573ec58be5262bc2dc00ebac6c4c845",
+    "location": [
+      "41.6739",
+      "-75.2479"
+    ],
+    "country": "US",
+    "country_code": "US",
+    "province": "Wayne County, PA",
+    "data": {
+      "confirmed": 1,
+      "deaths": 0,
+      "recovered": 0
+    }
+  },
+  {
+    "id": "5e110d580b2a7e96a266ced5247dc367",
+    "location": [
+      "38.7646",
+      "-121.9018"
+    ],
+    "country": "US",
+    "country_code": "US",
+    "province": "Yolo County, CA",
+    "data": {
+      "confirmed": 1,
+      "deaths": 0,
+      "recovered": 0
+    }
+  },
+  {
+    "id": "5eebfb0cba1f8bfe4be7138e6cebff3a",
+    "location": [
+      "41.9029",
+      "12.4534"
+    ],
+    "country": "Vatican City",
+    "country_code": "VA",
+    "province": "",
+    "data": {
+      "confirmed": 1,
+      "deaths": 0,
+      "recovered": 0
+    }
+  }
+]

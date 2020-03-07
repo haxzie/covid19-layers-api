@@ -1,0 +1,17 @@
+[
+  {
+    "id": "confirmed",
+    "name": "confirmed",
+    "value": 101800
+  },
+  {
+    "id": "deaths",
+    "name": "deaths",
+    "value": 3460
+  },
+  {
+    "id": "recovered",
+    "name": "recovered",
+    "value": 55866
+  }
+]

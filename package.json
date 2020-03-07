@@ -1,0 +1,22 @@
+{
+  "name": "covid-api",
+  "version": "1.0.0",
+  "description": "",
+  "author": "haxzie <musthu.gm@gmail.com>",
+  "keywords": [],
+  "license": "ISC",
+  "main": "index.js",
+  "scripts": {
+    "start": "./bin/app",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "dependencies": {
+    "axios": "^0.19.2",
+    "express": "^4.17.1",
+    "http-errors": "^1.7.3",
+    "ora": "^4.0.3",
+    "pino": "^5.17.0",
+    "pino-http": "^4.4.0",
+    "pino-pretty": "^3.6.1"
+  }
+}
