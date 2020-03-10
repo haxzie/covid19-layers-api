@@ -153,7 +153,7 @@
     "id": "e014bf30bb7405f0bd5d08b9a22b2b4b",
     "location": [
       "127.7615",
-      "47.862"
+      "47.861999999999995"
     ],
     "country": "Mainland China",
     "country_code": "CN",
@@ -167,8 +167,8 @@
   {
     "id": "4e694d2366cc81a3a53945358ca4f7e6",
     "location": [
-      "113.614",
-      "33.88202"
+      "113.61399999999999",
+      "33.882020000000004"
     ],
     "country": "Mainland China",
     "country_code": "CN",
@@ -348,7 +348,7 @@
     "id": "df01d91cc234cef8c29e0de7d698ccdf",
     "location": [
       "121.4491",
-      "31.202"
+      "31.201999999999998"
     ],
     "country": "Mainland China",
     "country_code": "CN",
@@ -437,7 +437,7 @@
   {
     "id": "a162aee93a984cc032be524b310856d8",
     "location": [
-      "101.487",
+      "101.48700000000001",
       "24.974"
     ],
     "country": "Mainland China",
@@ -467,8 +467,8 @@
   {
     "id": "8d28b79f9f192ce58b23bfd4f55499ca",
     "location": [
-      "101",
-      "15"
+      "101.0",
+      "15.0"
     ],
     "country": "Thailand",
     "country_code": "TH",
@@ -482,8 +482,8 @@
   {
     "id": "9e79cf8ffceff31ecbc57cbaed2c573f",
     "location": [
-      "138",
-      "36"
+      "138.0",
+      "36.0"
     ],
     "country": "Japan",
     "country_code": "JP",
@@ -497,8 +497,8 @@
   {
     "id": "04030d8c0cc6a5312aab0a96ddd582a1",
     "location": [
-      "128",
-      "36"
+      "128.0",
+      "36.0"
     ],
     "country": "South Korea",
     "country_code": "KR",
@@ -512,7 +512,7 @@
   {
     "id": "7e93c9207171a5aa7c867f745a661cea",
     "location": [
-      "121",
+      "121.0",
       "23.7"
     ],
     "country": "Taiwan",
@@ -602,8 +602,8 @@
   {
     "id": "0dfdad8bdc860da5c957638b3e416ad3",
     "location": [
-      "108",
-      "16"
+      "108.0",
+      "16.0"
     ],
     "country": "Vietnam",
     "country_code": "VN",
@@ -617,8 +617,8 @@
   {
     "id": "ff8a7360abcb7c7086b0491befe99827",
     "location": [
-      "2",
-      "47"
+      "2.0",
+      "47.0"
     ],
     "country": "France",
     "country_code": "FR",
@@ -767,8 +767,8 @@
   {
     "id": "8a6ceb8f3d9ec00205fb839656aa7c05",
     "location": [
-      "81",
-      "7"
+      "81.0",
+      "7.0"
     ],
     "country": "Sri Lanka",
     "country_code": "LK",
@@ -782,8 +782,8 @@
   {
     "id": "2a310fb8472b18f0bf73df1dbc95ff9e",
     "location": [
-      "9",
-      "51"
+      "9.0",
+      "51.0"
     ],
     "country": "Germany",
     "country_code": "DE",
@@ -797,8 +797,8 @@
   {
     "id": "e6166e937e865ff2cbe07ac245b8076a",
     "location": [
-      "26",
-      "64"
+      "26.0",
+      "64.0"
     ],
     "country": "Finland",
     "country_code": "FI",
@@ -812,8 +812,8 @@
   {
     "id": "536a49fbcd461fe6bf56e92a050cbaa0",
     "location": [
-      "54",
-      "24"
+      "54.0",
+      "24.0"
     ],
     "country": "United Arab Emirates",
     "country_code": "AE",
@@ -827,8 +827,8 @@
   {
     "id": "b0d85ec6638ded16a0a7d7fc46087a6d",
     "location": [
-      "122",
-      "13"
+      "122.0",
+      "13.0"
     ],
     "country": "Philippines",
     "country_code": "PH",
@@ -842,8 +842,8 @@
   {
     "id": "3bdf17b97f164a80db7d3dd307b19b61",
     "location": [
-      "78",
-      "21"
+      "78.0",
+      "21.0"
     ],
     "country": "India",
     "country_code": "IN",
@@ -872,8 +872,8 @@
   {
     "id": "79fe507bc8934e9ea8f18877cfde72e9",
     "location": [
-      "12",
-      "43"
+      "12.0",
+      "43.0"
     ],
     "country": "Italy",
     "country_code": "IT",
@@ -887,8 +887,8 @@
   {
     "id": "2c59a1e424f4753e14e632911faa614e",
     "location": [
-      "-3",
-      "55"
+      "-3.0",
+      "55.0"
     ],
     "country": "UK",
     "country_code": "GB",
@@ -902,8 +902,8 @@
   {
     "id": "4058fbcc46fe7e90ac9e099c47fc86ed",
     "location": [
-      "90",
-      "60"
+      "90.0",
+      "60.0"
     ],
     "country": "Russia",
     "country_code": "RU",
@@ -917,8 +917,8 @@
   {
     "id": "7f79ff90fdf2cc1c020804e905e07760",
     "location": [
-      "16",
-      "63"
+      "16.0",
+      "63.0"
     ],
     "country": "Sweden",
     "country_code": "SE",
@@ -932,8 +932,8 @@
   {
     "id": "269428fd931876b82e86f9108edd866f",
     "location": [
-      "-4",
-      "40"
+      "-4.0",
+      "40.0"
     ],
     "country": "Spain",
     "country_code": "ES",
@@ -977,7 +977,7 @@
   {
     "id": "21482ec51fe5c71e336bf43adb945a1d",
     "location": [
-      "4",
+      "4.0",
       "50.8333"
     ],
     "country": "Belgium",
@@ -1052,8 +1052,8 @@
   {
     "id": "e26839c04cda440b1e0107beb369cb42",
     "location": [
-      "30",
-      "26"
+      "30.0",
+      "26.0"
     ],
     "country": "Egypt",
     "country_code": "EG",
@@ -1067,8 +1067,8 @@
   {
     "id": "48a54ea36a0a4155d200e8b6277cd17d",
     "location": [
-      "53",
-      "32"
+      "53.0",
+      "32.0"
     ],
     "country": "Iran",
     "country_code": "IR",
@@ -1187,8 +1187,8 @@
   {
     "id": "c1b10162fd5d3c6ed1c939bc648bbcc1",
     "location": [
-      "44",
-      "33"
+      "44.0",
+      "33.0"
     ],
     "country": "Iraq",
     "country_code": "IQ",
@@ -1217,8 +1217,8 @@
   {
     "id": "b8928d00073c1e1c5ad66bdb6c16ad70",
     "location": [
-      "57",
-      "21"
+      "57.0",
+      "21.0"
     ],
     "country": "Oman",
     "country_code": "OM",
@@ -1232,8 +1232,8 @@
   {
     "id": "12196ed8f5eee3db8c0de48e576d4db1",
     "location": [
-      "65",
-      "33"
+      "65.0",
+      "33.0"
     ],
     "country": "Afghanistan",
     "country_code": "AF",
@@ -1337,8 +1337,8 @@
   {
     "id": "cbef58f1f552b536bcc89bd85c517120",
     "location": [
-      "35",
-      "31"
+      "35.0",
+      "31.0"
     ],
     "country": "Israel",
     "country_code": "IL",
@@ -1742,7 +1742,7 @@
   {
     "id": "f15b312366398c038d1236746a2550b0",
     "location": [
-      "15.473",
+      "15.472999999999999",
       "49.8175"
     ],
     "country": "Czech Republic",
@@ -1877,8 +1877,8 @@
   {
     "id": "367fd7893701bc5ffce2f80f6f4e2609",
     "location": [
-      "45",
-      "24"
+      "45.0",
+      "24.0"
     ],
     "country": "Saudi Arabia",
     "country_code": "SA",
@@ -1907,7 +1907,7 @@
   {
     "id": "1ab857b9cf36adeb2bafcb65f22d333b",
     "location": [
-      "-71.826",
+      "-71.82600000000001",
       "43.9088"
     ],
     "country": "US",
@@ -2282,8 +2282,8 @@
   {
     "id": "f88eea6d3b10e6934b289ada982fb0ae",
     "location": [
-      "9",
-      "34"
+      "9.0",
+      "34.0"
     ],
     "country": "Tunisia",
     "country_code": "TN",
@@ -2463,7 +2463,7 @@
     "id": "2a52836c4d8afc1e396b8e3474efcf68",
     "location": [
       "-86.9824",
-      "30.769"
+      "30.769000000000002"
     ],
     "country": "US",
     "country_code": "US",
@@ -2598,7 +2598,7 @@
     "id": "b4acb07725f7e736ca5d6155cce9f1b4",
     "location": [
       "11.5021",
-      "3.848"
+      "3.8480000000000003"
     ],
     "country": "Cameroon",
     "country_code": "CM",
@@ -3669,7 +3669,7 @@
     "country_code": "US",
     "province": "Polk County, GA",
     "data": {
-      "confirmed": 2,
+      "confirmed": 1,
       "deaths": 0,
       "recovered": 0
     }
@@ -3798,7 +3798,7 @@
     "id": "55b1885c4aad6468e23b265c0a2bd1c7",
     "location": [
       "-81.0755",
-      "29.028"
+      "29.028000000000002"
     ],
     "country": "US",
     "country_code": "US",
