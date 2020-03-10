@@ -2,16 +2,16 @@
   {
     "id": "confirmed",
     "name": "confirmed",
-    "value": 109835
+    "value": 113583
   },
   {
     "id": "deaths",
     "name": "deaths",
-    "value": 3803
+    "value": 3996
   },
   {
     "id": "recovered",
     "name": "recovered",
-    "value": 60695
+    "value": 62512
   }
 ]
