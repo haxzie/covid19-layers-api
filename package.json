@@ -18,5 +18,8 @@
     "pino": "^5.17.0",
     "pino-http": "^4.4.0",
     "pino-pretty": "^3.6.1"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.2"
   }
 }
