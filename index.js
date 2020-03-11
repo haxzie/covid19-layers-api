@@ -1,10 +1,11 @@
 'use strict'
+require('dotenv').config();
 const express = require('express')
 const httpErrors = require('http-errors')
-const pino = require('pino')
-const pinoHttp = require('pino-http')
-const apiRouter = require('./routes/api');
+const morgan = require('morgan');
 const generateLayerData = require('./lib/generateLayerData');
+const connectDatabase = require('./db');
+const db = connectDatabase();
 
 module.exports = function main (options, cb) {
   // Set default options
@@ -13,8 +14,6 @@ module.exports = function main (options, cb) {
     // Default options
   }, options)
 
-  const logger = pino()
-
   // Server state
   let server
   let serverStarted = false
@@ -22,9 +21,7 @@ module.exports = function main (options, cb) {
 
   // Setup error handling
   function unhandledError (err) {
-    // Log the errors
-    logger.error(err)
-
+    console.log(err)
     // Only clean up once
     if (serverClosing) {
       return
@@ -42,13 +39,13 @@ module.exports = function main (options, cb) {
   process.on('unhandledRejection', unhandledError)
 
   // Create the express app
-  const app = express()
-
-
+  const app = express();
+  
+  
   // Common middleware
   // app.use(/* ... */)
-  app.use(pinoHttp({ logger }))
-  app.use(apiRouter);
+  app.use(morgan('combined'));
+
       
   // Register routes
   // @NOTE: require here because this ensures that even syntax errors
@@ -63,9 +60,6 @@ module.exports = function main (options, cb) {
     next(httpErrors(404, `Route not found: ${req.url}`))
   })
   app.use(function fiveHundredHandler (err, req, res, next) {
-    if (err.status >= 500) {
-      logger.error(err)
-    }
     res.status(err.status || 500).json({
       messages: [{
         code: err.code || 'InternalServerError',
@@ -87,8 +81,8 @@ module.exports = function main (options, cb) {
 
     serverStarted = true
     const addr = server.address()
-    logger.info(`Started at ${opts.host || addr.host || 'localhost'}:${addr.port}`)
-    await generateLayerData();
+    console.info(`Started at ${opts.host || addr.host || 'localhost'}:${addr.port}`)
+    // await generateLayerData();
     ready(err, app, server)
   })
 }

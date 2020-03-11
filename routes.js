@@ -1,9 +1,12 @@
 'use strict'
-const simple = require('./handlers/simple')
-const configured = require('./handlers/configured')
+const apiRouter = require('./routes/api.route');
+const setupRouter = require('./routes/setup.route');
 
 module.exports = function (app, opts) {
   // Setup routes, middleware, and handlers
-  app.get('/', simple)
-  app.get('/configured', configured(opts))
+  app.get('/', (req, res) => {
+    res.status(200).json({ msg: "Server is up"})
+  })
+  app.use('/api', apiRouter)
+  app.use('/setup', setupRouter)
 }
