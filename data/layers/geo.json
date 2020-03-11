@@ -23109,9 +23109,9 @@
       "properties": {
         "name": "Iran",
         "data": {
-          "confirmed": 0,
-          "deaths": 0,
-          "recovered": 0
+          "confirmed": 874,
+          "deaths": 10,
+          "recovered": 132
         }
       },
       "geometry": {
