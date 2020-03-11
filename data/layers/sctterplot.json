@@ -870,14 +870,14 @@
     }
   },
   {
-    "id": "504dec2e41845267765e8b72766874cd",
+    "id": "2c9961427db76e06af80a2ba10479c7f",
     "location": [
       "139.638",
       "35.4437"
     ],
-    "country": "Others",
-    "country_code": "XX",
-    "province": "Diamond Princess cruise ship",
+    "country": "Diamond Princess Cruise Ship",
+    "country_code": "DPCP",
+    "province": "Somewhere",
     "data": {
       "confirmed": 696,
       "deaths": 6,
@@ -3465,13 +3465,13 @@
     }
   },
   {
-    "id": "847fa52ac098cea99b98d710edabac58",
+    "id": "2ffb7291e67d2bf10461f53b212424ef",
     "location": [
-      "12.4534",
-      "41.9029"
+      "114.7277",
+      "4.5353"
     ],
-    "country": "Holy See",
-    "country_code": "XX",
+    "country": "Brunei",
+    "country_code": "BN",
     "province": "",
     "data": {
       "confirmed": 1,
@@ -3615,6 +3615,36 @@
     }
   },
   {
+    "id": "48a54ea36a0a4155d200e8b6277cd17d",
+    "location": [
+      "53",
+      "32"
+    ],
+    "country": "Iran (Islamic Republic of)",
+    "country_code": "IR",
+    "province": "",
+    "data": {
+      "confirmed": 8042,
+      "deaths": 291,
+      "recovered": 2731
+    }
+  },
+  {
+    "id": "04030d8c0cc6a5312aab0a96ddd582a1",
+    "location": [
+      "128",
+      "36"
+    ],
+    "country": "Republic of Korea",
+    "country_code": "KR",
+    "province": "",
+    "data": {
+      "confirmed": 7513,
+      "deaths": 54,
+      "recovered": 247
+    }
+  },
+  {
     "id": "86b553b6b4392d7d2681a1252676dc75",
     "location": [
       "-121.4905",
@@ -3660,13 +3690,13 @@
     }
   },
   {
-    "id": "7e5f4d4e38504f2f616464700f1a1484",
+    "id": "d77a888c2183fd38c45079708c9cf0f5",
     "location": [
       "114.2",
       "22.3"
     ],
     "country": "Hong Kong SAR",
-    "country_code": "XX",
+    "country_code": "HK",
     "province": "Hong Kong",
     "data": {
       "confirmed": 120,
@@ -3690,13 +3720,13 @@
     }
   },
   {
-    "id": "1e9b0b6778eab50f75a880c3d475b7c2",
+    "id": "7e93c9207171a5aa7c867f745a661cea",
     "location": [
       "121",
       "23.7"
     ],
-    "country": "Taipei and environs",
-    "country_code": "XX",
+    "country": "Taiwan",
+    "country_code": "TW",
     "province": "Taiwan",
     "data": {
       "confirmed": 47,
@@ -3732,6 +3762,21 @@
       "confirmed": 31,
       "deaths": 0,
       "recovered": 16
+    }
+  },
+  {
+    "id": "aa31c62d26dbacf737d2e1022012d207",
+    "location": [
+      "35.2332",
+      "31.9522"
+    ],
+    "country": "Palestine, State of",
+    "country_code": "PS",
+    "province": "",
+    "data": {
+      "confirmed": 25,
+      "deaths": 0,
+      "recovered": 0
     }
   },
   {
@@ -3870,13 +3915,13 @@
     }
   },
   {
-    "id": "bbab29638e88b333594798a14064e047",
+    "id": "39fbf54c68641940e913b023e61a74ea",
     "location": [
       "113.55",
       "22.1667"
     ],
-    "country": "Macao SAR",
-    "country_code": "XX",
+    "country": "Macao",
+    "country_code": "MO",
     "province": "Macau",
     "data": {
       "confirmed": 10,
@@ -4080,6 +4125,21 @@
     }
   },
   {
+    "id": "148b1dcb18f3120c6ea78f75bc2af1d4",
+    "location": [
+      "28.3699",
+      "47.4116"
+    ],
+    "country": "Republic of Moldova",
+    "country_code": "MD",
+    "province": "",
+    "data": {
+      "confirmed": 3,
+      "deaths": 0,
+      "recovered": 0
+    }
+  },
+  {
     "id": "6b403d1b55cfa8c2969940c55515d5bd",
     "location": [
       "-93.9002",
@@ -4155,6 +4215,21 @@
     }
   },
   {
+    "id": "309648a8df5a8e5f2c1cacb585cb5178",
+    "location": [
+      "-63.0501",
+      "18.0708"
+    ],
+    "country": "Saint Martin",
+    "country_code": "MF",
+    "province": "",
+    "data": {
+      "confirmed": 2,
+      "deaths": 0,
+      "recovered": 0
+    }
+  },
+  {
     "id": "cb0deb6278140e9bd0a152b0348e5154",
     "location": [
       "-72.7554",
@@ -4222,6 +4297,36 @@
     ],
     "country": "Burkina Faso",
     "country_code": "BF",
+    "province": "",
+    "data": {
+      "confirmed": 1,
+      "deaths": 0,
+      "recovered": 0
+    }
+  },
+  {
+    "id": "847fa52ac098cea99b98d710edabac58",
+    "location": [
+      "-2.3644",
+      "49.3723"
+    ],
+    "country": "Channel Islands",
+    "country_code": "XX",
+    "province": "",
+    "data": {
+      "confirmed": 1,
+      "deaths": 0,
+      "recovered": 0
+    }
+  },
+  {
+    "id": "5eebfb0cba1f8bfe4be7138e6cebff3a",
+    "location": [
+      "12.4534",
+      "41.9029"
+    ],
+    "country": "Holy See",
+    "country_code": "VA",
     "province": "",
     "data": {
       "confirmed": 1,

@@ -8239,7 +8239,7 @@
       "properties": {
         "name": "Brunei",
         "data": {
-          "confirmed": 0,
+          "confirmed": 1,
           "deaths": 0,
           "recovered": 0
         }
@@ -23109,9 +23109,9 @@
       "properties": {
         "name": "Iran",
         "data": {
-          "confirmed": 874,
-          "deaths": 10,
-          "recovered": 132
+          "confirmed": 8042,
+          "deaths": 291,
+          "recovered": 2731
         }
       },
       "geometry": {
@@ -25481,9 +25481,9 @@
       "properties": {
         "name": "South Korea",
         "data": {
-          "confirmed": 0,
-          "deaths": 0,
-          "recovered": 0
+          "confirmed": 7513,
+          "deaths": 54,
+          "recovered": 247
         }
       },
       "geometry": {
@@ -26881,7 +26881,7 @@
       "properties": {
         "name": "Moldova",
         "data": {
-          "confirmed": 0,
+          "confirmed": 3,
           "deaths": 0,
           "recovered": 0
         }
@@ -41785,9 +41785,9 @@
       "properties": {
         "name": "Taiwan",
         "data": {
-          "confirmed": 0,
-          "deaths": 0,
-          "recovered": 0
+          "confirmed": 47,
+          "deaths": 1,
+          "recovered": 17
         }
       },
       "geometry": {
@@ -45415,7 +45415,7 @@
       "properties": {
         "name": "West Bank",
         "data": {
-          "confirmed": 0,
+          "confirmed": 25,
           "deaths": 0,
           "recovered": 0
         }
