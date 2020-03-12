@@ -1,470 +1,5 @@
 [
   {
-    "id": "7721b8e5279a9556fdf7998568083e76",
-    "location": [
-      "117.2264",
-      "31.8257"
-    ],
-    "country": "Mainland China",
-    "country_code": "CN",
-    "province": "Anhui",
-    "data": {
-      "confirmed": 990,
-      "deaths": 6,
-      "recovered": 984
-    }
-  },
-  {
-    "id": "9a68bcc28e4e761ec0c720e3a4b7c697",
-    "location": [
-      "116.4142",
-      "40.1824"
-    ],
-    "country": "Mainland China",
-    "country_code": "CN",
-    "province": "Beijing",
-    "data": {
-      "confirmed": 429,
-      "deaths": 8,
-      "recovered": 320
-    }
-  },
-  {
-    "id": "7de78254e88359fac9ebccf3bd9d8c69",
-    "location": [
-      "107.874",
-      "30.0572"
-    ],
-    "country": "Mainland China",
-    "country_code": "CN",
-    "province": "Chongqing",
-    "data": {
-      "confirmed": 576,
-      "deaths": 6,
-      "recovered": 547
-    }
-  },
-  {
-    "id": "74bbbf09ef97a541af18a8d07ed94054",
-    "location": [
-      "117.9874",
-      "26.0789"
-    ],
-    "country": "Mainland China",
-    "country_code": "CN",
-    "province": "Fujian",
-    "data": {
-      "confirmed": 296,
-      "deaths": 1,
-      "recovered": 295
-    }
-  },
-  {
-    "id": "350cee5d97b4f74372af94e11d0324fd",
-    "location": [
-      "103.8343",
-      "36.0611"
-    ],
-    "country": "Mainland China",
-    "country_code": "CN",
-    "province": "Gansu",
-    "data": {
-      "confirmed": 125,
-      "deaths": 2,
-      "recovered": 88
-    }
-  },
-  {
-    "id": "181e896afa38cc5aa9cf6484bdedad30",
-    "location": [
-      "113.4244",
-      "23.3417"
-    ],
-    "country": "Mainland China",
-    "country_code": "CN",
-    "province": "Guangdong",
-    "data": {
-      "confirmed": 1353,
-      "deaths": 8,
-      "recovered": 1274
-    }
-  },
-  {
-    "id": "282ff49f986448c940c0b60c61677e52",
-    "location": [
-      "108.7881",
-      "23.8298"
-    ],
-    "country": "Mainland China",
-    "country_code": "CN",
-    "province": "Guangxi",
-    "data": {
-      "confirmed": 252,
-      "deaths": 2,
-      "recovered": 234
-    }
-  },
-  {
-    "id": "f2041f07ece6f561a46410e1c78e8e3c",
-    "location": [
-      "106.8748",
-      "26.8154"
-    ],
-    "country": "Mainland China",
-    "country_code": "CN",
-    "province": "Guizhou",
-    "data": {
-      "confirmed": 146,
-      "deaths": 2,
-      "recovered": 129
-    }
-  },
-  {
-    "id": "0cb4d95281a179c7b1187eec404da2d1",
-    "location": [
-      "109.7453",
-      "19.1959"
-    ],
-    "country": "Mainland China",
-    "country_code": "CN",
-    "province": "Hainan",
-    "data": {
-      "confirmed": 168,
-      "deaths": 6,
-      "recovered": 159
-    }
-  },
-  {
-    "id": "03c760e818f3bbafd270700d5c0b17ae",
-    "location": [
-      "114.5149",
-      "38.0428"
-    ],
-    "country": "Mainland China",
-    "country_code": "CN",
-    "province": "Hebei",
-    "data": {
-      "confirmed": 318,
-      "deaths": 6,
-      "recovered": 307
-    }
-  },
-  {
-    "id": "e014bf30bb7405f0bd5d08b9a22b2b4b",
-    "location": [
-      "127.7615",
-      "47.862"
-    ],
-    "country": "Mainland China",
-    "country_code": "CN",
-    "province": "Heilongjiang",
-    "data": {
-      "confirmed": 481,
-      "deaths": 13,
-      "recovered": 434
-    }
-  },
-  {
-    "id": "4e694d2366cc81a3a53945358ca4f7e6",
-    "location": [
-      "113.614",
-      "33.88202"
-    ],
-    "country": "Mainland China",
-    "country_code": "CN",
-    "province": "Henan",
-    "data": {
-      "confirmed": 1272,
-      "deaths": 22,
-      "recovered": 1247
-    }
-  },
-  {
-    "id": "4e36d07923ddd532e21be9b4b9f7917b",
-    "location": [
-      "112.2707",
-      "30.9756"
-    ],
-    "country": "Mainland China",
-    "country_code": "CN",
-    "province": "Hubei",
-    "data": {
-      "confirmed": 67760,
-      "deaths": 3024,
-      "recovered": 47743
-    }
-  },
-  {
-    "id": "cdb44311fa61babefe661b0de15029e8",
-    "location": [
-      "111.7088",
-      "27.6104"
-    ],
-    "country": "Mainland China",
-    "country_code": "CN",
-    "province": "Hunan",
-    "data": {
-      "confirmed": 1018,
-      "deaths": 4,
-      "recovered": 990
-    }
-  },
-  {
-    "id": "ce1fc835cdefd77a6537c2e2e981e424",
-    "location": [
-      "113.9448",
-      "44.0935"
-    ],
-    "country": "Mainland China",
-    "country_code": "CN",
-    "province": "Inner Mongolia",
-    "data": {
-      "confirmed": 75,
-      "deaths": 1,
-      "recovered": 70
-    }
-  },
-  {
-    "id": "34b5a8cef2da45dfb1b641468f780d39",
-    "location": [
-      "119.455",
-      "32.9711"
-    ],
-    "country": "Mainland China",
-    "country_code": "CN",
-    "province": "Jiangsu",
-    "data": {
-      "confirmed": 631,
-      "deaths": 0,
-      "recovered": 627
-    }
-  },
-  {
-    "id": "4ae0e18e2a48818d4cf6528625191713",
-    "location": [
-      "115.7221",
-      "27.614"
-    ],
-    "country": "Mainland China",
-    "country_code": "CN",
-    "province": "Jiangxi",
-    "data": {
-      "confirmed": 935,
-      "deaths": 1,
-      "recovered": 927
-    }
-  },
-  {
-    "id": "f500d9ca3fca09791125ea031eaea586",
-    "location": [
-      "126.1923",
-      "43.6661"
-    ],
-    "country": "Mainland China",
-    "country_code": "CN",
-    "province": "Jilin",
-    "data": {
-      "confirmed": 93,
-      "deaths": 1,
-      "recovered": 91
-    }
-  },
-  {
-    "id": "e4d093a939591ba2d6f0d3de2b7dc478",
-    "location": [
-      "122.6085",
-      "41.2956"
-    ],
-    "country": "Mainland China",
-    "country_code": "CN",
-    "province": "Liaoning",
-    "data": {
-      "confirmed": 125,
-      "deaths": 1,
-      "recovered": 111
-    }
-  },
-  {
-    "id": "2ab69fab54bbe1ad1fbc14812bfc8f96",
-    "location": [
-      "106.1655",
-      "37.2692"
-    ],
-    "country": "Mainland China",
-    "country_code": "CN",
-    "province": "Ningxia",
-    "data": {
-      "confirmed": 75,
-      "deaths": 0,
-      "recovered": 71
-    }
-  },
-  {
-    "id": "f18a49119ee3bb32a43c1fdd2f019f47",
-    "location": [
-      "95.9956",
-      "35.7452"
-    ],
-    "country": "Mainland China",
-    "country_code": "CN",
-    "province": "Qinghai",
-    "data": {
-      "confirmed": 18,
-      "deaths": 0,
-      "recovered": 18
-    }
-  },
-  {
-    "id": "e6ad065d9e2aacccf453317c5bce3a60",
-    "location": [
-      "108.8701",
-      "35.1917"
-    ],
-    "country": "Mainland China",
-    "country_code": "CN",
-    "province": "Shaanxi",
-    "data": {
-      "confirmed": 245,
-      "deaths": 1,
-      "recovered": 227
-    }
-  },
-  {
-    "id": "16ebef9aa0827f63646f82d31c8340d9",
-    "location": [
-      "118.1498",
-      "36.3427"
-    ],
-    "country": "Mainland China",
-    "country_code": "CN",
-    "province": "Shandong",
-    "data": {
-      "confirmed": 758,
-      "deaths": 6,
-      "recovered": 719
-    }
-  },
-  {
-    "id": "df01d91cc234cef8c29e0de7d698ccdf",
-    "location": [
-      "121.4491",
-      "31.202"
-    ],
-    "country": "Mainland China",
-    "country_code": "CN",
-    "province": "Shanghai",
-    "data": {
-      "confirmed": 344,
-      "deaths": 3,
-      "recovered": 319
-    }
-  },
-  {
-    "id": "4e9530a56c70b7efad6a97e9f05d4cd6",
-    "location": [
-      "112.2922",
-      "37.5777"
-    ],
-    "country": "Mainland China",
-    "country_code": "CN",
-    "province": "Shanxi",
-    "data": {
-      "confirmed": 133,
-      "deaths": 0,
-      "recovered": 131
-    }
-  },
-  {
-    "id": "57a1b36cdf8f1d46aa3b957021f202a1",
-    "location": [
-      "102.7103",
-      "30.6171"
-    ],
-    "country": "Mainland China",
-    "country_code": "CN",
-    "province": "Sichuan",
-    "data": {
-      "confirmed": 539,
-      "deaths": 3,
-      "recovered": 478
-    }
-  },
-  {
-    "id": "4a69962f0190e1b6e3e2df55e4a0d635",
-    "location": [
-      "117.323",
-      "39.3054"
-    ],
-    "country": "Mainland China",
-    "country_code": "CN",
-    "province": "Tianjin",
-    "data": {
-      "confirmed": 136,
-      "deaths": 3,
-      "recovered": 131
-    }
-  },
-  {
-    "id": "a6e1b9165c123530cc22fe910f8f2384",
-    "location": [
-      "88.0924",
-      "31.6927"
-    ],
-    "country": "Mainland China",
-    "country_code": "CN",
-    "province": "Tibet",
-    "data": {
-      "confirmed": 1,
-      "deaths": 0,
-      "recovered": 1
-    }
-  },
-  {
-    "id": "18dfafb37e86900393e2212e791cf25f",
-    "location": [
-      "85.2401",
-      "41.1129"
-    ],
-    "country": "Mainland China",
-    "country_code": "CN",
-    "province": "Xinjiang",
-    "data": {
-      "confirmed": 76,
-      "deaths": 3,
-      "recovered": 73
-    }
-  },
-  {
-    "id": "a162aee93a984cc032be524b310856d8",
-    "location": [
-      "101.487",
-      "24.974"
-    ],
-    "country": "Mainland China",
-    "country_code": "CN",
-    "province": "Yunnan",
-    "data": {
-      "confirmed": 174,
-      "deaths": 2,
-      "recovered": 170
-    }
-  },
-  {
-    "id": "ecfe0923ad38c0c15d92a5c82a8dd0ff",
-    "location": [
-      "120.0934",
-      "29.1832"
-    ],
-    "country": "Mainland China",
-    "country_code": "CN",
-    "province": "Zhejiang",
-    "data": {
-      "confirmed": 1215,
-      "deaths": 1,
-      "recovered": 1191
-    }
-  },
-  {
     "id": "8d28b79f9f192ce58b23bfd4f55499ca",
     "location": [
       "101",
@@ -474,9 +9,9 @@
     "country_code": "TH",
     "province": "",
     "data": {
-      "confirmed": 53,
+      "confirmed": 59,
       "deaths": 1,
-      "recovered": 33
+      "recovered": 34
     }
   },
   {
@@ -489,39 +24,9 @@
     "country_code": "JP",
     "province": "",
     "data": {
-      "confirmed": 581,
-      "deaths": 10,
-      "recovered": 101
-    }
-  },
-  {
-    "id": "5633ca8b91fbaf30417fd3c91b39f59d",
-    "location": [
-      "-122.3321",
-      "47.6062"
-    ],
-    "country": "US",
-    "country_code": "US",
-    "province": "King County, WA",
-    "data": {
-      "confirmed": 116,
-      "deaths": 21,
-      "recovered": 1
-    }
-  },
-  {
-    "id": "f681a5fa2497e51121d8c4ca4486fae7",
-    "location": [
-      "-87.6976",
-      "41.7377"
-    ],
-    "country": "US",
-    "country_code": "US",
-    "province": "Cook County, IL",
-    "data": {
-      "confirmed": 11,
-      "deaths": 0,
-      "recovered": 2
+      "confirmed": 639,
+      "deaths": 15,
+      "recovered": 118
     }
   },
   {
@@ -534,24 +39,9 @@
     "country_code": "SG",
     "province": "",
     "data": {
-      "confirmed": 160,
+      "confirmed": 178,
       "deaths": 0,
-      "recovered": 78
-    }
-  },
-  {
-    "id": "ff8a7360abcb7c7086b0491befe99827",
-    "location": [
-      "2",
-      "47"
-    ],
-    "country": "France",
-    "country_code": "FR",
-    "province": "",
-    "data": {
-      "confirmed": 1784,
-      "deaths": 33,
-      "recovered": 12
+      "recovered": 96
     }
   },
   {
@@ -579,9 +69,9 @@
     "country_code": "MY",
     "province": "",
     "data": {
-      "confirmed": 129,
+      "confirmed": 149,
       "deaths": 0,
-      "recovered": 24
+      "recovered": 26
     }
   },
   {
@@ -594,24 +84,9 @@
     "country_code": "CA",
     "province": "British Columbia",
     "data": {
-      "confirmed": 32,
+      "confirmed": 39,
       "deaths": 1,
       "recovered": 4
-    }
-  },
-  {
-    "id": "cc224d9502c917eaf68be842bcf26de9",
-    "location": [
-      "-118.2437",
-      "34.0522"
-    ],
-    "country": "US",
-    "country_code": "US",
-    "province": "Los Angeles, CA",
-    "data": {
-      "confirmed": 20,
-      "deaths": 0,
-      "recovered": 0
     }
   },
   {
@@ -624,7 +99,7 @@
     "country_code": "AU",
     "province": "New South Wales",
     "data": {
-      "confirmed": 55,
+      "confirmed": 65,
       "deaths": 2,
       "recovered": 4
     }
@@ -639,7 +114,7 @@
     "country_code": "AU",
     "province": "Victoria",
     "data": {
-      "confirmed": 18,
+      "confirmed": 21,
       "deaths": 0,
       "recovered": 7
     }
@@ -654,7 +129,7 @@
     "country_code": "AU",
     "province": "Queensland",
     "data": {
-      "confirmed": 18,
+      "confirmed": 20,
       "deaths": 0,
       "recovered": 8
     }
@@ -669,7 +144,7 @@
     "country_code": "KH",
     "province": "",
     "data": {
-      "confirmed": 2,
+      "confirmed": 3,
       "deaths": 0,
       "recovered": 1
     }
@@ -684,7 +159,7 @@
     "country_code": "LK",
     "province": "",
     "data": {
-      "confirmed": 1,
+      "confirmed": 2,
       "deaths": 0,
       "recovered": 1
     }
@@ -699,9 +174,9 @@
     "country_code": "DE",
     "province": "",
     "data": {
-      "confirmed": 1457,
-      "deaths": 2,
-      "recovered": 18
+      "confirmed": 1908,
+      "deaths": 3,
+      "recovered": 25
     }
   },
   {
@@ -714,7 +189,7 @@
     "country_code": "FI",
     "province": "",
     "data": {
-      "confirmed": 40,
+      "confirmed": 59,
       "deaths": 0,
       "recovered": 1
     }
@@ -731,7 +206,7 @@
     "data": {
       "confirmed": 74,
       "deaths": 0,
-      "recovered": 12
+      "recovered": 17
     }
   },
   {
@@ -744,7 +219,7 @@
     "country_code": "PH",
     "province": "",
     "data": {
-      "confirmed": 33,
+      "confirmed": 49,
       "deaths": 1,
       "recovered": 2
     }
@@ -759,8 +234,8 @@
     "country_code": "IN",
     "province": "",
     "data": {
-      "confirmed": 56,
-      "deaths": 0,
+      "confirmed": 62,
+      "deaths": 1,
       "recovered": 4
     }
   },
@@ -774,24 +249,9 @@
     "country_code": "IT",
     "province": "",
     "data": {
-      "confirmed": 10149,
-      "deaths": 631,
-      "recovered": 724
-    }
-  },
-  {
-    "id": "2c59a1e424f4753e14e632911faa614e",
-    "location": [
-      "-3",
-      "55"
-    ],
-    "country": "UK",
-    "country_code": "GB",
-    "province": "",
-    "data": {
-      "confirmed": 382,
-      "deaths": 6,
-      "recovered": 18
+      "confirmed": 12462,
+      "deaths": 827,
+      "recovered": 1045
     }
   },
   {
@@ -804,8 +264,8 @@
     "country_code": "SE",
     "province": "",
     "data": {
-      "confirmed": 355,
-      "deaths": 0,
+      "confirmed": 500,
+      "deaths": 1,
       "recovered": 1
     }
   },
@@ -819,9 +279,9 @@
     "country_code": "ES",
     "province": "",
     "data": {
-      "confirmed": 1695,
-      "deaths": 35,
-      "recovered": 32
+      "confirmed": 2277,
+      "deaths": 54,
+      "recovered": 183
     }
   },
   {
@@ -834,24 +294,9 @@
     "country_code": "AU",
     "province": "South Australia",
     "data": {
-      "confirmed": 7,
+      "confirmed": 9,
       "deaths": 0,
       "recovered": 2
-    }
-  },
-  {
-    "id": "3dc84e34711ab2ad7d3dfab52b1cd705",
-    "location": [
-      "-120.9876",
-      "36.5761"
-    ],
-    "country": "US",
-    "country_code": "US",
-    "province": "San Benito, CA",
-    "data": {
-      "confirmed": 2,
-      "deaths": 0,
-      "recovered": 0
     }
   },
   {
@@ -864,38 +309,8 @@
     "country_code": "BE",
     "province": "",
     "data": {
-      "confirmed": 267,
-      "deaths": 0,
-      "recovered": 1
-    }
-  },
-  {
-    "id": "2c9961427db76e06af80a2ba10479c7f",
-    "location": [
-      "139.638",
-      "35.4437"
-    ],
-    "country": "Diamond Princess Cruise Ship",
-    "country_code": "DPCP",
-    "province": "Somewhere",
-    "data": {
-      "confirmed": 696,
-      "deaths": 6,
-      "recovered": 40
-    }
-  },
-  {
-    "id": "0b9502141ec6ede24db273d975951ab7",
-    "location": [
-      "-117.1611",
-      "32.7157"
-    ],
-    "country": "US",
-    "country_code": "US",
-    "province": "San Diego County, CA",
-    "data": {
-      "confirmed": 3,
-      "deaths": 0,
+      "confirmed": 314,
+      "deaths": 3,
       "recovered": 1
     }
   },
@@ -909,9 +324,9 @@
     "country_code": "EG",
     "province": "",
     "data": {
-      "confirmed": 59,
+      "confirmed": 60,
       "deaths": 1,
-      "recovered": 1
+      "recovered": 27
     }
   },
   {
@@ -939,39 +354,9 @@
     "country_code": "LB",
     "province": "",
     "data": {
-      "confirmed": 41,
-      "deaths": 1,
+      "confirmed": 61,
+      "deaths": 3,
       "recovered": 1
-    }
-  },
-  {
-    "id": "0e0b932c50dd8287a333081b98e930f9",
-    "location": [
-      "-123.8695",
-      "40.745"
-    ],
-    "country": "US",
-    "country_code": "US",
-    "province": "Humboldt County, CA",
-    "data": {
-      "confirmed": 1,
-      "deaths": 0,
-      "recovered": 0
-    }
-  },
-  {
-    "id": "cc721afbb641fd5d426166aee543da5c",
-    "location": [
-      "-121.3542",
-      "38.4747"
-    ],
-    "country": "US",
-    "country_code": "US",
-    "province": "Sacramento County, CA",
-    "data": {
-      "confirmed": 10,
-      "deaths": 0,
-      "recovered": 0
     }
   },
   {
@@ -986,7 +371,7 @@
     "data": {
       "confirmed": 71,
       "deaths": 7,
-      "recovered": 3
+      "recovered": 15
     }
   },
   {
@@ -1014,7 +399,7 @@
     "country_code": "AF",
     "province": "",
     "data": {
-      "confirmed": 5,
+      "confirmed": 7,
       "deaths": 0,
       "recovered": 0
     }
@@ -1029,9 +414,9 @@
     "country_code": "BH",
     "province": "",
     "data": {
-      "confirmed": 110,
+      "confirmed": 195,
       "deaths": 0,
-      "recovered": 22
+      "recovered": 35
     }
   },
   {
@@ -1044,9 +429,9 @@
     "country_code": "KW",
     "province": "",
     "data": {
-      "confirmed": 69,
+      "confirmed": 72,
       "deaths": 0,
-      "recovered": 1
+      "recovered": 2
     }
   },
   {
@@ -1074,7 +459,7 @@
     "country_code": "HR",
     "province": "",
     "data": {
-      "confirmed": 14,
+      "confirmed": 19,
       "deaths": 0,
       "recovered": 0
     }
@@ -1089,9 +474,9 @@
     "country_code": "CH",
     "province": "",
     "data": {
-      "confirmed": 491,
-      "deaths": 3,
-      "recovered": 3
+      "confirmed": 652,
+      "deaths": 4,
+      "recovered": 4
     }
   },
   {
@@ -1104,7 +489,7 @@
     "country_code": "AT",
     "province": "",
     "data": {
-      "confirmed": 182,
+      "confirmed": 246,
       "deaths": 0,
       "recovered": 4
     }
@@ -1119,7 +504,7 @@
     "country_code": "IL",
     "province": "",
     "data": {
-      "confirmed": 58,
+      "confirmed": 109,
       "deaths": 0,
       "recovered": 4
     }
@@ -1134,9 +519,9 @@
     "country_code": "PK",
     "province": "",
     "data": {
-      "confirmed": 16,
+      "confirmed": 19,
       "deaths": 0,
-      "recovered": 1
+      "recovered": 2
     }
   },
   {
@@ -1149,7 +534,7 @@
     "country_code": "BR",
     "province": "",
     "data": {
-      "confirmed": 31,
+      "confirmed": 38,
       "deaths": 0,
       "recovered": 0
     }
@@ -1164,7 +549,7 @@
     "country_code": "GE",
     "province": "",
     "data": {
-      "confirmed": 15,
+      "confirmed": 24,
       "deaths": 0,
       "recovered": 0
     }
@@ -1179,8 +564,8 @@
     "country_code": "GR",
     "province": "",
     "data": {
-      "confirmed": 89,
-      "deaths": 0,
+      "confirmed": 99,
+      "deaths": 1,
       "recovered": 0
     }
   },
@@ -1209,7 +594,7 @@
     "country_code": "NO",
     "province": "",
     "data": {
-      "confirmed": 400,
+      "confirmed": 598,
       "deaths": 0,
       "recovered": 1
     }
@@ -1224,24 +609,9 @@
     "country_code": "RO",
     "province": "",
     "data": {
-      "confirmed": 25,
+      "confirmed": 45,
       "deaths": 0,
-      "recovered": 3
-    }
-  },
-  {
-    "id": "56b2daabde9d151c5d2424902dd763fa",
-    "location": [
-      "9.5018",
-      "56.2639"
-    ],
-    "country": "Denmark",
-    "country_code": "DK",
-    "province": "",
-    "data": {
-      "confirmed": 262,
-      "deaths": 0,
-      "recovered": 1
+      "recovered": 6
     }
   },
   {
@@ -1254,7 +624,7 @@
     "country_code": "EE",
     "province": "",
     "data": {
-      "confirmed": 12,
+      "confirmed": 16,
       "deaths": 0,
       "recovered": 0
     }
@@ -1269,8 +639,8 @@
     "country_code": "NL",
     "province": "",
     "data": {
-      "confirmed": 382,
-      "deaths": 4,
+      "confirmed": 503,
+      "deaths": 5,
       "recovered": 0
     }
   },
@@ -1284,7 +654,7 @@
     "country_code": "SM",
     "province": "",
     "data": {
-      "confirmed": 51,
+      "confirmed": 62,
       "deaths": 2,
       "recovered": 0
     }
@@ -1314,7 +684,7 @@
     "country_code": "IS",
     "province": "",
     "data": {
-      "confirmed": 69,
+      "confirmed": 85,
       "deaths": 0,
       "recovered": 1
     }
@@ -1329,7 +699,7 @@
     "country_code": "LT",
     "province": "",
     "data": {
-      "confirmed": 1,
+      "confirmed": 3,
       "deaths": 0,
       "recovered": 0
     }
@@ -1344,7 +714,7 @@
     "country_code": "MX",
     "province": "",
     "data": {
-      "confirmed": 7,
+      "confirmed": 8,
       "deaths": 0,
       "recovered": 4
     }
@@ -1389,7 +759,7 @@
     "country_code": "AU",
     "province": "Western Australia",
     "data": {
-      "confirmed": 6,
+      "confirmed": 9,
       "deaths": 1,
       "recovered": 0
     }
@@ -1404,8 +774,8 @@
     "country_code": "IE",
     "province": "",
     "data": {
-      "confirmed": 34,
-      "deaths": 0,
+      "confirmed": 43,
+      "deaths": 1,
       "recovered": 0
     }
   },
@@ -1419,7 +789,7 @@
     "country_code": "LU",
     "province": "",
     "data": {
-      "confirmed": 5,
+      "confirmed": 7,
       "deaths": 0,
       "recovered": 0
     }
@@ -1449,23 +819,8 @@
     "country_code": "QA",
     "province": "",
     "data": {
-      "confirmed": 24,
+      "confirmed": 262,
       "deaths": 0,
-      "recovered": 0
-    }
-  },
-  {
-    "id": "638ba336e08d25a4546e4b872504a873",
-    "location": [
-      "-121.8339",
-      "48.033"
-    ],
-    "country": "US",
-    "country_code": "US",
-    "province": "Snohomish County, WA",
-    "data": {
-      "confirmed": 37,
-      "deaths": 1,
       "recovered": 0
     }
   },
@@ -1479,7 +834,7 @@
     "country_code": "EC",
     "province": "",
     "data": {
-      "confirmed": 15,
+      "confirmed": 17,
       "deaths": 0,
       "recovered": 0
     }
@@ -1496,22 +851,7 @@
     "data": {
       "confirmed": 11,
       "deaths": 0,
-      "recovered": 0
-    }
-  },
-  {
-    "id": "f15b312366398c038d1236746a2550b0",
-    "location": [
-      "15.473",
-      "49.8175"
-    ],
-    "country": "Czech Republic",
-    "country_code": "CZ",
-    "province": "",
-    "data": {
-      "confirmed": 41,
-      "deaths": 0,
-      "recovered": 0
+      "recovered": 3
     }
   },
   {
@@ -1554,8 +894,8 @@
     "country_code": "ID",
     "province": "",
     "data": {
-      "confirmed": 27,
-      "deaths": 0,
+      "confirmed": 34,
+      "deaths": 1,
       "recovered": 2
     }
   },
@@ -1569,7 +909,7 @@
     "country_code": "PT",
     "province": "",
     "data": {
-      "confirmed": 41,
+      "confirmed": 59,
       "deaths": 0,
       "recovered": 0
     }
@@ -1599,7 +939,7 @@
     "country_code": "AU",
     "province": "Tasmania",
     "data": {
-      "confirmed": 2,
+      "confirmed": 3,
       "deaths": 0,
       "recovered": 0
     }
@@ -1614,7 +954,7 @@
     "country_code": "LV",
     "province": "",
     "data": {
-      "confirmed": 8,
+      "confirmed": 10,
       "deaths": 0,
       "recovered": 1
     }
@@ -1629,7 +969,7 @@
     "country_code": "MA",
     "province": "",
     "data": {
-      "confirmed": 3,
+      "confirmed": 5,
       "deaths": 1,
       "recovered": 0
     }
@@ -1644,7 +984,7 @@
     "country_code": "SA",
     "province": "",
     "data": {
-      "confirmed": 20,
+      "confirmed": 21,
       "deaths": 0,
       "recovered": 1
     }
@@ -1665,126 +1005,6 @@
     }
   },
   {
-    "id": "1ab857b9cf36adeb2bafcb65f22d333b",
-    "location": [
-      "-71.826",
-      "43.9088"
-    ],
-    "country": "US",
-    "country_code": "US",
-    "province": "Grafton County, NH",
-    "data": {
-      "confirmed": 3,
-      "deaths": 0,
-      "recovered": 0
-    }
-  },
-  {
-    "id": "8b3f088c4ba9b18c5389daade2475c4c",
-    "location": [
-      "-82.3018",
-      "27.9904"
-    ],
-    "country": "US",
-    "country_code": "US",
-    "province": "Hillsborough, FL",
-    "data": {
-      "confirmed": 2,
-      "deaths": 0,
-      "recovered": 0
-    }
-  },
-  {
-    "id": "044bdc95328c41e686cfba3816e9396d",
-    "location": [
-      "-120.8039",
-      "39.0916"
-    ],
-    "country": "US",
-    "country_code": "US",
-    "province": "Placer County, CA",
-    "data": {
-      "confirmed": 7,
-      "deaths": 1,
-      "recovered": 0
-    }
-  },
-  {
-    "id": "c7e4ce1d77c1bc94dce6da4a8031a982",
-    "location": [
-      "-122.3255",
-      "37.563"
-    ],
-    "country": "US",
-    "country_code": "US",
-    "province": "San Mateo, CA",
-    "data": {
-      "confirmed": 9,
-      "deaths": 0,
-      "recovered": 0
-    }
-  },
-  {
-    "id": "68c76bb7e9af7f2010466aec844ec185",
-    "location": [
-      "-122.9888",
-      "38.578"
-    ],
-    "country": "US",
-    "country_code": "US",
-    "province": "Sonoma County, CA",
-    "data": {
-      "confirmed": 3,
-      "deaths": 0,
-      "recovered": 0
-    }
-  },
-  {
-    "id": "fb203154cc30364c84e8fcfd432c23b7",
-    "location": [
-      "-118.7606",
-      "45.775"
-    ],
-    "country": "US",
-    "country_code": "US",
-    "province": "Umatilla, OR",
-    "data": {
-      "confirmed": 1,
-      "deaths": 0,
-      "recovered": 0
-    }
-  },
-  {
-    "id": "da6b3deb6de6a2d4cd4acef4c5976f80",
-    "location": [
-      "-84.3963",
-      "33.8034"
-    ],
-    "country": "US",
-    "country_code": "US",
-    "province": "Fulton County, GA",
-    "data": {
-      "confirmed": 5,
-      "deaths": 0,
-      "recovered": 0
-    }
-  },
-  {
-    "id": "f92efc0ea5e915037847f98c69923322",
-    "location": [
-      "-123.1386",
-      "45.547"
-    ],
-    "country": "US",
-    "country_code": "US",
-    "province": "Washington County, OR",
-    "data": {
-      "confirmed": 8,
-      "deaths": 0,
-      "recovered": 0
-    }
-  },
-  {
     "id": "b16204203f31851a6d6ad95b72ada253",
     "location": [
       "-63.6167",
@@ -1794,7 +1014,7 @@
     "country_code": "AR",
     "province": "",
     "data": {
-      "confirmed": 17,
+      "confirmed": 19,
       "deaths": 1,
       "recovered": 0
     }
@@ -1809,7 +1029,7 @@
     "country_code": "CL",
     "province": "",
     "data": {
-      "confirmed": 13,
+      "confirmed": 23,
       "deaths": 0,
       "recovered": 0
     }
@@ -1830,66 +1050,6 @@
     }
   },
   {
-    "id": "eacebe144202084cd85ab89944b31ef8",
-    "location": [
-      "-71.1449",
-      "42.1767"
-    ],
-    "country": "US",
-    "country_code": "US",
-    "province": "Norfolk County, MA",
-    "data": {
-      "confirmed": 10,
-      "deaths": 0,
-      "recovered": 0
-    }
-  },
-  {
-    "id": "1fee3555f519a5f32874b3b56dd0e1fa",
-    "location": [
-      "-112.4291",
-      "33.2918"
-    ],
-    "country": "US",
-    "country_code": "US",
-    "province": "Maricopa County, AZ",
-    "data": {
-      "confirmed": 2,
-      "deaths": 0,
-      "recovered": 1
-    }
-  },
-  {
-    "id": "c126470516aecb7e8ef88b366c19915e",
-    "location": [
-      "-78.5661",
-      "35.8032"
-    ],
-    "country": "US",
-    "country_code": "US",
-    "province": "Wake County, NC",
-    "data": {
-      "confirmed": 6,
-      "deaths": 0,
-      "recovered": 0
-    }
-  },
-  {
-    "id": "a772aede3f139472cb021064cb6a4f18",
-    "location": [
-      "-73.7949",
-      "41.122"
-    ],
-    "country": "US",
-    "country_code": "US",
-    "province": "Wetchester County, NY",
-    "data": {
-      "confirmed": 98,
-      "deaths": 0,
-      "recovered": 0
-    }
-  },
-  {
     "id": "5791884be87df614ff7703c9dff606d1",
     "location": [
       "31.1656",
@@ -1905,36 +1065,6 @@
     }
   },
   {
-    "id": "895c1f9888d2afb1c1a54564727411d8",
-    "location": [
-      "-62.8333",
-      "17.9"
-    ],
-    "country": "Saint Barthelemy",
-    "country_code": "BL",
-    "province": "",
-    "data": {
-      "confirmed": 1,
-      "deaths": 0,
-      "recovered": 0
-    }
-  },
-  {
-    "id": "99ced478f3995b2238692f6b8baa6a95",
-    "location": [
-      "-117.8531",
-      "33.7879"
-    ],
-    "country": "US",
-    "country_code": "US",
-    "province": "Orange County, CA",
-    "data": {
-      "confirmed": 5,
-      "deaths": 0,
-      "recovered": 0
-    }
-  },
-  {
     "id": "76b48d5705a5efc93518e4cf84f076a7",
     "location": [
       "19.5033",
@@ -1944,7 +1074,7 @@
     "country_code": "HU",
     "province": "",
     "data": {
-      "confirmed": 9,
+      "confirmed": 13,
       "deaths": 0,
       "recovered": 0
     }
@@ -1962,36 +1092,6 @@
       "confirmed": 1,
       "deaths": 0,
       "recovered": 0
-    }
-  },
-  {
-    "id": "25b93eb501e6771bd4b3d8e58e4cbf94",
-    "location": [
-      "-6.9118",
-      "61.8926"
-    ],
-    "country": "Faroe Islands",
-    "country_code": "FO",
-    "province": "",
-    "data": {
-      "confirmed": 2,
-      "deaths": 0,
-      "recovered": 0
-    }
-  },
-  {
-    "id": "a2b97d1f5e24bebdddb69f0207279fdc",
-    "location": [
-      "-5.3536",
-      "36.1408"
-    ],
-    "country": "Gibraltar",
-    "country_code": "GI",
-    "province": "",
-    "data": {
-      "confirmed": 1,
-      "deaths": 0,
-      "recovered": 1
     }
   },
   {
@@ -2019,7 +1119,7 @@
     "country_code": "PL",
     "province": "",
     "data": {
-      "confirmed": 22,
+      "confirmed": 31,
       "deaths": 0,
       "recovered": 0
     }
@@ -2034,22 +1134,7 @@
     "country_code": "TN",
     "province": "",
     "data": {
-      "confirmed": 5,
-      "deaths": 0,
-      "recovered": 0
-    }
-  },
-  {
-    "id": "a2b1cbcba9b34c6a9e5bb5c29bb0b946",
-    "location": [
-      "-121.9018",
-      "37.8534"
-    ],
-    "country": "US",
-    "country_code": "US",
-    "province": "Contra Costa County, CA",
-    "data": {
-      "confirmed": 9,
+      "confirmed": 7,
       "deaths": 0,
       "recovered": 0
     }
@@ -2064,7 +1149,7 @@
     "country_code": "BA",
     "province": "",
     "data": {
-      "confirmed": 5,
+      "confirmed": 7,
       "deaths": 0,
       "recovered": 0
     }
@@ -2079,52 +1164,7 @@
     "country_code": "SI",
     "province": "",
     "data": {
-      "confirmed": 31,
-      "deaths": 0,
-      "recovered": 0
-    }
-  },
-  {
-    "id": "7c1077dfb45c8b836676a6f2bcbad244",
-    "location": [
-      "-74.077",
-      "40.9263"
-    ],
-    "country": "US",
-    "country_code": "US",
-    "province": "Bergen County, NJ",
-    "data": {
-      "confirmed": 7,
-      "deaths": 1,
-      "recovered": 0
-    }
-  },
-  {
-    "id": "ca84847e91f7437ebc198e805df9924a",
-    "location": [
-      "-95.3103",
-      "29.7752"
-    ],
-    "country": "US",
-    "country_code": "US",
-    "province": "Harris County, TX",
-    "data": {
-      "confirmed": 6,
-      "deaths": 0,
-      "recovered": 0
-    }
-  },
-  {
-    "id": "7c69ef957cc466d77443d11419a41bc1",
-    "location": [
-      "-122.4194",
-      "37.7749"
-    ],
-    "country": "US",
-    "country_code": "US",
-    "province": "San Francisco County, CA",
-    "data": {
-      "confirmed": 15,
+      "confirmed": 57,
       "deaths": 0,
       "recovered": 0
     }
@@ -2139,157 +1179,7 @@
     "country_code": "ZA",
     "province": "",
     "data": {
-      "confirmed": 7,
-      "deaths": 0,
-      "recovered": 0
-    }
-  },
-  {
-    "id": "01e24983172d9486942b34095ec16e87",
-    "location": [
-      "-115.094",
-      "36.0796"
-    ],
-    "country": "US",
-    "country_code": "US",
-    "province": "Clark County, NV",
-    "data": {
-      "confirmed": 2,
-      "deaths": 0,
-      "recovered": 0
-    }
-  },
-  {
-    "id": "de5064895dff89c872c47d469e3bb17c",
-    "location": [
-      "-95.8143",
-      "29.5693"
-    ],
-    "country": "US",
-    "country_code": "US",
-    "province": "Fort Bend County, TX",
-    "data": {
-      "confirmed": 6,
-      "deaths": 0,
-      "recovered": 0
-    }
-  },
-  {
-    "id": "a552ade78e04ff8a8bd66d423979e85a",
-    "location": [
-      "-119.3732",
-      "47.1981"
-    ],
-    "country": "US",
-    "country_code": "US",
-    "province": "Grant County, WA",
-    "data": {
-      "confirmed": 1,
-      "deaths": 1,
-      "recovered": 0
-    }
-  },
-  {
-    "id": "2a52836c4d8afc1e396b8e3474efcf68",
-    "location": [
-      "-86.9824",
-      "30.769"
-    ],
-    "country": "US",
-    "country_code": "US",
-    "province": "Santa Rosa County, FL",
-    "data": {
-      "confirmed": 1,
-      "deaths": 1,
-      "recovered": 0
-    }
-  },
-  {
-    "id": "99f90caad83d6cb047a145f2208ccd59",
-    "location": [
-      "-86.8622",
-      "35.9179"
-    ],
-    "country": "US",
-    "country_code": "US",
-    "province": "Williamson County, TN",
-    "data": {
-      "confirmed": 1,
-      "deaths": 0,
-      "recovered": 0
-    }
-  },
-  {
-    "id": "34a775427d10edaa432e2113a3556c8f",
-    "location": [
-      "-74.006",
-      "40.7128"
-    ],
-    "country": "US",
-    "country_code": "US",
-    "province": "New York County, NY",
-    "data": {
-      "confirmed": 25,
-      "deaths": 0,
-      "recovered": 0
-    }
-  },
-  {
-    "id": "5df6c80551808ee986cafa459b851132",
-    "location": [
-      "-77.2405",
-      "39.1547"
-    ],
-    "country": "US",
-    "country_code": "US",
-    "province": "Montgomery County, MD",
-    "data": {
-      "confirmed": 4,
-      "deaths": 0,
-      "recovered": 0
-    }
-  },
-  {
-    "id": "ca8278a5cffa28c6c5ce8ea5c7f96391",
-    "location": [
-      "-71.0589",
-      "42.3601"
-    ],
-    "country": "US",
-    "country_code": "US",
-    "province": "Suffolk County, MA",
-    "data": {
-      "confirmed": 10,
-      "deaths": 0,
-      "recovered": 1
-    }
-  },
-  {
-    "id": "5b7acf16517c45ff6044b67dd3649333",
-    "location": [
-      "-104.9903",
-      "39.7392"
-    ],
-    "country": "US",
-    "country_code": "US",
-    "province": "Denver County, CO",
-    "data": {
-      "confirmed": 3,
-      "deaths": 0,
-      "recovered": 0
-    }
-  },
-  {
-    "id": "1e406006fad1c3aa53867d92b05dd14d",
-    "location": [
-      "-106.064",
-      "39.5912"
-    ],
-    "country": "US",
-    "country_code": "US",
-    "province": "Summit County, CO",
-    "data": {
-      "confirmed": 1,
+      "confirmed": 13,
       "deaths": 0,
       "recovered": 0
     }
@@ -2334,7 +1224,7 @@
     "country_code": "CO",
     "province": "",
     "data": {
-      "confirmed": 3,
+      "confirmed": 9,
       "deaths": 0,
       "recovered": 0
     }
@@ -2349,7 +1239,7 @@
     "country_code": "CR",
     "province": "",
     "data": {
-      "confirmed": 9,
+      "confirmed": 13,
       "deaths": 0,
       "recovered": 0
     }
@@ -2379,7 +1269,7 @@
     "country_code": "RS",
     "province": "",
     "data": {
-      "confirmed": 5,
+      "confirmed": 12,
       "deaths": 0,
       "recovered": 0
     }
@@ -2394,7 +1284,7 @@
     "country_code": "SK",
     "province": "",
     "data": {
-      "confirmed": 7,
+      "confirmed": 10,
       "deaths": 0,
       "recovered": 0
     }
@@ -2412,186 +1302,6 @@
       "confirmed": 1,
       "deaths": 0,
       "recovered": 0
-    }
-  },
-  {
-    "id": "fd940b01f4f27904e612c9262d753ac4",
-    "location": [
-      "-79.1781",
-      "35.7211"
-    ],
-    "country": "US",
-    "country_code": "US",
-    "province": "Chatham County, NC",
-    "data": {
-      "confirmed": 1,
-      "deaths": 0,
-      "recovered": 0
-    }
-  },
-  {
-    "id": "1dcb0022ac501c84f709a270940ee395",
-    "location": [
-      "-75.3879",
-      "39.9078"
-    ],
-    "country": "US",
-    "country_code": "US",
-    "province": "Delaware County, PA",
-    "data": {
-      "confirmed": 1,
-      "deaths": 0,
-      "recovered": 0
-    }
-  },
-  {
-    "id": "8375b87c9dc9b2ecae760b9b69926d84",
-    "location": [
-      "-96.1951",
-      "41.3148"
-    ],
-    "country": "US",
-    "country_code": "US",
-    "province": "Douglas County, NE",
-    "data": {
-      "confirmed": 3,
-      "deaths": 0,
-      "recovered": 0
-    }
-  },
-  {
-    "id": "2cb92c64229e5be28de98c51c7dfa1ab",
-    "location": [
-      "-84.4803",
-      "38.0606"
-    ],
-    "country": "US",
-    "country_code": "US",
-    "province": "Fayette County, KY",
-    "data": {
-      "confirmed": 2,
-      "deaths": 0,
-      "recovered": 0
-    }
-  },
-  {
-    "id": "1b6521454d1f14a3bd28d350f525510e",
-    "location": [
-      "-86.1752",
-      "39.8362"
-    ],
-    "country": "US",
-    "country_code": "US",
-    "province": "Marion County, IN",
-    "data": {
-      "confirmed": 1,
-      "deaths": 0,
-      "recovered": 0
-    }
-  },
-  {
-    "id": "78f1915d2f085e47f51c51c0b1918cf2",
-    "location": [
-      "-71.2874",
-      "42.4672"
-    ],
-    "country": "US",
-    "country_code": "US",
-    "province": "Middlesex County, MA",
-    "data": {
-      "confirmed": 15,
-      "deaths": 0,
-      "recovered": 0
-    }
-  },
-  {
-    "id": "6514dbdde609e87070774f8971b5b37c",
-    "location": [
-      "-73.5594",
-      "40.6546"
-    ],
-    "country": "US",
-    "country_code": "US",
-    "province": "Nassau County, NY",
-    "data": {
-      "confirmed": 19,
-      "deaths": 0,
-      "recovered": 0
-    }
-  },
-  {
-    "id": "b038f6fa64c2310688f8ced3c12cd8c3",
-    "location": [
-      "-93.0616",
-      "44.9964"
-    ],
-    "country": "US",
-    "country_code": "US",
-    "province": "Ramsey County, MN",
-    "data": {
-      "confirmed": 1,
-      "deaths": 0,
-      "recovered": 0
-    }
-  },
-  {
-    "id": "567178b010c5001ac62ea80db6b10abc",
-    "location": [
-      "-119.6035",
-      "40.5608"
-    ],
-    "country": "US",
-    "country_code": "US",
-    "province": "Washoe County, NV",
-    "data": {
-      "confirmed": 2,
-      "deaths": 0,
-      "recovered": 0
-    }
-  },
-  {
-    "id": "d573ec58be5262bc2dc00ebac6c4c845",
-    "location": [
-      "-75.2479",
-      "41.6739"
-    ],
-    "country": "US",
-    "country_code": "US",
-    "province": "Wayne County, PA",
-    "data": {
-      "confirmed": 1,
-      "deaths": 0,
-      "recovered": 0
-    }
-  },
-  {
-    "id": "5e110d580b2a7e96a266ced5247dc367",
-    "location": [
-      "-121.9018",
-      "38.7646"
-    ],
-    "country": "US",
-    "country_code": "US",
-    "province": "Yolo County, CA",
-    "data": {
-      "confirmed": 1,
-      "deaths": 0,
-      "recovered": 0
-    }
-  },
-  {
-    "id": "95d80f71a4e185f1b70df821b52f30cb",
-    "location": [
-      "-121.9552",
-      "37.3541"
-    ],
-    "country": "US",
-    "country_code": "US",
-    "province": "Santa Clara County, CA",
-    "data": {
-      "confirmed": 43,
-      "deaths": 1,
-      "recovered": 1
     }
   },
   {
@@ -2619,37 +1329,7 @@
     "country_code": "MT",
     "province": "",
     "data": {
-      "confirmed": 5,
-      "deaths": 0,
-      "recovered": 0
-    }
-  },
-  {
-    "id": "df17238ca574cf7313ef65d228bc0c18",
-    "location": [
-      "-104.9389",
-      "39.2587"
-    ],
-    "country": "US",
-    "country_code": "US",
-    "province": "Douglas County, CO",
-    "data": {
-      "confirmed": 3,
-      "deaths": 0,
-      "recovered": 0
-    }
-  },
-  {
-    "id": "f5b8b3f18c19e8601c022a39c0563a1b",
-    "location": [
-      "-71.4774",
-      "41.8882"
-    ],
-    "country": "US",
-    "country_code": "US",
-    "province": "Providence County, RI",
-    "data": {
-      "confirmed": 3,
+      "confirmed": 6,
       "deaths": 0,
       "recovered": 0
     }
@@ -2664,292 +1344,7 @@
     "country_code": "MQ",
     "province": "",
     "data": {
-      "confirmed": 2,
-      "deaths": 0,
-      "recovered": 0
-    }
-  },
-  {
-    "id": "3b4711c39eb9b726e2c3cad1c0cc5980",
-    "location": [
-      "-121.7195",
-      "37.6017"
-    ],
-    "country": "US",
-    "country_code": "US",
-    "province": "Alameda County, CA",
-    "data": {
       "confirmed": 3,
-      "deaths": 0,
-      "recovered": 0
-    }
-  },
-  {
-    "id": "5601e22c03cc6085feb7d95f37c2afbb",
-    "location": [
-      "-80.3659",
-      "26.1901"
-    ],
-    "country": "US",
-    "country_code": "US",
-    "province": "Broward County, FL",
-    "data": {
-      "confirmed": 5,
-      "deaths": 0,
-      "recovered": 0
-    }
-  },
-  {
-    "id": "2580296dd93dc137169a3d68dca03cf5",
-    "location": [
-      "-81.9535",
-      "26.663"
-    ],
-    "country": "US",
-    "country_code": "US",
-    "province": "Lee County, FL",
-    "data": {
-      "confirmed": 2,
-      "deaths": 1,
-      "recovered": 0
-    }
-  },
-  {
-    "id": "e8e84458a90540e43be2291b293038d0",
-    "location": [
-      "-111.2845",
-      "32.8162"
-    ],
-    "country": "US",
-    "country_code": "US",
-    "province": "Pinal County, AZ",
-    "data": {
-      "confirmed": 3,
-      "deaths": 0,
-      "recovered": 0
-    }
-  },
-  {
-    "id": "4eb62d2b08fde4f434a97e9a669cbb8d",
-    "location": [
-      "-73.983",
-      "41.1489"
-    ],
-    "country": "US",
-    "country_code": "US",
-    "province": "Rockland County, NY",
-    "data": {
-      "confirmed": 4,
-      "deaths": 0,
-      "recovered": 0
-    }
-  },
-  {
-    "id": "9dce8be431bed9b09f0a153dc59efdd7",
-    "location": [
-      "-73.936",
-      "43.0324"
-    ],
-    "country": "US",
-    "country_code": "US",
-    "province": "Saratoga County, NY",
-    "data": {
-      "confirmed": 2,
-      "deaths": 0,
-      "recovered": 0
-    }
-  },
-  {
-    "id": "8768164f037da62b40a0464ccc620f0b",
-    "location": [
-      "-79.7848",
-      "32.7957"
-    ],
-    "country": "US",
-    "country_code": "US",
-    "province": "Charleston County, SC",
-    "data": {
-      "confirmed": 1,
-      "deaths": 0,
-      "recovered": 0
-    }
-  },
-  {
-    "id": "d9fb71ee711f33fece5566c9131bfcc1",
-    "location": [
-      "-122.5194",
-      "45.7466"
-    ],
-    "country": "US",
-    "country_code": "US",
-    "province": "Clark County, WA",
-    "data": {
-      "confirmed": 1,
-      "deaths": 0,
-      "recovered": 0
-    }
-  },
-  {
-    "id": "ab7c49de9644589a2229957699dd3878",
-    "location": [
-      "-84.5641",
-      "33.8999"
-    ],
-    "country": "US",
-    "country_code": "US",
-    "province": "Cobb County, GA",
-    "data": {
-      "confirmed": 4,
-      "deaths": 0,
-      "recovered": 0
-    }
-  },
-  {
-    "id": "f672c0dcf210ae7fbcf1997cfe5c9ad6",
-    "location": [
-      "-112.0953",
-      "40.9629"
-    ],
-    "country": "US",
-    "country_code": "US",
-    "province": "Davis County, UT",
-    "data": {
-      "confirmed": 1,
-      "deaths": 0,
-      "recovered": 0
-    }
-  },
-  {
-    "id": "b1c49a155d0184d4acfb0e0ef6e8ec2f",
-    "location": [
-      "-104.4723",
-      "38.9108"
-    ],
-    "country": "US",
-    "country_code": "US",
-    "province": "El Paso County, CO",
-    "data": {
-      "confirmed": 1,
-      "deaths": 0,
-      "recovered": 0
-    }
-  },
-  {
-    "id": "13df908d20818e85d13a6f1911e248a7",
-    "location": [
-      "-157.8584",
-      "21.307"
-    ],
-    "country": "US",
-    "country_code": "US",
-    "province": "Honolulu County, HI",
-    "data": {
-      "confirmed": 1,
-      "deaths": 0,
-      "recovered": 0
-    }
-  },
-  {
-    "id": "b39f03f60b91be782082605d80b9a151",
-    "location": [
-      "-122.7647",
-      "42.3345"
-    ],
-    "country": "US",
-    "country_code": "US",
-    "province": "Jackson County, OR ",
-    "data": {
-      "confirmed": 2,
-      "deaths": 0,
-      "recovered": 0
-    }
-  },
-  {
-    "id": "f00a7a68861d874bb9d6524bce7a1c23",
-    "location": [
-      "-123.304",
-      "47.7425"
-    ],
-    "country": "US",
-    "country_code": "US",
-    "province": "Jefferson County, WA",
-    "data": {
-      "confirmed": 1,
-      "deaths": 0,
-      "recovered": 0
-    }
-  },
-  {
-    "id": "748e071736cc8900c10968162dda8d9e",
-    "location": [
-      "-80.5883",
-      "34.3672"
-    ],
-    "country": "US",
-    "country_code": "US",
-    "province": "Kershaw County, SC",
-    "data": {
-      "confirmed": 1,
-      "deaths": 0,
-      "recovered": 0
-    }
-  },
-  {
-    "id": "fdffd2926d95a9be1ab792e6f6b983e7",
-    "location": [
-      "-121.6142",
-      "42.6953"
-    ],
-    "country": "US",
-    "country_code": "US",
-    "province": "Klamath County, OR",
-    "data": {
-      "confirmed": 1,
-      "deaths": 0,
-      "recovered": 0
-    }
-  },
-  {
-    "id": "e34671042d76b34dab1a8a99ae15f9aa",
-    "location": [
-      "-119.6963",
-      "37.2519"
-    ],
-    "country": "US",
-    "country_code": "US",
-    "province": "Madera County, CA",
-    "data": {
-      "confirmed": 1,
-      "deaths": 0,
-      "recovered": 0
-    }
-  },
-  {
-    "id": "80168876ceee9a7a75f410174fae4e88",
-    "location": [
-      "-122.1295",
-      "47.0676"
-    ],
-    "country": "US",
-    "country_code": "US",
-    "province": "Pierce County, WA",
-    "data": {
-      "confirmed": 4,
-      "deaths": 0,
-      "recovered": 0
-    }
-  },
-  {
-    "id": "01dd844324f754fe35a7ecb35337a4fc",
-    "location": [
-      "-95.941",
-      "36.1593"
-    ],
-    "country": "US",
-    "country_code": "US",
-    "province": "Tulsa County, OK",
-    "data": {
-      "confirmed": 2,
       "deaths": 0,
       "recovered": 0
     }
@@ -2964,8 +1359,8 @@
     "country_code": "BG",
     "province": "",
     "data": {
-      "confirmed": 4,
-      "deaths": 0,
+      "confirmed": 7,
+      "deaths": 1,
       "recovered": 0
     }
   },
@@ -2978,21 +1373,6 @@
     "country": "Maldives",
     "country_code": "MV",
     "province": "",
-    "data": {
-      "confirmed": 6,
-      "deaths": 0,
-      "recovered": 0
-    }
-  },
-  {
-    "id": "4dcc109383d5f18622b9dcaf5a60c748",
-    "location": [
-      "-75.3879",
-      "40.229"
-    ],
-    "country": "US",
-    "country_code": "US",
-    "province": "Montgomery County, PA",
     "data": {
       "confirmed": 8,
       "deaths": 0,
@@ -3015,51 +1395,6 @@
     }
   },
   {
-    "id": "fb88b8de9ca2f282b1050d7ad1a55964",
-    "location": [
-      "-77.2405",
-      "38.9085"
-    ],
-    "country": "US",
-    "country_code": "US",
-    "province": "Fairfax County, VA",
-    "data": {
-      "confirmed": 4,
-      "deaths": 0,
-      "recovered": 0
-    }
-  },
-  {
-    "id": "463e995425bfbeb4c7cb2751c7514f83",
-    "location": [
-      "-71.0498",
-      "42.9931"
-    ],
-    "country": "US",
-    "country_code": "US",
-    "province": "Rockingham County, NH",
-    "data": {
-      "confirmed": 1,
-      "deaths": 0,
-      "recovered": 0
-    }
-  },
-  {
-    "id": "9fbb877af9cb59d5a029d711e975dda5",
-    "location": [
-      "-77.0369",
-      "38.9072"
-    ],
-    "country": "US",
-    "country_code": "US",
-    "province": "Washington, D.C.",
-    "data": {
-      "confirmed": 5,
-      "deaths": 0,
-      "recovered": 0
-    }
-  },
-  {
     "id": "db102044d0b7b1d69bbf55c75f412e27",
     "location": [
       "-58.4438",
@@ -3069,292 +1404,7 @@
     "country_code": "PY",
     "province": "",
     "data": {
-      "confirmed": 1,
-      "deaths": 0,
-      "recovered": 0
-    }
-  },
-  {
-    "id": "7e6d51dce87df09d381fd0e1e62046bf",
-    "location": [
-      "-73.1822",
-      "42.3118"
-    ],
-    "country": "US",
-    "country_code": "US",
-    "province": "Berkshire County, MA",
-    "data": {
       "confirmed": 5,
-      "deaths": 0,
-      "recovered": 0
-    }
-  },
-  {
-    "id": "ae020929f541b7a5ce96fab49319aee6",
-    "location": [
-      "-86.822",
-      "36.1343"
-    ],
-    "country": "US",
-    "country_code": "US",
-    "province": "Davidson County, TN",
-    "data": {
-      "confirmed": 1,
-      "deaths": 0,
-      "recovered": 0
-    }
-  },
-  {
-    "id": "86780788d8470876908b22e54889f0e8",
-    "location": [
-      "-123.2492",
-      "43.1261"
-    ],
-    "country": "US",
-    "country_code": "US",
-    "province": "Douglas County, OR",
-    "data": {
-      "confirmed": 1,
-      "deaths": 0,
-      "recovered": 0
-    }
-  },
-  {
-    "id": "6733fb096672bef700a049c744898e32",
-    "location": [
-      "-119.2321",
-      "36.9859"
-    ],
-    "country": "US",
-    "country_code": "US",
-    "province": "Fresno County, CA",
-    "data": {
-      "confirmed": 1,
-      "deaths": 0,
-      "recovered": 0
-    }
-  },
-  {
-    "id": "a5cbe06b9605c774239fd844055133d6",
-    "location": [
-      "-76.3637",
-      "39.5839"
-    ],
-    "country": "US",
-    "country_code": "US",
-    "province": "Harford County, MD",
-    "data": {
-      "confirmed": 1,
-      "deaths": 0,
-      "recovered": 0
-    }
-  },
-  {
-    "id": "b7f9a37e4338bd754fce0226015c081c",
-    "location": [
-      "-86.5401",
-      "39.8065"
-    ],
-    "country": "US",
-    "country_code": "US",
-    "province": "Hendricks County, IN",
-    "data": {
-      "confirmed": 2,
-      "deaths": 0,
-      "recovered": 0
-    }
-  },
-  {
-    "id": "3b8f938358647f2f970d8208e9058fe5",
-    "location": [
-      "-74.0535",
-      "40.7453"
-    ],
-    "country": "US",
-    "country_code": "US",
-    "province": "Hudson County, NJ",
-    "data": {
-      "confirmed": 1,
-      "deaths": 0,
-      "recovered": 0
-    }
-  },
-  {
-    "id": "895a640b383c80aeda93c2df6771ed0d",
-    "location": [
-      "-94.8521",
-      "38.8454"
-    ],
-    "country": "US",
-    "country_code": "US",
-    "province": "Johnson County, KS",
-    "data": {
-      "confirmed": 1,
-      "deaths": 0,
-      "recovered": 0
-    }
-  },
-  {
-    "id": "bc9b0b62657092385f5a7d0a045faf1a",
-    "location": [
-      "-120.9319",
-      "47.175"
-    ],
-    "country": "US",
-    "country_code": "US",
-    "province": "Kittitas County, WA",
-    "data": {
-      "confirmed": 1,
-      "deaths": 0,
-      "recovered": 0
-    }
-  },
-  {
-    "id": "d2ee4be3d8553532cace8b910a534037",
-    "location": [
-      "-82.3452",
-      "27.4799"
-    ],
-    "country": "US",
-    "country_code": "US",
-    "province": "Manatee County, FL",
-    "data": {
-      "confirmed": 2,
-      "deaths": 0,
-      "recovered": 0
-    }
-  },
-  {
-    "id": "ab45254ed4f2913a7de3179a8be03e8e",
-    "location": [
-      "-122.5927",
-      "44.8446"
-    ],
-    "country": "US",
-    "country_code": "US",
-    "province": "Marion County, OR",
-    "data": {
-      "confirmed": 1,
-      "deaths": 0,
-      "recovered": 0
-    }
-  },
-  {
-    "id": "851d452c1cf0a0822c375c77845dda76",
-    "location": [
-      "-86.6611",
-      "30.5773"
-    ],
-    "country": "US",
-    "country_code": "US",
-    "province": "Okaloosa County, FL",
-    "data": {
-      "confirmed": 1,
-      "deaths": 0,
-      "recovered": 0
-    }
-  },
-  {
-    "id": "757867b3dd961181261c73a4ab7c39d3",
-    "location": [
-      "-85.1479",
-      "34.0132"
-    ],
-    "country": "US",
-    "country_code": "US",
-    "province": "Polk County, GA",
-    "data": {
-      "confirmed": 1,
-      "deaths": 0,
-      "recovered": 0
-    }
-  },
-  {
-    "id": "85c9983754c63cb6019f4038ef7cb58a",
-    "location": [
-      "-117.3961",
-      "33.9533"
-    ],
-    "country": "US",
-    "country_code": "US",
-    "province": "Riverside County, CA",
-    "data": {
-      "confirmed": 4,
-      "deaths": 0,
-      "recovered": 0
-    }
-  },
-  {
-    "id": "1a06efe6477b787ca90df8ef55124230",
-    "location": [
-      "-89.9253",
-      "35.1269"
-    ],
-    "country": "US",
-    "country_code": "US",
-    "province": "Shelby County, TN",
-    "data": {
-      "confirmed": 1,
-      "deaths": 0,
-      "recovered": 0
-    }
-  },
-  {
-    "id": "fc21c0da4bb2736f70108a7b4dbe623a",
-    "location": [
-      "-90.4125",
-      "38.6103"
-    ],
-    "country": "US",
-    "country_code": "US",
-    "province": "St. Louis County, MO",
-    "data": {
-      "confirmed": 1,
-      "deaths": 0,
-      "recovered": 0
-    }
-  },
-  {
-    "id": "2cb653879394d4f4fc9236902177cb2e",
-    "location": [
-      "-72.6151",
-      "40.9849"
-    ],
-    "country": "US",
-    "country_code": "US",
-    "province": "Suffolk County, NY",
-    "data": {
-      "confirmed": 1,
-      "deaths": 0,
-      "recovered": 0
-    }
-  },
-  {
-    "id": "4ee4a80c4577971fa0e678b57af7be63",
-    "location": [
-      "-74.3118",
-      "41.8586"
-    ],
-    "country": "US",
-    "country_code": "US",
-    "province": "Ulster County, NY",
-    "data": {
-      "confirmed": 1,
-      "deaths": 0,
-      "recovered": 0
-    }
-  },
-  {
-    "id": "55b1885c4aad6468e23b265c0a2bd1c7",
-    "location": [
-      "-81.0755",
-      "29.028"
-    ],
-    "country": "US",
-    "country_code": "US",
-    "province": "Volusia County, FL",
-    "data": {
-      "confirmed": 2,
       "deaths": 0,
       "recovered": 0
     }
@@ -3369,7 +1419,7 @@
     "country_code": "CA",
     "province": "Ontario",
     "data": {
-      "confirmed": 36,
+      "confirmed": 41,
       "deaths": 0,
       "recovered": 4
     }
@@ -3384,7 +1434,7 @@
     "country_code": "CA",
     "province": "Alberta",
     "data": {
-      "confirmed": 7,
+      "confirmed": 19,
       "deaths": 0,
       "recovered": 0
     }
@@ -3399,22 +1449,7 @@
     "country_code": "CA",
     "province": "Quebec",
     "data": {
-      "confirmed": 4,
-      "deaths": 0,
-      "recovered": 0
-    }
-  },
-  {
-    "id": "48f17ec34f691ae195f3b8398e1f50f4",
-    "location": [
-      "-91.5984",
-      "41.6699"
-    ],
-    "country": "US",
-    "country_code": "US",
-    "province": "Johnson County, IA",
-    "data": {
-      "confirmed": 7,
+      "confirmed": 8,
       "deaths": 0,
       "recovered": 0
     }
@@ -3429,8 +1464,8 @@
     "country_code": "AL",
     "province": "",
     "data": {
-      "confirmed": 10,
-      "deaths": 0,
+      "confirmed": 12,
+      "deaths": 1,
       "recovered": 0
     }
   },
@@ -3444,22 +1479,7 @@
     "country_code": "CY",
     "province": "",
     "data": {
-      "confirmed": 3,
-      "deaths": 0,
-      "recovered": 0
-    }
-  },
-  {
-    "id": "cc752ba64041376349bc87fb10d5d5e4",
-    "location": [
-      "-84.3542",
-      "38.4333"
-    ],
-    "country": "US",
-    "country_code": "US",
-    "province": "Harrison County, KY",
-    "data": {
-      "confirmed": 2,
+      "confirmed": 6,
       "deaths": 0,
       "recovered": 0
     }
@@ -3474,174 +1494,9 @@
     "country_code": "BN",
     "province": "",
     "data": {
-      "confirmed": 1,
+      "confirmed": 11,
       "deaths": 0,
       "recovered": 0
-    }
-  },
-  {
-    "id": "e0bf947c4a1dd1a6bbd6ac72345cff25",
-    "location": [
-      "-73.135",
-      "43.0279"
-    ],
-    "country": "US",
-    "country_code": "US",
-    "province": "Bennington County, VT",
-    "data": {
-      "confirmed": 1,
-      "deaths": 0,
-      "recovered": 0
-    }
-  },
-  {
-    "id": "273763a5ad29f8d17edb6ee633332980",
-    "location": [
-      "-93.7842",
-      "44.8254"
-    ],
-    "country": "US",
-    "country_code": "US",
-    "province": "Carver County, MN",
-    "data": {
-      "confirmed": 1,
-      "deaths": 0,
-      "recovered": 0
-    }
-  },
-  {
-    "id": "c2ee88f20193becdfed9a7a2d260a8bd",
-    "location": [
-      "-81.9098",
-      "26.8946"
-    ],
-    "country": "US",
-    "country_code": "US",
-    "province": "Charlotte County, FL",
-    "data": {
-      "confirmed": 1,
-      "deaths": 0,
-      "recovered": 0
-    }
-  },
-  {
-    "id": "922cc3083a3f8481eb4fdcb2e6c36931",
-    "location": [
-      "-84.4803",
-      "34.2515"
-    ],
-    "country": "US",
-    "country_code": "US",
-    "province": "Cherokee County, GA",
-    "data": {
-      "confirmed": 1,
-      "deaths": 0,
-      "recovered": 0
-    }
-  },
-  {
-    "id": "f597234544537e635d8eb59cb64aaa85",
-    "location": [
-      "-96.493",
-      "33.1795"
-    ],
-    "country": "US",
-    "country_code": "US",
-    "province": "Collin County, TX",
-    "data": {
-      "confirmed": 3,
-      "deaths": 0,
-      "recovered": 0
-    }
-  },
-  {
-    "id": "d0f7ed92aed898fd890957db4616ec42",
-    "location": [
-      "-85.6435",
-      "38.1938"
-    ],
-    "country": "US",
-    "country_code": "US",
-    "province": "Jefferson County, KY",
-    "data": {
-      "confirmed": 1,
-      "deaths": 0,
-      "recovered": 0
-    }
-  },
-  {
-    "id": "ba306815c9e2b0fbf559dafd3ba26339",
-    "location": [
-      "-90.1121",
-      "29.6499"
-    ],
-    "country": "US",
-    "country_code": "US",
-    "province": "Jefferson Parish, LA",
-    "data": {
-      "confirmed": 1,
-      "deaths": 0,
-      "recovered": 0
-    }
-  },
-  {
-    "id": "a481376d72069e85c8120ac0ec822884",
-    "location": [
-      "-121.8474",
-      "40.7909"
-    ],
-    "country": "US",
-    "country_code": "US",
-    "province": "Shasta County, CA",
-    "data": {
-      "confirmed": 1,
-      "deaths": 0,
-      "recovered": 0
-    }
-  },
-  {
-    "id": "88e2f3b69a1bbb5e488188b81b0ac197",
-    "location": [
-      "-81.9535",
-      "34.8606"
-    ],
-    "country": "US",
-    "country_code": "US",
-    "province": "Spartanburg County, SC",
-    "data": {
-      "confirmed": 1,
-      "deaths": 0,
-      "recovered": 0
-    }
-  },
-  {
-    "id": "48a54ea36a0a4155d200e8b6277cd17d",
-    "location": [
-      "53",
-      "32"
-    ],
-    "country": "Iran (Islamic Republic of)",
-    "country_code": "IR",
-    "province": "",
-    "data": {
-      "confirmed": 8042,
-      "deaths": 291,
-      "recovered": 2731
-    }
-  },
-  {
-    "id": "04030d8c0cc6a5312aab0a96ddd582a1",
-    "location": [
-      "128",
-      "36"
-    ],
-    "country": "Republic of Korea",
-    "country_code": "KR",
-    "province": "",
-    "data": {
-      "confirmed": 7513,
-      "deaths": 54,
-      "recovered": 247
     }
   },
   {
@@ -3654,8 +1509,8 @@
     "country_code": "US",
     "province": "Washington",
     "data": {
-      "confirmed": 267,
-      "deaths": 23,
+      "confirmed": 366,
+      "deaths": 29,
       "recovered": 1
     }
   },
@@ -3669,7 +1524,7 @@
     "country_code": "US",
     "province": "New York",
     "data": {
-      "confirmed": 173,
+      "confirmed": 220,
       "deaths": 0,
       "recovered": 0
     }
@@ -3684,24 +1539,9 @@
     "country_code": "US",
     "province": "California",
     "data": {
-      "confirmed": 144,
-      "deaths": 2,
-      "recovered": 2
-    }
-  },
-  {
-    "id": "d77a888c2183fd38c45079708c9cf0f5",
-    "location": [
-      "114.2",
-      "22.3"
-    ],
-    "country": "Hong Kong SAR",
-    "country_code": "HK",
-    "province": "Hong Kong",
-    "data": {
-      "confirmed": 120,
+      "confirmed": 177,
       "deaths": 3,
-      "recovered": 65
+      "recovered": 2
     }
   },
   {
@@ -3714,24 +1554,9 @@
     "country_code": "US",
     "province": "Massachusetts",
     "data": {
-      "confirmed": 92,
+      "confirmed": 95,
       "deaths": 0,
       "recovered": 1
-    }
-  },
-  {
-    "id": "7e93c9207171a5aa7c867f745a661cea",
-    "location": [
-      "121",
-      "23.7"
-    ],
-    "country": "Taiwan",
-    "country_code": "TW",
-    "province": "Taiwan",
-    "data": {
-      "confirmed": 47,
-      "deaths": 1,
-      "recovered": 17
     }
   },
   {
@@ -3745,36 +1570,6 @@
     "province": "Diamond Princess",
     "data": {
       "confirmed": 46,
-      "deaths": 0,
-      "recovered": 0
-    }
-  },
-  {
-    "id": "0dfdad8bdc860da5c957638b3e416ad3",
-    "location": [
-      "108",
-      "16"
-    ],
-    "country": "Viet Nam",
-    "country_code": "VN",
-    "province": "",
-    "data": {
-      "confirmed": 31,
-      "deaths": 0,
-      "recovered": 16
-    }
-  },
-  {
-    "id": "aa31c62d26dbacf737d2e1022012d207",
-    "location": [
-      "35.2332",
-      "31.9522"
-    ],
-    "country": "Palestine, State of",
-    "country_code": "PS",
-    "province": "",
-    "data": {
-      "confirmed": 25,
       "deaths": 0,
       "recovered": 0
     }
@@ -3804,7 +1599,7 @@
     "country_code": "US",
     "province": "Georgia",
     "data": {
-      "confirmed": 17,
+      "confirmed": 23,
       "deaths": 0,
       "recovered": 0
     }
@@ -3819,7 +1614,7 @@
     "country_code": "US",
     "province": "Colorado",
     "data": {
-      "confirmed": 15,
+      "confirmed": 34,
       "deaths": 0,
       "recovered": 0
     }
@@ -3834,7 +1629,7 @@
     "country_code": "US",
     "province": "Florida",
     "data": {
-      "confirmed": 15,
+      "confirmed": 28,
       "deaths": 2,
       "recovered": 0
     }
@@ -3849,7 +1644,7 @@
     "country_code": "US",
     "province": "New Jersey",
     "data": {
-      "confirmed": 15,
+      "confirmed": 23,
       "deaths": 1,
       "recovered": 0
     }
@@ -3864,7 +1659,7 @@
     "country_code": "US",
     "province": "Oregon",
     "data": {
-      "confirmed": 15,
+      "confirmed": 19,
       "deaths": 0,
       "recovered": 0
     }
@@ -3879,7 +1674,7 @@
     "country_code": "US",
     "province": "Texas",
     "data": {
-      "confirmed": 13,
+      "confirmed": 21,
       "deaths": 0,
       "recovered": 0
     }
@@ -3894,7 +1689,7 @@
     "country_code": "US",
     "province": "Illinois",
     "data": {
-      "confirmed": 12,
+      "confirmed": 25,
       "deaths": 0,
       "recovered": 2
     }
@@ -3909,39 +1704,9 @@
     "country_code": "US",
     "province": "Pennsylvania",
     "data": {
-      "confirmed": 12,
+      "confirmed": 16,
       "deaths": 0,
       "recovered": 0
-    }
-  },
-  {
-    "id": "39fbf54c68641940e913b023e61a74ea",
-    "location": [
-      "113.55",
-      "22.1667"
-    ],
-    "country": "Macao",
-    "country_code": "MO",
-    "province": "Macau",
-    "data": {
-      "confirmed": 10,
-      "deaths": 0,
-      "recovered": 10
-    }
-  },
-  {
-    "id": "4058fbcc46fe7e90ac9e099c47fc86ed",
-    "location": [
-      "90",
-      "60"
-    ],
-    "country": "Russian Federation",
-    "country_code": "RU",
-    "province": "",
-    "data": {
-      "confirmed": 20,
-      "deaths": 0,
-      "recovered": 3
     }
   },
   {
@@ -3954,7 +1719,7 @@
     "country_code": "US",
     "province": "Iowa",
     "data": {
-      "confirmed": 8,
+      "confirmed": 13,
       "deaths": 0,
       "recovered": 0
     }
@@ -3969,7 +1734,7 @@
     "country_code": "US",
     "province": "Maryland",
     "data": {
-      "confirmed": 8,
+      "confirmed": 9,
       "deaths": 0,
       "recovered": 0
     }
@@ -3999,7 +1764,7 @@
     "country_code": "US",
     "province": "South Carolina",
     "data": {
-      "confirmed": 7,
+      "confirmed": 10,
       "deaths": 0,
       "recovered": 0
     }
@@ -4014,7 +1779,7 @@
     "country_code": "US",
     "province": "Tennessee",
     "data": {
-      "confirmed": 7,
+      "confirmed": 9,
       "deaths": 0,
       "recovered": 0
     }
@@ -4029,7 +1794,7 @@
     "country_code": "US",
     "province": "Virginia",
     "data": {
-      "confirmed": 7,
+      "confirmed": 9,
       "deaths": 0,
       "recovered": 0
     }
@@ -4044,7 +1809,7 @@
     "country_code": "US",
     "province": "Arizona",
     "data": {
-      "confirmed": 6,
+      "confirmed": 9,
       "deaths": 0,
       "recovered": 1
     }
@@ -4059,7 +1824,7 @@
     "country_code": "US",
     "province": "Indiana",
     "data": {
-      "confirmed": 6,
+      "confirmed": 11,
       "deaths": 0,
       "recovered": 0
     }
@@ -4074,7 +1839,7 @@
     "country_code": "US",
     "province": "Kentucky",
     "data": {
-      "confirmed": 6,
+      "confirmed": 8,
       "deaths": 0,
       "recovered": 0
     }
@@ -4089,7 +1854,7 @@
     "country_code": "US",
     "province": "District of Columbia",
     "data": {
-      "confirmed": 5,
+      "confirmed": 10,
       "deaths": 0,
       "recovered": 0
     }
@@ -4104,7 +1869,7 @@
     "country_code": "US",
     "province": "Nevada",
     "data": {
-      "confirmed": 4,
+      "confirmed": 7,
       "deaths": 0,
       "recovered": 0
     }
@@ -4119,22 +1884,7 @@
     "country_code": "US",
     "province": "New Hampshire",
     "data": {
-      "confirmed": 4,
-      "deaths": 0,
-      "recovered": 0
-    }
-  },
-  {
-    "id": "148b1dcb18f3120c6ea78f75bc2af1d4",
-    "location": [
-      "28.3699",
-      "47.4116"
-    ],
-    "country": "Republic of Moldova",
-    "country_code": "MD",
-    "province": "",
-    "data": {
-      "confirmed": 3,
+      "confirmed": 5,
       "deaths": 0,
       "recovered": 0
     }
@@ -4149,7 +1899,7 @@
     "country_code": "US",
     "province": "Minnesota",
     "data": {
-      "confirmed": 3,
+      "confirmed": 5,
       "deaths": 0,
       "recovered": 0
     }
@@ -4164,7 +1914,7 @@
     "country_code": "US",
     "province": "Nebraska",
     "data": {
-      "confirmed": 3,
+      "confirmed": 5,
       "deaths": 0,
       "recovered": 0
     }
@@ -4179,7 +1929,7 @@
     "country_code": "US",
     "province": "Ohio",
     "data": {
-      "confirmed": 3,
+      "confirmed": 4,
       "deaths": 0,
       "recovered": 0
     }
@@ -4194,7 +1944,7 @@
     "country_code": "US",
     "province": "Rhode Island",
     "data": {
-      "confirmed": 3,
+      "confirmed": 5,
       "deaths": 0,
       "recovered": 0
     }
@@ -4209,24 +1959,9 @@
     "country_code": "US",
     "province": "Wisconsin",
     "data": {
-      "confirmed": 3,
+      "confirmed": 6,
       "deaths": 0,
       "recovered": 1
-    }
-  },
-  {
-    "id": "309648a8df5a8e5f2c1cacb585cb5178",
-    "location": [
-      "-63.0501",
-      "18.0708"
-    ],
-    "country": "Saint Martin",
-    "country_code": "MF",
-    "province": "",
-    "data": {
-      "confirmed": 2,
-      "deaths": 0,
-      "recovered": 0
     }
   },
   {
@@ -4239,7 +1974,7 @@
     "country_code": "US",
     "province": "Connecticut",
     "data": {
-      "confirmed": 2,
+      "confirmed": 3,
       "deaths": 0,
       "recovered": 0
     }
@@ -4284,7 +2019,7 @@
     "country_code": "US",
     "province": "Utah",
     "data": {
-      "confirmed": 2,
+      "confirmed": 3,
       "deaths": 0,
       "recovered": 0
     }
@@ -4299,22 +2034,7 @@
     "country_code": "BF",
     "province": "",
     "data": {
-      "confirmed": 1,
-      "deaths": 0,
-      "recovered": 0
-    }
-  },
-  {
-    "id": "847fa52ac098cea99b98d710edabac58",
-    "location": [
-      "-2.3644",
-      "49.3723"
-    ],
-    "country": "Channel Islands",
-    "country_code": "XX",
-    "province": "",
-    "data": {
-      "confirmed": 1,
+      "confirmed": 2,
       "deaths": 0,
       "recovered": 0
     }
@@ -4359,8 +2079,8 @@
     "country_code": "PA",
     "province": "",
     "data": {
-      "confirmed": 1,
-      "deaths": 0,
+      "confirmed": 8,
+      "deaths": 1,
       "recovered": 0
     }
   },
@@ -4389,7 +2109,7 @@
     "country_code": "US",
     "province": "Louisiana",
     "data": {
-      "confirmed": 1,
+      "confirmed": 6,
       "deaths": 0,
       "recovered": 0
     }
@@ -4449,7 +2169,7 @@
     "country_code": "US",
     "province": "Arkansas",
     "data": {
-      "confirmed": 0,
+      "confirmed": 1,
       "deaths": 0,
       "recovered": 0
     }
@@ -4464,7 +2184,7 @@
     "country_code": "US",
     "province": "Delaware",
     "data": {
-      "confirmed": 0,
+      "confirmed": 1,
       "deaths": 0,
       "recovered": 0
     }
@@ -4509,7 +2229,7 @@
     "country_code": "US",
     "province": "Michigan",
     "data": {
-      "confirmed": 0,
+      "confirmed": 2,
       "deaths": 0,
       "recovered": 0
     }
@@ -4539,7 +2259,7 @@
     "country_code": "US",
     "province": "Montana",
     "data": {
-      "confirmed": 0,
+      "confirmed": 1,
       "deaths": 0,
       "recovered": 0
     }
@@ -4554,7 +2274,7 @@
     "country_code": "US",
     "province": "New Mexico",
     "data": {
-      "confirmed": 0,
+      "confirmed": 3,
       "deaths": 0,
       "recovered": 0
     }
@@ -4584,8 +2304,8 @@
     "country_code": "US",
     "province": "South Dakota",
     "data": {
-      "confirmed": 0,
-      "deaths": 0,
+      "confirmed": 8,
+      "deaths": 1,
       "recovered": 0
     }
   },
@@ -4620,6 +2340,756 @@
     }
   },
   {
+    "id": "4e36d07923ddd532e21be9b4b9f7917b",
+    "location": [
+      "112.2707",
+      "30.9756"
+    ],
+    "country": "China",
+    "country_code": "CN",
+    "province": "Hubei",
+    "data": {
+      "confirmed": 67773,
+      "deaths": 3046,
+      "recovered": 49134
+    }
+  },
+  {
+    "id": "847fa52ac098cea99b98d710edabac58",
+    "location": [
+      "55.5364",
+      "-21.1151"
+    ],
+    "country": "Reunion",
+    "country_code": "XX",
+    "province": "",
+    "data": {
+      "confirmed": 1,
+      "deaths": 0,
+      "recovered": 0
+    }
+  },
+  {
+    "id": "2a2ff4c375082da66b330bb27eb0e248",
+    "location": [
+      "2.2137",
+      "46.2276"
+    ],
+    "country": "France",
+    "country_code": "FR",
+    "province": "France",
+    "data": {
+      "confirmed": 2281,
+      "deaths": 48,
+      "recovered": 12
+    }
+  },
+  {
+    "id": "181e896afa38cc5aa9cf6484bdedad30",
+    "location": [
+      "113.4244",
+      "23.3417"
+    ],
+    "country": "China",
+    "country_code": "CN",
+    "province": "Guangdong",
+    "data": {
+      "confirmed": 1356,
+      "deaths": 8,
+      "recovered": 1282
+    }
+  },
+  {
+    "id": "4e694d2366cc81a3a53945358ca4f7e6",
+    "location": [
+      "113.614",
+      "33.882"
+    ],
+    "country": "China",
+    "country_code": "CN",
+    "province": "Henan",
+    "data": {
+      "confirmed": 1273,
+      "deaths": 22,
+      "recovered": 1249
+    }
+  },
+  {
+    "id": "ecfe0923ad38c0c15d92a5c82a8dd0ff",
+    "location": [
+      "120.0934",
+      "29.1832"
+    ],
+    "country": "China",
+    "country_code": "CN",
+    "province": "Zhejiang",
+    "data": {
+      "confirmed": 1215,
+      "deaths": 1,
+      "recovered": 1195
+    }
+  },
+  {
+    "id": "cdb44311fa61babefe661b0de15029e8",
+    "location": [
+      "111.7088",
+      "27.6104"
+    ],
+    "country": "China",
+    "country_code": "CN",
+    "province": "Hunan",
+    "data": {
+      "confirmed": 1018,
+      "deaths": 4,
+      "recovered": 995
+    }
+  },
+  {
+    "id": "7721b8e5279a9556fdf7998568083e76",
+    "location": [
+      "117.2264",
+      "31.8257"
+    ],
+    "country": "China",
+    "country_code": "CN",
+    "province": "Anhui",
+    "data": {
+      "confirmed": 990,
+      "deaths": 6,
+      "recovered": 984
+    }
+  },
+  {
+    "id": "4ae0e18e2a48818d4cf6528625191713",
+    "location": [
+      "115.7221",
+      "27.614"
+    ],
+    "country": "China",
+    "country_code": "CN",
+    "province": "Jiangxi",
+    "data": {
+      "confirmed": 935,
+      "deaths": 1,
+      "recovered": 932
+    }
+  },
+  {
+    "id": "16ebef9aa0827f63646f82d31c8340d9",
+    "location": [
+      "118.1498",
+      "36.3427"
+    ],
+    "country": "China",
+    "country_code": "CN",
+    "province": "Shandong",
+    "data": {
+      "confirmed": 760,
+      "deaths": 6,
+      "recovered": 726
+    }
+  },
+  {
+    "id": "ce8ff791a224ef012b0f189fba03d7c0",
+    "location": [
+      "139.638",
+      "35.4437"
+    ],
+    "country": "Cruise Ship",
+    "country_code": "XX",
+    "province": "Diamond Princess",
+    "data": {
+      "confirmed": 696,
+      "deaths": 7,
+      "recovered": 325
+    }
+  },
+  {
+    "id": "34b5a8cef2da45dfb1b641468f780d39",
+    "location": [
+      "119.455",
+      "32.9711"
+    ],
+    "country": "China",
+    "country_code": "CN",
+    "province": "Jiangsu",
+    "data": {
+      "confirmed": 631,
+      "deaths": 0,
+      "recovered": 627
+    }
+  },
+  {
+    "id": "7de78254e88359fac9ebccf3bd9d8c69",
+    "location": [
+      "107.874",
+      "30.0572"
+    ],
+    "country": "China",
+    "country_code": "CN",
+    "province": "Chongqing",
+    "data": {
+      "confirmed": 576,
+      "deaths": 6,
+      "recovered": 554
+    }
+  },
+  {
+    "id": "57a1b36cdf8f1d46aa3b957021f202a1",
+    "location": [
+      "102.7103",
+      "30.6171"
+    ],
+    "country": "China",
+    "country_code": "CN",
+    "province": "Sichuan",
+    "data": {
+      "confirmed": 539,
+      "deaths": 3,
+      "recovered": 488
+    }
+  },
+  {
+    "id": "e014bf30bb7405f0bd5d08b9a22b2b4b",
+    "location": [
+      "127.7615",
+      "47.862"
+    ],
+    "country": "China",
+    "country_code": "CN",
+    "province": "Heilongjiang",
+    "data": {
+      "confirmed": 482,
+      "deaths": 13,
+      "recovered": 436
+    }
+  },
+  {
+    "id": "87c060791e9886dd157f75e8ecd8132b",
+    "location": [
+      "-3.436",
+      "55.3781"
+    ],
+    "country": "United Kingdom",
+    "country_code": "GB",
+    "province": "UK",
+    "data": {
+      "confirmed": 456,
+      "deaths": 8,
+      "recovered": 18
+    }
+  },
+  {
+    "id": "e48332488373c311d54addc4d84f19e2",
+    "location": [
+      "9.5018",
+      "56.2639"
+    ],
+    "country": "Denmark",
+    "country_code": "DK",
+    "province": "Denmark",
+    "data": {
+      "confirmed": 442,
+      "deaths": 0,
+      "recovered": 1
+    }
+  },
+  {
+    "id": "9a68bcc28e4e761ec0c720e3a4b7c697",
+    "location": [
+      "116.4142",
+      "40.1824"
+    ],
+    "country": "China",
+    "country_code": "CN",
+    "province": "Beijing",
+    "data": {
+      "confirmed": 435,
+      "deaths": 8,
+      "recovered": 326
+    }
+  },
+  {
+    "id": "df01d91cc234cef8c29e0de7d698ccdf",
+    "location": [
+      "121.4491",
+      "31.202"
+    ],
+    "country": "China",
+    "country_code": "CN",
+    "province": "Shanghai",
+    "data": {
+      "confirmed": 344,
+      "deaths": 3,
+      "recovered": 320
+    }
+  },
+  {
+    "id": "03c760e818f3bbafd270700d5c0b17ae",
+    "location": [
+      "116.1306",
+      "39.549"
+    ],
+    "country": "China",
+    "country_code": "CN",
+    "province": "Hebei",
+    "data": {
+      "confirmed": 318,
+      "deaths": 6,
+      "recovered": 307
+    }
+  },
+  {
+    "id": "74bbbf09ef97a541af18a8d07ed94054",
+    "location": [
+      "117.9874",
+      "26.0789"
+    ],
+    "country": "China",
+    "country_code": "CN",
+    "province": "Fujian",
+    "data": {
+      "confirmed": 296,
+      "deaths": 1,
+      "recovered": 295
+    }
+  },
+  {
+    "id": "282ff49f986448c940c0b60c61677e52",
+    "location": [
+      "108.7881",
+      "23.8298"
+    ],
+    "country": "China",
+    "country_code": "CN",
+    "province": "Guangxi",
+    "data": {
+      "confirmed": 252,
+      "deaths": 2,
+      "recovered": 238
+    }
+  },
+  {
+    "id": "e6ad065d9e2aacccf453317c5bce3a60",
+    "location": [
+      "108.8701",
+      "35.1917"
+    ],
+    "country": "China",
+    "country_code": "CN",
+    "province": "Shaanxi",
+    "data": {
+      "confirmed": 245,
+      "deaths": 1,
+      "recovered": 232
+    }
+  },
+  {
+    "id": "a162aee93a984cc032be524b310856d8",
+    "location": [
+      "101.487",
+      "24.974"
+    ],
+    "country": "China",
+    "country_code": "CN",
+    "province": "Yunnan",
+    "data": {
+      "confirmed": 174,
+      "deaths": 2,
+      "recovered": 170
+    }
+  },
+  {
+    "id": "0cb4d95281a179c7b1187eec404da2d1",
+    "location": [
+      "109.7453",
+      "19.1959"
+    ],
+    "country": "China",
+    "country_code": "CN",
+    "province": "Hainan",
+    "data": {
+      "confirmed": 168,
+      "deaths": 6,
+      "recovered": 159
+    }
+  },
+  {
+    "id": "f2041f07ece6f561a46410e1c78e8e3c",
+    "location": [
+      "106.8748",
+      "26.8154"
+    ],
+    "country": "China",
+    "country_code": "CN",
+    "province": "Guizhou",
+    "data": {
+      "confirmed": 146,
+      "deaths": 2,
+      "recovered": 133
+    }
+  },
+  {
+    "id": "4a69962f0190e1b6e3e2df55e4a0d635",
+    "location": [
+      "117.323",
+      "39.3054"
+    ],
+    "country": "China",
+    "country_code": "CN",
+    "province": "Tianjin",
+    "data": {
+      "confirmed": 136,
+      "deaths": 3,
+      "recovered": 131
+    }
+  },
+  {
+    "id": "4e9530a56c70b7efad6a97e9f05d4cd6",
+    "location": [
+      "112.2922",
+      "37.5777"
+    ],
+    "country": "China",
+    "country_code": "CN",
+    "province": "Shanxi",
+    "data": {
+      "confirmed": 133,
+      "deaths": 0,
+      "recovered": 131
+    }
+  },
+  {
+    "id": "350cee5d97b4f74372af94e11d0324fd",
+    "location": [
+      "101.0583",
+      "37.8099"
+    ],
+    "country": "China",
+    "country_code": "CN",
+    "province": "Gansu",
+    "data": {
+      "confirmed": 127,
+      "deaths": 2,
+      "recovered": 88
+    }
+  },
+  {
+    "id": "07fdfa1ab59c2b24104b0a9ce66b5284",
+    "location": [
+      "114.2",
+      "22.3"
+    ],
+    "country": "China",
+    "country_code": "CN",
+    "province": "Hong Kong",
+    "data": {
+      "confirmed": 126,
+      "deaths": 3,
+      "recovered": 65
+    }
+  },
+  {
+    "id": "e4d093a939591ba2d6f0d3de2b7dc478",
+    "location": [
+      "122.6085",
+      "41.2956"
+    ],
+    "country": "China",
+    "country_code": "CN",
+    "province": "Liaoning",
+    "data": {
+      "confirmed": 125,
+      "deaths": 1,
+      "recovered": 111
+    }
+  },
+  {
+    "id": "f500d9ca3fca09791125ea031eaea586",
+    "location": [
+      "126.1923",
+      "43.6661"
+    ],
+    "country": "China",
+    "country_code": "CN",
+    "province": "Jilin",
+    "data": {
+      "confirmed": 93,
+      "deaths": 1,
+      "recovered": 91
+    }
+  },
+  {
+    "id": "f15b312366398c038d1236746a2550b0",
+    "location": [
+      "15.473",
+      "49.8175"
+    ],
+    "country": "Czechia",
+    "country_code": "CZ",
+    "province": "",
+    "data": {
+      "confirmed": 91,
+      "deaths": 0,
+      "recovered": 0
+    }
+  },
+  {
+    "id": "18dfafb37e86900393e2212e791cf25f",
+    "location": [
+      "85.2401",
+      "41.1129"
+    ],
+    "country": "China",
+    "country_code": "CN",
+    "province": "Xinjiang",
+    "data": {
+      "confirmed": 76,
+      "deaths": 3,
+      "recovered": 73
+    }
+  },
+  {
+    "id": "ce1fc835cdefd77a6537c2e2e981e424",
+    "location": [
+      "113.9448",
+      "44.0935"
+    ],
+    "country": "China",
+    "country_code": "CN",
+    "province": "Inner Mongolia",
+    "data": {
+      "confirmed": 75,
+      "deaths": 1,
+      "recovered": 71
+    }
+  },
+  {
+    "id": "2ab69fab54bbe1ad1fbc14812bfc8f96",
+    "location": [
+      "106.1655",
+      "37.2692"
+    ],
+    "country": "China",
+    "country_code": "CN",
+    "province": "Ningxia",
+    "data": {
+      "confirmed": 75,
+      "deaths": 0,
+      "recovered": 72
+    }
+  },
+  {
+    "id": "0dfdad8bdc860da5c957638b3e416ad3",
+    "location": [
+      "108",
+      "16"
+    ],
+    "country": "Vietnam",
+    "country_code": "VN",
+    "province": "",
+    "data": {
+      "confirmed": 38,
+      "deaths": 0,
+      "recovered": 16
+    }
+  },
+  {
+    "id": "4058fbcc46fe7e90ac9e099c47fc86ed",
+    "location": [
+      "90",
+      "60"
+    ],
+    "country": "Russia",
+    "country_code": "RU",
+    "province": "",
+    "data": {
+      "confirmed": 20,
+      "deaths": 0,
+      "recovered": 3
+    }
+  },
+  {
+    "id": "f18a49119ee3bb32a43c1fdd2f019f47",
+    "location": [
+      "95.9956",
+      "35.7452"
+    ],
+    "country": "China",
+    "country_code": "CN",
+    "province": "Qinghai",
+    "data": {
+      "confirmed": 18,
+      "deaths": 0,
+      "recovered": 18
+    }
+  },
+  {
+    "id": "8fdb533bdbd24f98e0bdda56fa47b644",
+    "location": [
+      "113.55",
+      "22.1667"
+    ],
+    "country": "China",
+    "country_code": "CN",
+    "province": "Macau",
+    "data": {
+      "confirmed": 10,
+      "deaths": 0,
+      "recovered": 10
+    }
+  },
+  {
+    "id": "1ef182d5ad1b3269a11d47a1fc4364ea",
+    "location": [
+      "-6.9118",
+      "61.8926"
+    ],
+    "country": "Denmark",
+    "country_code": "DK",
+    "province": "Faroe Islands",
+    "data": {
+      "confirmed": 2,
+      "deaths": 0,
+      "recovered": 0
+    }
+  },
+  {
+    "id": "38af70d1381e92b2ca75d6f52f720e0e",
+    "location": [
+      "-63.0501",
+      "18.0708"
+    ],
+    "country": "France",
+    "country_code": "FR",
+    "province": "St Martin",
+    "data": {
+      "confirmed": 2,
+      "deaths": 0,
+      "recovered": 0
+    }
+  },
+  {
+    "id": "da96a820acf90a3b85397f766820444b",
+    "location": [
+      "-86.2419",
+      "15.2"
+    ],
+    "country": "Honduras",
+    "country_code": "HN",
+    "province": "",
+    "data": {
+      "confirmed": 2,
+      "deaths": 0,
+      "recovered": 0
+    }
+  },
+  {
+    "id": "9e5b0530b019455bed7f55cf7be20647",
+    "location": [
+      "-2.3644",
+      "49.3723"
+    ],
+    "country": "United Kingdom",
+    "country_code": "GB",
+    "province": "Channel Islands",
+    "data": {
+      "confirmed": 2,
+      "deaths": 0,
+      "recovered": 0
+    }
+  },
+  {
+    "id": "0278431ba9eeef847abfbec05edeb065",
+    "location": [
+      "-66.4619",
+      "46.5653"
+    ],
+    "country": "Canada",
+    "country_code": "CA",
+    "province": "New Brunswick",
+    "data": {
+      "confirmed": 1,
+      "deaths": 0,
+      "recovered": 0
+    }
+  },
+  {
+    "id": "a6e1b9165c123530cc22fe910f8f2384",
+    "location": [
+      "88.0924",
+      "31.6927"
+    ],
+    "country": "China",
+    "country_code": "CN",
+    "province": "Tibet",
+    "data": {
+      "confirmed": 1,
+      "deaths": 0,
+      "recovered": 1
+    }
+  },
+  {
+    "id": "076f18849d0661cd08655fc1dc575a28",
+    "location": [
+      "-62.8333",
+      "17.9"
+    ],
+    "country": "France",
+    "country_code": "FR",
+    "province": "Saint Barthelemy",
+    "data": {
+      "confirmed": 1,
+      "deaths": 0,
+      "recovered": 0
+    }
+  },
+  {
+    "id": "295df830ba0fba375b4aca4473708e27",
+    "location": [
+      "-77.2975",
+      "18.1096"
+    ],
+    "country": "Jamaica",
+    "country_code": "JM",
+    "province": "",
+    "data": {
+      "confirmed": 1,
+      "deaths": 0,
+      "recovered": 0
+    }
+  },
+  {
+    "id": "917bd4e9668e6538036c8dbc370cdce2",
+    "location": [
+      "35.2433",
+      "38.9637"
+    ],
+    "country": "Turkey",
+    "country_code": "TR",
+    "province": "",
+    "data": {
+      "confirmed": 1,
+      "deaths": 0,
+      "recovered": 0
+    }
+  },
+  {
+    "id": "17608458d900da98afd8f9567d8f4b26",
+    "location": [
+      "-5.3536",
+      "36.1408"
+    ],
+    "country": "United Kingdom",
+    "country_code": "GB",
+    "province": "Gibraltar",
+    "data": {
+      "confirmed": 1,
+      "deaths": 0,
+      "recovered": 1
+    }
+  },
+  {
     "id": "91fc3b2739c0bc64c9672bc5dce507f8",
     "location": [
       "-122.6413",
@@ -4629,7 +3099,7 @@
     "country_code": "US",
     "province": "Kitsap, WA",
     "data": {
-      "confirmed": 1,
+      "confirmed": 2,
       "deaths": 0,
       "recovered": 0
     }
@@ -4794,7 +3264,7 @@
     "country_code": "US",
     "province": "Monmouth, NJ",
     "data": {
-      "confirmed": 2,
+      "confirmed": 4,
       "deaths": 0,
       "recovered": 0
     }
@@ -4869,7 +3339,7 @@
     "country_code": "US",
     "province": "Eagle, CO",
     "data": {
-      "confirmed": 2,
+      "confirmed": 4,
       "deaths": 0,
       "recovered": 0
     }
@@ -4884,7 +3354,7 @@
     "country_code": "US",
     "province": "Larimer, CO",
     "data": {
-      "confirmed": 2,
+      "confirmed": 1,
       "deaths": 0,
       "recovered": 0
     }
@@ -4899,7 +3369,7 @@
     "country_code": "US",
     "province": "Arapahoe, CO",
     "data": {
-      "confirmed": 2,
+      "confirmed": 3,
       "deaths": 0,
       "recovered": 0
     }
@@ -4914,7 +3384,7 @@
     "country_code": "US",
     "province": "Gunnison, CO",
     "data": {
-      "confirmed": 1,
+      "confirmed": 5,
       "deaths": 0,
       "recovered": 0
     }
@@ -4944,7 +3414,7 @@
     "country_code": "US",
     "province": "Monroe, PA",
     "data": {
-      "confirmed": 1,
+      "confirmed": 2,
       "deaths": 0,
       "recovered": 0
     }
@@ -5025,14 +3495,14 @@
     }
   },
   {
-    "id": "4d55854912517e5874aa66e8471df5e9",
+    "id": "9fd0e0e44f36afb9c0fecb48b6fd0a3c",
     "location": [
       "-76.8721",
       "38.7849"
     ],
     "country": "US",
     "country_code": "US",
-    "province": "Prince George, MD",
+    "province": "Prince George's, MD",
     "data": {
       "confirmed": 3,
       "deaths": 0,
@@ -5055,14 +3525,14 @@
     }
   },
   {
-    "id": "389ebcf477cf5c46697dc621ca63c511",
+    "id": "0d30486e9e66ec9cb9575c8f1d60111c",
     "location": [
       "-80.607",
       "34.2465"
     ],
     "country": "US",
     "country_code": "US",
-    "province": "Camden, SC",
+    "province": "Camden, NC",
     "data": {
       "confirmed": 4,
       "deaths": 0,
@@ -5141,7 +3611,7 @@
     "data": {
       "confirmed": 2,
       "deaths": 0,
-      "recovered": 0
+      "recovered": 1
     }
   },
   {
@@ -5154,7 +3624,7 @@
     "country_code": "US",
     "province": "Pierce, WI",
     "data": {
-      "confirmed": 1,
+      "confirmed": 2,
       "deaths": 0,
       "recovered": 0
     }
@@ -5190,14 +3660,2294 @@
     }
   },
   {
-    "id": "3f660842065b985147d3885fed54cff5",
+    "id": "e0bf947c4a1dd1a6bbd6ac72345cff25",
     "location": [
-      "-73.4379",
-      "41.1954"
+      "-73.135",
+      "43.0279"
     ],
     "country": "US",
     "country_code": "US",
-    "province": "Wilton, CT",
+    "province": "Bennington County, VT",
+    "data": {
+      "confirmed": 1,
+      "deaths": 0,
+      "recovered": 0
+    }
+  },
+  {
+    "id": "273763a5ad29f8d17edb6ee633332980",
+    "location": [
+      "-93.7842",
+      "44.8254"
+    ],
+    "country": "US",
+    "country_code": "US",
+    "province": "Carver County, MN",
+    "data": {
+      "confirmed": 1,
+      "deaths": 0,
+      "recovered": 0
+    }
+  },
+  {
+    "id": "c2ee88f20193becdfed9a7a2d260a8bd",
+    "location": [
+      "-81.9098",
+      "26.8946"
+    ],
+    "country": "US",
+    "country_code": "US",
+    "province": "Charlotte County, FL",
+    "data": {
+      "confirmed": 1,
+      "deaths": 0,
+      "recovered": 0
+    }
+  },
+  {
+    "id": "922cc3083a3f8481eb4fdcb2e6c36931",
+    "location": [
+      "-84.4803",
+      "34.2515"
+    ],
+    "country": "US",
+    "country_code": "US",
+    "province": "Cherokee County, GA",
+    "data": {
+      "confirmed": 1,
+      "deaths": 0,
+      "recovered": 0
+    }
+  },
+  {
+    "id": "f597234544537e635d8eb59cb64aaa85",
+    "location": [
+      "-96.493",
+      "33.1795"
+    ],
+    "country": "US",
+    "country_code": "US",
+    "province": "Collin County, TX",
+    "data": {
+      "confirmed": 3,
+      "deaths": 0,
+      "recovered": 0
+    }
+  },
+  {
+    "id": "d0f7ed92aed898fd890957db4616ec42",
+    "location": [
+      "-85.6435",
+      "38.1938"
+    ],
+    "country": "US",
+    "country_code": "US",
+    "province": "Jefferson County, KY",
+    "data": {
+      "confirmed": 1,
+      "deaths": 0,
+      "recovered": 0
+    }
+  },
+  {
+    "id": "ba306815c9e2b0fbf559dafd3ba26339",
+    "location": [
+      "-90.1121",
+      "29.6499"
+    ],
+    "country": "US",
+    "country_code": "US",
+    "province": "Jefferson Parish, LA",
+    "data": {
+      "confirmed": 1,
+      "deaths": 0,
+      "recovered": 0
+    }
+  },
+  {
+    "id": "a481376d72069e85c8120ac0ec822884",
+    "location": [
+      "-121.8474",
+      "40.7909"
+    ],
+    "country": "US",
+    "country_code": "US",
+    "province": "Shasta County, CA",
+    "data": {
+      "confirmed": 1,
+      "deaths": 0,
+      "recovered": 0
+    }
+  },
+  {
+    "id": "88e2f3b69a1bbb5e488188b81b0ac197",
+    "location": [
+      "-81.9535",
+      "34.8606"
+    ],
+    "country": "US",
+    "country_code": "US",
+    "province": "Spartanburg County, SC",
+    "data": {
+      "confirmed": 1,
+      "deaths": 0,
+      "recovered": 0
+    }
+  },
+  {
+    "id": "cc752ba64041376349bc87fb10d5d5e4",
+    "location": [
+      "-84.3542",
+      "38.4333"
+    ],
+    "country": "US",
+    "country_code": "US",
+    "province": "Harrison County, KY",
+    "data": {
+      "confirmed": 5,
+      "deaths": 0,
+      "recovered": 0
+    }
+  },
+  {
+    "id": "48f17ec34f691ae195f3b8398e1f50f4",
+    "location": [
+      "-91.5984",
+      "41.6699"
+    ],
+    "country": "US",
+    "country_code": "US",
+    "province": "Johnson County, IA",
+    "data": {
+      "confirmed": 12,
+      "deaths": 0,
+      "recovered": 0
+    }
+  },
+  {
+    "id": "7e6d51dce87df09d381fd0e1e62046bf",
+    "location": [
+      "-73.1822",
+      "42.3118"
+    ],
+    "country": "US",
+    "country_code": "US",
+    "province": "Berkshire County, MA",
+    "data": {
+      "confirmed": 7,
+      "deaths": 0,
+      "recovered": 0
+    }
+  },
+  {
+    "id": "ae020929f541b7a5ce96fab49319aee6",
+    "location": [
+      "-86.822",
+      "36.1343"
+    ],
+    "country": "US",
+    "country_code": "US",
+    "province": "Davidson County, TN",
+    "data": {
+      "confirmed": 2,
+      "deaths": 0,
+      "recovered": 0
+    }
+  },
+  {
+    "id": "86780788d8470876908b22e54889f0e8",
+    "location": [
+      "-123.2492",
+      "43.1261"
+    ],
+    "country": "US",
+    "country_code": "US",
+    "province": "Douglas County, OR",
+    "data": {
+      "confirmed": 1,
+      "deaths": 0,
+      "recovered": 0
+    }
+  },
+  {
+    "id": "6733fb096672bef700a049c744898e32",
+    "location": [
+      "-119.2321",
+      "36.9859"
+    ],
+    "country": "US",
+    "country_code": "US",
+    "province": "Fresno County, CA",
+    "data": {
+      "confirmed": 2,
+      "deaths": 0,
+      "recovered": 0
+    }
+  },
+  {
+    "id": "a5cbe06b9605c774239fd844055133d6",
+    "location": [
+      "-76.3637",
+      "39.5839"
+    ],
+    "country": "US",
+    "country_code": "US",
+    "province": "Harford County, MD",
+    "data": {
+      "confirmed": 1,
+      "deaths": 0,
+      "recovered": 0
+    }
+  },
+  {
+    "id": "b7f9a37e4338bd754fce0226015c081c",
+    "location": [
+      "-86.5401",
+      "39.8065"
+    ],
+    "country": "US",
+    "country_code": "US",
+    "province": "Hendricks County, IN",
+    "data": {
+      "confirmed": 2,
+      "deaths": 0,
+      "recovered": 0
+    }
+  },
+  {
+    "id": "3b8f938358647f2f970d8208e9058fe5",
+    "location": [
+      "-74.0535",
+      "40.7453"
+    ],
+    "country": "US",
+    "country_code": "US",
+    "province": "Hudson County, NJ",
+    "data": {
+      "confirmed": 1,
+      "deaths": 0,
+      "recovered": 0
+    }
+  },
+  {
+    "id": "895a640b383c80aeda93c2df6771ed0d",
+    "location": [
+      "-94.8521",
+      "38.8454"
+    ],
+    "country": "US",
+    "country_code": "US",
+    "province": "Johnson County, KS",
+    "data": {
+      "confirmed": 1,
+      "deaths": 0,
+      "recovered": 0
+    }
+  },
+  {
+    "id": "bc9b0b62657092385f5a7d0a045faf1a",
+    "location": [
+      "-120.9319",
+      "47.175"
+    ],
+    "country": "US",
+    "country_code": "US",
+    "province": "Kittitas County, WA",
+    "data": {
+      "confirmed": 1,
+      "deaths": 0,
+      "recovered": 0
+    }
+  },
+  {
+    "id": "d2ee4be3d8553532cace8b910a534037",
+    "location": [
+      "-82.3452",
+      "27.4799"
+    ],
+    "country": "US",
+    "country_code": "US",
+    "province": "Manatee County, FL",
+    "data": {
+      "confirmed": 2,
+      "deaths": 0,
+      "recovered": 0
+    }
+  },
+  {
+    "id": "ab45254ed4f2913a7de3179a8be03e8e",
+    "location": [
+      "-122.5927",
+      "44.8446"
+    ],
+    "country": "US",
+    "country_code": "US",
+    "province": "Marion County, OR",
+    "data": {
+      "confirmed": 2,
+      "deaths": 0,
+      "recovered": 0
+    }
+  },
+  {
+    "id": "851d452c1cf0a0822c375c77845dda76",
+    "location": [
+      "-86.6611",
+      "30.5773"
+    ],
+    "country": "US",
+    "country_code": "US",
+    "province": "Okaloosa County, FL",
+    "data": {
+      "confirmed": 1,
+      "deaths": 0,
+      "recovered": 0
+    }
+  },
+  {
+    "id": "757867b3dd961181261c73a4ab7c39d3",
+    "location": [
+      "-85.1479",
+      "34.0132"
+    ],
+    "country": "US",
+    "country_code": "US",
+    "province": "Polk County, GA",
+    "data": {
+      "confirmed": 1,
+      "deaths": 0,
+      "recovered": 0
+    }
+  },
+  {
+    "id": "85c9983754c63cb6019f4038ef7cb58a",
+    "location": [
+      "-117.3961",
+      "33.9533"
+    ],
+    "country": "US",
+    "country_code": "US",
+    "province": "Riverside County, CA",
+    "data": {
+      "confirmed": 6,
+      "deaths": 0,
+      "recovered": 0
+    }
+  },
+  {
+    "id": "1a06efe6477b787ca90df8ef55124230",
+    "location": [
+      "-89.9253",
+      "35.1269"
+    ],
+    "country": "US",
+    "country_code": "US",
+    "province": "Shelby County, TN",
+    "data": {
+      "confirmed": 1,
+      "deaths": 0,
+      "recovered": 0
+    }
+  },
+  {
+    "id": "fc21c0da4bb2736f70108a7b4dbe623a",
+    "location": [
+      "-90.4125",
+      "38.6103"
+    ],
+    "country": "US",
+    "country_code": "US",
+    "province": "St. Louis County, MO",
+    "data": {
+      "confirmed": 1,
+      "deaths": 0,
+      "recovered": 0
+    }
+  },
+  {
+    "id": "2cb653879394d4f4fc9236902177cb2e",
+    "location": [
+      "-72.6151",
+      "40.9849"
+    ],
+    "country": "US",
+    "country_code": "US",
+    "province": "Suffolk County, NY",
+    "data": {
+      "confirmed": 6,
+      "deaths": 0,
+      "recovered": 0
+    }
+  },
+  {
+    "id": "4ee4a80c4577971fa0e678b57af7be63",
+    "location": [
+      "-74.3118",
+      "41.8586"
+    ],
+    "country": "US",
+    "country_code": "US",
+    "province": "Ulster County, NY",
+    "data": {
+      "confirmed": 2,
+      "deaths": 0,
+      "recovered": 0
+    }
+  },
+  {
+    "id": "55b1885c4aad6468e23b265c0a2bd1c7",
+    "location": [
+      "-81.0755",
+      "29.028"
+    ],
+    "country": "US",
+    "country_code": "US",
+    "province": "Volusia County, FL",
+    "data": {
+      "confirmed": 2,
+      "deaths": 0,
+      "recovered": 0
+    }
+  },
+  {
+    "id": "fb88b8de9ca2f282b1050d7ad1a55964",
+    "location": [
+      "-77.2405",
+      "38.9085"
+    ],
+    "country": "US",
+    "country_code": "US",
+    "province": "Fairfax County, VA",
+    "data": {
+      "confirmed": 3,
+      "deaths": 0,
+      "recovered": 0
+    }
+  },
+  {
+    "id": "463e995425bfbeb4c7cb2751c7514f83",
+    "location": [
+      "-71.0498",
+      "42.9931"
+    ],
+    "country": "US",
+    "country_code": "US",
+    "province": "Rockingham County, NH",
+    "data": {
+      "confirmed": 2,
+      "deaths": 0,
+      "recovered": 0
+    }
+  },
+  {
+    "id": "9fbb877af9cb59d5a029d711e975dda5",
+    "location": [
+      "-77.0369",
+      "38.9072"
+    ],
+    "country": "US",
+    "country_code": "US",
+    "province": "Washington, D.C.",
+    "data": {
+      "confirmed": 4,
+      "deaths": 0,
+      "recovered": 0
+    }
+  },
+  {
+    "id": "4dcc109383d5f18622b9dcaf5a60c748",
+    "location": [
+      "-75.3879",
+      "40.229"
+    ],
+    "country": "US",
+    "country_code": "US",
+    "province": "Montgomery County, PA",
+    "data": {
+      "confirmed": 9,
+      "deaths": 0,
+      "recovered": 0
+    }
+  },
+  {
+    "id": "3b4711c39eb9b726e2c3cad1c0cc5980",
+    "location": [
+      "-121.7195",
+      "37.6017"
+    ],
+    "country": "US",
+    "country_code": "US",
+    "province": "Alameda County, CA",
+    "data": {
+      "confirmed": 5,
+      "deaths": 0,
+      "recovered": 0
+    }
+  },
+  {
+    "id": "5601e22c03cc6085feb7d95f37c2afbb",
+    "location": [
+      "-80.3659",
+      "26.1901"
+    ],
+    "country": "US",
+    "country_code": "US",
+    "province": "Broward County, FL",
+    "data": {
+      "confirmed": 4,
+      "deaths": 0,
+      "recovered": 0
+    }
+  },
+  {
+    "id": "2580296dd93dc137169a3d68dca03cf5",
+    "location": [
+      "-81.9535",
+      "26.663"
+    ],
+    "country": "US",
+    "country_code": "US",
+    "province": "Lee County, FL",
+    "data": {
+      "confirmed": 2,
+      "deaths": 1,
+      "recovered": 0
+    }
+  },
+  {
+    "id": "e8e84458a90540e43be2291b293038d0",
+    "location": [
+      "-111.2845",
+      "32.8162"
+    ],
+    "country": "US",
+    "country_code": "US",
+    "province": "Pinal County, AZ",
+    "data": {
+      "confirmed": 5,
+      "deaths": 0,
+      "recovered": 0
+    }
+  },
+  {
+    "id": "4eb62d2b08fde4f434a97e9a669cbb8d",
+    "location": [
+      "-73.983",
+      "41.1489"
+    ],
+    "country": "US",
+    "country_code": "US",
+    "province": "Rockland County, NY",
+    "data": {
+      "confirmed": 6,
+      "deaths": 0,
+      "recovered": 0
+    }
+  },
+  {
+    "id": "9dce8be431bed9b09f0a153dc59efdd7",
+    "location": [
+      "-73.936",
+      "43.0324"
+    ],
+    "country": "US",
+    "country_code": "US",
+    "province": "Saratoga County, NY",
+    "data": {
+      "confirmed": 2,
+      "deaths": 0,
+      "recovered": 0
+    }
+  },
+  {
+    "id": "8768164f037da62b40a0464ccc620f0b",
+    "location": [
+      "-79.7848",
+      "32.7957"
+    ],
+    "country": "US",
+    "country_code": "US",
+    "province": "Charleston County, SC",
+    "data": {
+      "confirmed": 1,
+      "deaths": 0,
+      "recovered": 0
+    }
+  },
+  {
+    "id": "d9fb71ee711f33fece5566c9131bfcc1",
+    "location": [
+      "-122.5194",
+      "45.7466"
+    ],
+    "country": "US",
+    "country_code": "US",
+    "province": "Clark County, WA",
+    "data": {
+      "confirmed": 1,
+      "deaths": 0,
+      "recovered": 0
+    }
+  },
+  {
+    "id": "ab7c49de9644589a2229957699dd3878",
+    "location": [
+      "-84.5641",
+      "33.8999"
+    ],
+    "country": "US",
+    "country_code": "US",
+    "province": "Cobb County, GA",
+    "data": {
+      "confirmed": 7,
+      "deaths": 0,
+      "recovered": 0
+    }
+  },
+  {
+    "id": "f672c0dcf210ae7fbcf1997cfe5c9ad6",
+    "location": [
+      "-112.0953",
+      "40.9629"
+    ],
+    "country": "US",
+    "country_code": "US",
+    "province": "Davis County, UT",
+    "data": {
+      "confirmed": 1,
+      "deaths": 0,
+      "recovered": 0
+    }
+  },
+  {
+    "id": "b1c49a155d0184d4acfb0e0ef6e8ec2f",
+    "location": [
+      "-104.4723",
+      "38.9108"
+    ],
+    "country": "US",
+    "country_code": "US",
+    "province": "El Paso County, CO",
+    "data": {
+      "confirmed": 1,
+      "deaths": 0,
+      "recovered": 0
+    }
+  },
+  {
+    "id": "13df908d20818e85d13a6f1911e248a7",
+    "location": [
+      "-157.8584",
+      "21.307"
+    ],
+    "country": "US",
+    "country_code": "US",
+    "province": "Honolulu County, HI",
+    "data": {
+      "confirmed": 2,
+      "deaths": 0,
+      "recovered": 0
+    }
+  },
+  {
+    "id": "b39f03f60b91be782082605d80b9a151",
+    "location": [
+      "-122.7647",
+      "42.3345"
+    ],
+    "country": "US",
+    "country_code": "US",
+    "province": "Jackson County, OR ",
+    "data": {
+      "confirmed": 2,
+      "deaths": 0,
+      "recovered": 0
+    }
+  },
+  {
+    "id": "f00a7a68861d874bb9d6524bce7a1c23",
+    "location": [
+      "-123.304",
+      "47.7425"
+    ],
+    "country": "US",
+    "country_code": "US",
+    "province": "Jefferson County, WA",
+    "data": {
+      "confirmed": 1,
+      "deaths": 0,
+      "recovered": 0
+    }
+  },
+  {
+    "id": "748e071736cc8900c10968162dda8d9e",
+    "location": [
+      "-80.5883",
+      "34.3672"
+    ],
+    "country": "US",
+    "country_code": "US",
+    "province": "Kershaw County, SC",
+    "data": {
+      "confirmed": 3,
+      "deaths": 0,
+      "recovered": 0
+    }
+  },
+  {
+    "id": "fdffd2926d95a9be1ab792e6f6b983e7",
+    "location": [
+      "-121.6142",
+      "42.6953"
+    ],
+    "country": "US",
+    "country_code": "US",
+    "province": "Klamath County, OR",
+    "data": {
+      "confirmed": 1,
+      "deaths": 0,
+      "recovered": 0
+    }
+  },
+  {
+    "id": "e34671042d76b34dab1a8a99ae15f9aa",
+    "location": [
+      "-119.6963",
+      "37.2519"
+    ],
+    "country": "US",
+    "country_code": "US",
+    "province": "Madera County, CA",
+    "data": {
+      "confirmed": 1,
+      "deaths": 0,
+      "recovered": 0
+    }
+  },
+  {
+    "id": "80168876ceee9a7a75f410174fae4e88",
+    "location": [
+      "-122.1295",
+      "47.0676"
+    ],
+    "country": "US",
+    "country_code": "US",
+    "province": "Pierce County, WA",
+    "data": {
+      "confirmed": 14,
+      "deaths": 0,
+      "recovered": 0
+    }
+  },
+  {
+    "id": "01dd844324f754fe35a7ecb35337a4fc",
+    "location": [
+      "-95.941",
+      "36.1593"
+    ],
+    "country": "US",
+    "country_code": "US",
+    "province": "Tulsa County, OK",
+    "data": {
+      "confirmed": 2,
+      "deaths": 0,
+      "recovered": 0
+    }
+  },
+  {
+    "id": "df17238ca574cf7313ef65d228bc0c18",
+    "location": [
+      "-104.9389",
+      "39.2587"
+    ],
+    "country": "US",
+    "country_code": "US",
+    "province": "Douglas County, CO",
+    "data": {
+      "confirmed": 3,
+      "deaths": 0,
+      "recovered": 0
+    }
+  },
+  {
+    "id": "f5b8b3f18c19e8601c022a39c0563a1b",
+    "location": [
+      "-71.4774",
+      "41.8882"
+    ],
+    "country": "US",
+    "country_code": "US",
+    "province": "Providence County, RI",
+    "data": {
+      "confirmed": 5,
+      "deaths": 0,
+      "recovered": 0
+    }
+  },
+  {
+    "id": "fd940b01f4f27904e612c9262d753ac4",
+    "location": [
+      "-79.1781",
+      "35.7211"
+    ],
+    "country": "US",
+    "country_code": "US",
+    "province": "Chatham County, NC",
+    "data": {
+      "confirmed": 1,
+      "deaths": 0,
+      "recovered": 0
+    }
+  },
+  {
+    "id": "1dcb0022ac501c84f709a270940ee395",
+    "location": [
+      "-75.3879",
+      "39.9078"
+    ],
+    "country": "US",
+    "country_code": "US",
+    "province": "Delaware County, PA",
+    "data": {
+      "confirmed": 1,
+      "deaths": 0,
+      "recovered": 0
+    }
+  },
+  {
+    "id": "8375b87c9dc9b2ecae760b9b69926d84",
+    "location": [
+      "-96.1951",
+      "41.3148"
+    ],
+    "country": "US",
+    "country_code": "US",
+    "province": "Douglas County, NE",
+    "data": {
+      "confirmed": 4,
+      "deaths": 0,
+      "recovered": 0
+    }
+  },
+  {
+    "id": "2cb92c64229e5be28de98c51c7dfa1ab",
+    "location": [
+      "-84.4803",
+      "38.0606"
+    ],
+    "country": "US",
+    "country_code": "US",
+    "province": "Fayette County, KY",
+    "data": {
+      "confirmed": 2,
+      "deaths": 0,
+      "recovered": 0
+    }
+  },
+  {
+    "id": "1b6521454d1f14a3bd28d350f525510e",
+    "location": [
+      "-86.1752",
+      "39.8362"
+    ],
+    "country": "US",
+    "country_code": "US",
+    "province": "Marion County, IN",
+    "data": {
+      "confirmed": 1,
+      "deaths": 0,
+      "recovered": 0
+    }
+  },
+  {
+    "id": "78f1915d2f085e47f51c51c0b1918cf2",
+    "location": [
+      "-71.2874",
+      "42.4672"
+    ],
+    "country": "US",
+    "country_code": "US",
+    "province": "Middlesex County, MA",
+    "data": {
+      "confirmed": 41,
+      "deaths": 0,
+      "recovered": 0
+    }
+  },
+  {
+    "id": "6514dbdde609e87070774f8971b5b37c",
+    "location": [
+      "-73.5594",
+      "40.6546"
+    ],
+    "country": "US",
+    "country_code": "US",
+    "province": "Nassau County, NY",
+    "data": {
+      "confirmed": 28,
+      "deaths": 0,
+      "recovered": 0
+    }
+  },
+  {
+    "id": "b038f6fa64c2310688f8ced3c12cd8c3",
+    "location": [
+      "-93.0616",
+      "44.9964"
+    ],
+    "country": "US",
+    "country_code": "US",
+    "province": "Ramsey County, MN",
+    "data": {
+      "confirmed": 2,
+      "deaths": 0,
+      "recovered": 0
+    }
+  },
+  {
+    "id": "567178b010c5001ac62ea80db6b10abc",
+    "location": [
+      "-119.6035",
+      "40.5608"
+    ],
+    "country": "US",
+    "country_code": "US",
+    "province": "Washoe County, NV",
+    "data": {
+      "confirmed": 2,
+      "deaths": 0,
+      "recovered": 0
+    }
+  },
+  {
+    "id": "d573ec58be5262bc2dc00ebac6c4c845",
+    "location": [
+      "-75.2479",
+      "41.6739"
+    ],
+    "country": "US",
+    "country_code": "US",
+    "province": "Wayne County, PA",
+    "data": {
+      "confirmed": 1,
+      "deaths": 0,
+      "recovered": 0
+    }
+  },
+  {
+    "id": "5e110d580b2a7e96a266ced5247dc367",
+    "location": [
+      "-121.9018",
+      "38.7646"
+    ],
+    "country": "US",
+    "country_code": "US",
+    "province": "Yolo County, CA",
+    "data": {
+      "confirmed": 1,
+      "deaths": 0,
+      "recovered": 0
+    }
+  },
+  {
+    "id": "95d80f71a4e185f1b70df821b52f30cb",
+    "location": [
+      "-121.9552",
+      "37.3541"
+    ],
+    "country": "US",
+    "country_code": "US",
+    "province": "Santa Clara County, CA",
+    "data": {
+      "confirmed": 48,
+      "deaths": 1,
+      "recovered": 1
+    }
+  },
+  {
+    "id": "01e24983172d9486942b34095ec16e87",
+    "location": [
+      "-115.094",
+      "36.0796"
+    ],
+    "country": "US",
+    "country_code": "US",
+    "province": "Clark County, NV",
+    "data": {
+      "confirmed": 5,
+      "deaths": 0,
+      "recovered": 0
+    }
+  },
+  {
+    "id": "de5064895dff89c872c47d469e3bb17c",
+    "location": [
+      "-95.8143",
+      "29.5693"
+    ],
+    "country": "US",
+    "country_code": "US",
+    "province": "Fort Bend County, TX",
+    "data": {
+      "confirmed": 6,
+      "deaths": 0,
+      "recovered": 0
+    }
+  },
+  {
+    "id": "a552ade78e04ff8a8bd66d423979e85a",
+    "location": [
+      "-119.3732",
+      "47.1981"
+    ],
+    "country": "US",
+    "country_code": "US",
+    "province": "Grant County, WA",
+    "data": {
+      "confirmed": 1,
+      "deaths": 1,
+      "recovered": 0
+    }
+  },
+  {
+    "id": "2a52836c4d8afc1e396b8e3474efcf68",
+    "location": [
+      "-86.9824",
+      "30.769"
+    ],
+    "country": "US",
+    "country_code": "US",
+    "province": "Santa Rosa County, FL",
+    "data": {
+      "confirmed": 1,
+      "deaths": 1,
+      "recovered": 0
+    }
+  },
+  {
+    "id": "99f90caad83d6cb047a145f2208ccd59",
+    "location": [
+      "-86.8622",
+      "35.9179"
+    ],
+    "country": "US",
+    "country_code": "US",
+    "province": "Williamson County, TN",
+    "data": {
+      "confirmed": 5,
+      "deaths": 0,
+      "recovered": 0
+    }
+  },
+  {
+    "id": "34a775427d10edaa432e2113a3556c8f",
+    "location": [
+      "-74.006",
+      "40.7128"
+    ],
+    "country": "US",
+    "country_code": "US",
+    "province": "New York County, NY",
+    "data": {
+      "confirmed": 55,
+      "deaths": 0,
+      "recovered": 0
+    }
+  },
+  {
+    "id": "5df6c80551808ee986cafa459b851132",
+    "location": [
+      "-77.2405",
+      "39.1547"
+    ],
+    "country": "US",
+    "country_code": "US",
+    "province": "Montgomery County, MD",
+    "data": {
+      "confirmed": 5,
+      "deaths": 0,
+      "recovered": 0
+    }
+  },
+  {
+    "id": "ca8278a5cffa28c6c5ce8ea5c7f96391",
+    "location": [
+      "-71.0589",
+      "42.3601"
+    ],
+    "country": "US",
+    "country_code": "US",
+    "province": "Suffolk County, MA",
+    "data": {
+      "confirmed": 20,
+      "deaths": 0,
+      "recovered": 1
+    }
+  },
+  {
+    "id": "5b7acf16517c45ff6044b67dd3649333",
+    "location": [
+      "-104.9903",
+      "39.7392"
+    ],
+    "country": "US",
+    "country_code": "US",
+    "province": "Denver County, CO",
+    "data": {
+      "confirmed": 6,
+      "deaths": 0,
+      "recovered": 0
+    }
+  },
+  {
+    "id": "1e406006fad1c3aa53867d92b05dd14d",
+    "location": [
+      "-106.064",
+      "39.5912"
+    ],
+    "country": "US",
+    "country_code": "US",
+    "province": "Summit County, CO",
+    "data": {
+      "confirmed": 1,
+      "deaths": 0,
+      "recovered": 0
+    }
+  },
+  {
+    "id": "7c1077dfb45c8b836676a6f2bcbad244",
+    "location": [
+      "-74.077",
+      "40.9263"
+    ],
+    "country": "US",
+    "country_code": "US",
+    "province": "Bergen County, NJ",
+    "data": {
+      "confirmed": 11,
+      "deaths": 1,
+      "recovered": 0
+    }
+  },
+  {
+    "id": "ca84847e91f7437ebc198e805df9924a",
+    "location": [
+      "-95.3103",
+      "29.7752"
+    ],
+    "country": "US",
+    "country_code": "US",
+    "province": "Harris County, TX",
+    "data": {
+      "confirmed": 7,
+      "deaths": 0,
+      "recovered": 0
+    }
+  },
+  {
+    "id": "7c69ef957cc466d77443d11419a41bc1",
+    "location": [
+      "-122.4194",
+      "37.7749"
+    ],
+    "country": "US",
+    "country_code": "US",
+    "province": "San Francisco County, CA",
+    "data": {
+      "confirmed": 14,
+      "deaths": 0,
+      "recovered": 0
+    }
+  },
+  {
+    "id": "a2b1cbcba9b34c6a9e5bb5c29bb0b946",
+    "location": [
+      "-121.9018",
+      "37.8534"
+    ],
+    "country": "US",
+    "country_code": "US",
+    "province": "Contra Costa County, CA",
+    "data": {
+      "confirmed": 10,
+      "deaths": 0,
+      "recovered": 0
+    }
+  },
+  {
+    "id": "99ced478f3995b2238692f6b8baa6a95",
+    "location": [
+      "-117.8531",
+      "33.7879"
+    ],
+    "country": "US",
+    "country_code": "US",
+    "province": "Orange County, CA",
+    "data": {
+      "confirmed": 5,
+      "deaths": 0,
+      "recovered": 0
+    }
+  },
+  {
+    "id": "eacebe144202084cd85ab89944b31ef8",
+    "location": [
+      "-71.1449",
+      "42.1767"
+    ],
+    "country": "US",
+    "country_code": "US",
+    "province": "Norfolk County, MA",
+    "data": {
+      "confirmed": 22,
+      "deaths": 0,
+      "recovered": 0
+    }
+  },
+  {
+    "id": "1fee3555f519a5f32874b3b56dd0e1fa",
+    "location": [
+      "-112.4291",
+      "33.2918"
+    ],
+    "country": "US",
+    "country_code": "US",
+    "province": "Maricopa County, AZ",
+    "data": {
+      "confirmed": 3,
+      "deaths": 0,
+      "recovered": 1
+    }
+  },
+  {
+    "id": "c126470516aecb7e8ef88b366c19915e",
+    "location": [
+      "-78.5661",
+      "35.8032"
+    ],
+    "country": "US",
+    "country_code": "US",
+    "province": "Wake County, NC",
+    "data": {
+      "confirmed": 6,
+      "deaths": 0,
+      "recovered": 0
+    }
+  },
+  {
+    "id": "2236a6d78feec4ed6a074cda5ed6a248",
+    "location": [
+      "-73.7949",
+      "41.122"
+    ],
+    "country": "US",
+    "country_code": "US",
+    "province": "Westchester County, NY",
+    "data": {
+      "confirmed": 121,
+      "deaths": 0,
+      "recovered": 0
+    }
+  },
+  {
+    "id": "1ab857b9cf36adeb2bafcb65f22d333b",
+    "location": [
+      "-71.826",
+      "43.9088"
+    ],
+    "country": "US",
+    "country_code": "US",
+    "province": "Grafton County, NH",
+    "data": {
+      "confirmed": 3,
+      "deaths": 0,
+      "recovered": 0
+    }
+  },
+  {
+    "id": "8b3f088c4ba9b18c5389daade2475c4c",
+    "location": [
+      "-82.3018",
+      "27.9904"
+    ],
+    "country": "US",
+    "country_code": "US",
+    "province": "Hillsborough, FL",
+    "data": {
+      "confirmed": 3,
+      "deaths": 0,
+      "recovered": 0
+    }
+  },
+  {
+    "id": "044bdc95328c41e686cfba3816e9396d",
+    "location": [
+      "-120.8039",
+      "39.0916"
+    ],
+    "country": "US",
+    "country_code": "US",
+    "province": "Placer County, CA",
+    "data": {
+      "confirmed": 7,
+      "deaths": 1,
+      "recovered": 0
+    }
+  },
+  {
+    "id": "c7e4ce1d77c1bc94dce6da4a8031a982",
+    "location": [
+      "-122.3255",
+      "37.563"
+    ],
+    "country": "US",
+    "country_code": "US",
+    "province": "San Mateo, CA",
+    "data": {
+      "confirmed": 15,
+      "deaths": 0,
+      "recovered": 0
+    }
+  },
+  {
+    "id": "68c76bb7e9af7f2010466aec844ec185",
+    "location": [
+      "-122.9888",
+      "38.578"
+    ],
+    "country": "US",
+    "country_code": "US",
+    "province": "Sonoma County, CA",
+    "data": {
+      "confirmed": 3,
+      "deaths": 0,
+      "recovered": 0
+    }
+  },
+  {
+    "id": "fb203154cc30364c84e8fcfd432c23b7",
+    "location": [
+      "-118.7606",
+      "45.775"
+    ],
+    "country": "US",
+    "country_code": "US",
+    "province": "Umatilla, OR",
+    "data": {
+      "confirmed": 2,
+      "deaths": 0,
+      "recovered": 0
+    }
+  },
+  {
+    "id": "da6b3deb6de6a2d4cd4acef4c5976f80",
+    "location": [
+      "-84.3963",
+      "33.8034"
+    ],
+    "country": "US",
+    "country_code": "US",
+    "province": "Fulton County, GA",
+    "data": {
+      "confirmed": 7,
+      "deaths": 0,
+      "recovered": 0
+    }
+  },
+  {
+    "id": "f92efc0ea5e915037847f98c69923322",
+    "location": [
+      "-123.1386",
+      "45.547"
+    ],
+    "country": "US",
+    "country_code": "US",
+    "province": "Washington County, OR",
+    "data": {
+      "confirmed": 8,
+      "deaths": 0,
+      "recovered": 0
+    }
+  },
+  {
+    "id": "638ba336e08d25a4546e4b872504a873",
+    "location": [
+      "-121.8339",
+      "48.033"
+    ],
+    "country": "US",
+    "country_code": "US",
+    "province": "Snohomish County, WA",
+    "data": {
+      "confirmed": 68,
+      "deaths": 1,
+      "recovered": 0
+    }
+  },
+  {
+    "id": "0e0b932c50dd8287a333081b98e930f9",
+    "location": [
+      "-123.8695",
+      "40.745"
+    ],
+    "country": "US",
+    "country_code": "US",
+    "province": "Humboldt County, CA",
+    "data": {
+      "confirmed": 1,
+      "deaths": 0,
+      "recovered": 0
+    }
+  },
+  {
+    "id": "cc721afbb641fd5d426166aee543da5c",
+    "location": [
+      "-121.3542",
+      "38.4747"
+    ],
+    "country": "US",
+    "country_code": "US",
+    "province": "Sacramento County, CA",
+    "data": {
+      "confirmed": 11,
+      "deaths": 1,
+      "recovered": 1
+    }
+  },
+  {
+    "id": "0b9502141ec6ede24db273d975951ab7",
+    "location": [
+      "-117.1611",
+      "32.7157"
+    ],
+    "country": "US",
+    "country_code": "US",
+    "province": "San Diego County, CA",
+    "data": {
+      "confirmed": 3,
+      "deaths": 0,
+      "recovered": 1
+    }
+  },
+  {
+    "id": "3dc84e34711ab2ad7d3dfab52b1cd705",
+    "location": [
+      "-120.9876",
+      "36.5761"
+    ],
+    "country": "US",
+    "country_code": "US",
+    "province": "San Benito, CA",
+    "data": {
+      "confirmed": 2,
+      "deaths": 0,
+      "recovered": 2
+    }
+  },
+  {
+    "id": "cc224d9502c917eaf68be842bcf26de9",
+    "location": [
+      "-118.2437",
+      "34.0522"
+    ],
+    "country": "US",
+    "country_code": "US",
+    "province": "Los Angeles, CA",
+    "data": {
+      "confirmed": 27,
+      "deaths": 1,
+      "recovered": 0
+    }
+  },
+  {
+    "id": "5633ca8b91fbaf30417fd3c91b39f59d",
+    "location": [
+      "-122.3321",
+      "47.6062"
+    ],
+    "country": "US",
+    "country_code": "US",
+    "province": "King County, WA",
+    "data": {
+      "confirmed": 190,
+      "deaths": 22,
+      "recovered": 1
+    }
+  },
+  {
+    "id": "f681a5fa2497e51121d8c4ca4486fae7",
+    "location": [
+      "-87.6976",
+      "41.7377"
+    ],
+    "country": "US",
+    "country_code": "US",
+    "province": "Cook County, IL",
+    "data": {
+      "confirmed": 22,
+      "deaths": 0,
+      "recovered": 2
+    }
+  },
+  {
+    "id": "18fe3e17e676a0a89b1ef7e3752caecf",
+    "location": [
+      "-121.7114",
+      "48.4242"
+    ],
+    "country": "US",
+    "country_code": "US",
+    "province": "Skagit, WA",
+    "data": {
+      "confirmed": 1,
+      "deaths": 0,
+      "recovered": 0
+    }
+  },
+  {
+    "id": "d1622e97660c3a290877c164da474110",
+    "location": [
+      "-122.7696",
+      "46.8646"
+    ],
+    "country": "US",
+    "country_code": "US",
+    "province": "Thurston, WA",
+    "data": {
+      "confirmed": 1,
+      "deaths": 0,
+      "recovered": 0
+    }
+  },
+  {
+    "id": "37f16509cfaf8591d3101f1e0d7f40b2",
+    "location": [
+      "-122.5795",
+      "48.1976"
+    ],
+    "country": "US",
+    "country_code": "US",
+    "province": "Island, WA",
+    "data": {
+      "confirmed": 1,
+      "deaths": 0,
+      "recovered": 0
+    }
+  },
+  {
+    "id": "96799d193b656d47a298ff0536ce0aa1",
+    "location": [
+      "-121.9719",
+      "48.8787"
+    ],
+    "country": "US",
+    "country_code": "US",
+    "province": "Whatcom, WA",
+    "data": {
+      "confirmed": 1,
+      "deaths": 0,
+      "recovered": 0
+    }
+  },
+  {
+    "id": "65227f8827040a9bf5b4f05d5593a7ae",
+    "location": [
+      "-122.7633",
+      "38.0834"
+    ],
+    "country": "US",
+    "country_code": "US",
+    "province": "Marin, CA",
+    "data": {
+      "confirmed": 1,
+      "deaths": 0,
+      "recovered": 0
+    }
+  },
+  {
+    "id": "f8178b3458ec38fe7f1ee442bfc2343d",
+    "location": [
+      "-120.6805",
+      "38.196"
+    ],
+    "country": "US",
+    "country_code": "US",
+    "province": "Calaveras, CA",
+    "data": {
+      "confirmed": 2,
+      "deaths": 0,
+      "recovered": 0
+    }
+  },
+  {
+    "id": "bd2e136388d8c1e9ce82054d0cd2f390",
+    "location": [
+      "-120.9876",
+      "37.5091"
+    ],
+    "country": "US",
+    "country_code": "US",
+    "province": "Stanislaus, CA",
+    "data": {
+      "confirmed": 2,
+      "deaths": 0,
+      "recovered": 0
+    }
+  },
+  {
+    "id": "7908b28521a9f5052239ce50b1889956",
+    "location": [
+      "-120.189",
+      "36.6066"
+    ],
+    "country": "US",
+    "country_code": "US",
+    "province": "San Joaquin, CA",
+    "data": {
+      "confirmed": 1,
+      "deaths": 0,
+      "recovered": 0
+    }
+  },
+  {
+    "id": "34ad2c809cb32d90c3545a3da6e7adf3",
+    "location": [
+      "-70.7829",
+      "42.632"
+    ],
+    "country": "US",
+    "country_code": "US",
+    "province": "Essex, MA",
+    "data": {
+      "confirmed": 1,
+      "deaths": 0,
+      "recovered": 0
+    }
+  },
+  {
+    "id": "4cb37578ffcd73613abfd7bb4a923cc8",
+    "location": [
+      "-82.0843",
+      "30.7917"
+    ],
+    "country": "US",
+    "country_code": "US",
+    "province": "Charlton, GA",
+    "data": {
+      "confirmed": 1,
+      "deaths": 0,
+      "recovered": 0
+    }
+  },
+  {
+    "id": "15a8582889abba28de65b74f14b5e40a",
+    "location": [
+      "-81.4279",
+      "26.07"
+    ],
+    "country": "US",
+    "country_code": "US",
+    "province": "Collier, FL",
+    "data": {
+      "confirmed": 3,
+      "deaths": 0,
+      "recovered": 0
+    }
+  },
+  {
+    "id": "10238aac42290085824af92df2d0484a",
+    "location": [
+      "-82.7779",
+      "27.8764"
+    ],
+    "country": "US",
+    "country_code": "US",
+    "province": "Pinellas, FL",
+    "data": {
+      "confirmed": 2,
+      "deaths": 0,
+      "recovered": 0
+    }
+  },
+  {
+    "id": "a26997eb118d39120c2dc99df366d4c1",
+    "location": [
+      "-82.4944",
+      "29.7938"
+    ],
+    "country": "US",
+    "country_code": "US",
+    "province": "Alachua, FL",
+    "data": {
+      "confirmed": 1,
+      "deaths": 0,
+      "recovered": 0
+    }
+  },
+  {
+    "id": "21a690fd7fb445eeb787f5b161a10c4d",
+    "location": [
+      "-81.8224",
+      "30.5927"
+    ],
+    "country": "US",
+    "country_code": "US",
+    "province": "Nassau, FL",
+    "data": {
+      "confirmed": 1,
+      "deaths": 0,
+      "recovered": 0
+    }
+  },
+  {
+    "id": "0c88cb03cd809b461d4f67359e6d6e88",
+    "location": [
+      "-82.4319",
+      "28.3232"
+    ],
+    "country": "US",
+    "country_code": "US",
+    "province": "Pasco, FL",
+    "data": {
+      "confirmed": 1,
+      "deaths": 0,
+      "recovered": 0
+    }
+  },
+  {
+    "id": "a6d01e62ea165ae8de78c9d395187de7",
+    "location": [
+      "-96.797",
+      "32.7767"
+    ],
+    "country": "US",
+    "country_code": "US",
+    "province": "Dallas, TX",
+    "data": {
+      "confirmed": 2,
+      "deaths": 0,
+      "recovered": 0
+    }
+  },
+  {
+    "id": "835a1312413e8e27d03a97f8ab9f4cc6",
+    "location": [
+      "-97.3517",
+      "32.7732"
+    ],
+    "country": "US",
+    "country_code": "US",
+    "province": "Tarrant, TX",
+    "data": {
+      "confirmed": 1,
+      "deaths": 0,
+      "recovered": 0
+    }
+  },
+  {
+    "id": "e5f29d9882240ce9b711d3a3e134116d",
+    "location": [
+      "-95.6963",
+      "30.3883"
+    ],
+    "country": "US",
+    "country_code": "US",
+    "province": "Montgomery, TX",
+    "data": {
+      "confirmed": 1,
+      "deaths": 0,
+      "recovered": 0
+    }
+  },
+  {
+    "id": "a9ea6ae26eee029495a508de4bfd7440",
+    "location": [
+      "-74.4927",
+      "40.5726"
+    ],
+    "country": "US",
+    "country_code": "US",
+    "province": "Middlesex, NJ",
+    "data": {
+      "confirmed": 2,
+      "deaths": 0,
+      "recovered": 0
+    }
+  },
+  {
+    "id": "a7aab143bb1c7316cb649718d1324c52",
+    "location": [
+      "-105.2663",
+      "39.58"
+    ],
+    "country": "US",
+    "country_code": "US",
+    "province": "Jefferson, CO",
+    "data": {
+      "confirmed": 3,
+      "deaths": 0,
+      "recovered": 0
+    }
+  },
+  {
+    "id": "722fae370ecb4440bd12fcacb947b0a0",
+    "location": [
+      "-122.5863",
+      "45.5146"
+    ],
+    "country": "US",
+    "country_code": "US",
+    "province": "Multnomah, OR",
+    "data": {
+      "confirmed": 1,
+      "deaths": 0,
+      "recovered": 0
+    }
+  },
+  {
+    "id": "707bed2d7863dc8f108ea71d377745fe",
+    "location": [
+      "-123.4919",
+      "44.9267"
+    ],
+    "country": "US",
+    "country_code": "US",
+    "province": "Polk, OR",
+    "data": {
+      "confirmed": 1,
+      "deaths": 0,
+      "recovered": 0
+    }
+  },
+  {
+    "id": "3676a7a3f6ff44af3d5bce8e0e4bd60e",
+    "location": [
+      "-121.2617",
+      "43.8325"
+    ],
+    "country": "US",
+    "country_code": "US",
+    "province": "Deschutes, OR",
+    "data": {
+      "confirmed": 1,
+      "deaths": 0,
+      "recovered": 0
+    }
+  },
+  {
+    "id": "1ea0e325687bd1b16602ba4bf85ea47e",
+    "location": [
+      "-88.2668",
+      "42.3334"
+    ],
+    "country": "US",
+    "country_code": "US",
+    "province": "McHenry, IL",
+    "data": {
+      "confirmed": 1,
+      "deaths": 0,
+      "recovered": 0
+    }
+  },
+  {
+    "id": "4aa3295693c061e5040ab8aca2342f29",
+    "location": [
+      "-87.8272",
+      "42.3689"
+    ],
+    "country": "US",
+    "country_code": "US",
+    "province": "Lake, IL",
+    "data": {
+      "confirmed": 1,
+      "deaths": 0,
+      "recovered": 0
+    }
+  },
+  {
+    "id": "d67a1b07c7f32a13ebf482d942592c51",
+    "location": [
+      "-75.2479",
+      "40.4108"
+    ],
+    "country": "US",
+    "country_code": "US",
+    "province": "Bucks, PA",
+    "data": {
+      "confirmed": 1,
+      "deaths": 0,
+      "recovered": 0
+    }
+  },
+  {
+    "id": "33819dd22401b450bccbbb7072863de4",
+    "location": [
+      "-77.5161",
+      "37.7772"
+    ],
+    "country": "US",
+    "country_code": "US",
+    "province": "Hanover, VA",
+    "data": {
+      "confirmed": 1,
+      "deaths": 0,
+      "recovered": 0
+    }
+  },
+  {
+    "id": "689283d4229aa4212d5922a808e0be5b",
+    "location": [
+      "-80.6771",
+      "34.7253"
+    ],
+    "country": "US",
+    "country_code": "US",
+    "province": "Lancaster, SC",
+    "data": {
+      "confirmed": 1,
+      "deaths": 0,
+      "recovered": 0
+    }
+  },
+  {
+    "id": "2826e4bb8bbb13e7e1723aac348a1469",
+    "location": [
+      "-82.3452",
+      "36.4933"
+    ],
+    "country": "US",
+    "country_code": "US",
+    "province": "Sullivan, TN",
+    "data": {
+      "confirmed": 1,
+      "deaths": 0,
+      "recovered": 0
+    }
+  },
+  {
+    "id": "664468715d3cd3fb4216ec799a1dddec",
+    "location": [
+      "-86.1345",
+      "39.4638"
+    ],
+    "country": "US",
+    "country_code": "US",
+    "province": "Johnson, IN",
+    "data": {
+      "confirmed": 3,
+      "deaths": 0,
+      "recovered": 0
+    }
+  },
+  {
+    "id": "8cd98b3b8ba89587326e1b7e39fbb6f2",
+    "location": [
+      "-86.1345",
+      "40.4483"
+    ],
+    "country": "US",
+    "country_code": "US",
+    "province": "Howard, IN",
+    "data": {
+      "confirmed": 1,
+      "deaths": 0,
+      "recovered": 0
+    }
+  },
+  {
+    "id": "4868f1c1bf91ec996d5b7aac15c79cd0",
+    "location": [
+      "-86.3377",
+      "41.6228"
+    ],
+    "country": "US",
+    "country_code": "US",
+    "province": "St. Joseph, IN",
+    "data": {
+      "confirmed": 1,
+      "deaths": 0,
+      "recovered": 0
+    }
+  },
+  {
+    "id": "fc5e90cd8ad8296e89160b814d9fd4c8",
+    "location": [
+      "-97.8722",
+      "42.6712"
+    ],
+    "country": "US",
+    "country_code": "US",
+    "province": "Knox, NE",
+    "data": {
+      "confirmed": 1,
+      "deaths": 0,
+      "recovered": 0
+    }
+  },
+  {
+    "id": "2ba10a43d83faa8dfde91d5e9f2d44f3",
+    "location": [
+      "-81.2519",
+      "40.8685"
+    ],
+    "country": "US",
+    "country_code": "US",
+    "province": "Stark, OH",
+    "data": {
+      "confirmed": 1,
+      "deaths": 0,
+      "recovered": 0
+    }
+  },
+  {
+    "id": "d6606f5f41974fa5eca72152ebef1115",
+    "location": [
+      "-93.2197",
+      "45.3293"
+    ],
+    "country": "US",
+    "country_code": "US",
+    "province": "Anoka, MN",
+    "data": {
+      "confirmed": 1,
+      "deaths": 0,
+      "recovered": 0
+    }
+  },
+  {
+    "id": "05b4a42d7ffdd736dcf654499bce81e0",
+    "location": [
+      "-92.3814",
+      "43.9952"
+    ],
+    "country": "US",
+    "country_code": "US",
+    "province": "Olmsted, MN",
+    "data": {
+      "confirmed": 1,
+      "deaths": 0,
+      "recovered": 0
+    }
+  },
+  {
+    "id": "f9f12e5bb44ab4755e1d63dba8660839",
+    "location": [
+      "-110.9984",
+      "40.8298"
+    ],
+    "country": "US",
+    "country_code": "US",
+    "province": "Summit, UT",
+    "data": {
+      "confirmed": 1,
+      "deaths": 0,
+      "recovered": 0
+    }
+  },
+  {
+    "id": "1a5563cc03e436cdb43c283e3c0c8d3a",
+    "location": [
+      "-73.3709",
+      "41.256"
+    ],
+    "country": "US",
+    "country_code": "US",
+    "province": "Fairfield, CT",
+    "data": {
+      "confirmed": 2,
+      "deaths": 0,
+      "recovered": 0
+    }
+  },
+  {
+    "id": "6f2bfc1fa26394c2dfe600b9a0f657aa",
+    "location": [
+      "-73.2765",
+      "41.7866"
+    ],
+    "country": "US",
+    "country_code": "US",
+    "province": "Litchfield, CT",
+    "data": {
+      "confirmed": 1,
+      "deaths": 0,
+      "recovered": 0
+    }
+  },
+  {
+    "id": "bcf1cc3d0f607d81ad11865cad98f299",
+    "location": [
+      "-90.0715",
+      "29.9511"
+    ],
+    "country": "US",
+    "country_code": "US",
+    "province": "Orleans, LA",
+    "data": {
+      "confirmed": 5,
+      "deaths": 0,
+      "recovered": 0
+    }
+  },
+  {
+    "id": "eaadf1b50a715e1ae85d67fbb764c84b",
+    "location": [
+      "-102.2548",
+      "43.8901"
+    ],
+    "country": "US",
+    "country_code": "US",
+    "province": "Pennington, SD",
+    "data": {
+      "confirmed": 1,
+      "deaths": 1,
+      "recovered": 0
+    }
+  },
+  {
+    "id": "ddc63790efb9b94205a592ef1b64b258",
+    "location": [
+      "-98.2213",
+      "44.4797"
+    ],
+    "country": "US",
+    "country_code": "US",
+    "province": "Beadle, SD",
+    "data": {
+      "confirmed": 1,
+      "deaths": 0,
+      "recovered": 0
+    }
+  },
+  {
+    "id": "d826e8ef00ad0cc524d8ad0a2436af7f",
+    "location": [
+      "-98.3965",
+      "43.0985"
+    ],
+    "country": "US",
+    "country_code": "US",
+    "province": "Charles Mix, SD",
+    "data": {
+      "confirmed": 1,
+      "deaths": 0,
+      "recovered": 0
+    }
+  },
+  {
+    "id": "a9ce6f8542e970c4dfcc3aa72d0c7bd9",
+    "location": [
+      "-98.2213",
+      "43.7242"
+    ],
+    "country": "US",
+    "country_code": "US",
+    "province": "Davison, SD",
+    "data": {
+      "confirmed": 1,
+      "deaths": 0,
+      "recovered": 0
+    }
+  },
+  {
+    "id": "d737389c05ea0cd96cf6fd20969688b4",
+    "location": [
+      "-96.8351",
+      "43.6632"
+    ],
+    "country": "US",
+    "country_code": "US",
+    "province": "Minnehaha, SD",
+    "data": {
+      "confirmed": 3,
+      "deaths": 0,
+      "recovered": 0
+    }
+  },
+  {
+    "id": "2467b771b55510426c20293b64b507fa",
+    "location": [
+      "-97.8722",
+      "42.9815"
+    ],
+    "country": "US",
+    "country_code": "US",
+    "province": "Bon Homme, SD",
+    "data": {
+      "confirmed": 1,
+      "deaths": 0,
+      "recovered": 0
+    }
+  },
+  {
+    "id": "5b46e6a55ea5b86dc9e9da80affa5a32",
+    "location": [
+      "-106.7235",
+      "33.8837"
+    ],
+    "country": "US",
+    "country_code": "US",
+    "province": "Socorro, NM",
+    "data": {
+      "confirmed": 2,
+      "deaths": 0,
+      "recovered": 0
+    }
+  },
+  {
+    "id": "612aab743e9742c22cadd1e097ae32d7",
+    "location": [
+      "-106.6291",
+      "35.0178"
+    ],
+    "country": "US",
+    "country_code": "US",
+    "province": "Bernalillo, NM",
+    "data": {
+      "confirmed": 1,
+      "deaths": 0,
+      "recovered": 0
+    }
+  },
+  {
+    "id": "113a46daec31b49e0a6d745c983de3c1",
+    "location": [
+      "-83.3362",
+      "42.5922"
+    ],
+    "country": "US",
+    "country_code": "US",
+    "province": "Oakland, MI",
+    "data": {
+      "confirmed": 1,
+      "deaths": 0,
+      "recovered": 0
+    }
+  },
+  {
+    "id": "e94610513f205d0c9973e33a8926f7ab",
+    "location": [
+      "-83.3362",
+      "42.2791"
+    ],
+    "country": "US",
+    "country_code": "US",
+    "province": "Wayne, MI",
+    "data": {
+      "confirmed": 1,
+      "deaths": 0,
+      "recovered": 0
+    }
+  },
+  {
+    "id": "1f63388b5324a83866343d39f9d31d58",
+    "location": [
+      "-75.6674",
+      "39.5393"
+    ],
+    "country": "US",
+    "country_code": "US",
+    "province": "New Castle, DE",
     "data": {
       "confirmed": 1,
       "deaths": 0,
