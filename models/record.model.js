@@ -1,7 +1,7 @@
 const mongoose = require("mongoose");
 const Event = require("./event.model");
 
-const caseSchema = new mongoose.Schema({
+const recordSchema = new mongoose.Schema({
   name: {
     type: String,
     required: true
@@ -15,4 +15,4 @@ const caseSchema = new mongoose.Schema({
   timeline: [Event]
 });
 
-module.exports = mongoose.model("Case", caseSchema);
+module.exports = mongoose.model("Record", recordSchema);
