@@ -7149,7 +7149,7 @@
       "properties": {
         "name": "Bolivia",
         "data": {
-          "confirmed": 0,
+          "confirmed": 2,
           "deaths": 0,
           "recovered": 0
         }
@@ -13693,7 +13693,7 @@
       "properties": {
         "name": "Ivory Coast",
         "data": {
-          "confirmed": 0,
+          "confirmed": 1,
           "deaths": 0,
           "recovered": 0
         }
@@ -14159,7 +14159,7 @@
       "properties": {
         "name": "Democratic Republic of the Congo",
         "data": {
-          "confirmed": 0,
+          "confirmed": 1,
           "deaths": 0,
           "recovered": 0
         }
@@ -23109,9 +23109,9 @@
       "properties": {
         "name": "Iran",
         "data": {
-          "confirmed": 0,
-          "deaths": 0,
-          "recovered": 0
+          "confirmed": 9000,
+          "deaths": 354,
+          "recovered": 2959
         }
       },
       "geometry": {
@@ -25481,9 +25481,9 @@
       "properties": {
         "name": "South Korea",
         "data": {
-          "confirmed": 0,
-          "deaths": 0,
-          "recovered": 0
+          "confirmed": 7755,
+          "deaths": 60,
+          "recovered": 288
         }
       },
       "geometry": {
@@ -26881,7 +26881,7 @@
       "properties": {
         "name": "Moldova",
         "data": {
-          "confirmed": 0,
+          "confirmed": 3,
           "deaths": 0,
           "recovered": 0
         }
@@ -41785,9 +41785,9 @@
       "properties": {
         "name": "Taiwan",
         "data": {
-          "confirmed": 0,
-          "deaths": 0,
-          "recovered": 0
+          "confirmed": 48,
+          "deaths": 1,
+          "recovered": 17
         }
       },
       "geometry": {

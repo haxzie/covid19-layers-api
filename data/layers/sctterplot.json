@@ -2355,18 +2355,33 @@
     }
   },
   {
-    "id": "847fa52ac098cea99b98d710edabac58",
+    "id": "48a54ea36a0a4155d200e8b6277cd17d",
     "location": [
-      "55.5364",
-      "-21.1151"
+      "53",
+      "32"
     ],
-    "country": "Reunion",
-    "country_code": "XX",
+    "country": "Iran",
+    "country_code": "IR",
     "province": "",
     "data": {
-      "confirmed": 1,
-      "deaths": 0,
-      "recovered": 0
+      "confirmed": 9000,
+      "deaths": 354,
+      "recovered": 2959
+    }
+  },
+  {
+    "id": "04030d8c0cc6a5312aab0a96ddd582a1",
+    "location": [
+      "128",
+      "36"
+    ],
+    "country": "Korea, South",
+    "country_code": "KR",
+    "province": "",
+    "data": {
+      "confirmed": 7755,
+      "deaths": 60,
+      "recovered": 288
     }
   },
   {
@@ -2880,6 +2895,21 @@
     }
   },
   {
+    "id": "c8e91053e52a39f9e0b60c52fcbe08a4",
+    "location": [
+      "121",
+      "23.7"
+    ],
+    "country": "Taiwan*",
+    "country_code": "TW",
+    "province": "",
+    "data": {
+      "confirmed": 48,
+      "deaths": 1,
+      "recovered": 17
+    }
+  },
+  {
     "id": "0dfdad8bdc860da5c957638b3e416ad3",
     "location": [
       "108",
@@ -2937,6 +2967,36 @@
       "confirmed": 10,
       "deaths": 0,
       "recovered": 10
+    }
+  },
+  {
+    "id": "148b1dcb18f3120c6ea78f75bc2af1d4",
+    "location": [
+      "28.3699",
+      "47.4116"
+    ],
+    "country": "Moldova",
+    "country_code": "MD",
+    "province": "",
+    "data": {
+      "confirmed": 3,
+      "deaths": 0,
+      "recovered": 0
+    }
+  },
+  {
+    "id": "e770ce5f25b9590c3f7dcd96206475aa",
+    "location": [
+      "-63.5887",
+      "-16.2902"
+    ],
+    "country": "Bolivia",
+    "country_code": "BO",
+    "province": "",
+    "data": {
+      "confirmed": 2,
+      "deaths": 0,
+      "recovered": 0
     }
   },
   {
@@ -3030,6 +3090,36 @@
     }
   },
   {
+    "id": "0dc4d17043f913b85eb930f7dcef001e",
+    "location": [
+      "21.7587",
+      "-4.0383"
+    ],
+    "country": "Congo (Kinshasa)",
+    "country_code": "CD",
+    "province": "",
+    "data": {
+      "confirmed": 1,
+      "deaths": 0,
+      "recovered": 0
+    }
+  },
+  {
+    "id": "913b11acdf2eb712a4fa34151d106f24",
+    "location": [
+      "-5.5471",
+      "7.54"
+    ],
+    "country": "Cote d'Ivoire",
+    "country_code": "CI",
+    "province": "",
+    "data": {
+      "confirmed": 1,
+      "deaths": 0,
+      "recovered": 0
+    }
+  },
+  {
     "id": "076f18849d0661cd08655fc1dc575a28",
     "location": [
       "-62.8333",
@@ -3052,6 +3142,21 @@
     ],
     "country": "Jamaica",
     "country_code": "JM",
+    "province": "",
+    "data": {
+      "confirmed": 1,
+      "deaths": 0,
+      "recovered": 0
+    }
+  },
+  {
+    "id": "0357b752759cbef4907035a9bfac28fe",
+    "location": [
+      "55.5364",
+      "-21.1151"
+    ],
+    "country": "Reunion",
+    "country_code": "RE",
     "province": "",
     "data": {
       "confirmed": 1,
