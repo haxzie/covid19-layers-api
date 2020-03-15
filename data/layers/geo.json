@@ -22475,9 +22475,9 @@
       "properties": {
         "name": "India",
         "data": {
-          "confirmed": 102,
+          "confirmed": 107,
           "deaths": 2,
-          "recovered": 4
+          "recovered": 10
         }
       },
       "geometry": {
