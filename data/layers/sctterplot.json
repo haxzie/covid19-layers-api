@@ -6619,7 +6619,7 @@
     "country_code": "IN",
     "country": "India",
     "province": "Andhra Pradesh",
-    "coordinates": [
+    "location": [
       14.7504291,
       78.57002559
     ],
@@ -6634,7 +6634,7 @@
     "country_code": "IN",
     "country": "India",
     "province": "Arunachal Pradesh",
-    "coordinates": [
+    "location": [
       27.10039878,
       93.61660071
     ],
@@ -6649,7 +6649,7 @@
     "country_code": "IN",
     "country": "India",
     "province": "Assam",
-    "coordinates": [
+    "location": [
       26.7499809,
       94.21666744
     ],
@@ -6664,7 +6664,7 @@
     "country_code": "IN",
     "country": "India",
     "province": "Bihar",
-    "coordinates": [
+    "location": [
       25.78541445,
       87.4799727
     ],
@@ -6679,7 +6679,7 @@
     "country_code": "IN",
     "country": "India",
     "province": "Chhattisgarh",
-    "coordinates": [
+    "location": [
       22.09042035,
       82.15998734
     ],
@@ -6694,7 +6694,7 @@
     "country_code": "IN",
     "country": "India",
     "province": "Goa",
-    "coordinates": [
+    "location": [
       15.491997,
       73.81800065
     ],
@@ -6709,7 +6709,7 @@
     "country_code": "IN",
     "country": "India",
     "province": "Gujarat",
-    "coordinates": [
+    "location": [
       23.158831,
       70.753408
     ],
@@ -6724,7 +6724,7 @@
     "country_code": "IN",
     "country": "India",
     "province": "Haryana",
-    "coordinates": [
+    "location": [
       28.45000633,
       77.01999101
     ],
@@ -6739,7 +6739,7 @@
     "country_code": "IN",
     "country": "India",
     "province": "Himachal Pradesh",
-    "coordinates": [
+    "location": [
       31.10002545,
       77.16659704
     ],
@@ -6754,7 +6754,7 @@
     "country_code": "IN",
     "country": "India",
     "province": "Jharkhand",
-    "coordinates": [
+    "location": [
       23.80039349,
       86.41998572
     ],
@@ -6769,7 +6769,7 @@
     "country_code": "IN",
     "country": "India",
     "province": "Karnataka",
-    "coordinates": [
+    "location": [
       12.57038129,
       76.91999711
     ],
@@ -6784,7 +6784,7 @@
     "country_code": "IN",
     "country": "India",
     "province": "Kerala",
-    "coordinates": [
+    "location": [
       8.900372741,
       76.56999263
     ],
@@ -6799,7 +6799,7 @@
     "country_code": "IN",
     "country": "India",
     "province": "Madhya Pradesh",
-    "coordinates": [
+    "location": [
       21.30039105,
       76.13001949
     ],
@@ -6814,7 +6814,7 @@
     "country_code": "IN",
     "country": "India",
     "province": "Maharashtra",
-    "coordinates": [
+    "location": [
       19.25023195,
       73.16017493
     ],
@@ -6829,7 +6829,7 @@
     "country_code": "IN",
     "country": "India",
     "province": "Manipur",
-    "coordinates": [
+    "location": [
       24.79997072,
       93.95001705
     ],
@@ -6844,7 +6844,7 @@
     "country_code": "IN",
     "country": "India",
     "province": "Meghalaya",
-    "coordinates": [
+    "location": [
       25.57049217,
       91.8800142
     ],
@@ -6859,7 +6859,7 @@
     "country_code": "IN",
     "country": "India",
     "province": "Mizoram",
-    "coordinates": [
+    "location": [
       23.71039899,
       92.72001461
     ],
@@ -6874,7 +6874,7 @@
     "country_code": "IN",
     "country": "India",
     "province": "Nagaland",
-    "coordinates": [
+    "location": [
       25.6669979,
       94.11657019
     ],
@@ -6889,7 +6889,7 @@
     "country_code": "IN",
     "country": "India",
     "province": "Odisha",
-    "coordinates": [
+    "location": [
       19.82042971,
       85.90001746
     ],
@@ -6904,7 +6904,7 @@
     "country_code": "IN",
     "country": "India",
     "province": "Punjab",
-    "coordinates": [
+    "location": [
       31.51997398,
       75.98000281
     ],
@@ -6919,7 +6919,7 @@
     "country_code": "IN",
     "country": "India",
     "province": "Rajasthan",
-    "coordinates": [
+    "location": [
       26.44999921,
       74.63998124
     ],
@@ -6934,7 +6934,7 @@
     "country_code": "IN",
     "country": "India",
     "province": "Sikkim",
-    "coordinates": [
+    "location": [
       27.3333303,
       88.6166475
     ],
@@ -6949,7 +6949,7 @@
     "country_code": "IN",
     "country": "India",
     "province": "Tamil Nadu",
-    "coordinates": [
+    "location": [
       12.92038576,
       79.15004187
     ],
@@ -6964,7 +6964,7 @@
     "country_code": "IN",
     "country": "India",
     "province": "Telengana",
-    "coordinates": [
+    "location": [
       17.697963,
       78.920226
     ],
@@ -6979,7 +6979,7 @@
     "country_code": "IN",
     "country": "India",
     "province": "Tripura",
-    "coordinates": [
+    "location": [
       23.83540428,
       91.27999914
     ],
@@ -6994,7 +6994,7 @@
     "country_code": "IN",
     "country": "India",
     "province": "Uttarakhand",
-    "coordinates": [
+    "location": [
       30.230923,
       79.109923
     ],
@@ -7009,7 +7009,7 @@
     "country_code": "IN",
     "country": "India",
     "province": "Uttar Pradesh",
-    "coordinates": [
+    "location": [
       27.59998069,
       78.05000565
     ],
@@ -7024,7 +7024,7 @@
     "country_code": "IN",
     "country": "India",
     "province": "West Bengal",
-    "coordinates": [
+    "location": [
       22.58039044,
       88.32994665
     ],
@@ -7039,7 +7039,7 @@
     "country_code": "IN",
     "country": "India",
     "province": "Chandigarh",
-    "coordinates": [
+    "location": [
       30.71999697,
       76.78000565
     ],
@@ -7054,7 +7054,7 @@
     "country_code": "IN",
     "country": "India",
     "province": "Dadra and Nagar Haveli and Daman & Diu",
-    "coordinates": [
+    "location": [
       20.26657819,
       73.0166178
     ],
@@ -7069,7 +7069,7 @@
     "country_code": "IN",
     "country": "India",
     "province": "Delhi",
-    "coordinates": [
+    "location": [
       28.6699929,
       77.23000403
     ],
@@ -7084,7 +7084,7 @@
     "country_code": "IN",
     "country": "India",
     "province": "Union Territory of Jammu and Kashmir",
-    "coordinates": [
+    "location": [
       34.29995933,
       74.46665849
     ],
@@ -7099,7 +7099,7 @@
     "country_code": "IN",
     "country": "India",
     "province": "Union Territory of Ladakh",
-    "coordinates": [
+    "location": [
       34.2996176,
       78.2909766
     ],
@@ -7114,7 +7114,7 @@
     "country_code": "IN",
     "country": "India",
     "province": "Lakshadweep",
-    "coordinates": [
+    "location": [
       10.56257331,
       72.63686717
     ],
@@ -7129,7 +7129,7 @@
     "country_code": "IN",
     "country": "India",
     "province": "Puducherry",
-    "coordinates": [
+    "location": [
       11.93499371,
       79.83000037
     ],
