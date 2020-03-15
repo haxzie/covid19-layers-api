@@ -6620,8 +6620,8 @@
     "country": "India",
     "province": "Andhra Pradesh",
     "location": [
-      14.7504291,
-      78.57002559
+      78.57002559,
+      14.7504291
     ],
     "data": {
       "confirmed": 1,
@@ -6635,8 +6635,8 @@
     "country": "India",
     "province": "Arunachal Pradesh",
     "location": [
-      27.10039878,
-      93.61660071
+      93.61660071,
+      27.10039878
     ],
     "data": {
       "confirmed": 0,
@@ -6650,8 +6650,8 @@
     "country": "India",
     "province": "Assam",
     "location": [
-      26.7499809,
-      94.21666744
+      94.21666744,
+      26.7499809
     ],
     "data": {
       "confirmed": 0,
@@ -6665,8 +6665,8 @@
     "country": "India",
     "province": "Bihar",
     "location": [
-      25.78541445,
-      87.4799727
+      87.4799727,
+      25.78541445
     ],
     "data": {
       "confirmed": 0,
@@ -6680,8 +6680,8 @@
     "country": "India",
     "province": "Chhattisgarh",
     "location": [
-      22.09042035,
-      82.15998734
+      82.15998734,
+      22.09042035
     ],
     "data": {
       "confirmed": 0,
@@ -6695,8 +6695,8 @@
     "country": "India",
     "province": "Goa",
     "location": [
-      15.491997,
-      73.81800065
+      73.81800065,
+      15.491997
     ],
     "data": {
       "confirmed": 0,
@@ -6710,8 +6710,8 @@
     "country": "India",
     "province": "Gujarat",
     "location": [
-      23.158831,
-      70.753408
+      70.753408,
+      23.158831
     ],
     "data": {
       "confirmed": 0,
@@ -6725,8 +6725,8 @@
     "country": "India",
     "province": "Haryana",
     "location": [
-      28.45000633,
-      77.01999101
+      77.01999101,
+      28.45000633
     ],
     "data": {
       "confirmed": 14,
@@ -6740,8 +6740,8 @@
     "country": "India",
     "province": "Himachal Pradesh",
     "location": [
-      31.10002545,
-      77.16659704
+      77.16659704,
+      31.10002545
     ],
     "data": {
       "confirmed": 0,
@@ -6755,8 +6755,8 @@
     "country": "India",
     "province": "Jharkhand",
     "location": [
-      23.80039349,
-      86.41998572
+      86.41998572,
+      23.80039349
     ],
     "data": {
       "confirmed": 0,
@@ -6770,8 +6770,8 @@
     "country": "India",
     "province": "Karnataka",
     "location": [
-      12.57038129,
-      76.91999711
+      76.91999711,
+      12.57038129
     ],
     "data": {
       "confirmed": 6,
@@ -6785,8 +6785,8 @@
     "country": "India",
     "province": "Kerala",
     "location": [
-      8.900372741,
-      76.56999263
+      76.56999263,
+      8.900372741
     ],
     "data": {
       "confirmed": 22,
@@ -6800,8 +6800,8 @@
     "country": "India",
     "province": "Madhya Pradesh",
     "location": [
-      21.30039105,
-      76.13001949
+      76.13001949,
+      21.30039105
     ],
     "data": {
       "confirmed": 0,
@@ -6815,8 +6815,8 @@
     "country": "India",
     "province": "Maharashtra",
     "location": [
-      19.25023195,
-      73.16017493
+      73.16017493,
+      19.25023195
     ],
     "data": {
       "confirmed": 31,
@@ -6830,8 +6830,8 @@
     "country": "India",
     "province": "Manipur",
     "location": [
-      24.79997072,
-      93.95001705
+      93.95001705,
+      24.79997072
     ],
     "data": {
       "confirmed": 0,
@@ -6845,8 +6845,8 @@
     "country": "India",
     "province": "Meghalaya",
     "location": [
-      25.57049217,
-      91.8800142
+      91.8800142,
+      25.57049217
     ],
     "data": {
       "confirmed": 0,
@@ -6860,8 +6860,8 @@
     "country": "India",
     "province": "Mizoram",
     "location": [
-      23.71039899,
-      92.72001461
+      92.72001461,
+      23.71039899
     ],
     "data": {
       "confirmed": 0,
@@ -6875,8 +6875,8 @@
     "country": "India",
     "province": "Nagaland",
     "location": [
-      25.6669979,
-      94.11657019
+      94.11657019,
+      25.6669979
     ],
     "data": {
       "confirmed": 0,
@@ -6890,8 +6890,8 @@
     "country": "India",
     "province": "Odisha",
     "location": [
-      19.82042971,
-      85.90001746
+      85.90001746,
+      19.82042971
     ],
     "data": {
       "confirmed": 0,
@@ -6905,8 +6905,8 @@
     "country": "India",
     "province": "Punjab",
     "location": [
-      31.51997398,
-      75.98000281
+      75.98000281,
+      31.51997398
     ],
     "data": {
       "confirmed": 1,
@@ -6920,8 +6920,8 @@
     "country": "India",
     "province": "Rajasthan",
     "location": [
-      26.44999921,
-      74.63998124
+      74.63998124,
+      26.44999921
     ],
     "data": {
       "confirmed": 4,
@@ -6935,8 +6935,8 @@
     "country": "India",
     "province": "Sikkim",
     "location": [
-      27.3333303,
-      88.6166475
+      88.6166475,
+      27.3333303
     ],
     "data": {
       "confirmed": 0,
@@ -6950,8 +6950,8 @@
     "country": "India",
     "province": "Tamil Nadu",
     "location": [
-      12.92038576,
-      79.15004187
+      79.15004187,
+      12.92038576
     ],
     "data": {
       "confirmed": 1,
@@ -6965,8 +6965,8 @@
     "country": "India",
     "province": "Telengana",
     "location": [
-      17.697963,
-      78.920226
+      78.920226,
+      17.697963
     ],
     "data": {
       "confirmed": 3,
@@ -6980,8 +6980,8 @@
     "country": "India",
     "province": "Tripura",
     "location": [
-      23.83540428,
-      91.27999914
+      91.27999914,
+      23.83540428
     ],
     "data": {
       "confirmed": 0,
@@ -6995,8 +6995,8 @@
     "country": "India",
     "province": "Uttarakhand",
     "location": [
-      30.230923,
-      79.109923
+      79.109923,
+      30.230923
     ],
     "data": {
       "confirmed": 0,
@@ -7010,8 +7010,8 @@
     "country": "India",
     "province": "Uttar Pradesh",
     "location": [
-      27.59998069,
-      78.05000565
+      78.05000565,
+      27.59998069
     ],
     "data": {
       "confirmed": 12,
@@ -7025,8 +7025,8 @@
     "country": "India",
     "province": "West Bengal",
     "location": [
-      22.58039044,
-      88.32994665
+      88.32994665,
+      22.58039044
     ],
     "data": {
       "confirmed": 0,
@@ -7040,8 +7040,8 @@
     "country": "India",
     "province": "Chandigarh",
     "location": [
-      30.71999697,
-      76.78000565
+      76.78000565,
+      30.71999697
     ],
     "data": {
       "confirmed": 0,
@@ -7055,8 +7055,8 @@
     "country": "India",
     "province": "Dadra and Nagar Haveli and Daman & Diu",
     "location": [
-      20.26657819,
-      73.0166178
+      73.0166178,
+      20.26657819
     ],
     "data": {
       "confirmed": 0,
@@ -7070,8 +7070,8 @@
     "country": "India",
     "province": "Delhi",
     "location": [
-      28.6699929,
-      77.23000403
+      77.23000403,
+      28.6699929
     ],
     "data": {
       "confirmed": 7,
@@ -7085,8 +7085,8 @@
     "country": "India",
     "province": "Union Territory of Jammu and Kashmir",
     "location": [
-      34.29995933,
-      74.46665849
+      74.46665849,
+      34.29995933
     ],
     "data": {
       "confirmed": 2,
@@ -7100,8 +7100,8 @@
     "country": "India",
     "province": "Union Territory of Ladakh",
     "location": [
-      34.2996176,
-      78.2909766
+      78.2909766,
+      34.2996176
     ],
     "data": {
       "confirmed": 3,
@@ -7115,8 +7115,8 @@
     "country": "India",
     "province": "Lakshadweep",
     "location": [
-      10.56257331,
-      72.63686717
+      72.63686717,
+      10.56257331
     ],
     "data": {
       "confirmed": 0,
@@ -7130,8 +7130,8 @@
     "country": "India",
     "province": "Puducherry",
     "location": [
-      11.93499371,
-      79.83000037
+      79.83000037,
+      11.93499371
     ],
     "data": {
       "confirmed": 0,
