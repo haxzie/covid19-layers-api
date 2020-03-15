@@ -1,0 +1,224 @@
+[
+  {
+    "country_code": "IN",
+    "country": "India",
+    "province": "Andaman And Nicobar Islands",
+    "coordinates": [11.66702557, 92.73598262]
+  },
+  {
+    "country_code": "IN",
+    "country": "India",
+    "province": "Andhra Pradesh",
+    "coordinates": [14.7504291, 78.57002559]
+  },
+  {
+    "country_code": "IN",
+    "country": "India",
+    "province": "Arunachal Pradesh",
+    "coordinates": [27.10039878, 93.61660071]
+  },
+  {
+    "country_code": "IN",
+    "country": "India",
+    "province": "Assam",
+    "coordinates": [26.7499809, 94.21666744]
+  },
+  {
+    "country_code": "IN",
+    "country": "India",
+    "province": "Bihar",
+    "coordinates": [25.78541445, 87.4799727]
+  },
+  {
+    "country_code": "IN",
+    "country": "India",
+    "province": "Chandigarh",
+    "coordinates": [30.71999697, 76.78000565]
+  },
+  {
+    "country_code": "IN",
+    "country": "India",
+    "province": "Chhattisgarh",
+    "coordinates": [22.09042035, 82.15998734]
+  },
+  {
+    "country_code": "IN",
+    "country": "India",
+    "province": "Dadra and Nagar Haveli and Daman & Diu",
+    "coordinates": [20.26657819, 73.0166178]
+  },
+  {
+    "country_code": "IN",
+    "country": "India",
+    "province": "Delhi",
+    "coordinates": [28.6699929, 77.23000403]
+  },
+  {
+    "country_code": "IN",
+    "country": "India",
+    "province": "Goa",
+    "coordinates": [15.491997, 73.81800065]
+  },
+  {
+    "country_code": "IN",
+    "country": "India",
+    "province": "Gujarat",
+    "coordinates": [23.158831, 70.753408]
+  },
+  {
+    "country_code": "IN",
+    "country": "India",
+    "province": "Haryana",
+    "coordinates": [28.45000633, 77.01999101]
+  },
+  {
+    "country_code": "IN",
+    "country": "India",
+    "province": "Himachal Pradesh",
+    "coordinates": [31.10002545, 77.16659704]
+  },
+  {
+    "country_code": "IN",
+    "country": "India",
+    "province": "Union Territory of Jammu and Kashmir",
+    "coordinates": [34.29995933, 74.46665849]
+  },
+  {
+    "country_code": "IN",
+    "country": "India",
+    "province": "Jharkhand",
+    "coordinates": [23.80039349, 86.41998572]
+  },
+  {
+    "country_code": "IN",
+    "country": "India",
+    "province": "Karnataka",
+    "coordinates": [12.57038129, 76.91999711]
+  },
+  {
+    "country_code": "IN",
+    "country": "India",
+    "province": "Kerala",
+    "coordinates": [8.900372741, 76.56999263]
+  },
+  {
+    "country_code": "IN",
+    "country": "India",
+    "province": "Lakshadweep",
+    "coordinates": [10.56257331, 72.63686717]
+  },
+  {
+    "country_code": "IN",
+    "country": "India",
+    "province": "Madhya Pradesh",
+    "coordinates": [21.30039105, 76.13001949]
+  },
+  {
+    "country_code": "IN",
+    "country": "India",
+    "province": "Maharashtra",
+    "coordinates": [19.25023195, 73.16017493]
+  },
+  {
+    "country_code": "IN",
+    "country": "India",
+    "province": "Manipur",
+    "coordinates": [24.79997072, 93.95001705]
+  },
+  {
+    "country_code": "IN",
+    "country": "India",
+    "province": "Meghalaya",
+    "coordinates": [25.57049217, 91.8800142]
+  },
+  {
+    "country_code": "IN",
+    "country": "India",
+    "province": "Mizoram",
+    "coordinates": [23.71039899, 92.72001461]
+  },
+  {
+    "country_code": "IN",
+    "country": "India",
+    "province": "Nagaland",
+    "coordinates": [25.6669979, 94.11657019]
+  },
+  {
+    "country_code": "IN",
+    "country": "India",
+    "province": "Odisha",
+    "coordinates": [19.82042971, 85.90001746]
+  },
+  {
+    "country_code": "IN",
+    "country": "India",
+    "province": "Puducherry",
+    "coordinates": [11.93499371, 79.83000037]
+  },
+  {
+    "country_code": "IN",
+    "country": "India",
+    "province": "Punjab",
+    "coordinates": [31.51997398, 75.98000281]
+  },
+  {
+    "country_code": "IN",
+    "country": "India",
+    "province": "Rajasthan",
+    "coordinates": [26.44999921, 74.63998124]
+  },
+  {
+    "country_code": "IN",
+    "country": "India",
+    "province": "Sikkim",
+    "coordinates": [27.3333303, 88.6166475]
+  },
+  {
+    "country_code": "IN",
+    "country": "India",
+    "province": "Tamil Nadu",
+    "coordinates": [12.92038576, 79.15004187]
+  },
+  {
+    "country_code": "IN",
+    "country": "India",
+    "province": "Tripura",
+    "coordinates": [23.83540428, 91.27999914]
+  },
+  {
+    "country_code": "IN",
+    "country": "India",
+    "province": "Uttar Pradesh",
+    "coordinates": [27.59998069, 78.05000565]
+  },
+  {
+    "country_code": "IN",
+    "country": "India",
+    "province": "Uttaranchal",
+    "coordinates": [30.32040895, 78.05000565]
+  },
+  {
+    "country_code": "IN",
+    "country": "India",
+    "province": "West Bengal",
+    "coordinates": [22.58039044, 88.32994665]
+  },
+  {
+    "country_code": "IN",
+    "country": "India",
+    "province": "Union Territory of Ladakh",
+    "coordinates": [34.2996176, 78.2909766]
+  },
+  {
+    "country_code": "IN",
+    "country": "India",
+    "province": "Telengana",
+    "coordinates": [17.697963, 78.920226]
+  },
+  {
+    "country_code": "IN",
+    "country": "India",
+    "province": "Uttarakhand",
+    "coordinates": [30.230923, 79.109923]
+  }
+]

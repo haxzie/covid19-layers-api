@@ -225,21 +225,6 @@
     }
   },
   {
-    "id": "3bdf17b97f164a80db7d3dd307b19b61",
-    "location": [
-      "78",
-      "21"
-    ],
-    "country": "India",
-    "country_code": "IN",
-    "province": "",
-    "data": {
-      "confirmed": 102,
-      "deaths": 2,
-      "recovered": 4
-    }
-  },
-  {
     "id": "79fe507bc8934e9ea8f18877cfde72e9",
     "location": [
       "12",
@@ -6623,6 +6608,531 @@
     "country": "Palestine, State of",
     "country_code": "PS",
     "province": "",
+    "data": {
+      "confirmed": 0,
+      "deaths": 0,
+      "recovered": 0
+    }
+  },
+  {
+    "id": "8e4c7c101f5ed2c642f379ed35d9b583",
+    "country_code": "IN",
+    "country": "India",
+    "province": "Andhra Pradesh",
+    "coordinates": [
+      14.7504291,
+      78.57002559
+    ],
+    "data": {
+      "confirmed": 1,
+      "deaths": 0,
+      "recovered": 0
+    }
+  },
+  {
+    "id": "cca23a4cc82756000f93241a4029c6ff",
+    "country_code": "IN",
+    "country": "India",
+    "province": "Arunachal Pradesh",
+    "coordinates": [
+      27.10039878,
+      93.61660071
+    ],
+    "data": {
+      "confirmed": 0,
+      "deaths": 0,
+      "recovered": 0
+    }
+  },
+  {
+    "id": "fcb1cbf538cdd45cbde70d54c0458501",
+    "country_code": "IN",
+    "country": "India",
+    "province": "Assam",
+    "coordinates": [
+      26.7499809,
+      94.21666744
+    ],
+    "data": {
+      "confirmed": 0,
+      "deaths": 0,
+      "recovered": 0
+    }
+  },
+  {
+    "id": "b4d617aba5a6b12b49e4c2af58fe5986",
+    "country_code": "IN",
+    "country": "India",
+    "province": "Bihar",
+    "coordinates": [
+      25.78541445,
+      87.4799727
+    ],
+    "data": {
+      "confirmed": 0,
+      "deaths": 0,
+      "recovered": 0
+    }
+  },
+  {
+    "id": "5ef2988c0edde5392bce4127e9ea1a5e",
+    "country_code": "IN",
+    "country": "India",
+    "province": "Chhattisgarh",
+    "coordinates": [
+      22.09042035,
+      82.15998734
+    ],
+    "data": {
+      "confirmed": 0,
+      "deaths": 0,
+      "recovered": 0
+    }
+  },
+  {
+    "id": "5b5921400f3dc6b88269a070a1c9449b",
+    "country_code": "IN",
+    "country": "India",
+    "province": "Goa",
+    "coordinates": [
+      15.491997,
+      73.81800065
+    ],
+    "data": {
+      "confirmed": 0,
+      "deaths": 0,
+      "recovered": 0
+    }
+  },
+  {
+    "id": "f19a140c26a5c5eefbe38bd4690d3dfb",
+    "country_code": "IN",
+    "country": "India",
+    "province": "Gujarat",
+    "coordinates": [
+      23.158831,
+      70.753408
+    ],
+    "data": {
+      "confirmed": 0,
+      "deaths": 0,
+      "recovered": 0
+    }
+  },
+  {
+    "id": "a6fccb20816926542aa5337196113e2c",
+    "country_code": "IN",
+    "country": "India",
+    "province": "Haryana",
+    "coordinates": [
+      28.45000633,
+      77.01999101
+    ],
+    "data": {
+      "confirmed": 14,
+      "deaths": 0,
+      "recovered": 0
+    }
+  },
+  {
+    "id": "f71a087c82b893286e845bc2e0010cf3",
+    "country_code": "IN",
+    "country": "India",
+    "province": "Himachal Pradesh",
+    "coordinates": [
+      31.10002545,
+      77.16659704
+    ],
+    "data": {
+      "confirmed": 0,
+      "deaths": 0,
+      "recovered": 0
+    }
+  },
+  {
+    "id": "e474f816cd86851b3383d6130a4f0afd",
+    "country_code": "IN",
+    "country": "India",
+    "province": "Jharkhand",
+    "coordinates": [
+      23.80039349,
+      86.41998572
+    ],
+    "data": {
+      "confirmed": 0,
+      "deaths": 0,
+      "recovered": 0
+    }
+  },
+  {
+    "id": "8f1da270af1f04aae08a745c540235b5",
+    "country_code": "IN",
+    "country": "India",
+    "province": "Karnataka",
+    "coordinates": [
+      12.57038129,
+      76.91999711
+    ],
+    "data": {
+      "confirmed": 6,
+      "deaths": 1,
+      "recovered": 0
+    }
+  },
+  {
+    "id": "1b56f73913d610cbc388bcd321807a92",
+    "country_code": "IN",
+    "country": "India",
+    "province": "Kerala",
+    "coordinates": [
+      8.900372741,
+      76.56999263
+    ],
+    "data": {
+      "confirmed": 22,
+      "deaths": 0,
+      "recovered": 3
+    }
+  },
+  {
+    "id": "f8de83b244a21fdf50e2cd8068dba2b4",
+    "country_code": "IN",
+    "country": "India",
+    "province": "Madhya Pradesh",
+    "coordinates": [
+      21.30039105,
+      76.13001949
+    ],
+    "data": {
+      "confirmed": 0,
+      "deaths": 0,
+      "recovered": 0
+    }
+  },
+  {
+    "id": "70c3cd5b6302abce2fed2ee57572bec9",
+    "country_code": "IN",
+    "country": "India",
+    "province": "Maharashtra",
+    "coordinates": [
+      19.25023195,
+      73.16017493
+    ],
+    "data": {
+      "confirmed": 31,
+      "deaths": 0,
+      "recovered": 0
+    }
+  },
+  {
+    "id": "f4194d0db066a83f0ece6528cd70c4ec",
+    "country_code": "IN",
+    "country": "India",
+    "province": "Manipur",
+    "coordinates": [
+      24.79997072,
+      93.95001705
+    ],
+    "data": {
+      "confirmed": 0,
+      "deaths": 0,
+      "recovered": 0
+    }
+  },
+  {
+    "id": "395cd5e801a6ba040e7bb3d5a5870ec2",
+    "country_code": "IN",
+    "country": "India",
+    "province": "Meghalaya",
+    "coordinates": [
+      25.57049217,
+      91.8800142
+    ],
+    "data": {
+      "confirmed": 0,
+      "deaths": 0,
+      "recovered": 0
+    }
+  },
+  {
+    "id": "ec0a1aae75c9f2f31f2f863a0629088d",
+    "country_code": "IN",
+    "country": "India",
+    "province": "Mizoram",
+    "coordinates": [
+      23.71039899,
+      92.72001461
+    ],
+    "data": {
+      "confirmed": 0,
+      "deaths": 0,
+      "recovered": 0
+    }
+  },
+  {
+    "id": "a53909eab1c8d70b969869d4bbdf966d",
+    "country_code": "IN",
+    "country": "India",
+    "province": "Nagaland",
+    "coordinates": [
+      25.6669979,
+      94.11657019
+    ],
+    "data": {
+      "confirmed": 0,
+      "deaths": 0,
+      "recovered": 0
+    }
+  },
+  {
+    "id": "4a68abfc9e8892a9a2a9b74cc952b5a5",
+    "country_code": "IN",
+    "country": "India",
+    "province": "Odisha",
+    "coordinates": [
+      19.82042971,
+      85.90001746
+    ],
+    "data": {
+      "confirmed": 0,
+      "deaths": 0,
+      "recovered": 0
+    }
+  },
+  {
+    "id": "35039a369a4ce00b01fab3d49a75f7d2",
+    "country_code": "IN",
+    "country": "India",
+    "province": "Punjab",
+    "coordinates": [
+      31.51997398,
+      75.98000281
+    ],
+    "data": {
+      "confirmed": 1,
+      "deaths": 0,
+      "recovered": 0
+    }
+  },
+  {
+    "id": "fb5d6eee49f3f82d505c968f9be78eed",
+    "country_code": "IN",
+    "country": "India",
+    "province": "Rajasthan",
+    "coordinates": [
+      26.44999921,
+      74.63998124
+    ],
+    "data": {
+      "confirmed": 4,
+      "deaths": 0,
+      "recovered": 0
+    }
+  },
+  {
+    "id": "5ee8525ef369df084effe3d39d5d330f",
+    "country_code": "IN",
+    "country": "India",
+    "province": "Sikkim",
+    "coordinates": [
+      27.3333303,
+      88.6166475
+    ],
+    "data": {
+      "confirmed": 0,
+      "deaths": 0,
+      "recovered": 0
+    }
+  },
+  {
+    "id": "527c4939bf2c6561dd53c4b5fcb933c2",
+    "country_code": "IN",
+    "country": "India",
+    "province": "Tamil Nadu",
+    "coordinates": [
+      12.92038576,
+      79.15004187
+    ],
+    "data": {
+      "confirmed": 1,
+      "deaths": 0,
+      "recovered": 0
+    }
+  },
+  {
+    "id": "a7b5736c7109d8ed46699970fb5e0e70",
+    "country_code": "IN",
+    "country": "India",
+    "province": "Telengana",
+    "coordinates": [
+      17.697963,
+      78.920226
+    ],
+    "data": {
+      "confirmed": 3,
+      "deaths": 0,
+      "recovered": 1
+    }
+  },
+  {
+    "id": "c66e4a48089cf6badfc6a879834f8de3",
+    "country_code": "IN",
+    "country": "India",
+    "province": "Tripura",
+    "coordinates": [
+      23.83540428,
+      91.27999914
+    ],
+    "data": {
+      "confirmed": 0,
+      "deaths": 0,
+      "recovered": 0
+    }
+  },
+  {
+    "id": "29d05b5a734d377526a4739f986680fd",
+    "country_code": "IN",
+    "country": "India",
+    "province": "Uttarakhand",
+    "coordinates": [
+      30.230923,
+      79.109923
+    ],
+    "data": {
+      "confirmed": 0,
+      "deaths": 0,
+      "recovered": 0
+    }
+  },
+  {
+    "id": "3215440483c26f76c83a954115cd078d",
+    "country_code": "IN",
+    "country": "India",
+    "province": "Uttar Pradesh",
+    "coordinates": [
+      27.59998069,
+      78.05000565
+    ],
+    "data": {
+      "confirmed": 12,
+      "deaths": 0,
+      "recovered": 4
+    }
+  },
+  {
+    "id": "38523f98a7b240580347970a0db5edf9",
+    "country_code": "IN",
+    "country": "India",
+    "province": "West Bengal",
+    "coordinates": [
+      22.58039044,
+      88.32994665
+    ],
+    "data": {
+      "confirmed": 0,
+      "deaths": 0,
+      "recovered": 0
+    }
+  },
+  {
+    "id": "9e7c5509559acfaccd3a40c15ab85f54",
+    "country_code": "IN",
+    "country": "India",
+    "province": "Chandigarh",
+    "coordinates": [
+      30.71999697,
+      76.78000565
+    ],
+    "data": {
+      "confirmed": 0,
+      "deaths": 0,
+      "recovered": 0
+    }
+  },
+  {
+    "id": "a3d5ed256c2c46bc9024d9ab77fa9245",
+    "country_code": "IN",
+    "country": "India",
+    "province": "Dadra and Nagar Haveli and Daman & Diu",
+    "coordinates": [
+      20.26657819,
+      73.0166178
+    ],
+    "data": {
+      "confirmed": 0,
+      "deaths": 0,
+      "recovered": 0
+    }
+  },
+  {
+    "id": "7c207f317eff140ea6f095d85712daa9",
+    "country_code": "IN",
+    "country": "India",
+    "province": "Delhi",
+    "coordinates": [
+      28.6699929,
+      77.23000403
+    ],
+    "data": {
+      "confirmed": 7,
+      "deaths": 1,
+      "recovered": 2
+    }
+  },
+  {
+    "id": "f2a1461f6bba56608d1ad8363c5c9eed",
+    "country_code": "IN",
+    "country": "India",
+    "province": "Union Territory of Jammu and Kashmir",
+    "coordinates": [
+      34.29995933,
+      74.46665849
+    ],
+    "data": {
+      "confirmed": 2,
+      "deaths": 0,
+      "recovered": 0
+    }
+  },
+  {
+    "id": "bdac5d1c77c0ede716064c6aba8f7ea7",
+    "country_code": "IN",
+    "country": "India",
+    "province": "Union Territory of Ladakh",
+    "coordinates": [
+      34.2996176,
+      78.2909766
+    ],
+    "data": {
+      "confirmed": 3,
+      "deaths": 0,
+      "recovered": 0
+    }
+  },
+  {
+    "id": "758581e60e66c9295958e1c846bf5a3e",
+    "country_code": "IN",
+    "country": "India",
+    "province": "Lakshadweep",
+    "coordinates": [
+      10.56257331,
+      72.63686717
+    ],
+    "data": {
+      "confirmed": 0,
+      "deaths": 0,
+      "recovered": 0
+    }
+  },
+  {
+    "id": "b5a788e17c60910bbd12a87a219e077e",
+    "country_code": "IN",
+    "country": "India",
+    "province": "Puducherry",
+    "coordinates": [
+      11.93499371,
+      79.83000037
+    ],
     "data": {
       "confirmed": 0,
       "deaths": 0,
