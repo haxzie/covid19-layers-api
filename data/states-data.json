@@ -78,7 +78,7 @@
     "helpline": "0755-2527177"
   },
   "Maharashtra": {
-    "cases": 31,
+    "cases": 32,
     "cured_discharged": "0",
     "deaths": "0",
     "helpline": "020-26127394"
@@ -121,7 +121,7 @@
   },
   "Rajasthan": {
     "cases": 4,
-    "cured_discharged": "0",
+    "cured_discharged": "3",
     "deaths": "0",
     "helpline": "0141-2225624"
   },
@@ -150,13 +150,13 @@
     "helpline": "0381-2315879"
   },
   "Uttarakhand": {
-    "cases": 0,
-    "cured_discharged": 0,
-    "deaths": 0,
+    "cases": 1,
+    "cured_discharged": "0",
+    "deaths": "0",
     "helpline": "104"
   },
   "Uttar Pradesh": {
-    "cases": 12,
+    "cases": 13,
     "cured_discharged": "4",
     "deaths": "0",
     "helpline": "18001805145"
