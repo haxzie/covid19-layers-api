@@ -42,7 +42,7 @@
     "helpline": "104"
   },
   "Haryana": {
-    "cases": 16,
+    "cases": 17,
     "cured_discharged": "0",
     "deaths": "0",
     "helpline": "8558893911"
@@ -78,7 +78,7 @@
     "helpline": "0755-2527177"
   },
   "Maharashtra": {
-    "cases": 41,
+    "cases": 42,
     "cured_discharged": "0",
     "deaths": "1",
     "helpline": "020-26127394"
@@ -138,7 +138,7 @@
     "helpline": "044-29510500"
   },
   "Telengana": {
-    "cases": 5,
+    "cases": 6,
     "cured_discharged": "1",
     "deaths": "0",
     "helpline": "104"
@@ -209,10 +209,10 @@
     "deaths": 0,
     "helpline": "104"
   },
-  "Puducherry": {
-    "cases": 0,
-    "cured_discharged": 0,
-    "deaths": 0,
+  "Pondicherry": {
+    "cases": 1,
+    "cured_discharged": "0",
+    "deaths": "0",
     "helpline": "104"
   }
 }

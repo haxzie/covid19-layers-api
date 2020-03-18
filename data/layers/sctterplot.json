@@ -6984,7 +6984,7 @@
       28.45000633
     ],
     "data": {
-      "confirmed": 16,
+      "confirmed": 17,
       "deaths": 0,
       "recovered": 0
     }
@@ -7074,7 +7074,7 @@
       19.25023195
     ],
     "data": {
-      "confirmed": 41,
+      "confirmed": 42,
       "deaths": 1,
       "recovered": 0
     }
@@ -7224,7 +7224,7 @@
       17.697963
     ],
     "data": {
-      "confirmed": 5,
+      "confirmed": 6,
       "deaths": 0,
       "recovered": 1
     }
@@ -7372,21 +7372,6 @@
     "location": [
       72.63686717,
       10.56257331
-    ],
-    "data": {
-      "confirmed": 0,
-      "deaths": 0,
-      "recovered": 0
-    }
-  },
-  {
-    "id": "b5a788e17c60910bbd12a87a219e077e",
-    "country_code": "IN",
-    "country": "India",
-    "province": "Puducherry",
-    "location": [
-      79.83000037,
-      11.93499371
     ],
     "data": {
       "confirmed": 0,
