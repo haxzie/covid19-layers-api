@@ -42,7 +42,7 @@
     "helpline": "104"
   },
   "Haryana": {
-    "cases": 15,
+    "cases": 16,
     "cured_discharged": "0",
     "deaths": "0",
     "helpline": "8558893911"
@@ -66,7 +66,7 @@
     "helpline": "104"
   },
   "Kerala": {
-    "cases": 26,
+    "cases": 27,
     "cured_discharged": "3",
     "deaths": "0",
     "helpline": "0471-2552056"
@@ -78,7 +78,7 @@
     "helpline": "0755-2527177"
   },
   "Maharashtra": {
-    "cases": 39,
+    "cases": 41,
     "cured_discharged": "0",
     "deaths": "1",
     "helpline": "020-26127394"
@@ -156,15 +156,15 @@
     "helpline": "104"
   },
   "Uttar Pradesh": {
-    "cases": 15,
+    "cases": 16,
     "cured_discharged": "5",
     "deaths": "0",
     "helpline": "18001805145"
   },
   "West Bengal": {
-    "cases": 0,
-    "cured_discharged": 0,
-    "deaths": 0,
+    "cases": 1,
+    "cured_discharged": "0",
+    "deaths": "0",
     "helpline": "3323412600"
   },
   "Andaman and Nicobar Islands": {
@@ -186,7 +186,7 @@
     "helpline": "104"
   },
   "Delhi": {
-    "cases": 8,
+    "cases": 10,
     "cured_discharged": "2",
     "deaths": "1",
     "helpline": "011-22307154"
@@ -198,7 +198,7 @@
     "helpline": "1912520982 (Jammu), 1942440283 (Kashmir) "
   },
   "Union Territory of Ladakh": {
-    "cases": 6,
+    "cases": 8,
     "cured_discharged": "0",
     "deaths": "0",
     "helpline": "1982256462"

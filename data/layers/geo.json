@@ -7,7 +7,7 @@
       "properties": {
         "name": "Afghanistan",
         "data": {
-          "confirmed": 21,
+          "confirmed": 22,
           "deaths": 0,
           "recovered": 1
         }
@@ -627,7 +627,7 @@
       "properties": {
         "name": "Albania",
         "data": {
-          "confirmed": 51,
+          "confirmed": 55,
           "deaths": 1,
           "recovered": 0
         }
@@ -841,9 +841,9 @@
       "properties": {
         "name": "Argentina",
         "data": {
-          "confirmed": 56,
+          "confirmed": 68,
           "deaths": 2,
-          "recovered": 1
+          "recovered": 3
         }
       },
       "geometry": {
@@ -1350,9 +1350,9 @@
       "properties": {
         "name": "Armenia",
         "data": {
-          "confirmed": 52,
+          "confirmed": 78,
           "deaths": 0,
-          "recovered": 0
+          "recovered": 1
         }
       },
       "geometry": {
@@ -4177,8 +4177,8 @@
       "properties": {
         "name": "Australia",
         "data": {
-          "confirmed": 377,
-          "deaths": 3,
+          "confirmed": 452,
+          "deaths": 5,
           "recovered": 23
         }
       },
@@ -5166,9 +5166,9 @@
       "properties": {
         "name": "Austria",
         "data": {
-          "confirmed": 1018,
+          "confirmed": 1332,
           "deaths": 3,
-          "recovered": 6
+          "recovered": 1
         }
       },
       "geometry": {
@@ -5333,7 +5333,7 @@
       "properties": {
         "name": "Azerbaijan",
         "data": {
-          "confirmed": 15,
+          "confirmed": 28,
           "deaths": 1,
           "recovered": 6
         }
@@ -5605,8 +5605,8 @@
       "properties": {
         "name": "Belgium",
         "data": {
-          "confirmed": 1058,
-          "deaths": 5,
+          "confirmed": 1243,
+          "deaths": 10,
           "recovered": 1
         }
       },
@@ -5978,9 +5978,9 @@
       "properties": {
         "name": "Bangladesh",
         "data": {
-          "confirmed": 8,
+          "confirmed": 10,
           "deaths": 0,
-          "recovered": 2
+          "recovered": 3
         }
       },
       "geometry": {
@@ -6141,7 +6141,7 @@
       "properties": {
         "name": "Bulgaria",
         "data": {
-          "confirmed": 52,
+          "confirmed": 67,
           "deaths": 2,
           "recovered": 0
         }
@@ -6385,9 +6385,9 @@
       "properties": {
         "name": "Bosnia and Herzegovina",
         "data": {
-          "confirmed": 25,
+          "confirmed": 26,
           "deaths": 0,
-          "recovered": 0
+          "recovered": 2
         }
       },
       "geometry": {
@@ -7408,9 +7408,9 @@
       "properties": {
         "name": "Brazil",
         "data": {
-          "confirmed": 200,
-          "deaths": 0,
-          "recovered": 1
+          "confirmed": 321,
+          "deaths": 1,
+          "recovered": 2
         }
       },
       "geometry": {
@@ -8239,7 +8239,7 @@
       "properties": {
         "name": "Brunei",
         "data": {
-          "confirmed": 54,
+          "confirmed": 56,
           "deaths": 0,
           "recovered": 0
         }
@@ -8807,8 +8807,8 @@
       "properties": {
         "name": "Canada",
         "data": {
-          "confirmed": 415,
-          "deaths": 4,
+          "confirmed": 478,
+          "deaths": 5,
           "recovered": 9
         }
       },
@@ -12112,8 +12112,8 @@
       "properties": {
         "name": "Switzerland",
         "data": {
-          "confirmed": 2200,
-          "deaths": 14,
+          "confirmed": 2700,
+          "deaths": 27,
           "recovered": 4
         }
       },
@@ -12227,7 +12227,7 @@
       "properties": {
         "name": "Chile",
         "data": {
-          "confirmed": 155,
+          "confirmed": 201,
           "deaths": 0,
           "recovered": 0
         }
@@ -12708,9 +12708,9 @@
       "properties": {
         "name": "China",
         "data": {
-          "confirmed": 81033,
-          "deaths": 3217,
-          "recovered": 67910
+          "confirmed": 81058,
+          "deaths": 3230,
+          "recovered": 68798
         }
       },
       "geometry": {
@@ -13693,9 +13693,9 @@
       "properties": {
         "name": "Ivory Coast",
         "data": {
-          "confirmed": 1,
+          "confirmed": 5,
           "deaths": 0,
-          "recovered": 0
+          "recovered": 1
         }
       },
       "geometry": {
@@ -13896,7 +13896,7 @@
       "properties": {
         "name": "Cameroon",
         "data": {
-          "confirmed": 4,
+          "confirmed": 10,
           "deaths": 0,
           "recovered": 0
         }
@@ -14159,7 +14159,7 @@
       "properties": {
         "name": "Democratic Republic of the Congo",
         "data": {
-          "confirmed": 2,
+          "confirmed": 3,
           "deaths": 0,
           "recovered": 0
         }
@@ -14881,9 +14881,9 @@
       "properties": {
         "name": "Colombia",
         "data": {
-          "confirmed": 54,
+          "confirmed": 65,
           "deaths": 0,
-          "recovered": 0
+          "recovered": 1
         }
       },
       "geometry": {
@@ -15300,7 +15300,7 @@
       "properties": {
         "name": "Costa Rica",
         "data": {
-          "confirmed": 35,
+          "confirmed": 41,
           "deaths": 0,
           "recovered": 0
         }
@@ -15463,7 +15463,7 @@
       "properties": {
         "name": "Cuba",
         "data": {
-          "confirmed": 4,
+          "confirmed": 5,
           "deaths": 0,
           "recovered": 0
         }
@@ -15650,7 +15650,7 @@
       "properties": {
         "name": "Cyprus",
         "data": {
-          "confirmed": 33,
+          "confirmed": 46,
           "deaths": 0,
           "recovered": 0
         }
@@ -15729,7 +15729,7 @@
       "properties": {
         "name": "Czech Republic",
         "data": {
-          "confirmed": 298,
+          "confirmed": 396,
           "deaths": 0,
           "recovered": 3
         }
@@ -15888,8 +15888,8 @@
       "properties": {
         "name": "Germany",
         "data": {
-          "confirmed": 7272,
-          "deaths": 17,
+          "confirmed": 9257,
+          "deaths": 24,
           "recovered": 67
         }
       },
@@ -16218,8 +16218,8 @@
       "properties": {
         "name": "Denmark",
         "data": {
-          "confirmed": 932,
-          "deaths": 3,
+          "confirmed": 1024,
+          "deaths": 4,
           "recovered": 1
         }
       },
@@ -16339,8 +16339,8 @@
       "properties": {
         "name": "Dominican Republic",
         "data": {
-          "confirmed": 11,
-          "deaths": 0,
+          "confirmed": 21,
+          "deaths": 1,
           "recovered": 0
         }
       },
@@ -16462,7 +16462,7 @@
       "properties": {
         "name": "Algeria",
         "data": {
-          "confirmed": 54,
+          "confirmed": 60,
           "deaths": 4,
           "recovered": 12
         }
@@ -16729,7 +16729,7 @@
       "properties": {
         "name": "Ecuador",
         "data": {
-          "confirmed": 37,
+          "confirmed": 58,
           "deaths": 2,
           "recovered": 0
         }
@@ -16880,9 +16880,9 @@
       "properties": {
         "name": "Egypt",
         "data": {
-          "confirmed": 150,
-          "deaths": 2,
-          "recovered": 27
+          "confirmed": 196,
+          "deaths": 4,
+          "recovered": 32
         }
       },
       "geometry": {
@@ -17198,9 +17198,9 @@
       "properties": {
         "name": "Spain",
         "data": {
-          "confirmed": 9942,
-          "deaths": 342,
-          "recovered": 530
+          "confirmed": 11748,
+          "deaths": 533,
+          "recovered": 1028
         }
       },
       "geometry": {
@@ -17421,7 +17421,7 @@
       "properties": {
         "name": "Estonia",
         "data": {
-          "confirmed": 205,
+          "confirmed": 225,
           "deaths": 0,
           "recovered": 1
         }
@@ -17763,7 +17763,7 @@
       "properties": {
         "name": "Finland",
         "data": {
-          "confirmed": 277,
+          "confirmed": 321,
           "deaths": 0,
           "recovered": 10
         }
@@ -18110,7 +18110,7 @@
       "properties": {
         "name": "France",
         "data": {
-          "confirmed": 6650,
+          "confirmed": 7699,
           "deaths": 148,
           "recovered": 12
         }
@@ -18498,9 +18498,9 @@
       "properties": {
         "name": "United Kingdom",
         "data": {
-          "confirmed": 1551,
+          "confirmed": 1960,
           "deaths": 56,
-          "recovered": 21
+          "recovered": 53
         }
       },
       "geometry": {
@@ -18747,7 +18747,7 @@
       "properties": {
         "name": "Georgia",
         "data": {
-          "confirmed": 33,
+          "confirmed": 34,
           "deaths": 0,
           "recovered": 1
         }
@@ -18862,7 +18862,7 @@
       "properties": {
         "name": "Ghana",
         "data": {
-          "confirmed": 6,
+          "confirmed": 7,
           "deaths": 0,
           "recovered": 0
         }
@@ -19280,7 +19280,7 @@
       "properties": {
         "name": "Gambia",
         "data": {
-          "confirmed": 0,
+          "confirmed": 1,
           "deaths": 0,
           "recovered": 0
         }
@@ -19505,8 +19505,8 @@
       "properties": {
         "name": "Greece",
         "data": {
-          "confirmed": 331,
-          "deaths": 4,
+          "confirmed": 387,
+          "deaths": 5,
           "recovered": 8
         }
       },
@@ -20293,7 +20293,7 @@
       "properties": {
         "name": "Guatemala",
         "data": {
-          "confirmed": 2,
+          "confirmed": 6,
           "deaths": 1,
           "recovered": 0
         }
@@ -20452,7 +20452,7 @@
       "properties": {
         "name": "French Guiana",
         "data": {
-          "confirmed": 11,
+          "confirmed": 0,
           "deaths": 0,
           "recovered": 0
         }
@@ -20547,7 +20547,7 @@
       "properties": {
         "name": "Guyana",
         "data": {
-          "confirmed": 4,
+          "confirmed": 7,
           "deaths": 1,
           "recovered": 0
         }
@@ -20726,7 +20726,7 @@
       "properties": {
         "name": "Honduras",
         "data": {
-          "confirmed": 6,
+          "confirmed": 8,
           "deaths": 0,
           "recovered": 0
         }
@@ -20973,9 +20973,9 @@
       "properties": {
         "name": "Croatia",
         "data": {
-          "confirmed": 57,
+          "confirmed": 65,
           "deaths": 0,
-          "recovered": 2
+          "recovered": 4
         }
       },
       "geometry": {
@@ -21263,9 +21263,9 @@
       "properties": {
         "name": "Hungary",
         "data": {
-          "confirmed": 39,
+          "confirmed": 50,
           "deaths": 1,
-          "recovered": 1
+          "recovered": 2
         }
       },
       "geometry": {
@@ -21406,7 +21406,7 @@
       "properties": {
         "name": "Indonesia",
         "data": {
-          "confirmed": 134,
+          "confirmed": 172,
           "deaths": 5,
           "recovered": 8
         }
@@ -22475,7 +22475,7 @@
       "properties": {
         "name": "India",
         "data": {
-          "confirmed": 136,
+          "confirmed": 146,
           "deaths": 3,
           "recovered": 14
         }
@@ -23038,9 +23038,9 @@
       "properties": {
         "name": "Ireland",
         "data": {
-          "confirmed": 169,
+          "confirmed": 223,
           "deaths": 2,
-          "recovered": 0
+          "recovered": 5
         }
       },
       "geometry": {
@@ -23109,9 +23109,9 @@
       "properties": {
         "name": "Iran",
         "data": {
-          "confirmed": 14991,
-          "deaths": 853,
-          "recovered": 4590
+          "confirmed": 16169,
+          "deaths": 988,
+          "recovered": 5389
         }
       },
       "geometry": {
@@ -23428,9 +23428,9 @@
       "properties": {
         "name": "Iraq",
         "data": {
-          "confirmed": 124,
-          "deaths": 10,
-          "recovered": 26
+          "confirmed": 154,
+          "deaths": 11,
+          "recovered": 32
         }
       },
       "geometry": {
@@ -23567,8 +23567,8 @@
       "properties": {
         "name": "Iceland",
         "data": {
-          "confirmed": 180,
-          "deaths": 0,
+          "confirmed": 220,
+          "deaths": 1,
           "recovered": 0
         }
       },
@@ -23666,9 +23666,9 @@
       "properties": {
         "name": "Israel",
         "data": {
-          "confirmed": 255,
+          "confirmed": 337,
           "deaths": 0,
-          "recovered": 4
+          "recovered": 11
         }
       },
       "geometry": {
@@ -23777,9 +23777,9 @@
       "properties": {
         "name": "Italy",
         "data": {
-          "confirmed": 27980,
-          "deaths": 2158,
-          "recovered": 2749
+          "confirmed": 31506,
+          "deaths": 2503,
+          "recovered": 2941
         }
       },
       "geometry": {
@@ -24154,7 +24154,7 @@
       "properties": {
         "name": "Jamaica",
         "data": {
-          "confirmed": 10,
+          "confirmed": 12,
           "deaths": 0,
           "recovered": 2
         }
@@ -24217,7 +24217,7 @@
       "properties": {
         "name": "Jordan",
         "data": {
-          "confirmed": 17,
+          "confirmed": 34,
           "deaths": 0,
           "recovered": 1
         }
@@ -24312,8 +24312,8 @@
       "properties": {
         "name": "Japan",
         "data": {
-          "confirmed": 825,
-          "deaths": 27,
+          "confirmed": 878,
+          "deaths": 29,
           "recovered": 144
         }
       },
@@ -24601,7 +24601,7 @@
       "properties": {
         "name": "Kazakhstan",
         "data": {
-          "confirmed": 10,
+          "confirmed": 33,
           "deaths": 0,
           "recovered": 0
         }
@@ -25394,7 +25394,7 @@
       "properties": {
         "name": "Cambodia",
         "data": {
-          "confirmed": 7,
+          "confirmed": 33,
           "deaths": 0,
           "recovered": 1
         }
@@ -25481,9 +25481,9 @@
       "properties": {
         "name": "South Korea",
         "data": {
-          "confirmed": 8236,
-          "deaths": 75,
-          "recovered": 1137
+          "confirmed": 8320,
+          "deaths": 81,
+          "recovered": 1407
         }
       },
       "geometry": {
@@ -25576,7 +25576,7 @@
       "properties": {
         "name": "Kuwait",
         "data": {
-          "confirmed": 123,
+          "confirmed": 130,
           "deaths": 0,
           "recovered": 9
         }
@@ -25798,9 +25798,9 @@
       "properties": {
         "name": "Lebanon",
         "data": {
-          "confirmed": 99,
+          "confirmed": 120,
           "deaths": 3,
-          "recovered": 1
+          "recovered": 3
         }
       },
       "geometry": {
@@ -26231,7 +26231,7 @@
       "properties": {
         "name": "Sri Lanka",
         "data": {
-          "confirmed": 28,
+          "confirmed": 44,
           "deaths": 0,
           "recovered": 1
         }
@@ -26357,7 +26357,7 @@
       "properties": {
         "name": "Lithuania",
         "data": {
-          "confirmed": 17,
+          "confirmed": 25,
           "deaths": 0,
           "recovered": 1
         }
@@ -26452,7 +26452,7 @@
       "properties": {
         "name": "Luxembourg",
         "data": {
-          "confirmed": 77,
+          "confirmed": 140,
           "deaths": 1,
           "recovered": 0
         }
@@ -26499,7 +26499,7 @@
       "properties": {
         "name": "Latvia",
         "data": {
-          "confirmed": 34,
+          "confirmed": 49,
           "deaths": 0,
           "recovered": 1
         }
@@ -26606,8 +26606,8 @@
       "properties": {
         "name": "Morocco",
         "data": {
-          "confirmed": 29,
-          "deaths": 1,
+          "confirmed": 38,
+          "deaths": 2,
           "recovered": 1
         }
       },
@@ -26881,9 +26881,9 @@
       "properties": {
         "name": "Moldova",
         "data": {
-          "confirmed": 23,
+          "confirmed": 30,
           "deaths": 0,
-          "recovered": 0
+          "recovered": 1
         }
       },
       "geometry": {
@@ -27223,7 +27223,7 @@
       "properties": {
         "name": "Mexico",
         "data": {
-          "confirmed": 53,
+          "confirmed": 82,
           "deaths": 0,
           "recovered": 4
         }
@@ -27922,7 +27922,7 @@
       "properties": {
         "name": "Macedonia",
         "data": {
-          "confirmed": 18,
+          "confirmed": 26,
           "deaths": 0,
           "recovered": 1
         }
@@ -28332,7 +28332,7 @@
       "properties": {
         "name": "Malta",
         "data": {
-          "confirmed": 30,
+          "confirmed": 38,
           "deaths": 0,
           "recovered": 2
         }
@@ -28720,7 +28720,7 @@
       "properties": {
         "name": "Montenegro",
         "data": {
-          "confirmed": 0,
+          "confirmed": 2,
           "deaths": 0,
           "recovered": 0
         }
@@ -28811,7 +28811,7 @@
       "properties": {
         "name": "Mongolia",
         "data": {
-          "confirmed": 1,
+          "confirmed": 5,
           "deaths": 0,
           "recovered": 0
         }
@@ -29763,9 +29763,9 @@
       "properties": {
         "name": "Malaysia",
         "data": {
-          "confirmed": 566,
-          "deaths": 0,
-          "recovered": 42
+          "confirmed": 673,
+          "deaths": 2,
+          "recovered": 49
         }
       },
       "geometry": {
@@ -30553,7 +30553,7 @@
       "properties": {
         "name": "Nigeria",
         "data": {
-          "confirmed": 2,
+          "confirmed": 3,
           "deaths": 0,
           "recovered": 0
         }
@@ -31031,8 +31031,8 @@
       "properties": {
         "name": "Netherlands",
         "data": {
-          "confirmed": 1414,
-          "deaths": 24,
+          "confirmed": 1708,
+          "deaths": 43,
           "recovered": 2
         }
       },
@@ -31106,7 +31106,7 @@
       "properties": {
         "name": "Norway",
         "data": {
-          "confirmed": 1333,
+          "confirmed": 1463,
           "deaths": 3,
           "recovered": 1
         }
@@ -31602,7 +31602,7 @@
       "properties": {
         "name": "New Zealand",
         "data": {
-          "confirmed": 8,
+          "confirmed": 12,
           "deaths": 0,
           "recovered": 0
         }
@@ -31891,7 +31891,7 @@
       "properties": {
         "name": "Oman",
         "data": {
-          "confirmed": 22,
+          "confirmed": 24,
           "deaths": 0,
           "recovered": 9
         }
@@ -32104,7 +32104,7 @@
       "properties": {
         "name": "Pakistan",
         "data": {
-          "confirmed": 136,
+          "confirmed": 236,
           "deaths": 0,
           "recovered": 2
         }
@@ -32387,7 +32387,7 @@
       "properties": {
         "name": "Panama",
         "data": {
-          "confirmed": 55,
+          "confirmed": 69,
           "deaths": 1,
           "recovered": 0
         }
@@ -32614,9 +32614,9 @@
       "properties": {
         "name": "Peru",
         "data": {
-          "confirmed": 86,
+          "confirmed": 117,
           "deaths": 0,
-          "recovered": 0
+          "recovered": 1
         }
       },
       "geometry": {
@@ -32937,9 +32937,9 @@
       "properties": {
         "name": "Philippines",
         "data": {
-          "confirmed": 142,
+          "confirmed": 187,
           "deaths": 12,
-          "recovered": 2
+          "recovered": 5
         }
       },
       "geometry": {
@@ -33779,8 +33779,8 @@
       "properties": {
         "name": "Poland",
         "data": {
-          "confirmed": 177,
-          "deaths": 4,
+          "confirmed": 238,
+          "deaths": 5,
           "recovered": 13
         }
       },
@@ -33978,7 +33978,7 @@
       "properties": {
         "name": "Puerto Rico",
         "data": {
-          "confirmed": 3,
+          "confirmed": 0,
           "deaths": 0,
           "recovered": 0
         }
@@ -34224,8 +34224,8 @@
       "properties": {
         "name": "Portugal",
         "data": {
-          "confirmed": 331,
-          "deaths": 0,
+          "confirmed": 448,
+          "deaths": 1,
           "recovered": 3
         }
       },
@@ -34375,7 +34375,7 @@
       "properties": {
         "name": "Paraguay",
         "data": {
-          "confirmed": 8,
+          "confirmed": 9,
           "deaths": 0,
           "recovered": 0
         }
@@ -34581,9 +34581,9 @@
       "properties": {
         "name": "Romania",
         "data": {
-          "confirmed": 158,
+          "confirmed": 184,
           "deaths": 0,
-          "recovered": 9
+          "recovered": 16
         }
       },
       "geometry": {
@@ -34776,7 +34776,7 @@
       "properties": {
         "name": "Russia",
         "data": {
-          "confirmed": 90,
+          "confirmed": 114,
           "deaths": 0,
           "recovered": 8
         }
@@ -37237,7 +37237,7 @@
       "properties": {
         "name": "Rwanda",
         "data": {
-          "confirmed": 5,
+          "confirmed": 7,
           "deaths": 0,
           "recovered": 0
         }
@@ -37439,9 +37439,9 @@
       "properties": {
         "name": "Saudi Arabia",
         "data": {
-          "confirmed": 118,
+          "confirmed": 171,
           "deaths": 0,
-          "recovered": 2
+          "recovered": 6
         }
       },
       "geometry": {
@@ -38368,7 +38368,7 @@
       "properties": {
         "name": "Senegal",
         "data": {
-          "confirmed": 24,
+          "confirmed": 26,
           "deaths": 0,
           "recovered": 2
         }
@@ -39117,7 +39117,7 @@
       "properties": {
         "name": "Republic of Serbia",
         "data": {
-          "confirmed": 55,
+          "confirmed": 65,
           "deaths": 0,
           "recovered": 1
         }
@@ -39443,7 +39443,7 @@
       "properties": {
         "name": "Slovakia",
         "data": {
-          "confirmed": 63,
+          "confirmed": 72,
           "deaths": 0,
           "recovered": 0
         }
@@ -39594,7 +39594,7 @@
       "properties": {
         "name": "Slovenia",
         "data": {
-          "confirmed": 253,
+          "confirmed": 275,
           "deaths": 1,
           "recovered": 0
         }
@@ -39685,8 +39685,8 @@
       "properties": {
         "name": "Sweden",
         "data": {
-          "confirmed": 1103,
-          "deaths": 6,
+          "confirmed": 1190,
+          "deaths": 7,
           "recovered": 1
         }
       },
@@ -40542,9 +40542,9 @@
       "properties": {
         "name": "Thailand",
         "data": {
-          "confirmed": 147,
+          "confirmed": 177,
           "deaths": 1,
-          "recovered": 35
+          "recovered": 41
         }
       },
       "geometry": {
@@ -41298,7 +41298,7 @@
       "properties": {
         "name": "Trinidad and Tobago",
         "data": {
-          "confirmed": 4,
+          "confirmed": 5,
           "deaths": 0,
           "recovered": 0
         }
@@ -41349,7 +41349,7 @@
       "properties": {
         "name": "Tunisia",
         "data": {
-          "confirmed": 20,
+          "confirmed": 24,
           "deaths": 0,
           "recovered": 0
         }
@@ -41492,8 +41492,8 @@
       "properties": {
         "name": "Turkey",
         "data": {
-          "confirmed": 18,
-          "deaths": 0,
+          "confirmed": 47,
+          "deaths": 1,
           "recovered": 0
         }
       },
@@ -41785,9 +41785,9 @@
       "properties": {
         "name": "Taiwan",
         "data": {
-          "confirmed": 67,
+          "confirmed": 77,
           "deaths": 1,
-          "recovered": 20
+          "recovered": 22
         }
       },
       "geometry": {
@@ -42182,8 +42182,8 @@
       "properties": {
         "name": "Ukraine",
         "data": {
-          "confirmed": 7,
-          "deaths": 1,
+          "confirmed": 14,
+          "deaths": 2,
           "recovered": 0
         }
       },
@@ -42593,7 +42593,7 @@
       "properties": {
         "name": "Uruguay",
         "data": {
-          "confirmed": 8,
+          "confirmed": 29,
           "deaths": 0,
           "recovered": 0
         }
@@ -42696,8 +42696,8 @@
       "properties": {
         "name": "United States of America",
         "data": {
-          "confirmed": 4632,
-          "deaths": 85,
+          "confirmed": 6421,
+          "deaths": 108,
           "recovered": 17
         }
       },
@@ -44525,7 +44525,7 @@
       "properties": {
         "name": "Uzbekistan",
         "data": {
-          "confirmed": 6,
+          "confirmed": 10,
           "deaths": 0,
           "recovered": 0
         }
@@ -44760,7 +44760,7 @@
       "properties": {
         "name": "Venezuela",
         "data": {
-          "confirmed": 17,
+          "confirmed": 33,
           "deaths": 0,
           "recovered": 0
         }
@@ -45147,7 +45147,7 @@
       "properties": {
         "name": "Vietnam",
         "data": {
-          "confirmed": 61,
+          "confirmed": 66,
           "deaths": 0,
           "recovered": 16
         }
