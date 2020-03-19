@@ -1,218 +1,110 @@
 {
   "Andhra Pradesh": {
-    "cases": 0,
-    "cured_discharged": 0,
-    "deaths": 0,
-    "helpline": "8662410978"
-  },
-  "Arunachal Pradesh": {
-    "cases": 0,
-    "cured_discharged": 0,
-    "deaths": 0,
-    "helpline": "9436055743"
-  },
-  "Assam": {
-    "cases": 0,
-    "cured_discharged": 0,
-    "deaths": 0,
-    "helpline": "6913347770"
-  },
-  "Bihar": {
-    "cases": 0,
-    "cured_discharged": 0,
-    "deaths": 0,
-    "helpline": "104"
-  },
-  "Chhattisgarh": {
-    "cases": 0,
-    "cured_discharged": 0,
-    "deaths": 0,
-    "helpline": "077122-35091"
-  },
-  "Goa": {
-    "cases": 0,
-    "cured_discharged": 0,
-    "deaths": 0,
-    "helpline": "104"
-  },
-  "Gujarat": {
-    "cases": 0,
-    "cured_discharged": 0,
-    "deaths": 0,
-    "helpline": "104"
-  },
-  "Haryana": {
-    "cases": 17,
-    "cured_discharged": "0",
-    "deaths": "0",
-    "helpline": "8558893911"
-  },
-  "Himachal Pradesh": {
-    "cases": 0,
-    "cured_discharged": 0,
-    "deaths": 0,
-    "helpline": "104"
-  },
-  "Jharkhand": {
-    "cases": 0,
-    "cured_discharged": 0,
-    "deaths": 0,
-    "helpline": "104"
-  },
-  "Karnataka": {
-    "cases": 11,
-    "cured_discharged": "0",
-    "deaths": "1",
-    "helpline": "104"
-  },
-  "Kerala": {
-    "cases": 27,
-    "cured_discharged": "3",
-    "deaths": "0",
-    "helpline": "0471-2552056"
-  },
-  "Madhya Pradesh": {
-    "cases": 0,
-    "cured_discharged": 0,
-    "deaths": 0,
-    "helpline": "0755-2527177"
-  },
-  "Maharashtra": {
-    "cases": 42,
-    "cured_discharged": "0",
-    "deaths": "1",
-    "helpline": "020-26127394"
-  },
-  "Manipur": {
-    "cases": 0,
-    "cured_discharged": 0,
-    "deaths": 0,
-    "helpline": "3852411668"
-  },
-  "Meghalaya": {
-    "cases": 0,
-    "cured_discharged": 0,
-    "deaths": 0,
-    "helpline": "108"
-  },
-  "Mizoram": {
-    "cases": 0,
-    "cured_discharged": 0,
-    "deaths": 0,
-    "helpline": "102"
-  },
-  "Nagaland": {
-    "cases": 0,
-    "cured_discharged": 0,
-    "deaths": 0,
-    "helpline": "7005539653"
-  },
-  "Odisha": {
-    "cases": 1,
-    "cured_discharged": "0",
-    "deaths": "0",
-    "helpline": "9439994859"
-  },
-  "Punjab": {
-    "cases": 1,
-    "cured_discharged": "0",
-    "deaths": "0",
-    "helpline": "104"
-  },
-  "Rajasthan": {
-    "cases": 4,
-    "cured_discharged": "3",
-    "deaths": "0",
-    "helpline": "0141-2225624"
-  },
-  "Sikkim": {
-    "cases": 0,
-    "cured_discharged": 0,
-    "deaths": 0,
-    "helpline": "104"
-  },
-  "Tamil Nadu": {
-    "cases": 1,
-    "cured_discharged": "0",
-    "deaths": "0",
-    "helpline": "044-29510500"
-  },
-  "Telengana": {
-    "cases": 6,
-    "cured_discharged": "1",
-    "deaths": "0",
-    "helpline": "104"
-  },
-  "Tripura": {
-    "cases": 0,
-    "cured_discharged": 0,
-    "deaths": 0,
-    "helpline": "0381-2315879"
-  },
-  "Uttarakhand": {
-    "cases": 1,
-    "cured_discharged": "0",
-    "deaths": "0",
-    "helpline": "104"
-  },
-  "Uttar Pradesh": {
-    "cases": 16,
-    "cured_discharged": "5",
-    "deaths": "0",
-    "helpline": "18001805145"
-  },
-  "West Bengal": {
-    "cases": 1,
-    "cured_discharged": "0",
-    "deaths": "0",
-    "helpline": "3323412600"
-  },
-  "Andaman and Nicobar Islands": {
-    "cases": 0,
-    "cured_discharged": 0,
-    "deaths": 0,
-    "helpline": "03192-232102"
-  },
-  "Chandigarh": {
-    "cases": 0,
-    "cured_discharged": 0,
-    "deaths": 0,
-    "helpline": "9779558282"
-  },
-  "Dadra and Nagar Haveli and Daman & Diu": {
-    "cases": 0,
-    "cured_discharged": 0,
-    "deaths": 0,
-    "helpline": "104"
+    "state": "Andhra Pradesh",
+    "confirmed": 1,
+    "recovered": 0,
+    "deaths": 0
   },
   "Delhi": {
-    "cases": 10,
-    "cured_discharged": "2",
-    "deaths": "1",
-    "helpline": "011-22307154"
+    "state": "Delhi",
+    "confirmed": 12,
+    "recovered": 2,
+    "deaths": 1
   },
-  "Union Territory of Jammu and Kashmir": {
-    "cases": 3,
-    "cured_discharged": "0",
-    "deaths": "0",
-    "helpline": "1912520982 (Jammu), 1942440283 (Kashmir) "
+  "Haryana": {
+    "state": "Haryana",
+    "confirmed": 17,
+    "recovered": 0,
+    "deaths": 0
   },
-  "Union Territory of Ladakh": {
-    "cases": 8,
-    "cured_discharged": "0",
-    "deaths": "0",
-    "helpline": "1982256462"
+  "Karnataka": {
+    "state": "Karnataka",
+    "confirmed": 14,
+    "recovered": 0,
+    "deaths": 1
   },
-  "Lakshadweep": {
-    "cases": 0,
-    "cured_discharged": 0,
-    "deaths": 0,
-    "helpline": "104"
+  "Kerala": {
+    "state": "Kerala",
+    "confirmed": 27,
+    "recovered": 3,
+    "deaths": 0
+  },
+  "Maharashtra": {
+    "state": "Maharashtra",
+    "confirmed": 45,
+    "recovered": 0,
+    "deaths": 1
+  },
+  "Odisha": {
+    "state": "Odisha",
+    "confirmed": 1,
+    "recovered": 0,
+    "deaths": 0
   },
   "Pondicherry": {
-    "cases": 1,
-    "cured_discharged": "0",
-    "deaths": "0",
-    "helpline": "104"
+    "state": "Pondicherry",
+    "confirmed": 1,
+    "recovered": 0,
+    "deaths": 0
+  },
+  "Punjab": {
+    "state": "Punjab",
+    "confirmed": 1,
+    "recovered": 0,
+    "deaths": 0
+  },
+  "Rajasthan": {
+    "state": "Rajasthan",
+    "confirmed": 7,
+    "recovered": 3,
+    "deaths": 0
+  },
+  "Tamil Nadu": {
+    "state": "Tamil Nadu",
+    "confirmed": 2,
+    "recovered": 1,
+    "deaths": 0
+  },
+  "Telengana": {
+    "state": "Telengana",
+    "confirmed": 6,
+    "recovered": 1,
+    "deaths": 0
+  },
+  "Union Territory of Chandigarh": {
+    "state": "Union Territory of Chandigarh",
+    "confirmed": 1,
+    "recovered": 0,
+    "deaths": 0
+  },
+  "Union Territory of Jammu and Kashmir": {
+    "state": "Union Territory of Jammu and Kashmir",
+    "confirmed": 4,
+    "recovered": 0,
+    "deaths": 0
+  },
+  "Union Territory of Ladakh": {
+    "state": "Union Territory of Ladakh",
+    "confirmed": 8,
+    "recovered": 0,
+    "deaths": 0
+  },
+  "Uttar Pradesh": {
+    "state": "Uttar Pradesh",
+    "confirmed": 17,
+    "recovered": 5,
+    "deaths": 0
+  },
+  "Uttarakhand": {
+    "state": "Uttarakhand",
+    "confirmed": 1,
+    "recovered": 0,
+    "deaths": 0
+  },
+  "West Bengal": {
+    "state": "West Bengal",
+    "confirmed": 1,
+    "recovered": 0,
+    "deaths": 0
   }
 }
