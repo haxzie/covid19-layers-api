@@ -1,15 +1,27 @@
 {
   "Andhra Pradesh": {
     "state": "Andhra Pradesh",
+    "confirmed": 3,
+    "recovered": 0,
+    "deaths": 0
+  },
+  "Chhattisgarh": {
+    "state": "Chhattisgarh",
     "confirmed": 1,
     "recovered": 0,
     "deaths": 0
   },
   "Delhi": {
     "state": "Delhi",
-    "confirmed": 12,
-    "recovered": 2,
+    "confirmed": 17,
+    "recovered": 5,
     "deaths": 1
+  },
+  "Gujarat": {
+    "state": "Gujarat",
+    "confirmed": 5,
+    "recovered": 0,
+    "deaths": 0
   },
   "Haryana": {
     "state": "Haryana",
@@ -19,55 +31,55 @@
   },
   "Karnataka": {
     "state": "Karnataka",
-    "confirmed": 14,
-    "recovered": 0,
+    "confirmed": 15,
+    "recovered": 1,
     "deaths": 1
   },
   "Kerala": {
     "state": "Kerala",
-    "confirmed": 27,
+    "confirmed": 28,
     "recovered": 3,
     "deaths": 0
   },
   "Maharashtra": {
     "state": "Maharashtra",
-    "confirmed": 45,
+    "confirmed": 52,
     "recovered": 0,
     "deaths": 1
   },
   "Odisha": {
     "state": "Odisha",
-    "confirmed": 1,
+    "confirmed": 2,
     "recovered": 0,
     "deaths": 0
   },
-  "Pondicherry": {
-    "state": "Pondicherry",
+  "Puducherry": {
+    "state": "Puducherry",
     "confirmed": 1,
     "recovered": 0,
     "deaths": 0
   },
   "Punjab": {
     "state": "Punjab",
-    "confirmed": 1,
+    "confirmed": 2,
     "recovered": 0,
-    "deaths": 0
+    "deaths": 1
   },
   "Rajasthan": {
     "state": "Rajasthan",
-    "confirmed": 7,
+    "confirmed": 17,
     "recovered": 3,
     "deaths": 0
   },
   "Tamil Nadu": {
     "state": "Tamil Nadu",
-    "confirmed": 2,
+    "confirmed": 3,
     "recovered": 1,
     "deaths": 0
   },
   "Telengana": {
     "state": "Telengana",
-    "confirmed": 6,
+    "confirmed": 17,
     "recovered": 1,
     "deaths": 0
   },
@@ -85,25 +97,25 @@
   },
   "Union Territory of Ladakh": {
     "state": "Union Territory of Ladakh",
-    "confirmed": 8,
+    "confirmed": 10,
     "recovered": 0,
     "deaths": 0
   },
   "Uttar Pradesh": {
     "state": "Uttar Pradesh",
-    "confirmed": 17,
-    "recovered": 5,
+    "confirmed": 23,
+    "recovered": 9,
     "deaths": 0
   },
   "Uttarakhand": {
     "state": "Uttarakhand",
-    "confirmed": 1,
+    "confirmed": 3,
     "recovered": 0,
     "deaths": 0
   },
   "West Bengal": {
     "state": "West Bengal",
-    "confirmed": 1,
+    "confirmed": 2,
     "recovered": 0,
     "deaths": 0
   }
