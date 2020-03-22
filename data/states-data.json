@@ -1,4 +1,22 @@
 {
+  "Notification of ICMR guidelines for COVID-19 testing in private laboratories in India ": {
+    "state": "Notification of ICMR guidelines for COVID-19 testing in private laboratories in India ",
+    "confirmed": null,
+    "recovered": null,
+    "deaths": null
+  },
+  " Revised Guidelines/Strategy for COVID-19 testing by Indian Council of Medical Research (ICMR)": {
+    "state": " Revised Guidelines/Strategy for COVID-19 testing by Indian Council of Medical Research (ICMR)",
+    "confirmed": null,
+    "recovered": null,
+    "deaths": null
+  },
+  "SOP for Mock Drill on 22nd March 2020 for Hospital Preparedness ": {
+    "state": "SOP for Mock Drill on 22nd March 2020 for Hospital Preparedness ",
+    "confirmed": null,
+    "recovered": null,
+    "deaths": null
+  },
   "Andhra Pradesh": {
     "state": "Andhra Pradesh",
     "confirmed": 3,
@@ -13,13 +31,13 @@
   },
   "Delhi": {
     "state": "Delhi",
-    "confirmed": 26,
+    "confirmed": 27,
     "recovered": 5,
     "deaths": 1
   },
   "Gujarat": {
     "state": "Gujarat",
-    "confirmed": 7,
+    "confirmed": 14,
     "recovered": 0,
     "deaths": 0
   },
@@ -37,13 +55,13 @@
   },
   "Karnataka": {
     "state": "Karnataka",
-    "confirmed": 15,
-    "recovered": 1,
+    "confirmed": 20,
+    "recovered": 2,
     "deaths": 1
   },
   "Kerala": {
     "state": "Kerala",
-    "confirmed": 40,
+    "confirmed": 52,
     "recovered": 3,
     "deaths": 0
   },
@@ -55,9 +73,9 @@
   },
   "Maharashtra": {
     "state": "Maharashtra",
-    "confirmed": 52,
+    "confirmed": 63,
     "recovered": 0,
-    "deaths": 1
+    "deaths": 2
   },
   "Odisha": {
     "state": "Odisha",
@@ -73,31 +91,31 @@
   },
   "Punjab": {
     "state": "Punjab",
-    "confirmed": 2,
+    "confirmed": 13,
     "recovered": 0,
     "deaths": 1
   },
   "Rajasthan": {
     "state": "Rajasthan",
-    "confirmed": 17,
+    "confirmed": 24,
     "recovered": 3,
     "deaths": 0
   },
   "Tamil Nadu": {
     "state": "Tamil Nadu",
-    "confirmed": 3,
+    "confirmed": 6,
     "recovered": 1,
     "deaths": 0
   },
   "Telengana": {
     "state": "Telengana",
-    "confirmed": 19,
+    "confirmed": 21,
     "recovered": 1,
     "deaths": 0
   },
   "Chandigarh": {
     "state": "Chandigarh",
-    "confirmed": 1,
+    "confirmed": 5,
     "recovered": 0,
     "deaths": 0
   },
@@ -115,7 +133,7 @@
   },
   "Uttar Pradesh": {
     "state": "Uttar Pradesh",
-    "confirmed": 24,
+    "confirmed": 25,
     "recovered": 9,
     "deaths": 0
   },
@@ -127,7 +145,7 @@
   },
   "West Bengal": {
     "state": "West Bengal",
-    "confirmed": 2,
+    "confirmed": 4,
     "recovered": 0,
     "deaths": 0
   }
