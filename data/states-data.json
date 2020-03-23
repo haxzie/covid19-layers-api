@@ -1,4 +1,16 @@
 {
+  " KIDS, VAAYU & CORONA : Comic book for children to provide correct information about COVID-19 - Part 2": {
+    "state": " KIDS, VAAYU & CORONA : Comic book for children to provide correct information about COVID-19 - Part 2",
+    "confirmed": null,
+    "recovered": null,
+    "deaths": null
+  },
+  " D.O. Letter from Cabinet Secretary to Chief Secretaries for management and containment of COVID-19 dated 22.03.2020": {
+    "state": " D.O. Letter from Cabinet Secretary to Chief Secretaries for management and containment of COVID-19 dated 22.03.2020",
+    "confirmed": null,
+    "recovered": null,
+    "deaths": null
+  },
   "Notification of ICMR guidelines for COVID-19 testing in private laboratories in India ": {
     "state": "Notification of ICMR guidelines for COVID-19 testing in private laboratories in India ",
     "confirmed": null,
@@ -19,9 +31,15 @@
   },
   "Andhra Pradesh": {
     "state": "Andhra Pradesh",
-    "confirmed": 3,
+    "confirmed": 5,
     "recovered": 0,
     "deaths": 0
+  },
+  "Bihar": {
+    "state": "Bihar",
+    "confirmed": 2,
+    "recovered": 0,
+    "deaths": 1
   },
   "Chhattisgarh": {
     "state": "Chhattisgarh",
@@ -31,19 +49,19 @@
   },
   "Delhi": {
     "state": "Delhi",
-    "confirmed": 27,
+    "confirmed": 29,
     "recovered": 5,
     "deaths": 1
   },
   "Gujarat": {
     "state": "Gujarat",
-    "confirmed": 14,
+    "confirmed": 18,
     "recovered": 0,
-    "deaths": 0
+    "deaths": 1
   },
   "Haryana": {
     "state": "Haryana",
-    "confirmed": 17,
+    "confirmed": 21,
     "recovered": 0,
     "deaths": 0
   },
@@ -55,25 +73,25 @@
   },
   "Karnataka": {
     "state": "Karnataka",
-    "confirmed": 20,
+    "confirmed": 26,
     "recovered": 2,
     "deaths": 1
   },
   "Kerala": {
     "state": "Kerala",
-    "confirmed": 52,
+    "confirmed": 67,
     "recovered": 3,
     "deaths": 0
   },
   "Madhya Pradesh": {
     "state": "Madhya Pradesh",
-    "confirmed": 4,
+    "confirmed": 6,
     "recovered": 0,
     "deaths": 0
   },
   "Maharashtra": {
     "state": "Maharashtra",
-    "confirmed": 63,
+    "confirmed": 67,
     "recovered": 0,
     "deaths": 2
   },
@@ -91,25 +109,25 @@
   },
   "Punjab": {
     "state": "Punjab",
-    "confirmed": 13,
+    "confirmed": 21,
     "recovered": 0,
     "deaths": 1
   },
   "Rajasthan": {
     "state": "Rajasthan",
-    "confirmed": 24,
+    "confirmed": 27,
     "recovered": 3,
     "deaths": 0
   },
   "Tamil Nadu": {
     "state": "Tamil Nadu",
-    "confirmed": 6,
+    "confirmed": 9,
     "recovered": 1,
     "deaths": 0
   },
   "Telengana": {
     "state": "Telengana",
-    "confirmed": 21,
+    "confirmed": 26,
     "recovered": 1,
     "deaths": 0
   },
@@ -133,7 +151,7 @@
   },
   "Uttar Pradesh": {
     "state": "Uttar Pradesh",
-    "confirmed": 25,
+    "confirmed": 28,
     "recovered": 9,
     "deaths": 0
   },
@@ -145,7 +163,7 @@
   },
   "West Bengal": {
     "state": "West Bengal",
-    "confirmed": 4,
+    "confirmed": 7,
     "recovered": 0,
     "deaths": 0
   }
