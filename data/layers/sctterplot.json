@@ -10,6 +10,7 @@
     "province": "",
     "data": {
       "confirmed": 40,
+      "existing": 38,
       "deaths": 1,
       "recovered": 1
     }
@@ -25,6 +26,7 @@
     "province": "",
     "data": {
       "confirmed": 104,
+      "existing": 98,
       "deaths": 4,
       "recovered": 2
     }
@@ -40,6 +42,7 @@
     "province": "",
     "data": {
       "confirmed": 230,
+      "existing": 148,
       "deaths": 17,
       "recovered": 65
     }
@@ -55,6 +58,7 @@
     "province": "",
     "data": {
       "confirmed": 133,
+      "existing": 131,
       "deaths": 1,
       "recovered": 1
     }
@@ -70,6 +74,7 @@
     "province": "",
     "data": {
       "confirmed": 3,
+      "existing": 3,
       "deaths": 0,
       "recovered": 0
     }
@@ -85,6 +90,7 @@
     "province": "",
     "data": {
       "confirmed": 3,
+      "existing": 3,
       "deaths": 0,
       "recovered": 0
     }
@@ -100,6 +106,7 @@
     "province": "",
     "data": {
       "confirmed": 301,
+      "existing": 294,
       "deaths": 4,
       "recovered": 3
     }
@@ -115,6 +122,7 @@
     "province": "",
     "data": {
       "confirmed": 235,
+      "existing": 233,
       "deaths": 0,
       "recovered": 2
     }
@@ -130,6 +138,7 @@
     "province": "Australian Capital Territory",
     "data": {
       "confirmed": 32,
+      "existing": 32,
       "deaths": 0,
       "recovered": 0
     }
@@ -145,6 +154,7 @@
     "province": "New South Wales",
     "data": {
       "confirmed": 669,
+      "existing": 659,
       "deaths": 6,
       "recovered": 4
     }
@@ -160,6 +170,7 @@
     "province": "Northern Territory",
     "data": {
       "confirmed": 5,
+      "existing": 5,
       "deaths": 0,
       "recovered": 0
     }
@@ -175,6 +186,7 @@
     "province": "Queensland",
     "data": {
       "confirmed": 319,
+      "existing": 311,
       "deaths": 0,
       "recovered": 8
     }
@@ -190,6 +202,7 @@
     "province": "South Australia",
     "data": {
       "confirmed": 134,
+      "existing": 131,
       "deaths": 0,
       "recovered": 3
     }
@@ -205,6 +218,7 @@
     "province": "Tasmania",
     "data": {
       "confirmed": 28,
+      "existing": 25,
       "deaths": 0,
       "recovered": 3
     }
@@ -220,6 +234,7 @@
     "province": "Victoria",
     "data": {
       "confirmed": 355,
+      "existing": 285,
       "deaths": 0,
       "recovered": 70
     }
@@ -235,6 +250,7 @@
     "province": "Western Australia",
     "data": {
       "confirmed": 140,
+      "existing": 139,
       "deaths": 1,
       "recovered": 0
     }
@@ -250,6 +266,7 @@
     "province": "",
     "data": {
       "confirmed": 4474,
+      "existing": 4444,
       "deaths": 21,
       "recovered": 9
     }
@@ -265,6 +282,7 @@
     "province": "",
     "data": {
       "confirmed": 72,
+      "existing": 61,
       "deaths": 1,
       "recovered": 10
     }
@@ -280,6 +298,7 @@
     "province": "",
     "data": {
       "confirmed": 4,
+      "existing": 4,
       "deaths": 0,
       "recovered": 0
     }
@@ -295,6 +314,7 @@
     "province": "",
     "data": {
       "confirmed": 377,
+      "existing": 226,
       "deaths": 2,
       "recovered": 149
     }
@@ -310,6 +330,7 @@
     "province": "",
     "data": {
       "confirmed": 33,
+      "existing": 27,
       "deaths": 3,
       "recovered": 3
     }
@@ -325,6 +346,7 @@
     "province": "",
     "data": {
       "confirmed": 17,
+      "existing": 17,
       "deaths": 0,
       "recovered": 0
     }
@@ -340,6 +362,7 @@
     "province": "",
     "data": {
       "confirmed": 81,
+      "existing": 66,
       "deaths": 0,
       "recovered": 15
     }
@@ -355,6 +378,7 @@
     "province": "",
     "data": {
       "confirmed": 3743,
+      "existing": 3392,
       "deaths": 88,
       "recovered": 263
     }
@@ -370,6 +394,7 @@
     "province": "",
     "data": {
       "confirmed": 5,
+      "existing": 5,
       "deaths": 0,
       "recovered": 0
     }
@@ -385,6 +410,7 @@
     "province": "",
     "data": {
       "confirmed": 2,
+      "existing": 2,
       "deaths": 0,
       "recovered": 0
     }
@@ -400,6 +426,7 @@
     "province": "",
     "data": {
       "confirmed": 27,
+      "existing": 27,
       "deaths": 0,
       "recovered": 0
     }
@@ -415,6 +442,7 @@
     "province": "",
     "data": {
       "confirmed": 136,
+      "existing": 133,
       "deaths": 1,
       "recovered": 2
     }
@@ -430,6 +458,7 @@
     "province": "",
     "data": {
       "confirmed": 1924,
+      "existing": 1888,
       "deaths": 34,
       "recovered": 2
     }
@@ -445,6 +474,7 @@
     "province": "",
     "data": {
       "confirmed": 91,
+      "existing": 89,
       "deaths": 0,
       "recovered": 2
     }
@@ -460,6 +490,7 @@
     "province": "",
     "data": {
       "confirmed": 201,
+      "existing": 195,
       "deaths": 3,
       "recovered": 3
     }
@@ -475,6 +506,7 @@
     "province": "",
     "data": {
       "confirmed": 99,
+      "existing": 90,
       "deaths": 4,
       "recovered": 5
     }
@@ -490,6 +522,7 @@
     "province": "",
     "data": {
       "confirmed": 3,
+      "existing": 3,
       "deaths": 0,
       "recovered": 0
     }
@@ -505,6 +538,7 @@
     "province": "",
     "data": {
       "confirmed": 87,
+      "existing": 86,
       "deaths": 0,
       "recovered": 1
     }
@@ -520,6 +554,7 @@
     "province": "",
     "data": {
       "confirmed": 56,
+      "existing": 56,
       "deaths": 0,
       "recovered": 0
     }
@@ -535,6 +570,7 @@
     "province": "Alberta",
     "data": {
       "confirmed": 301,
+      "existing": 300,
       "deaths": 1,
       "recovered": 0
     }
@@ -550,6 +586,7 @@
     "province": "British Columbia",
     "data": {
       "confirmed": 472,
+      "existing": 455,
       "deaths": 13,
       "recovered": 4
     }
@@ -565,6 +602,7 @@
     "province": "Grand Princess",
     "data": {
       "confirmed": 13,
+      "existing": 13,
       "deaths": 0,
       "recovered": 0
     }
@@ -580,6 +618,7 @@
     "province": "Manitoba",
     "data": {
       "confirmed": 20,
+      "existing": 20,
       "deaths": 0,
       "recovered": 0
     }
@@ -595,6 +634,7 @@
     "province": "New Brunswick",
     "data": {
       "confirmed": 17,
+      "existing": 17,
       "deaths": 0,
       "recovered": 0
     }
@@ -610,6 +650,7 @@
     "province": "Newfoundland and Labrador",
     "data": {
       "confirmed": 24,
+      "existing": 24,
       "deaths": 0,
       "recovered": 0
     }
@@ -625,6 +666,7 @@
     "province": "Nova Scotia",
     "data": {
       "confirmed": 41,
+      "existing": 41,
       "deaths": 0,
       "recovered": 0
     }
@@ -640,6 +682,7 @@
     "province": "Ontario",
     "data": {
       "confirmed": 503,
+      "existing": 491,
       "deaths": 6,
       "recovered": 6
     }
@@ -655,6 +698,7 @@
     "province": "Prince Edward Island",
     "data": {
       "confirmed": 3,
+      "existing": 3,
       "deaths": 0,
       "recovered": 0
     }
@@ -670,6 +714,7 @@
     "province": "Quebec",
     "data": {
       "confirmed": 628,
+      "existing": 624,
       "deaths": 4,
       "recovered": 0
     }
@@ -685,6 +730,7 @@
     "province": "Saskatchewan",
     "data": {
       "confirmed": 66,
+      "existing": 66,
       "deaths": 0,
       "recovered": 0
     }
@@ -700,6 +746,7 @@
     "province": "",
     "data": {
       "confirmed": 3,
+      "existing": 3,
       "deaths": 0,
       "recovered": 0
     }
@@ -715,6 +762,7 @@
     "province": "",
     "data": {
       "confirmed": 1,
+      "existing": 1,
       "deaths": 0,
       "recovered": 0
     }
@@ -730,6 +778,7 @@
     "province": "",
     "data": {
       "confirmed": 746,
+      "existing": 736,
       "deaths": 2,
       "recovered": 8
     }
@@ -745,6 +794,7 @@
     "province": "Anhui",
     "data": {
       "confirmed": 990,
+      "existing": 0,
       "deaths": 6,
       "recovered": 984
     }
@@ -760,6 +810,7 @@
     "province": "Beijing",
     "data": {
       "confirmed": 537,
+      "existing": 129,
       "deaths": 8,
       "recovered": 400
     }
@@ -775,6 +826,7 @@
     "province": "Chongqing",
     "data": {
       "confirmed": 578,
+      "existing": 2,
       "deaths": 6,
       "recovered": 570
     }
@@ -790,6 +842,7 @@
     "province": "Fujian",
     "data": {
       "confirmed": 313,
+      "existing": 17,
       "deaths": 1,
       "recovered": 295
     }
@@ -805,6 +858,7 @@
     "province": "Gansu",
     "data": {
       "confirmed": 136,
+      "existing": 20,
       "deaths": 2,
       "recovered": 114
     }
@@ -820,6 +874,7 @@
     "province": "Guangdong",
     "data": {
       "confirmed": 1415,
+      "existing": 75,
       "deaths": 8,
       "recovered": 1332
     }
@@ -835,6 +890,7 @@
     "province": "Guangxi",
     "data": {
       "confirmed": 254,
+      "existing": 2,
       "deaths": 2,
       "recovered": 250
     }
@@ -850,6 +906,7 @@
     "province": "Guizhou",
     "data": {
       "confirmed": 146,
+      "existing": 0,
       "deaths": 2,
       "recovered": 144
     }
@@ -865,6 +922,7 @@
     "province": "Hainan",
     "data": {
       "confirmed": 168,
+      "existing": 1,
       "deaths": 6,
       "recovered": 161
     }
@@ -880,6 +938,7 @@
     "province": "Hebei",
     "data": {
       "confirmed": 319,
+      "existing": 3,
       "deaths": 6,
       "recovered": 310
     }
@@ -895,6 +954,7 @@
     "province": "Heilongjiang",
     "data": {
       "confirmed": 484,
+      "existing": 6,
       "deaths": 13,
       "recovered": 465
     }
@@ -910,6 +970,7 @@
     "province": "Henan",
     "data": {
       "confirmed": 1274,
+      "existing": 2,
       "deaths": 22,
       "recovered": 1250
     }
@@ -925,6 +986,7 @@
     "province": "Hong Kong",
     "data": {
       "confirmed": 356,
+      "existing": 252,
       "deaths": 4,
       "recovered": 100
     }
@@ -940,6 +1002,7 @@
     "province": "Hubei",
     "data": {
       "confirmed": 67800,
+      "existing": 4768,
       "deaths": 3153,
       "recovered": 59879
     }
@@ -955,6 +1018,7 @@
     "province": "Hunan",
     "data": {
       "confirmed": 1018,
+      "existing": 0,
       "deaths": 4,
       "recovered": 1014
     }
@@ -970,6 +1034,7 @@
     "province": "Inner Mongolia",
     "data": {
       "confirmed": 75,
+      "existing": 0,
       "deaths": 1,
       "recovered": 74
     }
@@ -985,6 +1050,7 @@
     "province": "Jiangsu",
     "data": {
       "confirmed": 633,
+      "existing": 2,
       "deaths": 0,
       "recovered": 631
     }
@@ -1000,6 +1066,7 @@
     "province": "Jiangxi",
     "data": {
       "confirmed": 936,
+      "existing": 1,
       "deaths": 1,
       "recovered": 934
     }
@@ -1015,6 +1082,7 @@
     "province": "Jilin",
     "data": {
       "confirmed": 93,
+      "existing": 0,
       "deaths": 1,
       "recovered": 92
     }
@@ -1030,6 +1098,7 @@
     "province": "Liaoning",
     "data": {
       "confirmed": 127,
+      "existing": 1,
       "deaths": 2,
       "recovered": 124
     }
@@ -1045,6 +1114,7 @@
     "province": "Macau",
     "data": {
       "confirmed": 24,
+      "existing": 14,
       "deaths": 0,
       "recovered": 10
     }
@@ -1060,6 +1130,7 @@
     "province": "Ningxia",
     "data": {
       "confirmed": 75,
+      "existing": 0,
       "deaths": 0,
       "recovered": 75
     }
@@ -1075,6 +1146,7 @@
     "province": "Qinghai",
     "data": {
       "confirmed": 18,
+      "existing": 0,
       "deaths": 0,
       "recovered": 18
     }
@@ -1090,6 +1162,7 @@
     "province": "Shaanxi",
     "data": {
       "confirmed": 248,
+      "existing": 6,
       "deaths": 3,
       "recovered": 239
     }
@@ -1105,6 +1178,7 @@
     "province": "Shandong",
     "data": {
       "confirmed": 768,
+      "existing": 10,
       "deaths": 7,
       "recovered": 751
     }
@@ -1120,6 +1194,7 @@
     "province": "Shanghai",
     "data": {
       "confirmed": 404,
+      "existing": 71,
       "deaths": 4,
       "recovered": 329
     }
@@ -1135,6 +1210,7 @@
     "province": "Shanxi",
     "data": {
       "confirmed": 134,
+      "existing": 1,
       "deaths": 0,
       "recovered": 133
     }
@@ -1150,6 +1226,7 @@
     "province": "Sichuan",
     "data": {
       "confirmed": 543,
+      "existing": 4,
       "deaths": 3,
       "recovered": 536
     }
@@ -1165,6 +1242,7 @@
     "province": "Tianjin",
     "data": {
       "confirmed": 141,
+      "existing": 5,
       "deaths": 3,
       "recovered": 133
     }
@@ -1180,6 +1258,7 @@
     "province": "Tibet",
     "data": {
       "confirmed": 1,
+      "existing": 0,
       "deaths": 0,
       "recovered": 1
     }
@@ -1195,6 +1274,7 @@
     "province": "Xinjiang",
     "data": {
       "confirmed": 76,
+      "existing": 0,
       "deaths": 3,
       "recovered": 73
     }
@@ -1210,6 +1290,7 @@
     "province": "Yunnan",
     "data": {
       "confirmed": 176,
+      "existing": 2,
       "deaths": 2,
       "recovered": 172
     }
@@ -1225,6 +1306,7 @@
     "province": "Zhejiang",
     "data": {
       "confirmed": 1238,
+      "existing": 16,
       "deaths": 1,
       "recovered": 1221
     }
@@ -1240,6 +1322,7 @@
     "province": "",
     "data": {
       "confirmed": 277,
+      "existing": 271,
       "deaths": 3,
       "recovered": 3
     }
@@ -1255,6 +1338,7 @@
     "province": "",
     "data": {
       "confirmed": 4,
+      "existing": 4,
       "deaths": 0,
       "recovered": 0
     }
@@ -1270,6 +1354,7 @@
     "province": "",
     "data": {
       "confirmed": 36,
+      "existing": 35,
       "deaths": 1,
       "recovered": 0
     }
@@ -1285,6 +1370,7 @@
     "province": "",
     "data": {
       "confirmed": 158,
+      "existing": 154,
       "deaths": 2,
       "recovered": 2
     }
@@ -1300,6 +1386,7 @@
     "province": "",
     "data": {
       "confirmed": 25,
+      "existing": 24,
       "deaths": 0,
       "recovered": 1
     }
@@ -1315,6 +1402,7 @@
     "province": "",
     "data": {
       "confirmed": 315,
+      "existing": 309,
       "deaths": 1,
       "recovered": 5
     }
@@ -1330,6 +1418,7 @@
     "province": "Diamond Princess",
     "data": {
       "confirmed": 712,
+      "existing": 379,
       "deaths": 8,
       "recovered": 325
     }
@@ -1345,6 +1434,7 @@
     "province": "",
     "data": {
       "confirmed": 40,
+      "existing": 39,
       "deaths": 1,
       "recovered": 0
     }
@@ -1360,6 +1450,7 @@
     "province": "",
     "data": {
       "confirmed": 116,
+      "existing": 112,
       "deaths": 1,
       "recovered": 3
     }
@@ -1375,6 +1466,7 @@
     "province": "",
     "data": {
       "confirmed": 1236,
+      "existing": 1229,
       "deaths": 1,
       "recovered": 6
     }
@@ -1390,6 +1482,7 @@
     "province": "Faroe Islands",
     "data": {
       "confirmed": 118,
+      "existing": 118,
       "deaths": 0,
       "recovered": 0
     }
@@ -1405,6 +1498,7 @@
     "province": "Greenland",
     "data": {
       "confirmed": 4,
+      "existing": 4,
       "deaths": 0,
       "recovered": 0
     }
@@ -1420,6 +1514,7 @@
     "province": "",
     "data": {
       "confirmed": 1450,
+      "existing": 1426,
       "deaths": 24,
       "recovered": 0
     }
@@ -1435,6 +1530,7 @@
     "province": "",
     "data": {
       "confirmed": 3,
+      "existing": 3,
       "deaths": 0,
       "recovered": 0
     }
@@ -1450,6 +1546,7 @@
     "province": "",
     "data": {
       "confirmed": 245,
+      "existing": 242,
       "deaths": 3,
       "recovered": 0
     }
@@ -1465,6 +1562,7 @@
     "province": "",
     "data": {
       "confirmed": 981,
+      "existing": 960,
       "deaths": 18,
       "recovered": 3
     }
@@ -1480,6 +1578,7 @@
     "province": "",
     "data": {
       "confirmed": 366,
+      "existing": 291,
       "deaths": 19,
       "recovered": 56
     }
@@ -1495,6 +1594,7 @@
     "province": "",
     "data": {
       "confirmed": 3,
+      "existing": 3,
       "deaths": 0,
       "recovered": 0
     }
@@ -1510,6 +1610,7 @@
     "province": "",
     "data": {
       "confirmed": 9,
+      "existing": 9,
       "deaths": 0,
       "recovered": 0
     }
@@ -1525,6 +1626,7 @@
     "province": "",
     "data": {
       "confirmed": 1,
+      "existing": 1,
       "deaths": 0,
       "recovered": 0
     }
@@ -1540,6 +1642,7 @@
     "province": "",
     "data": {
       "confirmed": 352,
+      "existing": 350,
       "deaths": 0,
       "recovered": 2
     }
@@ -1555,6 +1658,7 @@
     "province": "",
     "data": {
       "confirmed": 4,
+      "existing": 4,
       "deaths": 0,
       "recovered": 0
     }
@@ -1570,6 +1674,7 @@
     "province": "",
     "data": {
       "confirmed": 11,
+      "existing": 7,
       "deaths": 0,
       "recovered": 4
     }
@@ -1585,6 +1690,7 @@
     "province": "",
     "data": {
       "confirmed": 3,
+      "existing": 3,
       "deaths": 0,
       "recovered": 0
     }
@@ -1600,6 +1706,7 @@
     "province": "",
     "data": {
       "confirmed": 700,
+      "existing": 689,
       "deaths": 1,
       "recovered": 10
     }
@@ -1615,6 +1722,7 @@
     "province": "French Guiana",
     "data": {
       "confirmed": 20,
+      "existing": 20,
       "deaths": 0,
       "recovered": 0
     }
@@ -1630,6 +1738,7 @@
     "province": "French Polynesia",
     "data": {
       "confirmed": 18,
+      "existing": 18,
       "deaths": 0,
       "recovered": 0
     }
@@ -1645,6 +1754,7 @@
     "province": "Guadeloupe",
     "data": {
       "confirmed": 62,
+      "existing": 61,
       "deaths": 1,
       "recovered": 0
     }
@@ -1660,6 +1770,7 @@
     "province": "Mayotte",
     "data": {
       "confirmed": 24,
+      "existing": 24,
       "deaths": 0,
       "recovered": 0
     }
@@ -1675,6 +1786,7 @@
     "province": "New Caledonia",
     "data": {
       "confirmed": 8,
+      "existing": 8,
       "deaths": 0,
       "recovered": 0
     }
@@ -1690,6 +1802,7 @@
     "province": "Reunion",
     "data": {
       "confirmed": 71,
+      "existing": 71,
       "deaths": 0,
       "recovered": 0
     }
@@ -1705,6 +1818,7 @@
     "province": "Saint Barthelemy",
     "data": {
       "confirmed": 3,
+      "existing": 3,
       "deaths": 0,
       "recovered": 0
     }
@@ -1720,6 +1834,7 @@
     "province": "St Martin",
     "data": {
       "confirmed": 8,
+      "existing": 8,
       "deaths": 0,
       "recovered": 0
     }
@@ -1735,6 +1850,7 @@
     "province": "Martinique",
     "data": {
       "confirmed": 53,
+      "existing": 52,
       "deaths": 1,
       "recovered": 0
     }
@@ -1750,6 +1866,7 @@
     "province": "",
     "data": {
       "confirmed": 19856,
+      "existing": 18996,
       "deaths": 860,
       "recovered": 0
     }
@@ -1765,6 +1882,7 @@
     "province": "",
     "data": {
       "confirmed": 5,
+      "existing": 4,
       "deaths": 1,
       "recovered": 0
     }
@@ -1780,6 +1898,7 @@
     "province": "",
     "data": {
       "confirmed": 2,
+      "existing": 1,
       "deaths": 1,
       "recovered": 0
     }
@@ -1795,6 +1914,7 @@
     "province": "",
     "data": {
       "confirmed": 61,
+      "existing": 58,
       "deaths": 0,
       "recovered": 3
     }
@@ -1810,6 +1930,7 @@
     "province": "",
     "data": {
       "confirmed": 29056,
+      "existing": 28667,
       "deaths": 123,
       "recovered": 266
     }
@@ -1825,6 +1946,7 @@
     "province": "",
     "data": {
       "confirmed": 27,
+      "existing": 25,
       "deaths": 2,
       "recovered": 0
     }
@@ -1840,6 +1962,7 @@
     "province": "",
     "data": {
       "confirmed": 695,
+      "existing": 659,
       "deaths": 17,
       "recovered": 19
     }
@@ -1855,6 +1978,7 @@
     "province": "",
     "data": {
       "confirmed": 20,
+      "existing": 19,
       "deaths": 1,
       "recovered": 0
     }
@@ -1870,6 +1994,7 @@
     "province": "",
     "data": {
       "confirmed": 4,
+      "existing": 4,
       "deaths": 0,
       "recovered": 0
     }
@@ -1885,6 +2010,7 @@
     "province": "",
     "data": {
       "confirmed": 20,
+      "existing": 19,
       "deaths": 1,
       "recovered": 0
     }
@@ -1900,6 +2026,7 @@
     "province": "",
     "data": {
       "confirmed": 6,
+      "existing": 6,
       "deaths": 0,
       "recovered": 0
     }
@@ -1915,6 +2042,7 @@
     "province": "",
     "data": {
       "confirmed": 1,
+      "existing": 1,
       "deaths": 0,
       "recovered": 0
     }
@@ -1930,6 +2058,7 @@
     "province": "",
     "data": {
       "confirmed": 30,
+      "existing": 30,
       "deaths": 0,
       "recovered": 0
     }
@@ -1945,6 +2074,7 @@
     "province": "",
     "data": {
       "confirmed": 167,
+      "existing": 144,
       "deaths": 7,
       "recovered": 16
     }
@@ -1960,6 +2090,7 @@
     "province": "",
     "data": {
       "confirmed": 588,
+      "existing": 551,
       "deaths": 1,
       "recovered": 36
     }
@@ -1975,6 +2106,7 @@
     "province": "",
     "data": {
       "confirmed": 579,
+      "existing": 501,
       "deaths": 49,
       "recovered": 29
     }
@@ -1990,6 +2122,7 @@
     "province": "",
     "data": {
       "confirmed": 23049,
+      "existing": 13306,
       "deaths": 1812,
       "recovered": 7931
     }
@@ -2005,6 +2138,7 @@
     "province": "",
     "data": {
       "confirmed": 266,
+      "existing": 186,
       "deaths": 23,
       "recovered": 57
     }
@@ -2020,6 +2154,7 @@
     "province": "",
     "data": {
       "confirmed": 1125,
+      "existing": 1114,
       "deaths": 6,
       "recovered": 5
     }
@@ -2035,6 +2170,7 @@
     "province": "",
     "data": {
       "confirmed": 1442,
+      "existing": 1404,
       "deaths": 1,
       "recovered": 37
     }
@@ -2050,6 +2186,7 @@
     "province": "",
     "data": {
       "confirmed": 63927,
+      "existing": 50826,
       "deaths": 6077,
       "recovered": 7024
     }
@@ -2065,6 +2202,7 @@
     "province": "",
     "data": {
       "confirmed": 19,
+      "existing": 16,
       "deaths": 1,
       "recovered": 2
     }
@@ -2080,6 +2218,7 @@
     "province": "",
     "data": {
       "confirmed": 1128,
+      "existing": 851,
       "deaths": 42,
       "recovered": 235
     }
@@ -2095,6 +2234,7 @@
     "province": "",
     "data": {
       "confirmed": 127,
+      "existing": 126,
       "deaths": 0,
       "recovered": 1
     }
@@ -2110,6 +2250,7 @@
     "province": "",
     "data": {
       "confirmed": 62,
+      "existing": 62,
       "deaths": 0,
       "recovered": 0
     }
@@ -2125,6 +2266,7 @@
     "province": "",
     "data": {
       "confirmed": 16,
+      "existing": 16,
       "deaths": 0,
       "recovered": 0
     }
@@ -2140,6 +2282,7 @@
     "province": "",
     "data": {
       "confirmed": 8961,
+      "existing": 5941,
       "deaths": 111,
       "recovered": 2909
     }
@@ -2155,6 +2298,7 @@
     "province": "",
     "data": {
       "confirmed": 189,
+      "existing": 162,
       "deaths": 0,
       "recovered": 27
     }
@@ -2170,6 +2314,7 @@
     "province": "",
     "data": {
       "confirmed": 16,
+      "existing": 16,
       "deaths": 0,
       "recovered": 0
     }
@@ -2185,6 +2330,7 @@
     "province": "",
     "data": {
       "confirmed": 180,
+      "existing": 179,
       "deaths": 0,
       "recovered": 1
     }
@@ -2200,6 +2346,7 @@
     "province": "",
     "data": {
       "confirmed": 267,
+      "existing": 255,
       "deaths": 4,
       "recovered": 8
     }
@@ -2215,6 +2362,7 @@
     "province": "",
     "data": {
       "confirmed": 3,
+      "existing": 3,
       "deaths": 0,
       "recovered": 0
     }
@@ -2230,6 +2378,7 @@
     "province": "",
     "data": {
       "confirmed": 51,
+      "existing": 51,
       "deaths": 0,
       "recovered": 0
     }
@@ -2245,6 +2394,7 @@
     "province": "",
     "data": {
       "confirmed": 179,
+      "existing": 177,
       "deaths": 1,
       "recovered": 1
     }
@@ -2260,6 +2410,7 @@
     "province": "",
     "data": {
       "confirmed": 875,
+      "existing": 861,
       "deaths": 8,
       "recovered": 6
     }
@@ -2275,6 +2426,7 @@
     "province": "",
     "data": {
       "confirmed": 12,
+      "existing": 12,
       "deaths": 0,
       "recovered": 0
     }
@@ -2290,6 +2442,7 @@
     "province": "",
     "data": {
       "confirmed": 1518,
+      "existing": 1365,
       "deaths": 14,
       "recovered": 139
     }
@@ -2305,6 +2458,7 @@
     "province": "",
     "data": {
       "confirmed": 13,
+      "existing": 13,
       "deaths": 0,
       "recovered": 0
     }
@@ -2320,6 +2474,7 @@
     "province": "",
     "data": {
       "confirmed": 107,
+      "existing": 105,
       "deaths": 0,
       "recovered": 2
     }
@@ -2335,6 +2490,7 @@
     "province": "",
     "data": {
       "confirmed": 2,
+      "existing": 2,
       "deaths": 0,
       "recovered": 0
     }
@@ -2350,6 +2506,7 @@
     "province": "",
     "data": {
       "confirmed": 36,
+      "existing": 34,
       "deaths": 2,
       "recovered": 0
     }
@@ -2365,6 +2522,7 @@
     "province": "",
     "data": {
       "confirmed": 316,
+      "existing": 309,
       "deaths": 3,
       "recovered": 4
     }
@@ -2380,6 +2538,7 @@
     "province": "",
     "data": {
       "confirmed": 109,
+      "existing": 107,
       "deaths": 1,
       "recovered": 1
     }
@@ -2395,6 +2554,7 @@
     "province": "",
     "data": {
       "confirmed": 23,
+      "existing": 22,
       "deaths": 0,
       "recovered": 1
     }
@@ -2410,6 +2570,7 @@
     "province": "",
     "data": {
       "confirmed": 10,
+      "existing": 10,
       "deaths": 0,
       "recovered": 0
     }
@@ -2425,6 +2586,7 @@
     "province": "",
     "data": {
       "confirmed": 27,
+      "existing": 26,
       "deaths": 1,
       "recovered": 0
     }
@@ -2440,6 +2602,7 @@
     "province": "",
     "data": {
       "confirmed": 143,
+      "existing": 136,
       "deaths": 4,
       "recovered": 3
     }
@@ -2455,6 +2618,7 @@
     "province": "",
     "data": {
       "confirmed": 4,
+      "existing": 4,
       "deaths": 0,
       "recovered": 0
     }
@@ -2470,6 +2634,7 @@
     "province": "",
     "data": {
       "confirmed": 2,
+      "existing": 1,
       "deaths": 0,
       "recovered": 1
     }
@@ -2485,6 +2650,7 @@
     "province": "Aruba",
     "data": {
       "confirmed": 9,
+      "existing": 9,
       "deaths": 0,
       "recovered": 0
     }
@@ -2500,6 +2666,7 @@
     "province": "Curacao",
     "data": {
       "confirmed": 4,
+      "existing": 3,
       "deaths": 1,
       "recovered": 0
     }
@@ -2515,6 +2682,7 @@
     "province": "Sint Maarten",
     "data": {
       "confirmed": 2,
+      "existing": 2,
       "deaths": 0,
       "recovered": 0
     }
@@ -2530,6 +2698,7 @@
     "province": "",
     "data": {
       "confirmed": 4749,
+      "existing": 4536,
       "deaths": 213,
       "recovered": 0
     }
@@ -2545,6 +2714,7 @@
     "province": "",
     "data": {
       "confirmed": 102,
+      "existing": 102,
       "deaths": 0,
       "recovered": 0
     }
@@ -2560,6 +2730,7 @@
     "province": "",
     "data": {
       "confirmed": 2,
+      "existing": 2,
       "deaths": 0,
       "recovered": 0
     }
@@ -2575,6 +2746,7 @@
     "province": "",
     "data": {
       "confirmed": 3,
+      "existing": 3,
       "deaths": 0,
       "recovered": 0
     }
@@ -2590,6 +2762,7 @@
     "province": "",
     "data": {
       "confirmed": 40,
+      "existing": 37,
       "deaths": 1,
       "recovered": 2
     }
@@ -2605,6 +2778,7 @@
     "province": "",
     "data": {
       "confirmed": 136,
+      "existing": 133,
       "deaths": 2,
       "recovered": 1
     }
@@ -2620,6 +2794,7 @@
     "province": "",
     "data": {
       "confirmed": 2621,
+      "existing": 2610,
       "deaths": 10,
       "recovered": 1
     }
@@ -2635,6 +2810,7 @@
     "province": "",
     "data": {
       "confirmed": 66,
+      "existing": 49,
       "deaths": 0,
       "recovered": 17
     }
@@ -2650,6 +2826,7 @@
     "province": "",
     "data": {
       "confirmed": 875,
+      "existing": 864,
       "deaths": 6,
       "recovered": 5
     }
@@ -2665,6 +2842,7 @@
     "province": "",
     "data": {
       "confirmed": 345,
+      "existing": 339,
       "deaths": 6,
       "recovered": 0
     }
@@ -2680,6 +2858,7 @@
     "province": "",
     "data": {
       "confirmed": 1,
+      "existing": 1,
       "deaths": 0,
       "recovered": 0
     }
@@ -2695,6 +2874,7 @@
     "province": "",
     "data": {
       "confirmed": 22,
+      "existing": 21,
       "deaths": 1,
       "recovered": 0
     }
@@ -2710,6 +2890,7 @@
     "province": "",
     "data": {
       "confirmed": 395,
+      "existing": 389,
       "deaths": 5,
       "recovered": 1
     }
@@ -2725,6 +2906,7 @@
     "province": "",
     "data": {
       "confirmed": 462,
+      "existing": 412,
       "deaths": 33,
       "recovered": 17
     }
@@ -2740,6 +2922,7 @@
     "province": "",
     "data": {
       "confirmed": 749,
+      "existing": 740,
       "deaths": 8,
       "recovered": 1
     }
@@ -2755,6 +2938,7 @@
     "province": "",
     "data": {
       "confirmed": 2060,
+      "existing": 2032,
       "deaths": 23,
       "recovered": 5
     }
@@ -2770,6 +2954,7 @@
     "province": "",
     "data": {
       "confirmed": 501,
+      "existing": 468,
       "deaths": 0,
       "recovered": 33
     }
@@ -2785,6 +2970,7 @@
     "province": "",
     "data": {
       "confirmed": 576,
+      "existing": 505,
       "deaths": 7,
       "recovered": 64
     }
@@ -2800,6 +2986,7 @@
     "province": "",
     "data": {
       "confirmed": 438,
+      "existing": 421,
       "deaths": 1,
       "recovered": 16
     }
@@ -2815,6 +3002,7 @@
     "province": "",
     "data": {
       "confirmed": 36,
+      "existing": 36,
       "deaths": 0,
       "recovered": 0
     }
@@ -2830,6 +3018,7 @@
     "province": "",
     "data": {
       "confirmed": 3,
+      "existing": 3,
       "deaths": 0,
       "recovered": 0
     }
@@ -2845,6 +3034,7 @@
     "province": "",
     "data": {
       "confirmed": 1,
+      "existing": 1,
       "deaths": 0,
       "recovered": 0
     }
@@ -2860,6 +3050,7 @@
     "province": "",
     "data": {
       "confirmed": 187,
+      "existing": 163,
       "deaths": 20,
       "recovered": 4
     }
@@ -2875,6 +3066,7 @@
     "province": "",
     "data": {
       "confirmed": 562,
+      "existing": 546,
       "deaths": 0,
       "recovered": 16
     }
@@ -2890,6 +3082,7 @@
     "province": "",
     "data": {
       "confirmed": 79,
+      "existing": 74,
       "deaths": 0,
       "recovered": 5
     }
@@ -2905,6 +3098,7 @@
     "province": "",
     "data": {
       "confirmed": 249,
+      "existing": 245,
       "deaths": 3,
       "recovered": 1
     }
@@ -2920,6 +3114,7 @@
     "province": "",
     "data": {
       "confirmed": 7,
+      "existing": 7,
       "deaths": 0,
       "recovered": 0
     }
@@ -2935,6 +3130,7 @@
     "province": "",
     "data": {
       "confirmed": 509,
+      "existing": 363,
       "deaths": 2,
       "recovered": 144
     }
@@ -2950,6 +3146,7 @@
     "province": "",
     "data": {
       "confirmed": 186,
+      "existing": 179,
       "deaths": 0,
       "recovered": 7
     }
@@ -2965,6 +3162,7 @@
     "province": "",
     "data": {
       "confirmed": 442,
+      "existing": 439,
       "deaths": 3,
       "recovered": 0
     }
@@ -2980,6 +3178,7 @@
     "province": "",
     "data": {
       "confirmed": 1,
+      "existing": 1,
       "deaths": 0,
       "recovered": 0
     }
@@ -2995,6 +3194,7 @@
     "province": "",
     "data": {
       "confirmed": 402,
+      "existing": 402,
       "deaths": 0,
       "recovered": 0
     }
@@ -3010,6 +3210,7 @@
     "province": "",
     "data": {
       "confirmed": 35136,
+      "existing": 30250,
       "deaths": 2311,
       "recovered": 2575
     }
@@ -3025,6 +3226,7 @@
     "province": "",
     "data": {
       "confirmed": 97,
+      "existing": 94,
       "deaths": 0,
       "recovered": 3
     }
@@ -3040,6 +3242,7 @@
     "province": "",
     "data": {
       "confirmed": 2,
+      "existing": 1,
       "deaths": 1,
       "recovered": 0
     }
@@ -3055,6 +3258,7 @@
     "province": "",
     "data": {
       "confirmed": 5,
+      "existing": 5,
       "deaths": 0,
       "recovered": 0
     }
@@ -3070,6 +3274,7 @@
     "province": "",
     "data": {
       "confirmed": 2046,
+      "existing": 2005,
       "deaths": 25,
       "recovered": 16
     }
@@ -3085,6 +3290,7 @@
     "province": "",
     "data": {
       "confirmed": 8795,
+      "existing": 8544,
       "deaths": 120,
       "recovered": 131
     }
@@ -3100,6 +3306,7 @@
     "province": "",
     "data": {
       "confirmed": 195,
+      "existing": 165,
       "deaths": 2,
       "recovered": 28
     }
@@ -3115,6 +3322,7 @@
     "province": "",
     "data": {
       "confirmed": 12,
+      "existing": 12,
       "deaths": 0,
       "recovered": 0
     }
@@ -3130,6 +3338,7 @@
     "province": "",
     "data": {
       "confirmed": 721,
+      "existing": 676,
       "deaths": 1,
       "recovered": 44
     }
@@ -3145,6 +3354,7 @@
     "province": "",
     "data": {
       "confirmed": 18,
+      "existing": 17,
       "deaths": 0,
       "recovered": 1
     }
@@ -3160,6 +3370,7 @@
     "province": "",
     "data": {
       "confirmed": 51,
+      "existing": 50,
       "deaths": 0,
       "recovered": 1
     }
@@ -3175,6 +3386,7 @@
     "province": "",
     "data": {
       "confirmed": 89,
+      "existing": 85,
       "deaths": 3,
       "recovered": 1
     }
@@ -3190,6 +3402,7 @@
     "province": "",
     "data": {
       "confirmed": 1529,
+      "existing": 1492,
       "deaths": 37,
       "recovered": 0
     }
@@ -3205,6 +3418,7 @@
     "province": "",
     "data": {
       "confirmed": 9,
+      "existing": 9,
       "deaths": 0,
       "recovered": 0
     }
@@ -3220,6 +3434,7 @@
     "province": "",
     "data": {
       "confirmed": 73,
+      "existing": 69,
       "deaths": 3,
       "recovered": 1
     }
@@ -3235,6 +3450,7 @@
     "province": "",
     "data": {
       "confirmed": 198,
+      "existing": 158,
       "deaths": 2,
       "recovered": 38
     }
@@ -3250,6 +3466,7 @@
     "province": "Bermuda",
     "data": {
       "confirmed": 6,
+      "existing": 6,
       "deaths": 0,
       "recovered": 0
     }
@@ -3265,6 +3482,7 @@
     "province": "Cayman Islands",
     "data": {
       "confirmed": 5,
+      "existing": 4,
       "deaths": 1,
       "recovered": 0
     }
@@ -3280,6 +3498,7 @@
     "province": "Channel Islands",
     "data": {
       "confirmed": 36,
+      "existing": 36,
       "deaths": 0,
       "recovered": 0
     }
@@ -3295,6 +3514,7 @@
     "province": "Gibraltar",
     "data": {
       "confirmed": 15,
+      "existing": 13,
       "deaths": 0,
       "recovered": 2
     }
@@ -3310,6 +3530,7 @@
     "province": "Isle of Man",
     "data": {
       "confirmed": 13,
+      "existing": 13,
       "deaths": 0,
       "recovered": 0
     }
@@ -3325,6 +3546,7 @@
     "province": "Montserrat",
     "data": {
       "confirmed": 1,
+      "existing": 1,
       "deaths": 0,
       "recovered": 0
     }
@@ -3340,6 +3562,7 @@
     "province": "",
     "data": {
       "confirmed": 6650,
+      "existing": 6315,
       "deaths": 335,
       "recovered": 0
     }
@@ -3355,6 +3578,7 @@
     "province": "",
     "data": {
       "confirmed": 162,
+      "existing": 162,
       "deaths": 0,
       "recovered": 0
     }
@@ -3370,6 +3594,7 @@
     "province": "",
     "data": {
       "confirmed": 43847,
+      "existing": 43290,
       "deaths": 557,
       "recovered": 0
     }
@@ -3385,6 +3610,7 @@
     "province": "",
     "data": {
       "confirmed": 46,
+      "existing": 46,
       "deaths": 0,
       "recovered": 0
     }
@@ -3400,6 +3626,7 @@
     "province": "",
     "data": {
       "confirmed": 77,
+      "existing": 62,
       "deaths": 0,
       "recovered": 15
     }
@@ -3415,6 +3642,7 @@
     "province": "",
     "data": {
       "confirmed": 123,
+      "existing": 106,
       "deaths": 0,
       "recovered": 17
     }
@@ -3430,6 +3658,7 @@
     "province": "",
     "data": {
       "confirmed": 3,
+      "existing": 3,
       "deaths": 0,
       "recovered": 0
     }
@@ -3445,6 +3674,7 @@
     "province": "",
     "data": {
       "confirmed": 3,
+      "existing": 2,
       "deaths": 1,
       "recovered": 0
     }
@@ -3460,6 +3690,7 @@
     "province": "Diamond Princess",
     "data": {
       "confirmed": 0,
+      "existing": -1,
       "deaths": 1,
       "recovered": 0
     }
@@ -3475,6 +3706,7 @@
     "province": "",
     "data": {
       "confirmed": 2,
+      "existing": 2,
       "deaths": 0,
       "recovered": 0
     }
@@ -3490,6 +3722,7 @@
     "province": "",
     "data": {
       "confirmed": 1,
+      "existing": 1,
       "deaths": 0,
       "recovered": 0
     }
@@ -3505,6 +3738,7 @@
     "province": "",
     "data": {
       "confirmed": 1,
+      "existing": 1,
       "deaths": 0,
       "recovered": 0
     }
@@ -3520,6 +3754,7 @@
     "province": "",
     "data": {
       "confirmed": 1,
+      "existing": 1,
       "deaths": 0,
       "recovered": 0
     }
@@ -3535,6 +3770,7 @@
     "province": "",
     "data": {
       "confirmed": 1,
+      "existing": 1,
       "deaths": 0,
       "recovered": 0
     }
@@ -3550,6 +3786,7 @@
     "province": "",
     "data": {
       "confirmed": 1,
+      "existing": 1,
       "deaths": 0,
       "recovered": 0
     }
@@ -3565,6 +3802,7 @@
     ],
     "data": {
       "confirmed": 7,
+      "existing": 7,
       "deaths": 0,
       "recovered": 0
     }
@@ -3580,6 +3818,7 @@
     ],
     "data": {
       "confirmed": 2,
+      "existing": 1,
       "deaths": 1,
       "recovered": 0
     }
@@ -3595,6 +3834,7 @@
     ],
     "data": {
       "confirmed": 1,
+      "existing": 1,
       "deaths": 0,
       "recovered": 0
     }
@@ -3610,6 +3850,7 @@
     ],
     "data": {
       "confirmed": 31,
+      "existing": 24,
       "deaths": 1,
       "recovered": 6
     }
@@ -3625,6 +3866,7 @@
     ],
     "data": {
       "confirmed": 29,
+      "existing": 28,
       "deaths": 1,
       "recovered": 0
     }
@@ -3640,6 +3882,7 @@
     ],
     "data": {
       "confirmed": 26,
+      "existing": 15,
       "deaths": 0,
       "recovered": 11
     }
@@ -3655,6 +3898,7 @@
     ],
     "data": {
       "confirmed": 3,
+      "existing": 2,
       "deaths": 1,
       "recovered": 0
     }
@@ -3670,6 +3914,7 @@
     ],
     "data": {
       "confirmed": 37,
+      "existing": 34,
       "deaths": 1,
       "recovered": 2
     }
@@ -3685,6 +3930,7 @@
     ],
     "data": {
       "confirmed": 95,
+      "existing": 91,
       "deaths": 0,
       "recovered": 4
     }
@@ -3700,6 +3946,7 @@
     ],
     "data": {
       "confirmed": 7,
+      "existing": 7,
       "deaths": 0,
       "recovered": 0
     }
@@ -3715,6 +3962,7 @@
     ],
     "data": {
       "confirmed": 87,
+      "existing": 85,
       "deaths": 2,
       "recovered": 0
     }
@@ -3730,6 +3978,7 @@
     ],
     "data": {
       "confirmed": 2,
+      "existing": 2,
       "deaths": 0,
       "recovered": 0
     }
@@ -3745,6 +3994,7 @@
     ],
     "data": {
       "confirmed": 1,
+      "existing": 1,
       "deaths": 0,
       "recovered": 0
     }
@@ -3760,6 +4010,7 @@
     ],
     "data": {
       "confirmed": 21,
+      "existing": 20,
       "deaths": 1,
       "recovered": 0
     }
@@ -3775,6 +4026,7 @@
     ],
     "data": {
       "confirmed": 33,
+      "existing": 30,
       "deaths": 0,
       "recovered": 3
     }
@@ -3790,6 +4042,7 @@
     ],
     "data": {
       "confirmed": 12,
+      "existing": 11,
       "deaths": 0,
       "recovered": 1
     }
@@ -3805,6 +4058,7 @@
     ],
     "data": {
       "confirmed": 32,
+      "existing": 31,
       "deaths": 0,
       "recovered": 1
     }
@@ -3820,6 +4074,7 @@
     ],
     "data": {
       "confirmed": 6,
+      "existing": 6,
       "deaths": 0,
       "recovered": 0
     }
@@ -3835,6 +4090,7 @@
     ],
     "data": {
       "confirmed": 4,
+      "existing": 4,
       "deaths": 0,
       "recovered": 0
     }
@@ -3850,6 +4106,7 @@
     ],
     "data": {
       "confirmed": 13,
+      "existing": 13,
       "deaths": 0,
       "recovered": 0
     }
@@ -3865,6 +4122,7 @@
     ],
     "data": {
       "confirmed": 33,
+      "existing": 24,
       "deaths": 0,
       "recovered": 9
     }
@@ -3880,6 +4138,7 @@
     ],
     "data": {
       "confirmed": 3,
+      "existing": 3,
       "deaths": 0,
       "recovered": 0
     }
@@ -3895,6 +4154,7 @@
     ],
     "data": {
       "confirmed": 7,
+      "existing": 6,
       "deaths": 1,
       "recovered": 0
     }

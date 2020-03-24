@@ -13,5 +13,10 @@
     "id": "recovered",
     "name": "recovered",
     "value": 98334
+  },
+  {
+    "id": "exisiting",
+    "name": "exisiting",
+    "value": 263708
   }
 ]
