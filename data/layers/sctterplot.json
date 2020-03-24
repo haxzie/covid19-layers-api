@@ -3801,8 +3801,8 @@
       14.7504291
     ],
     "data": {
-      "confirmed": 7,
-      "existing": 7,
+      "confirmed": 8,
+      "existing": 8,
       "deaths": 0,
       "recovered": 0
     }
@@ -3817,8 +3817,8 @@
       25.78541445
     ],
     "data": {
-      "confirmed": 2,
-      "existing": 1,
+      "confirmed": 3,
+      "existing": 2,
       "deaths": 1,
       "recovered": 0
     }
@@ -3849,8 +3849,8 @@
       28.6699929
     ],
     "data": {
-      "confirmed": 31,
-      "existing": 24,
+      "confirmed": 30,
+      "existing": 23,
       "deaths": 1,
       "recovered": 6
     }
@@ -3865,8 +3865,8 @@
       23.158831
     ],
     "data": {
-      "confirmed": 29,
-      "existing": 28,
+      "confirmed": 33,
+      "existing": 32,
       "deaths": 1,
       "recovered": 0
     }
@@ -3881,8 +3881,8 @@
       28.45000633
     ],
     "data": {
-      "confirmed": 26,
-      "existing": 15,
+      "confirmed": 28,
+      "existing": 17,
       "deaths": 0,
       "recovered": 11
     }
@@ -3914,9 +3914,9 @@
     ],
     "data": {
       "confirmed": 37,
-      "existing": 34,
+      "existing": 33,
       "deaths": 1,
-      "recovered": 2
+      "recovered": 3
     }
   },
   {
@@ -3961,9 +3961,25 @@
       19.25023195
     ],
     "data": {
-      "confirmed": 87,
-      "existing": 85,
+      "confirmed": 89,
+      "existing": 87,
       "deaths": 2,
+      "recovered": 0
+    }
+  },
+  {
+    "id": "f4194d0db066a83f0ece6528cd70c4ec",
+    "country_code": "IN",
+    "country": "India",
+    "province": "Manipur",
+    "location": [
+      93.95001705,
+      24.79997072
+    ],
+    "data": {
+      "confirmed": 1,
+      "existing": 1,
+      "deaths": 0,
       "recovered": 0
     }
   },
@@ -4009,8 +4025,8 @@
       31.51997398
     ],
     "data": {
-      "confirmed": 21,
-      "existing": 20,
+      "confirmed": 29,
+      "existing": 28,
       "deaths": 1,
       "recovered": 0
     }
@@ -4025,8 +4041,8 @@
       26.44999921
     ],
     "data": {
-      "confirmed": 33,
-      "existing": 30,
+      "confirmed": 32,
+      "existing": 29,
       "deaths": 0,
       "recovered": 3
     }
@@ -4041,8 +4057,8 @@
       12.92038576
     ],
     "data": {
-      "confirmed": 12,
-      "existing": 11,
+      "confirmed": 15,
+      "existing": 14,
       "deaths": 0,
       "recovered": 1
     }
@@ -4057,8 +4073,8 @@
       17.697963
     ],
     "data": {
-      "confirmed": 32,
-      "existing": 31,
+      "confirmed": 35,
+      "existing": 34,
       "deaths": 0,
       "recovered": 1
     }
@@ -4073,8 +4089,8 @@
       30.71999697
     ],
     "data": {
-      "confirmed": 6,
-      "existing": 6,
+      "confirmed": 7,
+      "existing": 7,
       "deaths": 0,
       "recovered": 0
     }
@@ -4122,9 +4138,9 @@
     ],
     "data": {
       "confirmed": 33,
-      "existing": 24,
+      "existing": 22,
       "deaths": 0,
-      "recovered": 9
+      "recovered": 11
     }
   },
   {
@@ -4137,8 +4153,8 @@
       30.230923
     ],
     "data": {
-      "confirmed": 3,
-      "existing": 3,
+      "confirmed": 4,
+      "existing": 4,
       "deaths": 0,
       "recovered": 0
     }
@@ -4153,8 +4169,8 @@
       22.58039044
     ],
     "data": {
-      "confirmed": 7,
-      "existing": 6,
+      "confirmed": 9,
+      "existing": 8,
       "deaths": 1,
       "recovered": 0
     }

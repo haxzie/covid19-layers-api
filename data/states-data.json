@@ -113,8 +113,20 @@
     "recovered": null,
     "deaths": null
   },
+  "Guidelines on rational use of Personal Protective Equipment   ": {
+    "state": "Guidelines on rational use of Personal Protective Equipment   ",
+    "confirmed": null,
+    "recovered": null,
+    "deaths": null
+  },
   "Advisory on the use of Hydroxy-chloroquin as prophylaxis for SARS-CoV-2 infection ": {
     "state": "Advisory on the use of Hydroxy-chloroquin as prophylaxis for SARS-CoV-2 infection ",
+    "confirmed": null,
+    "recovered": null,
+    "deaths": null
+  },
+  "Notification of ICMR guidelines for COVID-19 testing in private laboratories in India ": {
+    "state": "Notification of ICMR guidelines for COVID-19 testing in private laboratories in India ",
     "confirmed": null,
     "recovered": null,
     "deaths": null
@@ -179,8 +191,44 @@
     "recovered": null,
     "deaths": null
   },
+  "Model Micro-plan for containment of local transmission of COVID-19 ": {
+    "state": "Model Micro-plan for containment of local transmission of COVID-19 ",
+    "confirmed": null,
+    "recovered": null,
+    "deaths": null
+  },
+  "D.O. Letter from Secretary, Human Resource Development to Chief Secretaries for temporary Medical camps in Jawahar Navodaya Vidyalayas dated 24th March 2020  ": {
+    "state": "D.O. Letter from Secretary, Human Resource Development to Chief Secretaries for temporary Medical camps in Jawahar Navodaya Vidyalayas dated 24th March 2020  ",
+    "confirmed": null,
+    "recovered": null,
+    "deaths": null
+  },
+  "Letter from Ministry of Consumer Affairs, Food & Public Distribution to States to take appropriate measures to ensure the availability of Ethyl Alcohol/Ethanol/ENA to the manufacturers of hand sanitizers in order to contain Corona Virus COVID- l9 ": {
+    "state": "Letter from Ministry of Consumer Affairs, Food & Public Distribution to States to take appropriate measures to ensure the availability of Ethyl Alcohol/Ethanol/ENA to the manufacturers of hand sanitizers in order to contain Corona Virus COVID- l9 ",
+    "confirmed": null,
+    "recovered": null,
+    "deaths": null
+  },
+  "D.O. Letter from Cabinet Secretary to Chief Secretaries for management and containment of COVID-19 dated 24.03.2020 ": {
+    "state": "D.O. Letter from Cabinet Secretary to Chief Secretaries for management and containment of COVID-19 dated 24.03.2020 ",
+    "confirmed": null,
+    "recovered": null,
+    "deaths": null
+  },
   "D.O. Letter from Cabinet Secretary to Chief Secretaries for management and containment of COVID-19 dated 23.03.2020 ": {
     "state": "D.O. Letter from Cabinet Secretary to Chief Secretaries for management and containment of COVID-19 dated 23.03.2020 ",
+    "confirmed": null,
+    "recovered": null,
+    "deaths": null
+  },
+  "Letter from Ministry of Home Affairs - Restrictions on international passenger traffic through Authorized Immigration Check Posts in view of the COVID-19 ": {
+    "state": "Letter from Ministry of Home Affairs - Restrictions on international passenger traffic through Authorized Immigration Check Posts in view of the COVID-19 ",
+    "confirmed": null,
+    "recovered": null,
+    "deaths": null
+  },
+  " Office Order from Ministry of Shipping - State Government/Union Territories have issued prohibitory orders, Imposing restrictions on non-essential services in view of the COVID-19 ": {
+    "state": " Office Order from Ministry of Shipping - State Government/Union Territories have issued prohibitory orders, Imposing restrictions on non-essential services in view of the COVID-19 ",
     "confirmed": null,
     "recovered": null,
     "deaths": null
@@ -304,27 +352,27 @@
     "recovered": null,
     "deaths": null
   },
-  " KIDS, VAAYU & CORONA : Comic book for children to provide correct information about COVID-19 - Part 2": {
-    "state": " KIDS, VAAYU & CORONA : Comic book for children to provide correct information about COVID-19 - Part 2",
+  "Posters for Safety measures against COVID-19 - English ": {
+    "state": "Posters for Safety measures against COVID-19 - English ",
     "confirmed": null,
     "recovered": null,
     "deaths": null
   },
-  "Notification of ICMR guidelines for COVID-19 testing in private laboratories in India ": {
-    "state": "Notification of ICMR guidelines for COVID-19 testing in private laboratories in India ",
+  " Posters for Safety measures against COVID-19 - Hindi ": {
+    "state": " Posters for Safety measures against COVID-19 - Hindi ",
     "confirmed": null,
     "recovered": null,
     "deaths": null
   },
   "Andhra Pradesh": {
     "state": "Andhra Pradesh",
-    "confirmed": 7,
+    "confirmed": 8,
     "recovered": 0,
     "deaths": 0
   },
   "Bihar": {
     "state": "Bihar",
-    "confirmed": 2,
+    "confirmed": 3,
     "recovered": 0,
     "deaths": 1
   },
@@ -336,19 +384,19 @@
   },
   "Delhi": {
     "state": "Delhi",
-    "confirmed": 31,
+    "confirmed": 30,
     "recovered": 6,
     "deaths": 1
   },
   "Gujarat": {
     "state": "Gujarat",
-    "confirmed": 29,
+    "confirmed": 33,
     "recovered": 0,
     "deaths": 1
   },
   "Haryana": {
     "state": "Haryana",
-    "confirmed": 26,
+    "confirmed": 28,
     "recovered": 11,
     "deaths": 0
   },
@@ -361,7 +409,7 @@
   "Karnataka": {
     "state": "Karnataka",
     "confirmed": 37,
-    "recovered": 2,
+    "recovered": 3,
     "deaths": 1
   },
   "Kerala": {
@@ -378,9 +426,15 @@
   },
   "Maharashtra": {
     "state": "Maharashtra",
-    "confirmed": 87,
+    "confirmed": 89,
     "recovered": 0,
     "deaths": 2
+  },
+  "Manipur": {
+    "state": "Manipur",
+    "confirmed": 1,
+    "recovered": 0,
+    "deaths": 0
   },
   "Odisha": {
     "state": "Odisha",
@@ -396,31 +450,31 @@
   },
   "Punjab": {
     "state": "Punjab",
-    "confirmed": 21,
+    "confirmed": 29,
     "recovered": 0,
     "deaths": 1
   },
   "Rajasthan": {
     "state": "Rajasthan",
-    "confirmed": 33,
+    "confirmed": 32,
     "recovered": 3,
     "deaths": 0
   },
   "Tamil Nadu": {
     "state": "Tamil Nadu",
-    "confirmed": 12,
+    "confirmed": 15,
     "recovered": 1,
     "deaths": 0
   },
   "Telengana": {
     "state": "Telengana",
-    "confirmed": 32,
+    "confirmed": 35,
     "recovered": 1,
     "deaths": 0
   },
   "Chandigarh": {
     "state": "Chandigarh",
-    "confirmed": 6,
+    "confirmed": 7,
     "recovered": 0,
     "deaths": 0
   },
@@ -439,18 +493,18 @@
   "Uttar Pradesh": {
     "state": "Uttar Pradesh",
     "confirmed": 33,
-    "recovered": 9,
+    "recovered": 11,
     "deaths": 0
   },
   "Uttarakhand": {
     "state": "Uttarakhand",
-    "confirmed": 3,
+    "confirmed": 4,
     "recovered": 0,
     "deaths": 0
   },
   "West Bengal": {
     "state": "West Bengal",
-    "confirmed": 7,
+    "confirmed": 9,
     "recovered": 0,
     "deaths": 1
   }
