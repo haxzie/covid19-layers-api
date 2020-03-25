@@ -1,372 +1,7 @@
 {
-  "Instructions to all major and minor ports for dealing with(COVID-19) pandemic": {
-    "state": "Instructions to all major and minor ports for dealing with(COVID-19) pandemic",
-    "confirmed": null,
-    "recovered": null,
-    "deaths": null
-  },
-  "Additional Travel Advisory ": {
-    "state": "Additional Travel Advisory ",
-    "confirmed": null,
-    "recovered": null,
-    "deaths": null
-  },
-  " Standard Operating Procedure for Passenger Movement post Disembarkation ": {
-    "state": " Standard Operating Procedure for Passenger Movement post Disembarkation ",
-    "confirmed": null,
-    "recovered": null,
-    "deaths": null
-  },
-  "Additional Travel Advisory": {
-    "state": "Additional Travel Advisory",
-    "confirmed": null,
-    "recovered": null,
-    "deaths": null
-  },
-  " Restrictions on International passenger traffic through Land Check Posts ": {
-    "state": " Restrictions on International passenger traffic through Land Check Posts ",
-    "confirmed": null,
-    "recovered": null,
-    "deaths": null
-  },
-  "Restrictions on International passenger traffic through land check posts-COVID 19 ": {
-    "state": "Restrictions on International passenger traffic through land check posts-COVID 19 ",
-    "confirmed": null,
-    "recovered": null,
-    "deaths": null
-  },
-  "Consolidated Travel Advisory - 11 March 2020": {
-    "state": "Consolidated Travel Advisory - 11 March 2020",
-    "confirmed": null,
-    "recovered": null,
-    "deaths": null
-  },
-  "Visa restrictions issued by Bureau of Immigration (BOI) after meeting of GoM on COVID19 - 11 March 2020 ": {
-    "state": "Visa restrictions issued by Bureau of Immigration (BOI) after meeting of GoM on COVID19 - 11 March 2020 ",
-    "confirmed": null,
-    "recovered": null,
-    "deaths": null
-  },
-  "Decisions- High level Group of Ministers meeting to review current status and actions for prevention and management of COVID-19 ": {
-    "state": "Decisions- High level Group of Ministers meeting to review current status and actions for prevention and management of COVID-19 ",
-    "confirmed": null,
-    "recovered": null,
-    "deaths": null
-  },
-  "Standard Operating Procedure (SOP) for COVID-19 Management- International Cruise Ships at major Indian Ports": {
-    "state": "Standard Operating Procedure (SOP) for COVID-19 Management- International Cruise Ships at major Indian Ports",
-    "confirmed": null,
-    "recovered": null,
-    "deaths": null
-  },
-  "Travel Advisory (Home Isolation)": {
-    "state": "Travel Advisory (Home Isolation)",
-    "confirmed": null,
-    "recovered": null,
-    "deaths": null
-  },
-  "Travel Advisory": {
-    "state": "Travel Advisory",
-    "confirmed": null,
-    "recovered": null,
-    "deaths": null
-  },
-  "Travel Advisory ": {
-    "state": "Travel Advisory ",
-    "confirmed": null,
-    "recovered": null,
-    "deaths": null
-  },
-  "Travel and Visa restrictions related to COVID-19 in respect of Bureau of Immigration ": {
-    "state": "Travel and Visa restrictions related to COVID-19 in respect of Bureau of Immigration ",
-    "confirmed": null,
-    "recovered": null,
-    "deaths": null
-  },
-  "  Advisory - Social Distancing": {
-    "state": "  Advisory - Social Distancing",
-    "confirmed": null,
-    "recovered": null,
-    "deaths": null
-  },
-  "Guidelines on Dead Body Management": {
-    "state": "Guidelines on Dead Body Management",
-    "confirmed": null,
-    "recovered": null,
-    "deaths": null
-  },
-  "Guidelines for home quarantine": {
-    "state": "Guidelines for home quarantine",
-    "confirmed": null,
-    "recovered": null,
-    "deaths": null
-  },
-  "Guidelines on use of masks by public": {
-    "state": "Guidelines on use of masks by public",
-    "confirmed": null,
-    "recovered": null,
-    "deaths": null
-  },
-  "  Advisory - Mass Gatherings": {
-    "state": "  Advisory - Mass Gatherings",
-    "confirmed": null,
-    "recovered": null,
-    "deaths": null
-  },
-  "Guidelines on rational use of Personal Protective Equipment   ": {
-    "state": "Guidelines on rational use of Personal Protective Equipment   ",
-    "confirmed": null,
-    "recovered": null,
-    "deaths": null
-  },
-  "Advisory on the use of Hydroxy-chloroquin as prophylaxis for SARS-CoV-2 infection ": {
-    "state": "Advisory on the use of Hydroxy-chloroquin as prophylaxis for SARS-CoV-2 infection ",
-    "confirmed": null,
-    "recovered": null,
-    "deaths": null
-  },
-  "Notification of ICMR guidelines for COVID-19 testing in private laboratories in India ": {
-    "state": "Notification of ICMR guidelines for COVID-19 testing in private laboratories in India ",
-    "confirmed": null,
-    "recovered": null,
-    "deaths": null
-  },
-  " Advisory for Hospitals and Medical Institutions ": {
-    "state": " Advisory for Hospitals and Medical Institutions ",
-    "confirmed": null,
-    "recovered": null,
-    "deaths": null
-  },
-  "Latest Testing Guidelines of Indian Council of Medical Research (ICMR) ": {
-    "state": "Latest Testing Guidelines of Indian Council of Medical Research (ICMR) ",
-    "confirmed": null,
-    "recovered": null,
-    "deaths": null
-  },
-  "Guidelines for notifying COVID-19 affected persons by Private Institutions": {
-    "state": "Guidelines for notifying COVID-19 affected persons by Private Institutions",
-    "confirmed": null,
-    "recovered": null,
-    "deaths": null
-  },
-  "Discharge policy for suspect or confirmed Novel Coronavirus (2019-nCoV) cases": {
-    "state": "Discharge policy for suspect or confirmed Novel Coronavirus (2019-nCoV) cases",
-    "confirmed": null,
-    "recovered": null,
-    "deaths": null
-  },
-  "Updated Guidelines on Clinical Management of COVID-19": {
-    "state": "Updated Guidelines on Clinical Management of COVID-19",
-    "confirmed": null,
-    "recovered": null,
-    "deaths": null
-  },
-  "SOP for Mock Drill on 22nd March 2020 for Hospital Preparedness ": {
-    "state": "SOP for Mock Drill on 22nd March 2020 for Hospital Preparedness ",
-    "confirmed": null,
-    "recovered": null,
-    "deaths": null
-  },
-  "Revised Guidelines/Strategy for COVID-19 testing by Indian Council of Medical Research (ICMR)": {
-    "state": "Revised Guidelines/Strategy for COVID-19 testing by Indian Council of Medical Research (ICMR)",
-    "confirmed": null,
-    "recovered": null,
-    "deaths": null
-  },
-  "ICMR strategy for COVID-19 testing in India": {
-    "state": "ICMR strategy for COVID-19 testing in India",
-    "confirmed": null,
-    "recovered": null,
-    "deaths": null
-  },
-  "Guidelines for Infection Prevention and Control in Healthcare Facilities": {
-    "state": "Guidelines for Infection Prevention and Control in Healthcare Facilities",
-    "confirmed": null,
-    "recovered": null,
-    "deaths": null
-  },
-  "Guidance for sample Collection, Packaging and Transportation for Novel Coronavirus": {
-    "state": "Guidance for sample Collection, Packaging and Transportation for Novel Coronavirus",
-    "confirmed": null,
-    "recovered": null,
-    "deaths": null
-  },
-  "Model Micro-plan for containment of local transmission of COVID-19 ": {
-    "state": "Model Micro-plan for containment of local transmission of COVID-19 ",
-    "confirmed": null,
-    "recovered": null,
-    "deaths": null
-  },
-  "D.O. Letter from Secretary, Human Resource Development to Chief Secretaries for temporary Medical camps in Jawahar Navodaya Vidyalayas dated 24th March 2020  ": {
-    "state": "D.O. Letter from Secretary, Human Resource Development to Chief Secretaries for temporary Medical camps in Jawahar Navodaya Vidyalayas dated 24th March 2020  ",
-    "confirmed": null,
-    "recovered": null,
-    "deaths": null
-  },
-  "Letter from Ministry of Consumer Affairs, Food & Public Distribution to States to take appropriate measures to ensure the availability of Ethyl Alcohol/Ethanol/ENA to the manufacturers of hand sanitizers in order to contain Corona Virus COVID- l9 ": {
-    "state": "Letter from Ministry of Consumer Affairs, Food & Public Distribution to States to take appropriate measures to ensure the availability of Ethyl Alcohol/Ethanol/ENA to the manufacturers of hand sanitizers in order to contain Corona Virus COVID- l9 ",
-    "confirmed": null,
-    "recovered": null,
-    "deaths": null
-  },
-  "D.O. Letter from Cabinet Secretary to Chief Secretaries for management and containment of COVID-19 dated 24.03.2020 ": {
-    "state": "D.O. Letter from Cabinet Secretary to Chief Secretaries for management and containment of COVID-19 dated 24.03.2020 ",
-    "confirmed": null,
-    "recovered": null,
-    "deaths": null
-  },
-  "D.O. Letter from Cabinet Secretary to Chief Secretaries for management and containment of COVID-19 dated 23.03.2020 ": {
-    "state": "D.O. Letter from Cabinet Secretary to Chief Secretaries for management and containment of COVID-19 dated 23.03.2020 ",
-    "confirmed": null,
-    "recovered": null,
-    "deaths": null
-  },
-  "Letter from Ministry of Home Affairs - Restrictions on international passenger traffic through Authorized Immigration Check Posts in view of the COVID-19 ": {
-    "state": "Letter from Ministry of Home Affairs - Restrictions on international passenger traffic through Authorized Immigration Check Posts in view of the COVID-19 ",
-    "confirmed": null,
-    "recovered": null,
-    "deaths": null
-  },
-  " Office Order from Ministry of Shipping - State Government/Union Territories have issued prohibitory orders, Imposing restrictions on non-essential services in view of the COVID-19 ": {
-    "state": " Office Order from Ministry of Shipping - State Government/Union Territories have issued prohibitory orders, Imposing restrictions on non-essential services in view of the COVID-19 ",
-    "confirmed": null,
-    "recovered": null,
-    "deaths": null
-  },
-  " D.O. Letter from Cabinet Secretary to Chief Secretaries for management and containment of COVID-19 dated 22.03.2020": {
-    "state": " D.O. Letter from Cabinet Secretary to Chief Secretaries for management and containment of COVID-19 dated 22.03.2020",
-    "confirmed": null,
-    "recovered": null,
-    "deaths": null
-  },
-  " Revised Guidelines/Strategy for COVID-19 testing by Indian Council of Medical Research (ICMR)": {
-    "state": " Revised Guidelines/Strategy for COVID-19 testing by Indian Council of Medical Research (ICMR)",
-    "confirmed": null,
-    "recovered": null,
-    "deaths": null
-  },
-  "Letter from Secretary, Dept of Higher Education/School Education regarding Digital/e-Learning ": {
-    "state": "Letter from Secretary, Dept of Higher Education/School Education regarding Digital/e-Learning ",
-    "confirmed": null,
-    "recovered": null,
-    "deaths": null
-  },
-  "Advisory from Department of Sports for Sports Organizations ": {
-    "state": "Advisory from Department of Sports for Sports Organizations ",
-    "confirmed": null,
-    "recovered": null,
-    "deaths": null
-  },
-  "DOPT OM - Preventive measures to contain the spread of COVID-19 in Training Institutes  ": {
-    "state": "DOPT OM - Preventive measures to contain the spread of COVID-19 in Training Institutes  ",
-    "confirmed": null,
-    "recovered": null,
-    "deaths": null
-  },
-  "Letter from Department of Food & Public Distribution regarding Hand Sanitizer Production and Availability ": {
-    "state": "Letter from Department of Food & Public Distribution regarding Hand Sanitizer Production and Availability ",
-    "confirmed": null,
-    "recovered": null,
-    "deaths": null
-  },
-  " DO Letter from Secretary, DoHFW to State Chief Secretaries regarding Social Distancing Measures": {
-    "state": " DO Letter from Secretary, DoHFW to State Chief Secretaries regarding Social Distancing Measures",
-    "confirmed": null,
-    "recovered": null,
-    "deaths": null
-  },
-  " Monitoring of the quality standards of hand Sanitizers": {
-    "state": " Monitoring of the quality standards of hand Sanitizers",
-    "confirmed": null,
-    "recovered": null,
-    "deaths": null
-  },
-  "Advisory - Social Distancing ": {
-    "state": "Advisory - Social Distancing ",
-    "confirmed": null,
-    "recovered": null,
-    "deaths": null
-  },
-  "Norms of assistance from State Disaster Response Fund (SDRF) in wake of COVID-19 outbreak": {
-    "state": "Norms of assistance from State Disaster Response Fund (SDRF) in wake of COVID-19 outbreak",
-    "confirmed": null,
-    "recovered": null,
-    "deaths": null
-  },
-  "National Pharmaceutical Pricing Authority (NPPA) Order regarding Masks, Hand Sanitizers and Gloves ": {
-    "state": "National Pharmaceutical Pricing Authority (NPPA) Order regarding Masks, Hand Sanitizers and Gloves ",
-    "confirmed": null,
-    "recovered": null,
-    "deaths": null
-  },
-  "Gazette Notification - Essential Commodities Order, 2020 - with regards to Masks and Hand Sanitizers (770KB)  ": {
-    "state": "Gazette Notification - Essential Commodities Order, 2020 - with regards to Masks and Hand Sanitizers (770KB)  ",
-    "confirmed": null,
-    "recovered": null,
-    "deaths": null
-  },
-  "Invoking powers under Disaster Management Act 2005 ": {
-    "state": "Invoking powers under Disaster Management Act 2005 ",
-    "confirmed": null,
-    "recovered": null,
-    "deaths": null
-  },
-  "Cabinet Secretary DO letter dated 8th March, 2020 to all Government of India Ministries on COVID-19 management": {
-    "state": "Cabinet Secretary DO letter dated 8th March, 2020 to all Government of India Ministries on COVID-19 management",
-    "confirmed": null,
-    "recovered": null,
-    "deaths": null
-  },
-  "Advisory for Exemption to mark biometric attendance in AEBAS": {
-    "state": "Advisory for Exemption to mark biometric attendance in AEBAS",
-    "confirmed": null,
-    "recovered": null,
-    "deaths": null
-  },
-  "Guidance on Surveillance for human infection with 2019-nCoV": {
-    "state": "Guidance on Surveillance for human infection with 2019-nCoV",
-    "confirmed": null,
-    "recovered": null,
-    "deaths": null
-  },
-  "DOPT OM - Preventive measures to contain the spread of COVID-19 in Training Institutes": {
-    "state": "DOPT OM - Preventive measures to contain the spread of COVID-19 in Training Institutes",
-    "confirmed": null,
-    "recovered": null,
-    "deaths": null
-  },
-  " Directives from MoHRD for all Educational Institutions and Examination Boards regarding precautions to be taken in light of COVID-19": {
-    "state": " Directives from MoHRD for all Educational Institutions and Examination Boards regarding precautions to be taken in light of COVID-19",
-    "confirmed": null,
-    "recovered": null,
-    "deaths": null
-  },
-  " DoPT OM - Preventive measures to be taken to contain the spread of Novel Coronavirus (COVID-19)": {
-    "state": " DoPT OM - Preventive measures to be taken to contain the spread of Novel Coronavirus (COVID-19)",
-    "confirmed": null,
-    "recovered": null,
-    "deaths": null
-  },
-  "undefined": {
-    "confirmed": null,
-    "recovered": null,
-    "deaths": null
-  },
-  "Posters for Safety measures against COVID-19 - English ": {
-    "state": "Posters for Safety measures against COVID-19 - English ",
-    "confirmed": null,
-    "recovered": null,
-    "deaths": null
-  },
-  " Posters for Safety measures against COVID-19 - Hindi ": {
-    "state": " Posters for Safety measures against COVID-19 - Hindi ",
-    "confirmed": null,
-    "recovered": null,
-    "deaths": null
-  },
   "Andhra Pradesh": {
     "state": "Andhra Pradesh",
-    "confirmed": 8,
+    "confirmed": 9,
     "recovered": 0,
     "deaths": 0
   },
@@ -384,7 +19,7 @@
   },
   "Delhi": {
     "state": "Delhi",
-    "confirmed": 30,
+    "confirmed": 31,
     "recovered": 6,
     "deaths": 1
   },
@@ -408,30 +43,36 @@
   },
   "Karnataka": {
     "state": "Karnataka",
-    "confirmed": 37,
+    "confirmed": 41,
     "recovered": 3,
     "deaths": 1
   },
   "Kerala": {
     "state": "Kerala",
-    "confirmed": 95,
+    "confirmed": 109,
     "recovered": 4,
     "deaths": 0
   },
   "Madhya Pradesh": {
     "state": "Madhya Pradesh",
-    "confirmed": 7,
+    "confirmed": 9,
     "recovered": 0,
     "deaths": 0
   },
   "Maharashtra": {
     "state": "Maharashtra",
-    "confirmed": 89,
+    "confirmed": 101,
     "recovered": 0,
     "deaths": 2
   },
   "Manipur": {
     "state": "Manipur",
+    "confirmed": 1,
+    "recovered": 0,
+    "deaths": 0
+  },
+  "Mizoram": {
+    "state": "Mizoram",
     "confirmed": 1,
     "recovered": 0,
     "deaths": 0
@@ -462,7 +103,7 @@
   },
   "Tamil Nadu": {
     "state": "Tamil Nadu",
-    "confirmed": 15,
+    "confirmed": 18,
     "recovered": 1,
     "deaths": 0
   },
@@ -480,8 +121,8 @@
   },
   "Jammu and Kashmir": {
     "state": "Jammu and Kashmir",
-    "confirmed": 4,
-    "recovered": 0,
+    "confirmed": 7,
+    "recovered": 1,
     "deaths": 0
   },
   "Ladakh": {
@@ -492,7 +133,7 @@
   },
   "Uttar Pradesh": {
     "state": "Uttar Pradesh",
-    "confirmed": 33,
+    "confirmed": 35,
     "recovered": 11,
     "deaths": 0
   },
