@@ -3850,9 +3850,9 @@
     ],
     "data": {
       "confirmed": 9,
-      "existing": 9,
+      "existing": 8,
       "deaths": 0,
-      "recovered": 0
+      "recovered": 1
     }
   },
   {
@@ -3865,8 +3865,8 @@
       25.78541445
     ],
     "data": {
-      "confirmed": 3,
-      "existing": 2,
+      "confirmed": 4,
+      "existing": 3,
       "deaths": 1,
       "recovered": 0
     }
@@ -3913,8 +3913,8 @@
       23.158831
     ],
     "data": {
-      "confirmed": 33,
-      "existing": 32,
+      "confirmed": 38,
+      "existing": 37,
       "deaths": 1,
       "recovered": 0
     }
@@ -3993,8 +3993,8 @@
       21.30039105
     ],
     "data": {
-      "confirmed": 9,
-      "existing": 9,
+      "confirmed": 14,
+      "existing": 14,
       "deaths": 0,
       "recovered": 0
     }
@@ -4009,10 +4009,10 @@
       19.25023195
     ],
     "data": {
-      "confirmed": 101,
-      "existing": 99,
-      "deaths": 2,
-      "recovered": 0
+      "confirmed": 128,
+      "existing": 124,
+      "deaths": 3,
+      "recovered": 1
     }
   },
   {
@@ -4105,8 +4105,8 @@
       26.44999921
     ],
     "data": {
-      "confirmed": 32,
-      "existing": 29,
+      "confirmed": 36,
+      "existing": 33,
       "deaths": 0,
       "recovered": 3
     }
@@ -4201,8 +4201,8 @@
       27.59998069
     ],
     "data": {
-      "confirmed": 35,
-      "existing": 24,
+      "confirmed": 37,
+      "existing": 26,
       "deaths": 0,
       "recovered": 11
     }
