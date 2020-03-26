@@ -3913,9 +3913,25 @@
       25.78541445
     ],
     "data": {
-      "confirmed": 3,
-      "existing": 2,
+      "confirmed": 6,
+      "existing": 5,
       "deaths": 1,
+      "recovered": 0
+    }
+  },
+  {
+    "id": "9e7c5509559acfaccd3a40c15ab85f54",
+    "country_code": "IN",
+    "country": "India",
+    "province": "Chandigarh",
+    "location": [
+      76.78000565,
+      30.71999697
+    ],
+    "data": {
+      "confirmed": 7,
+      "existing": 7,
+      "deaths": 0,
       "recovered": 0
     }
   },
@@ -3929,8 +3945,8 @@
       22.09042035
     ],
     "data": {
-      "confirmed": 3,
-      "existing": 3,
+      "confirmed": 6,
+      "existing": 6,
       "deaths": 0,
       "recovered": 0
     }
@@ -3945,8 +3961,8 @@
       28.6699929
     ],
     "data": {
-      "confirmed": 35,
-      "existing": 28,
+      "confirmed": 36,
+      "existing": 29,
       "deaths": 1,
       "recovered": 6
     }
@@ -3977,9 +3993,9 @@
       23.158831
     ],
     "data": {
-      "confirmed": 38,
-      "existing": 36,
-      "deaths": 2,
+      "confirmed": 43,
+      "existing": 40,
+      "deaths": 3,
       "recovered": 0
     }
   },
@@ -4016,6 +4032,22 @@
     }
   },
   {
+    "id": "0a1701cd79e89014663abd9530a3fc98",
+    "country_code": "IN",
+    "country": "India",
+    "province": "Jammu and Kashmir",
+    "location": [
+      74.46665849,
+      34.29995933
+    ],
+    "data": {
+      "confirmed": 13,
+      "existing": 11,
+      "deaths": 1,
+      "recovered": 1
+    }
+  },
+  {
     "id": "8f1da270af1f04aae08a745c540235b5",
     "country_code": "IN",
     "country": "India",
@@ -4025,9 +4057,9 @@
       12.57038129
     ],
     "data": {
-      "confirmed": 41,
-      "existing": 37,
-      "deaths": 1,
+      "confirmed": 55,
+      "existing": 50,
+      "deaths": 2,
       "recovered": 3
     }
   },
@@ -4042,9 +4074,25 @@
     ],
     "data": {
       "confirmed": 118,
-      "existing": 114,
+      "existing": 112,
       "deaths": 0,
-      "recovered": 4
+      "recovered": 6
+    }
+  },
+  {
+    "id": "3fa1906681f15f9ea7bf63569dc6dc51",
+    "country_code": "IN",
+    "country": "India",
+    "province": "Ladakh",
+    "location": [
+      78.2909766,
+      34.2996176
+    ],
+    "data": {
+      "confirmed": 13,
+      "existing": 13,
+      "deaths": 0,
+      "recovered": 0
     }
   },
   {
@@ -4057,8 +4105,8 @@
       21.30039105
     ],
     "data": {
-      "confirmed": 15,
-      "existing": 14,
+      "confirmed": 20,
+      "existing": 19,
       "deaths": 1,
       "recovered": 0
     }
@@ -4169,8 +4217,8 @@
       26.44999921
     ],
     "data": {
-      "confirmed": 38,
-      "existing": 35,
+      "confirmed": 41,
+      "existing": 38,
       "deaths": 0,
       "recovered": 3
     }
@@ -4201,74 +4249,10 @@
       17.697963
     ],
     "data": {
-      "confirmed": 41,
-      "existing": 40,
+      "confirmed": 44,
+      "existing": 43,
       "deaths": 0,
       "recovered": 1
-    }
-  },
-  {
-    "id": "9e7c5509559acfaccd3a40c15ab85f54",
-    "country_code": "IN",
-    "country": "India",
-    "province": "Chandigarh",
-    "location": [
-      76.78000565,
-      30.71999697
-    ],
-    "data": {
-      "confirmed": 7,
-      "existing": 7,
-      "deaths": 0,
-      "recovered": 0
-    }
-  },
-  {
-    "id": "0a1701cd79e89014663abd9530a3fc98",
-    "country_code": "IN",
-    "country": "India",
-    "province": "Jammu and Kashmir",
-    "location": [
-      74.46665849,
-      34.29995933
-    ],
-    "data": {
-      "confirmed": 11,
-      "existing": 10,
-      "deaths": 0,
-      "recovered": 1
-    }
-  },
-  {
-    "id": "3fa1906681f15f9ea7bf63569dc6dc51",
-    "country_code": "IN",
-    "country": "India",
-    "province": "Ladakh",
-    "location": [
-      78.2909766,
-      34.2996176
-    ],
-    "data": {
-      "confirmed": 13,
-      "existing": 13,
-      "deaths": 0,
-      "recovered": 0
-    }
-  },
-  {
-    "id": "3215440483c26f76c83a954115cd078d",
-    "country_code": "IN",
-    "country": "India",
-    "province": "Uttar Pradesh",
-    "location": [
-      78.05000565,
-      27.59998069
-    ],
-    "data": {
-      "confirmed": 37,
-      "existing": 26,
-      "deaths": 0,
-      "recovered": 11
     }
   },
   {
@@ -4288,6 +4272,22 @@
     }
   },
   {
+    "id": "3215440483c26f76c83a954115cd078d",
+    "country_code": "IN",
+    "country": "India",
+    "province": "Uttar Pradesh",
+    "location": [
+      78.05000565,
+      27.59998069
+    ],
+    "data": {
+      "confirmed": 41,
+      "existing": 30,
+      "deaths": 0,
+      "recovered": 11
+    }
+  },
+  {
     "id": "38523f98a7b240580347970a0db5edf9",
     "country_code": "IN",
     "country": "India",
@@ -4297,8 +4297,8 @@
       22.58039044
     ],
     "data": {
-      "confirmed": 9,
-      "existing": 8,
+      "confirmed": 10,
+      "existing": 9,
       "deaths": 1,
       "recovered": 0
     }

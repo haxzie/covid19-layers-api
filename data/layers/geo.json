@@ -22549,10 +22549,10 @@
       "properties": {
         "name": "India",
         "data": {
-          "confirmed": 649,
-          "existing": 593,
-          "deaths": 13,
-          "recovered": 43
+          "confirmed": 693,
+          "existing": 632,
+          "deaths": 16,
+          "recovered": 45
         }
       },
       "geometry": {
