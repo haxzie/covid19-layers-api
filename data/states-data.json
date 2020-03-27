@@ -7,7 +7,7 @@
   },
   "Andhra Pradesh": {
     "state": "Andhra Pradesh",
-    "confirmed": 11,
+    "confirmed": 12,
     "recovered": 1,
     "deaths": 0
   },
@@ -73,14 +73,14 @@
   },
   "Kerala": {
     "state": "Kerala",
-    "confirmed": 118,
-    "recovered": 6,
+    "confirmed": 137,
+    "recovered": 11,
     "deaths": 0
   },
   "Ladakh": {
     "state": "Ladakh",
     "confirmed": 13,
-    "recovered": 0,
+    "recovered": 3,
     "deaths": 0
   },
   "Madhya Pradesh": {
@@ -91,9 +91,9 @@
   },
   "Maharashtra": {
     "state": "Maharashtra",
-    "confirmed": 124,
-    "recovered": 1,
-    "deaths": 3
+    "confirmed": 130,
+    "recovered": 15,
+    "deaths": 4
   },
   "Manipur": {
     "state": "Manipur",
@@ -133,13 +133,13 @@
   },
   "Tamil Nadu": {
     "state": "Tamil Nadu",
-    "confirmed": 26,
+    "confirmed": 29,
     "recovered": 1,
     "deaths": 1
   },
   "Telengana": {
     "state": "Telengana",
-    "confirmed": 44,
+    "confirmed": 45,
     "recovered": 1,
     "deaths": 0
   },
@@ -161,10 +161,10 @@
     "recovered": 0,
     "deaths": 1
   },
-  "647#": {
-    "state": "647#",
-    "confirmed": 92,
-    "recovered": 16,
+  "677#": {
+    "state": "677#",
+    "confirmed": 114,
+    "recovered": 17,
     "deaths": null
   }
 }
