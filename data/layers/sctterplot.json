@@ -4025,10 +4025,10 @@
       14.7504291
     ],
     "data": {
-      "confirmed": 24,
-      "existing": null,
-      "deaths": null,
-      "recovered": 0
+      "confirmed": 23,
+      "existing": 22,
+      "deaths": 0,
+      "recovered": 1
     }
   },
   {
@@ -4042,9 +4042,9 @@
     ],
     "data": {
       "confirmed": 15,
-      "existing": null,
-      "deaths": null,
-      "recovered": 1
+      "existing": 14,
+      "deaths": 1,
+      "recovered": 0
     }
   },
   {
@@ -4058,8 +4058,8 @@
     ],
     "data": {
       "confirmed": 8,
-      "existing": null,
-      "deaths": null,
+      "existing": 8,
+      "deaths": 0,
       "recovered": 0
     }
   },
@@ -4074,8 +4074,8 @@
     ],
     "data": {
       "confirmed": 7,
-      "existing": null,
-      "deaths": null,
+      "existing": 7,
+      "deaths": 0,
       "recovered": 0
     }
   },
@@ -4089,10 +4089,10 @@
       28.6699929
     ],
     "data": {
-      "confirmed": 93,
-      "existing": null,
-      "deaths": null,
-      "recovered": 2
+      "confirmed": 87,
+      "existing": 79,
+      "deaths": 2,
+      "recovered": 6
     }
   },
   {
@@ -4106,8 +4106,8 @@
     ],
     "data": {
       "confirmed": 5,
-      "existing": null,
-      "deaths": null,
+      "existing": 5,
+      "deaths": 0,
       "recovered": 0
     }
   },
@@ -4121,10 +4121,10 @@
       23.158831
     ],
     "data": {
-      "confirmed": 70,
-      "existing": null,
-      "deaths": null,
-      "recovered": 6
+      "confirmed": 69,
+      "existing": 62,
+      "deaths": 6,
+      "recovered": 1
     }
   },
   {
@@ -4137,10 +4137,10 @@
       28.45000633
     ],
     "data": {
-      "confirmed": 54,
-      "existing": null,
-      "deaths": null,
-      "recovered": 0
+      "confirmed": 36,
+      "existing": 18,
+      "deaths": 0,
+      "recovered": 18
     }
   },
   {
@@ -4154,9 +4154,9 @@
     ],
     "data": {
       "confirmed": 3,
-      "existing": null,
-      "deaths": null,
-      "recovered": 1
+      "existing": 2,
+      "deaths": 1,
+      "recovered": 0
     }
   },
   {
@@ -4169,9 +4169,9 @@
       34.29995933
     ],
     "data": {
-      "confirmed": 50,
-      "existing": null,
-      "deaths": null,
+      "confirmed": 48,
+      "existing": 44,
+      "deaths": 2,
       "recovered": 2
     }
   },
@@ -4185,10 +4185,10 @@
       12.57038129
     ],
     "data": {
-      "confirmed": 88,
-      "existing": null,
-      "deaths": null,
-      "recovered": 3
+      "confirmed": 83,
+      "existing": 75,
+      "deaths": 3,
+      "recovered": 5
     }
   },
   {
@@ -4201,10 +4201,10 @@
       8.900372741
     ],
     "data": {
-      "confirmed": 221,
-      "existing": null,
-      "deaths": null,
-      "recovered": 1
+      "confirmed": 202,
+      "existing": 182,
+      "deaths": 1,
+      "recovered": 19
     }
   },
   {
@@ -4217,10 +4217,10 @@
       34.2996176
     ],
     "data": {
-      "confirmed": 16,
-      "existing": null,
-      "deaths": null,
-      "recovered": 0
+      "confirmed": 13,
+      "existing": 10,
+      "deaths": 0,
+      "recovered": 3
     }
   },
   {
@@ -4234,9 +4234,9 @@
     ],
     "data": {
       "confirmed": 47,
-      "existing": null,
-      "deaths": null,
-      "recovered": 3
+      "existing": 44,
+      "deaths": 3,
+      "recovered": 0
     }
   },
   {
@@ -4249,10 +4249,10 @@
       19.25023195
     ],
     "data": {
-      "confirmed": 223,
-      "existing": null,
-      "deaths": null,
-      "recovered": 8
+      "confirmed": 198,
+      "existing": 165,
+      "deaths": 8,
+      "recovered": 25
     }
   },
   {
@@ -4266,8 +4266,8 @@
     ],
     "data": {
       "confirmed": 1,
-      "existing": null,
-      "deaths": null,
+      "existing": 1,
+      "deaths": 0,
       "recovered": 0
     }
   },
@@ -4282,8 +4282,8 @@
     ],
     "data": {
       "confirmed": 1,
-      "existing": null,
-      "deaths": null,
+      "existing": 1,
+      "deaths": 0,
       "recovered": 0
     }
   },
@@ -4298,8 +4298,8 @@
     ],
     "data": {
       "confirmed": 3,
-      "existing": null,
-      "deaths": null,
+      "existing": 3,
+      "deaths": 0,
       "recovered": 0
     }
   },
@@ -4314,8 +4314,8 @@
     ],
     "data": {
       "confirmed": 1,
-      "existing": null,
-      "deaths": null,
+      "existing": 1,
+      "deaths": 0,
       "recovered": 0
     }
   },
@@ -4329,9 +4329,9 @@
       31.51997398
     ],
     "data": {
-      "confirmed": 39,
-      "existing": null,
-      "deaths": null,
+      "confirmed": 38,
+      "existing": 36,
+      "deaths": 1,
       "recovered": 1
     }
   },
@@ -4345,10 +4345,10 @@
       26.44999921
     ],
     "data": {
-      "confirmed": 62,
-      "existing": null,
-      "deaths": null,
-      "recovered": 0
+      "confirmed": 59,
+      "existing": 56,
+      "deaths": 0,
+      "recovered": 3
     }
   },
   {
@@ -4361,10 +4361,10 @@
       12.92038576
     ],
     "data": {
-      "confirmed": 71,
-      "existing": null,
-      "deaths": null,
-      "recovered": 1
+      "confirmed": 67,
+      "existing": 62,
+      "deaths": 1,
+      "recovered": 4
     }
   },
   {
@@ -4377,9 +4377,9 @@
       17.697963
     ],
     "data": {
-      "confirmed": 72,
-      "existing": null,
-      "deaths": null,
+      "confirmed": 71,
+      "existing": 69,
+      "deaths": 1,
       "recovered": 1
     }
   },
@@ -4393,10 +4393,10 @@
       30.230923
     ],
     "data": {
-      "confirmed": 9,
-      "existing": null,
-      "deaths": null,
-      "recovered": 0
+      "confirmed": 7,
+      "existing": 5,
+      "deaths": 0,
+      "recovered": 2
     }
   },
   {
@@ -4409,10 +4409,10 @@
       27.59998069
     ],
     "data": {
-      "confirmed": 93,
-      "existing": null,
-      "deaths": null,
-      "recovered": 0
+      "confirmed": 82,
+      "existing": 71,
+      "deaths": 0,
+      "recovered": 11
     }
   },
   {
@@ -4426,9 +4426,9 @@
     ],
     "data": {
       "confirmed": 22,
-      "existing": null,
-      "deaths": null,
-      "recovered": 2
+      "existing": 20,
+      "deaths": 2,
+      "recovered": 0
     }
   }
 ]
