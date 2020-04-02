@@ -9,10 +9,10 @@
     "country_code": "AF",
     "province": "",
     "data": {
-      "confirmed": 170,
-      "existing": 164,
+      "confirmed": 237,
+      "existing": 228,
       "deaths": 4,
-      "recovered": 2
+      "recovered": 5
     }
   },
   {
@@ -25,10 +25,10 @@
     "country_code": "AL",
     "province": "",
     "data": {
-      "confirmed": 223,
-      "existing": 168,
-      "deaths": 11,
-      "recovered": 44
+      "confirmed": 259,
+      "existing": 177,
+      "deaths": 15,
+      "recovered": 67
     }
   },
   {
@@ -41,10 +41,10 @@
     "country_code": "DZ",
     "province": "",
     "data": {
-      "confirmed": 584,
-      "existing": 512,
-      "deaths": 35,
-      "recovered": 37
+      "confirmed": 847,
+      "existing": 728,
+      "deaths": 58,
+      "recovered": 61
     }
   },
   {
@@ -57,9 +57,9 @@
     "country_code": "AD",
     "province": "",
     "data": {
-      "confirmed": 370,
-      "existing": 352,
-      "deaths": 8,
+      "confirmed": 390,
+      "existing": 366,
+      "deaths": 14,
       "recovered": 10
     }
   },
@@ -73,10 +73,10 @@
     "country_code": "AO",
     "province": "",
     "data": {
-      "confirmed": 7,
+      "confirmed": 8,
       "existing": 5,
       "deaths": 2,
-      "recovered": 0
+      "recovered": 1
     }
   },
   {
@@ -105,10 +105,10 @@
     "country_code": "AR",
     "province": "",
     "data": {
-      "confirmed": 820,
-      "existing": 569,
-      "deaths": 23,
-      "recovered": 228
+      "confirmed": 1054,
+      "existing": 778,
+      "deaths": 28,
+      "recovered": 248
     }
   },
   {
@@ -121,10 +121,10 @@
     "country_code": "AM",
     "province": "",
     "data": {
-      "confirmed": 482,
-      "existing": 449,
-      "deaths": 3,
-      "recovered": 30
+      "confirmed": 571,
+      "existing": 536,
+      "deaths": 4,
+      "recovered": 31
     }
   },
   {
@@ -137,10 +137,10 @@
     "country_code": "AU",
     "province": "Australian Capital Territory",
     "data": {
-      "confirmed": 78,
+      "confirmed": 84,
       "existing": 75,
       "deaths": 1,
-      "recovered": 2
+      "recovered": 8
     }
   },
   {
@@ -153,9 +153,9 @@
     "country_code": "AU",
     "province": "New South Wales",
     "data": {
-      "confirmed": 2032,
-      "existing": 2020,
-      "deaths": 8,
+      "confirmed": 2182,
+      "existing": 2169,
+      "deaths": 9,
       "recovered": 4
     }
   },
@@ -169,8 +169,8 @@
     "country_code": "AU",
     "province": "Northern Territory",
     "data": {
-      "confirmed": 15,
-      "existing": 15,
+      "confirmed": 19,
+      "existing": 19,
       "deaths": 0,
       "recovered": 0
     }
@@ -185,8 +185,8 @@
     "country_code": "AU",
     "province": "Queensland",
     "data": {
-      "confirmed": 689,
-      "existing": 679,
+      "confirmed": 781,
+      "existing": 771,
       "deaths": 2,
       "recovered": 8
     }
@@ -201,8 +201,8 @@
     "country_code": "AU",
     "province": "South Australia",
     "data": {
-      "confirmed": 305,
-      "existing": 299,
+      "confirmed": 367,
+      "existing": 361,
       "deaths": 0,
       "recovered": 6
     }
@@ -217,9 +217,9 @@
     "country_code": "AU",
     "province": "Tasmania",
     "data": {
-      "confirmed": 66,
-      "existing": 61,
-      "deaths": 0,
+      "confirmed": 69,
+      "existing": 62,
+      "deaths": 2,
       "recovered": 5
     }
   },
@@ -233,10 +233,10 @@
     "country_code": "AU",
     "province": "Victoria",
     "data": {
-      "confirmed": 821,
-      "existing": 626,
+      "confirmed": 968,
+      "existing": 621,
       "deaths": 4,
-      "recovered": 191
+      "recovered": 343
     }
   },
   {
@@ -249,10 +249,10 @@
     "country_code": "AU",
     "province": "Western Australia",
     "data": {
-      "confirmed": 355,
-      "existing": 312,
+      "confirmed": 392,
+      "existing": 342,
       "deaths": 2,
-      "recovered": 41
+      "recovered": 48
     }
   },
   {
@@ -265,10 +265,10 @@
     "country_code": "AT",
     "province": "",
     "data": {
-      "confirmed": 9618,
-      "existing": 8874,
-      "deaths": 108,
-      "recovered": 636
+      "confirmed": 10711,
+      "existing": 9129,
+      "deaths": 146,
+      "recovered": 1436
     }
   },
   {
@@ -281,9 +281,9 @@
     "country_code": "AZ",
     "province": "",
     "data": {
-      "confirmed": 273,
-      "existing": 243,
-      "deaths": 4,
+      "confirmed": 359,
+      "existing": 328,
+      "deaths": 5,
       "recovered": 26
     }
   },
@@ -297,9 +297,9 @@
     "country_code": "BS",
     "province": "",
     "data": {
-      "confirmed": 14,
-      "existing": 13,
-      "deaths": 0,
+      "confirmed": 21,
+      "existing": 19,
+      "deaths": 1,
       "recovered": 1
     }
   },
@@ -313,10 +313,10 @@
     "country_code": "BH",
     "province": "",
     "data": {
-      "confirmed": 515,
-      "existing": 232,
+      "confirmed": 569,
+      "existing": 228,
       "deaths": 4,
-      "recovered": 279
+      "recovered": 337
     }
   },
   {
@@ -329,10 +329,10 @@
     "country_code": "BD",
     "province": "",
     "data": {
-      "confirmed": 49,
-      "existing": 25,
-      "deaths": 5,
-      "recovered": 19
+      "confirmed": 54,
+      "existing": 23,
+      "deaths": 6,
+      "recovered": 25
     }
   },
   {
@@ -345,8 +345,8 @@
     "country_code": "BB",
     "province": "",
     "data": {
-      "confirmed": 33,
-      "existing": 33,
+      "confirmed": 34,
+      "existing": 34,
       "deaths": 0,
       "recovered": 0
     }
@@ -361,10 +361,10 @@
     "country_code": "BY",
     "province": "",
     "data": {
-      "confirmed": 152,
-      "existing": 120,
-      "deaths": 0,
-      "recovered": 32
+      "confirmed": 163,
+      "existing": 108,
+      "deaths": 2,
+      "recovered": 53
     }
   },
   {
@@ -377,10 +377,10 @@
     "country_code": "BE",
     "province": "",
     "data": {
-      "confirmed": 11899,
-      "existing": 9859,
-      "deaths": 513,
-      "recovered": 1527
+      "confirmed": 13964,
+      "existing": 11004,
+      "deaths": 828,
+      "recovered": 2132
     }
   },
   {
@@ -393,10 +393,10 @@
     "country_code": "BJ",
     "province": "",
     "data": {
-      "confirmed": 6,
-      "existing": 6,
+      "confirmed": 13,
+      "existing": 12,
       "deaths": 0,
-      "recovered": 0
+      "recovered": 1
     }
   },
   {
@@ -425,10 +425,10 @@
     "country_code": "BO",
     "province": "",
     "data": {
-      "confirmed": 97,
-      "existing": 93,
-      "deaths": 4,
-      "recovered": 0
+      "confirmed": 115,
+      "existing": 107,
+      "deaths": 7,
+      "recovered": 1
     }
   },
   {
@@ -441,10 +441,10 @@
     "country_code": "BA",
     "province": "",
     "data": {
-      "confirmed": 368,
-      "existing": 341,
-      "deaths": 10,
-      "recovered": 17
+      "confirmed": 459,
+      "existing": 427,
+      "deaths": 13,
+      "recovered": 19
     }
   },
   {
@@ -457,10 +457,10 @@
     "country_code": "BR",
     "province": "",
     "data": {
-      "confirmed": 4579,
-      "existing": 4300,
-      "deaths": 159,
-      "recovered": 120
+      "confirmed": 6836,
+      "existing": 6469,
+      "deaths": 240,
+      "recovered": 127
     }
   },
   {
@@ -473,10 +473,10 @@
     "country_code": "BN",
     "province": "",
     "data": {
-      "confirmed": 127,
-      "existing": 88,
+      "confirmed": 131,
+      "existing": 78,
       "deaths": 1,
-      "recovered": 38
+      "recovered": 52
     }
   },
   {
@@ -489,10 +489,10 @@
     "country_code": "BG",
     "province": "",
     "data": {
-      "confirmed": 359,
-      "existing": 334,
-      "deaths": 8,
-      "recovered": 17
+      "confirmed": 422,
+      "existing": 392,
+      "deaths": 10,
+      "recovered": 20
     }
   },
   {
@@ -505,10 +505,10 @@
     "country_code": "BF",
     "province": "",
     "data": {
-      "confirmed": 246,
-      "existing": 203,
-      "deaths": 12,
-      "recovered": 31
+      "confirmed": 282,
+      "existing": 220,
+      "deaths": 16,
+      "recovered": 46
     }
   },
   {
@@ -537,10 +537,10 @@
     "country_code": "KH",
     "province": "",
     "data": {
-      "confirmed": 107,
-      "existing": 86,
+      "confirmed": 109,
+      "existing": 84,
       "deaths": 0,
-      "recovered": 21
+      "recovered": 25
     }
   },
   {
@@ -553,10 +553,10 @@
     "country_code": "CM",
     "province": "",
     "data": {
-      "confirmed": 139,
-      "existing": 128,
+      "confirmed": 233,
+      "existing": 217,
       "deaths": 6,
-      "recovered": 5
+      "recovered": 10
     }
   },
   {
@@ -569,9 +569,9 @@
     "country_code": "CA",
     "province": "Alberta",
     "data": {
-      "confirmed": 661,
-      "existing": 658,
-      "deaths": 3,
+      "confirmed": 754,
+      "existing": 745,
+      "deaths": 9,
       "recovered": 0
     }
   },
@@ -585,9 +585,9 @@
     "country_code": "CA",
     "province": "British Columbia",
     "data": {
-      "confirmed": 970,
-      "existing": 951,
-      "deaths": 19,
+      "confirmed": 1013,
+      "existing": 989,
+      "deaths": 24,
       "recovered": 0
     }
   },
@@ -617,8 +617,8 @@
     "country_code": "CA",
     "province": "Manitoba",
     "data": {
-      "confirmed": 96,
-      "existing": 95,
+      "confirmed": 127,
+      "existing": 126,
       "deaths": 1,
       "recovered": 0
     }
@@ -633,8 +633,8 @@
     "country_code": "CA",
     "province": "New Brunswick",
     "data": {
-      "confirmed": 68,
-      "existing": 68,
+      "confirmed": 81,
+      "existing": 81,
       "deaths": 0,
       "recovered": 0
     }
@@ -649,8 +649,8 @@
     "country_code": "CA",
     "province": "Newfoundland and Labrador",
     "data": {
-      "confirmed": 148,
-      "existing": 147,
+      "confirmed": 175,
+      "existing": 174,
       "deaths": 1,
       "recovered": 0
     }
@@ -665,8 +665,8 @@
     "country_code": "CA",
     "province": "Nova Scotia",
     "data": {
-      "confirmed": 127,
-      "existing": 127,
+      "confirmed": 173,
+      "existing": 173,
       "deaths": 0,
       "recovered": 0
     }
@@ -681,9 +681,9 @@
     "country_code": "CA",
     "province": "Ontario",
     "data": {
-      "confirmed": 1706,
-      "existing": 1675,
-      "deaths": 31,
+      "confirmed": 2392,
+      "existing": 2355,
+      "deaths": 37,
       "recovered": 0
     }
   },
@@ -697,8 +697,8 @@
     "country_code": "CA",
     "province": "Prince Edward Island",
     "data": {
-      "confirmed": 18,
-      "existing": 18,
+      "confirmed": 21,
+      "existing": 21,
       "deaths": 0,
       "recovered": 0
     }
@@ -713,9 +713,9 @@
     "country_code": "CA",
     "province": "Quebec",
     "data": {
-      "confirmed": 3430,
-      "existing": 3408,
-      "deaths": 22,
+      "confirmed": 4611,
+      "existing": 4578,
+      "deaths": 33,
       "recovered": 0
     }
   },
@@ -729,9 +729,9 @@
     "country_code": "CA",
     "province": "Saskatchewan",
     "data": {
-      "confirmed": 156,
-      "existing": 154,
-      "deaths": 2,
+      "confirmed": 193,
+      "existing": 190,
+      "deaths": 3,
       "recovered": 0
     }
   },
@@ -761,8 +761,8 @@
     "country_code": "TD",
     "province": "",
     "data": {
-      "confirmed": 5,
-      "existing": 5,
+      "confirmed": 7,
+      "existing": 7,
       "deaths": 0,
       "recovered": 0
     }
@@ -777,10 +777,10 @@
     "country_code": "CL",
     "province": "",
     "data": {
-      "confirmed": 2449,
-      "existing": 2285,
-      "deaths": 8,
-      "recovered": 156
+      "confirmed": 3031,
+      "existing": 2781,
+      "deaths": 16,
+      "recovered": 234
     }
   },
   {
@@ -809,10 +809,10 @@
     "country_code": "CN",
     "province": "Beijing",
     "data": {
-      "confirmed": 577,
+      "confirmed": 580,
       "existing": 154,
       "deaths": 8,
-      "recovered": 415
+      "recovered": 418
     }
   },
   {
@@ -841,10 +841,10 @@
     "country_code": "CN",
     "province": "Fujian",
     "data": {
-      "confirmed": 340,
-      "existing": 44,
+      "confirmed": 345,
+      "existing": 46,
       "deaths": 1,
-      "recovered": 295
+      "recovered": 298
     }
   },
   {
@@ -858,9 +858,9 @@
     "province": "Gansu",
     "data": {
       "confirmed": 138,
-      "existing": 11,
+      "existing": 9,
       "deaths": 2,
-      "recovered": 125
+      "recovered": 127
     }
   },
   {
@@ -873,10 +873,10 @@
     "country_code": "CN",
     "province": "Guangdong",
     "data": {
-      "confirmed": 1484,
-      "existing": 125,
+      "confirmed": 1501,
+      "existing": 136,
       "deaths": 8,
-      "recovered": 1351
+      "recovered": 1357
     }
   },
   {
@@ -937,8 +937,8 @@
     "country_code": "CN",
     "province": "Hebei",
     "data": {
-      "confirmed": 321,
-      "existing": 5,
+      "confirmed": 323,
+      "existing": 7,
       "deaths": 6,
       "recovered": 310
     }
@@ -985,10 +985,10 @@
     "country_code": "CN",
     "province": "Hong Kong",
     "data": {
-      "confirmed": 682,
-      "existing": 555,
+      "confirmed": 765,
+      "existing": 614,
       "deaths": 4,
-      "recovered": 123
+      "recovered": 147
     }
   },
   {
@@ -1001,10 +1001,10 @@
     "country_code": "CN",
     "province": "Hubei",
     "data": {
-      "confirmed": 67801,
-      "existing": 1726,
-      "deaths": 3186,
-      "recovered": 62889
+      "confirmed": 67802,
+      "existing": 1283,
+      "deaths": 3193,
+      "recovered": 63326
     }
   },
   {
@@ -1033,8 +1033,8 @@
     "country_code": "CN",
     "province": "Inner Mongolia",
     "data": {
-      "confirmed": 97,
-      "existing": 22,
+      "confirmed": 111,
+      "existing": 36,
       "deaths": 1,
       "recovered": 74
     }
@@ -1049,8 +1049,8 @@
     "country_code": "CN",
     "province": "Jiangsu",
     "data": {
-      "confirmed": 645,
-      "existing": 14,
+      "confirmed": 646,
+      "existing": 15,
       "deaths": 0,
       "recovered": 631
     }
@@ -1097,8 +1097,8 @@
     "country_code": "CN",
     "province": "Liaoning",
     "data": {
-      "confirmed": 136,
-      "existing": 10,
+      "confirmed": 140,
+      "existing": 14,
       "deaths": 2,
       "recovered": 124
     }
@@ -1113,8 +1113,8 @@
     "country_code": "CN",
     "province": "Macau",
     "data": {
-      "confirmed": 38,
-      "existing": 28,
+      "confirmed": 41,
+      "existing": 31,
       "deaths": 0,
       "recovered": 10
     }
@@ -1161,8 +1161,8 @@
     "country_code": "CN",
     "province": "Shaanxi",
     "data": {
-      "confirmed": 253,
-      "existing": 8,
+      "confirmed": 255,
+      "existing": 10,
       "deaths": 3,
       "recovered": 242
     }
@@ -1177,8 +1177,8 @@
     "country_code": "CN",
     "province": "Shandong",
     "data": {
-      "confirmed": 773,
-      "existing": 13,
+      "confirmed": 774,
+      "existing": 14,
       "deaths": 7,
       "recovered": 753
     }
@@ -1193,10 +1193,10 @@
     "country_code": "CN",
     "province": "Shanghai",
     "data": {
-      "confirmed": 498,
-      "existing": 155,
-      "deaths": 5,
-      "recovered": 338
+      "confirmed": 516,
+      "existing": 169,
+      "deaths": 6,
+      "recovered": 341
     }
   },
   {
@@ -1209,8 +1209,8 @@
     "country_code": "CN",
     "province": "Shanxi",
     "data": {
-      "confirmed": 136,
-      "existing": 3,
+      "confirmed": 137,
+      "existing": 4,
       "deaths": 0,
       "recovered": 133
     }
@@ -1225,10 +1225,10 @@
     "country_code": "CN",
     "province": "Sichuan",
     "data": {
-      "confirmed": 550,
-      "existing": 11,
+      "confirmed": 552,
+      "existing": 12,
       "deaths": 3,
-      "recovered": 536
+      "recovered": 537
     }
   },
   {
@@ -1241,10 +1241,10 @@
     "country_code": "CN",
     "province": "Tianjin",
     "data": {
-      "confirmed": 174,
+      "confirmed": 176,
       "existing": 38,
       "deaths": 3,
-      "recovered": 133
+      "recovered": 135
     }
   },
   {
@@ -1289,8 +1289,8 @@
     "country_code": "CN",
     "province": "Yunnan",
     "data": {
-      "confirmed": 180,
-      "existing": 6,
+      "confirmed": 182,
+      "existing": 8,
       "deaths": 2,
       "recovered": 172
     }
@@ -1305,10 +1305,10 @@
     "country_code": "CN",
     "province": "Zhejiang",
     "data": {
-      "confirmed": 1255,
-      "existing": 29,
+      "confirmed": 1257,
+      "existing": 30,
       "deaths": 1,
-      "recovered": 1225
+      "recovered": 1226
     }
   },
   {
@@ -1321,10 +1321,10 @@
     "country_code": "CO",
     "province": "",
     "data": {
-      "confirmed": 798,
-      "existing": 771,
-      "deaths": 12,
-      "recovered": 15
+      "confirmed": 1065,
+      "existing": 1009,
+      "deaths": 17,
+      "recovered": 39
     }
   },
   {
@@ -1353,10 +1353,10 @@
     "country_code": "CD",
     "province": "",
     "data": {
-      "confirmed": 81,
-      "existing": 71,
-      "deaths": 8,
-      "recovered": 2
+      "confirmed": 109,
+      "existing": 97,
+      "deaths": 9,
+      "recovered": 3
     }
   },
   {
@@ -1369,8 +1369,8 @@
     "country_code": "CR",
     "province": "",
     "data": {
-      "confirmed": 330,
-      "existing": 324,
+      "confirmed": 375,
+      "existing": 369,
       "deaths": 2,
       "recovered": 4
     }
@@ -1385,10 +1385,10 @@
     "country_code": "CI",
     "province": "",
     "data": {
-      "confirmed": 168,
-      "existing": 161,
+      "confirmed": 190,
+      "existing": 180,
       "deaths": 1,
-      "recovered": 6
+      "recovered": 9
     }
   },
   {
@@ -1401,10 +1401,10 @@
     "country_code": "HR",
     "province": "",
     "data": {
-      "confirmed": 790,
-      "existing": 717,
+      "confirmed": 963,
+      "existing": 884,
       "deaths": 6,
-      "recovered": 67
+      "recovered": 73
     }
   },
   {
@@ -1417,9 +1417,9 @@
     "country_code": "XX",
     "province": "",
     "data": {
-      "confirmed": 2,
-      "existing": 2,
-      "deaths": 0,
+      "confirmed": 9,
+      "existing": 7,
+      "deaths": 2,
       "recovered": 0
     }
   },
@@ -1433,10 +1433,10 @@
     "country_code": "CU",
     "province": "",
     "data": {
-      "confirmed": 170,
-      "existing": 162,
-      "deaths": 4,
-      "recovered": 4
+      "confirmed": 212,
+      "existing": 194,
+      "deaths": 6,
+      "recovered": 12
     }
   },
   {
@@ -1449,10 +1449,10 @@
     "country_code": "CY",
     "province": "",
     "data": {
-      "confirmed": 230,
-      "existing": 201,
-      "deaths": 7,
-      "recovered": 22
+      "confirmed": 320,
+      "existing": 283,
+      "deaths": 9,
+      "recovered": 28
     }
   },
   {
@@ -1465,10 +1465,10 @@
     "country_code": "CZ",
     "province": "",
     "data": {
-      "confirmed": 3001,
-      "existing": 2953,
-      "deaths": 23,
-      "recovered": 25
+      "confirmed": 3508,
+      "existing": 3408,
+      "deaths": 39,
+      "recovered": 61
     }
   },
   {
@@ -1481,10 +1481,10 @@
     "country_code": "DK",
     "province": "Faroe Islands",
     "data": {
-      "confirmed": 168,
+      "confirmed": 173,
       "existing": 98,
       "deaths": 0,
-      "recovered": 70
+      "recovered": 75
     }
   },
   {
@@ -1513,10 +1513,10 @@
     "country_code": "DK",
     "province": "",
     "data": {
-      "confirmed": 2577,
-      "existing": 2499,
-      "deaths": 77,
-      "recovered": 1
+      "confirmed": 3107,
+      "existing": 2109,
+      "deaths": 104,
+      "recovered": 894
     }
   },
   {
@@ -1529,8 +1529,8 @@
     "country_code": "DJ",
     "province": "",
     "data": {
-      "confirmed": 18,
-      "existing": 18,
+      "confirmed": 33,
+      "existing": 33,
       "deaths": 0,
       "recovered": 0
     }
@@ -1545,10 +1545,10 @@
     "country_code": "DO",
     "province": "",
     "data": {
-      "confirmed": 901,
-      "existing": 855,
-      "deaths": 42,
-      "recovered": 4
+      "confirmed": 1284,
+      "existing": 1218,
+      "deaths": 57,
+      "recovered": 9
     }
   },
   {
@@ -1561,10 +1561,10 @@
     "country_code": "EC",
     "province": "",
     "data": {
-      "confirmed": 1962,
-      "existing": 1899,
-      "deaths": 60,
-      "recovered": 3
+      "confirmed": 2748,
+      "existing": 2597,
+      "deaths": 93,
+      "recovered": 58
     }
   },
   {
@@ -1577,10 +1577,10 @@
     "country_code": "EG",
     "province": "",
     "data": {
-      "confirmed": 656,
-      "existing": 465,
-      "deaths": 41,
-      "recovered": 150
+      "confirmed": 779,
+      "existing": 548,
+      "deaths": 52,
+      "recovered": 179
     }
   },
   {
@@ -1593,9 +1593,9 @@
     "country_code": "SV",
     "province": "",
     "data": {
-      "confirmed": 30,
-      "existing": 30,
-      "deaths": 0,
+      "confirmed": 32,
+      "existing": 31,
+      "deaths": 1,
       "recovered": 0
     }
   },
@@ -1609,10 +1609,10 @@
     "country_code": "GQ",
     "province": "",
     "data": {
-      "confirmed": 12,
-      "existing": 12,
+      "confirmed": 15,
+      "existing": 14,
       "deaths": 0,
-      "recovered": 0
+      "recovered": 1
     }
   },
   {
@@ -1625,8 +1625,8 @@
     "country_code": "ER",
     "province": "",
     "data": {
-      "confirmed": 12,
-      "existing": 12,
+      "confirmed": 15,
+      "existing": 15,
       "deaths": 0,
       "recovered": 0
     }
@@ -1641,10 +1641,10 @@
     "country_code": "EE",
     "province": "",
     "data": {
-      "confirmed": 715,
-      "existing": 692,
-      "deaths": 3,
-      "recovered": 20
+      "confirmed": 779,
+      "existing": 741,
+      "deaths": 5,
+      "recovered": 33
     }
   },
   {
@@ -1673,10 +1673,10 @@
     "country_code": "ET",
     "province": "",
     "data": {
-      "confirmed": 23,
-      "existing": 19,
+      "confirmed": 29,
+      "existing": 27,
       "deaths": 0,
-      "recovered": 4
+      "recovered": 2
     }
   },
   {
@@ -1705,9 +1705,9 @@
     "country_code": "FI",
     "province": "",
     "data": {
-      "confirmed": 1352,
-      "existing": 1329,
-      "deaths": 13,
+      "confirmed": 1446,
+      "existing": 1419,
+      "deaths": 17,
       "recovered": 10
     }
   },
@@ -1721,10 +1721,10 @@
     "country_code": "FR",
     "province": "French Guiana",
     "data": {
-      "confirmed": 43,
-      "existing": 37,
+      "confirmed": 51,
+      "existing": 36,
       "deaths": 0,
-      "recovered": 6
+      "recovered": 15
     }
   },
   {
@@ -1737,8 +1737,8 @@
     "country_code": "FR",
     "province": "French Polynesia",
     "data": {
-      "confirmed": 36,
-      "existing": 36,
+      "confirmed": 37,
+      "existing": 37,
       "deaths": 0,
       "recovered": 0
     }
@@ -1753,10 +1753,10 @@
     "country_code": "FR",
     "province": "Guadeloupe",
     "data": {
-      "confirmed": 106,
-      "existing": 85,
-      "deaths": 4,
-      "recovered": 17
+      "confirmed": 125,
+      "existing": 95,
+      "deaths": 6,
+      "recovered": 24
     }
   },
   {
@@ -1769,9 +1769,9 @@
     "country_code": "FR",
     "province": "Mayotte",
     "data": {
-      "confirmed": 82,
-      "existing": 72,
-      "deaths": 0,
+      "confirmed": 94,
+      "existing": 83,
+      "deaths": 1,
       "recovered": 10
     }
   },
@@ -1785,8 +1785,8 @@
     "country_code": "FR",
     "province": "New Caledonia",
     "data": {
-      "confirmed": 15,
-      "existing": 15,
+      "confirmed": 16,
+      "existing": 16,
       "deaths": 0,
       "recovered": 0
     }
@@ -1801,10 +1801,10 @@
     "country_code": "FR",
     "province": "Reunion",
     "data": {
-      "confirmed": 224,
-      "existing": 223,
+      "confirmed": 281,
+      "existing": 241,
       "deaths": 0,
-      "recovered": 1
+      "recovered": 40
     }
   },
   {
@@ -1849,10 +1849,10 @@
     "country_code": "FR",
     "province": "Martinique",
     "data": {
-      "confirmed": 93,
-      "existing": 92,
-      "deaths": 1,
-      "recovered": 0
+      "confirmed": 135,
+      "existing": 105,
+      "deaths": 3,
+      "recovered": 27
     }
   },
   {
@@ -1865,10 +1865,10 @@
     "country_code": "FR",
     "province": "",
     "data": {
-      "confirmed": 44550,
-      "existing": 33599,
-      "deaths": 3024,
-      "recovered": 7927
+      "confirmed": 56989,
+      "existing": 42023,
+      "deaths": 4032,
+      "recovered": 10934
     }
   },
   {
@@ -1881,8 +1881,8 @@
     "country_code": "GA",
     "province": "",
     "data": {
-      "confirmed": 7,
-      "existing": 6,
+      "confirmed": 18,
+      "existing": 17,
       "deaths": 1,
       "recovered": 0
     }
@@ -1898,9 +1898,9 @@
     "province": "",
     "data": {
       "confirmed": 4,
-      "existing": 3,
+      "existing": 1,
       "deaths": 1,
-      "recovered": 0
+      "recovered": 2
     }
   },
   {
@@ -1913,10 +1913,10 @@
     "country_code": "GE",
     "province": "",
     "data": {
-      "confirmed": 103,
-      "existing": 83,
+      "confirmed": 117,
+      "existing": 94,
       "deaths": 0,
-      "recovered": 20
+      "recovered": 23
     }
   },
   {
@@ -1929,10 +1929,10 @@
     "country_code": "DE",
     "province": "",
     "data": {
-      "confirmed": 66885,
-      "existing": 52740,
-      "deaths": 645,
-      "recovered": 13500
+      "confirmed": 77872,
+      "existing": 58252,
+      "deaths": 920,
+      "recovered": 18700
     }
   },
   {
@@ -1945,10 +1945,10 @@
     "country_code": "GH",
     "province": "",
     "data": {
-      "confirmed": 152,
-      "existing": 145,
+      "confirmed": 195,
+      "existing": 159,
       "deaths": 5,
-      "recovered": 2
+      "recovered": 31
     }
   },
   {
@@ -1961,9 +1961,9 @@
     "country_code": "GR",
     "province": "",
     "data": {
-      "confirmed": 1212,
-      "existing": 1117,
-      "deaths": 43,
+      "confirmed": 1415,
+      "existing": 1313,
+      "deaths": 50,
       "recovered": 52
     }
   },
@@ -1977,10 +1977,10 @@
     "country_code": "GT",
     "province": "",
     "data": {
-      "confirmed": 36,
-      "existing": 25,
+      "confirmed": 39,
+      "existing": 26,
       "deaths": 1,
-      "recovered": 10
+      "recovered": 12
     }
   },
   {
@@ -1993,8 +1993,8 @@
     "country_code": "GN",
     "province": "",
     "data": {
-      "confirmed": 22,
-      "existing": 22,
+      "confirmed": 30,
+      "existing": 30,
       "deaths": 0,
       "recovered": 0
     }
@@ -2009,9 +2009,9 @@
     "country_code": "GY",
     "province": "",
     "data": {
-      "confirmed": 8,
-      "existing": 7,
-      "deaths": 1,
+      "confirmed": 19,
+      "existing": 17,
+      "deaths": 2,
       "recovered": 0
     }
   },
@@ -2025,8 +2025,8 @@
     "country_code": "HT",
     "province": "",
     "data": {
-      "confirmed": 15,
-      "existing": 14,
+      "confirmed": 16,
+      "existing": 15,
       "deaths": 0,
       "recovered": 1
     }
@@ -2057,9 +2057,9 @@
     "country_code": "HN",
     "province": "",
     "data": {
-      "confirmed": 139,
-      "existing": 129,
-      "deaths": 7,
+      "confirmed": 172,
+      "existing": 159,
+      "deaths": 10,
       "recovered": 3
     }
   },
@@ -2073,10 +2073,10 @@
     "country_code": "HU",
     "province": "",
     "data": {
-      "confirmed": 447,
-      "existing": 398,
-      "deaths": 15,
-      "recovered": 34
+      "confirmed": 525,
+      "existing": 465,
+      "deaths": 20,
+      "recovered": 40
     }
   },
   {
@@ -2089,10 +2089,10 @@
     "country_code": "IS",
     "province": "",
     "data": {
-      "confirmed": 1086,
-      "existing": 927,
+      "confirmed": 1220,
+      "existing": 993,
       "deaths": 2,
-      "recovered": 157
+      "recovered": 225
     }
   },
   {
@@ -2105,10 +2105,10 @@
     "country_code": "ID",
     "province": "",
     "data": {
-      "confirmed": 1414,
-      "existing": 1217,
-      "deaths": 122,
-      "recovered": 75
+      "confirmed": 1677,
+      "existing": 1417,
+      "deaths": 157,
+      "recovered": 103
     }
   },
   {
@@ -2121,10 +2121,10 @@
     "country_code": "IR",
     "province": "",
     "data": {
-      "confirmed": 41495,
-      "existing": 24827,
-      "deaths": 2757,
-      "recovered": 13911
+      "confirmed": 47593,
+      "existing": 29084,
+      "deaths": 3036,
+      "recovered": 15473
     }
   },
   {
@@ -2137,10 +2137,10 @@
     "country_code": "IQ",
     "province": "",
     "data": {
-      "confirmed": 630,
-      "existing": 432,
-      "deaths": 46,
-      "recovered": 152
+      "confirmed": 728,
+      "existing": 494,
+      "deaths": 52,
+      "recovered": 182
     }
   },
   {
@@ -2153,9 +2153,9 @@
     "country_code": "IE",
     "province": "",
     "data": {
-      "confirmed": 2910,
-      "existing": 2851,
-      "deaths": 54,
+      "confirmed": 3447,
+      "existing": 3357,
+      "deaths": 85,
       "recovered": 5
     }
   },
@@ -2169,10 +2169,10 @@
     "country_code": "IL",
     "province": "",
     "data": {
-      "confirmed": 4695,
-      "existing": 4518,
-      "deaths": 16,
-      "recovered": 161
+      "confirmed": 6092,
+      "existing": 5825,
+      "deaths": 26,
+      "recovered": 241
     }
   },
   {
@@ -2185,10 +2185,10 @@
     "country_code": "IT",
     "province": "",
     "data": {
-      "confirmed": 101739,
-      "existing": 75528,
-      "deaths": 11591,
-      "recovered": 14620
+      "confirmed": 110574,
+      "existing": 80572,
+      "deaths": 13155,
+      "recovered": 16847
     }
   },
   {
@@ -2201,9 +2201,9 @@
     "country_code": "JM",
     "province": "",
     "data": {
-      "confirmed": 36,
-      "existing": 33,
-      "deaths": 1,
+      "confirmed": 44,
+      "existing": 39,
+      "deaths": 3,
       "recovered": 2
     }
   },
@@ -2217,10 +2217,10 @@
     "country_code": "JP",
     "province": "",
     "data": {
-      "confirmed": 1866,
-      "existing": 1388,
-      "deaths": 54,
-      "recovered": 424
+      "confirmed": 2178,
+      "existing": 1649,
+      "deaths": 57,
+      "recovered": 472
     }
   },
   {
@@ -2233,10 +2233,10 @@
     "country_code": "JO",
     "province": "",
     "data": {
-      "confirmed": 268,
+      "confirmed": 278,
       "existing": 237,
       "deaths": 5,
-      "recovered": 26
+      "recovered": 36
     }
   },
   {
@@ -2249,10 +2249,10 @@
     "country_code": "KZ",
     "province": "",
     "data": {
-      "confirmed": 302,
-      "existing": 280,
-      "deaths": 1,
-      "recovered": 21
+      "confirmed": 380,
+      "existing": 351,
+      "deaths": 3,
+      "recovered": 26
     }
   },
   {
@@ -2265,10 +2265,10 @@
     "country_code": "KE",
     "province": "",
     "data": {
-      "confirmed": 50,
-      "existing": 48,
+      "confirmed": 81,
+      "existing": 77,
       "deaths": 1,
-      "recovered": 1
+      "recovered": 3
     }
   },
   {
@@ -2281,10 +2281,10 @@
     "country_code": "KR",
     "province": "",
     "data": {
-      "confirmed": 9661,
-      "existing": 4275,
-      "deaths": 158,
-      "recovered": 5228
+      "confirmed": 9887,
+      "existing": 4155,
+      "deaths": 165,
+      "recovered": 5567
     }
   },
   {
@@ -2297,10 +2297,10 @@
     "country_code": "KW",
     "province": "",
     "data": {
-      "confirmed": 266,
-      "existing": 194,
+      "confirmed": 317,
+      "existing": 237,
       "deaths": 0,
-      "recovered": 72
+      "recovered": 80
     }
   },
   {
@@ -2313,8 +2313,8 @@
     "country_code": "KG",
     "province": "",
     "data": {
-      "confirmed": 94,
-      "existing": 91,
+      "confirmed": 111,
+      "existing": 108,
       "deaths": 0,
       "recovered": 3
     }
@@ -2329,8 +2329,8 @@
     "country_code": "LV",
     "province": "",
     "data": {
-      "confirmed": 376,
-      "existing": 375,
+      "confirmed": 446,
+      "existing": 445,
       "deaths": 0,
       "recovered": 1
     }
@@ -2345,10 +2345,10 @@
     "country_code": "LB",
     "province": "",
     "data": {
-      "confirmed": 446,
-      "existing": 400,
-      "deaths": 11,
-      "recovered": 35
+      "confirmed": 479,
+      "existing": 422,
+      "deaths": 14,
+      "recovered": 43
     }
   },
   {
@@ -2361,8 +2361,8 @@
     "country_code": "LR",
     "province": "",
     "data": {
-      "confirmed": 3,
-      "existing": 3,
+      "confirmed": 6,
+      "existing": 6,
       "deaths": 0,
       "recovered": 0
     }
@@ -2377,8 +2377,8 @@
     "country_code": "LI",
     "province": "",
     "data": {
-      "confirmed": 62,
-      "existing": 62,
+      "confirmed": 68,
+      "existing": 68,
       "deaths": 0,
       "recovered": 0
     }
@@ -2393,9 +2393,9 @@
     "country_code": "LT",
     "province": "",
     "data": {
-      "confirmed": 491,
-      "existing": 477,
-      "deaths": 7,
+      "confirmed": 581,
+      "existing": 566,
+      "deaths": 8,
       "recovered": 7
     }
   },
@@ -2409,10 +2409,10 @@
     "country_code": "LU",
     "province": "",
     "data": {
-      "confirmed": 1988,
-      "existing": 1926,
-      "deaths": 22,
-      "recovered": 40
+      "confirmed": 2319,
+      "existing": 2210,
+      "deaths": 29,
+      "recovered": 80
     }
   },
   {
@@ -2425,8 +2425,8 @@
     "country_code": "MG",
     "province": "",
     "data": {
-      "confirmed": 43,
-      "existing": 43,
+      "confirmed": 57,
+      "existing": 57,
       "deaths": 0,
       "recovered": 0
     }
@@ -2441,10 +2441,10 @@
     "country_code": "MY",
     "province": "",
     "data": {
-      "confirmed": 2626,
-      "existing": 2110,
-      "deaths": 37,
-      "recovered": 479
+      "confirmed": 2908,
+      "existing": 2218,
+      "deaths": 45,
+      "recovered": 645
     }
   },
   {
@@ -2457,8 +2457,8 @@
     "country_code": "MV",
     "province": "",
     "data": {
-      "confirmed": 17,
-      "existing": 4,
+      "confirmed": 19,
+      "existing": 6,
       "deaths": 0,
       "recovered": 13
     }
@@ -2473,8 +2473,8 @@
     "country_code": "MT",
     "province": "",
     "data": {
-      "confirmed": 156,
-      "existing": 154,
+      "confirmed": 188,
+      "existing": 186,
       "deaths": 0,
       "recovered": 2
     }
@@ -2489,8 +2489,8 @@
     "country_code": "MR",
     "province": "",
     "data": {
-      "confirmed": 5,
-      "existing": 2,
+      "confirmed": 6,
+      "existing": 3,
       "deaths": 1,
       "recovered": 2
     }
@@ -2505,9 +2505,9 @@
     "country_code": "MU",
     "province": "",
     "data": {
-      "confirmed": 128,
-      "existing": 125,
-      "deaths": 3,
+      "confirmed": 161,
+      "existing": 155,
+      "deaths": 6,
       "recovered": 0
     }
   },
@@ -2521,9 +2521,9 @@
     "country_code": "MX",
     "province": "",
     "data": {
-      "confirmed": 993,
-      "existing": 938,
-      "deaths": 20,
+      "confirmed": 1215,
+      "existing": 1151,
+      "deaths": 29,
       "recovered": 35
     }
   },
@@ -2537,10 +2537,10 @@
     "country_code": "MD",
     "province": "",
     "data": {
-      "confirmed": 298,
-      "existing": 281,
-      "deaths": 2,
-      "recovered": 15
+      "confirmed": 423,
+      "existing": 395,
+      "deaths": 5,
+      "recovered": 23
     }
   },
   {
@@ -2553,10 +2553,10 @@
     "country_code": "MC",
     "province": "",
     "data": {
-      "confirmed": 49,
-      "existing": 47,
+      "confirmed": 55,
+      "existing": 52,
       "deaths": 1,
-      "recovered": 1
+      "recovered": 2
     }
   },
   {
@@ -2569,8 +2569,8 @@
     "country_code": "MN",
     "province": "",
     "data": {
-      "confirmed": 12,
-      "existing": 10,
+      "confirmed": 14,
+      "existing": 12,
       "deaths": 0,
       "recovered": 2
     }
@@ -2585,9 +2585,9 @@
     "country_code": "ME",
     "province": "",
     "data": {
-      "confirmed": 91,
-      "existing": 90,
-      "deaths": 1,
+      "confirmed": 123,
+      "existing": 121,
+      "deaths": 2,
       "recovered": 0
     }
   },
@@ -2601,10 +2601,10 @@
     "country_code": "MA",
     "province": "",
     "data": {
-      "confirmed": 556,
-      "existing": 508,
-      "deaths": 33,
-      "recovered": 15
+      "confirmed": 654,
+      "existing": 586,
+      "deaths": 39,
+      "recovered": 29
     }
   },
   {
@@ -2617,8 +2617,8 @@
     "country_code": "NA",
     "province": "",
     "data": {
-      "confirmed": 11,
-      "existing": 9,
+      "confirmed": 14,
+      "existing": 12,
       "deaths": 0,
       "recovered": 2
     }
@@ -2649,8 +2649,8 @@
     "country_code": "NL",
     "province": "Aruba",
     "data": {
-      "confirmed": 50,
-      "existing": 49,
+      "confirmed": 55,
+      "existing": 54,
       "deaths": 0,
       "recovered": 1
     }
@@ -2666,9 +2666,9 @@
     "province": "Curacao",
     "data": {
       "confirmed": 11,
-      "existing": 8,
+      "existing": 7,
       "deaths": 1,
-      "recovered": 2
+      "recovered": 3
     }
   },
   {
@@ -2681,10 +2681,10 @@
     "country_code": "NL",
     "province": "Sint Maarten",
     "data": {
-      "confirmed": 6,
-      "existing": 6,
-      "deaths": 0,
-      "recovered": 0
+      "confirmed": 16,
+      "existing": 9,
+      "deaths": 1,
+      "recovered": 6
     }
   },
   {
@@ -2697,9 +2697,9 @@
     "country_code": "NL",
     "province": "",
     "data": {
-      "confirmed": 11750,
-      "existing": 10636,
-      "deaths": 864,
+      "confirmed": 13614,
+      "existing": 12191,
+      "deaths": 1173,
       "recovered": 250
     }
   },
@@ -2713,10 +2713,10 @@
     "country_code": "NZ",
     "province": "",
     "data": {
-      "confirmed": 589,
-      "existing": 525,
+      "confirmed": 708,
+      "existing": 624,
       "deaths": 1,
-      "recovered": 63
+      "recovered": 83
     }
   },
   {
@@ -2729,8 +2729,8 @@
     "country_code": "NI",
     "province": "",
     "data": {
-      "confirmed": 4,
-      "existing": 3,
+      "confirmed": 5,
+      "existing": 4,
       "deaths": 1,
       "recovered": 0
     }
@@ -2745,9 +2745,9 @@
     "country_code": "NE",
     "province": "",
     "data": {
-      "confirmed": 27,
-      "existing": 24,
-      "deaths": 3,
+      "confirmed": 74,
+      "existing": 69,
+      "deaths": 5,
       "recovered": 0
     }
   },
@@ -2761,10 +2761,10 @@
     "country_code": "NG",
     "province": "",
     "data": {
-      "confirmed": 131,
-      "existing": 121,
+      "confirmed": 174,
+      "existing": 163,
       "deaths": 2,
-      "recovered": 8
+      "recovered": 9
     }
   },
   {
@@ -2777,10 +2777,10 @@
     "country_code": "MK",
     "province": "",
     "data": {
-      "confirmed": 285,
-      "existing": 266,
-      "deaths": 7,
-      "recovered": 12
+      "confirmed": 354,
+      "existing": 326,
+      "deaths": 11,
+      "recovered": 17
     }
   },
   {
@@ -2793,10 +2793,10 @@
     "country_code": "NO",
     "province": "",
     "data": {
-      "confirmed": 4445,
-      "existing": 4401,
-      "deaths": 32,
-      "recovered": 12
+      "confirmed": 4863,
+      "existing": 4806,
+      "deaths": 44,
+      "recovered": 13
     }
   },
   {
@@ -2809,10 +2809,10 @@
     "country_code": "OM",
     "province": "",
     "data": {
-      "confirmed": 179,
-      "existing": 150,
-      "deaths": 0,
-      "recovered": 29
+      "confirmed": 210,
+      "existing": 175,
+      "deaths": 1,
+      "recovered": 34
     }
   },
   {
@@ -2825,10 +2825,10 @@
     "country_code": "PK",
     "province": "",
     "data": {
-      "confirmed": 1717,
-      "existing": 1620,
-      "deaths": 21,
-      "recovered": 76
+      "confirmed": 2118,
+      "existing": 1997,
+      "deaths": 27,
+      "recovered": 94
     }
   },
   {
@@ -2841,10 +2841,10 @@
     "country_code": "PA",
     "province": "",
     "data": {
-      "confirmed": 989,
-      "existing": 961,
-      "deaths": 24,
-      "recovered": 4
+      "confirmed": 1181,
+      "existing": 1142,
+      "deaths": 30,
+      "recovered": 9
     }
   },
   {
@@ -2873,8 +2873,8 @@
     "country_code": "PY",
     "province": "",
     "data": {
-      "confirmed": 64,
-      "existing": 60,
+      "confirmed": 69,
+      "existing": 65,
       "deaths": 3,
       "recovered": 1
     }
@@ -2889,10 +2889,10 @@
     "country_code": "PE",
     "province": "",
     "data": {
-      "confirmed": 950,
-      "existing": 873,
-      "deaths": 24,
-      "recovered": 53
+      "confirmed": 1323,
+      "existing": 891,
+      "deaths": 38,
+      "recovered": 394
     }
   },
   {
@@ -2905,10 +2905,10 @@
     "country_code": "PH",
     "province": "",
     "data": {
-      "confirmed": 1546,
-      "existing": 1426,
-      "deaths": 78,
-      "recovered": 42
+      "confirmed": 2311,
+      "existing": 2165,
+      "deaths": 96,
+      "recovered": 50
     }
   },
   {
@@ -2921,10 +2921,10 @@
     "country_code": "PL",
     "province": "",
     "data": {
-      "confirmed": 2055,
-      "existing": 2017,
-      "deaths": 31,
-      "recovered": 7
+      "confirmed": 2554,
+      "existing": 2464,
+      "deaths": 43,
+      "recovered": 47
     }
   },
   {
@@ -2937,9 +2937,9 @@
     "country_code": "PT",
     "province": "",
     "data": {
-      "confirmed": 6408,
-      "existing": 6225,
-      "deaths": 140,
+      "confirmed": 8251,
+      "existing": 8021,
+      "deaths": 187,
       "recovered": 43
     }
   },
@@ -2953,10 +2953,10 @@
     "country_code": "QA",
     "province": "",
     "data": {
-      "confirmed": 693,
-      "existing": 641,
-      "deaths": 1,
-      "recovered": 51
+      "confirmed": 835,
+      "existing": 762,
+      "deaths": 2,
+      "recovered": 71
     }
   },
   {
@@ -2969,10 +2969,10 @@
     "country_code": "RO",
     "province": "",
     "data": {
-      "confirmed": 2109,
-      "existing": 1835,
-      "deaths": 65,
-      "recovered": 209
+      "confirmed": 2460,
+      "existing": 2116,
+      "deaths": 92,
+      "recovered": 252
     }
   },
   {
@@ -2985,10 +2985,10 @@
     "country_code": "RU",
     "province": "",
     "data": {
-      "confirmed": 1836,
-      "existing": 1761,
-      "deaths": 9,
-      "recovered": 66
+      "confirmed": 2777,
+      "existing": 2563,
+      "deaths": 24,
+      "recovered": 190
     }
   },
   {
@@ -3001,8 +3001,8 @@
     "country_code": "RW",
     "province": "",
     "data": {
-      "confirmed": 70,
-      "existing": 70,
+      "confirmed": 82,
+      "existing": 82,
       "deaths": 0,
       "recovered": 0
     }
@@ -3017,8 +3017,8 @@
     "country_code": "LC",
     "province": "",
     "data": {
-      "confirmed": 9,
-      "existing": 8,
+      "confirmed": 13,
+      "existing": 12,
       "deaths": 0,
       "recovered": 1
     }
@@ -3049,9 +3049,9 @@
     "country_code": "SM",
     "province": "",
     "data": {
-      "confirmed": 230,
-      "existing": 192,
-      "deaths": 25,
+      "confirmed": 236,
+      "existing": 197,
+      "deaths": 26,
       "recovered": 13
     }
   },
@@ -3065,10 +3065,10 @@
     "country_code": "SA",
     "province": "",
     "data": {
-      "confirmed": 1453,
-      "existing": 1330,
-      "deaths": 8,
-      "recovered": 115
+      "confirmed": 1720,
+      "existing": 1440,
+      "deaths": 16,
+      "recovered": 264
     }
   },
   {
@@ -3081,10 +3081,10 @@
     "country_code": "SN",
     "province": "",
     "data": {
-      "confirmed": 162,
-      "existing": 135,
-      "deaths": 0,
-      "recovered": 27
+      "confirmed": 190,
+      "existing": 144,
+      "deaths": 1,
+      "recovered": 45
     }
   },
   {
@@ -3097,9 +3097,9 @@
     "country_code": "RS",
     "province": "",
     "data": {
-      "confirmed": 785,
-      "existing": 769,
-      "deaths": 16,
+      "confirmed": 1060,
+      "existing": 1032,
+      "deaths": 28,
       "recovered": 0
     }
   },
@@ -3113,8 +3113,8 @@
     "country_code": "SC",
     "province": "",
     "data": {
-      "confirmed": 8,
-      "existing": 8,
+      "confirmed": 10,
+      "existing": 10,
       "deaths": 0,
       "recovered": 0
     }
@@ -3129,10 +3129,10 @@
     "country_code": "SG",
     "province": "",
     "data": {
-      "confirmed": 879,
-      "existing": 648,
+      "confirmed": 1000,
+      "existing": 752,
       "deaths": 3,
-      "recovered": 228
+      "recovered": 245
     }
   },
   {
@@ -3145,10 +3145,10 @@
     "country_code": "SK",
     "province": "",
     "data": {
-      "confirmed": 336,
-      "existing": 329,
-      "deaths": 0,
-      "recovered": 7
+      "confirmed": 400,
+      "existing": 396,
+      "deaths": 1,
+      "recovered": 3
     }
   },
   {
@@ -3161,9 +3161,9 @@
     "country_code": "SI",
     "province": "",
     "data": {
-      "confirmed": 756,
-      "existing": 735,
-      "deaths": 11,
+      "confirmed": 841,
+      "existing": 816,
+      "deaths": 15,
       "recovered": 10
     }
   },
@@ -3177,10 +3177,10 @@
     "country_code": "SO",
     "province": "",
     "data": {
-      "confirmed": 3,
-      "existing": 3,
+      "confirmed": 5,
+      "existing": 4,
       "deaths": 0,
-      "recovered": 0
+      "recovered": 1
     }
   },
   {
@@ -3193,10 +3193,10 @@
     "country_code": "ZA",
     "province": "",
     "data": {
-      "confirmed": 1326,
-      "existing": 1292,
-      "deaths": 3,
-      "recovered": 31
+      "confirmed": 1380,
+      "existing": 1325,
+      "deaths": 5,
+      "recovered": 50
     }
   },
   {
@@ -3209,10 +3209,10 @@
     "country_code": "ES",
     "province": "",
     "data": {
-      "confirmed": 87956,
-      "existing": 63460,
-      "deaths": 7716,
-      "recovered": 16780
+      "confirmed": 104118,
+      "existing": 72084,
+      "deaths": 9387,
+      "recovered": 22647
     }
   },
   {
@@ -3225,10 +3225,10 @@
     "country_code": "LK",
     "province": "",
     "data": {
-      "confirmed": 122,
-      "existing": 105,
-      "deaths": 2,
-      "recovered": 15
+      "confirmed": 146,
+      "existing": 122,
+      "deaths": 3,
+      "recovered": 21
     }
   },
   {
@@ -3241,10 +3241,10 @@
     "country_code": "SD",
     "province": "",
     "data": {
-      "confirmed": 6,
-      "existing": 4,
+      "confirmed": 7,
+      "existing": 3,
       "deaths": 2,
-      "recovered": 0
+      "recovered": 2
     }
   },
   {
@@ -3257,8 +3257,8 @@
     "country_code": "SR",
     "province": "",
     "data": {
-      "confirmed": 8,
-      "existing": 8,
+      "confirmed": 10,
+      "existing": 10,
       "deaths": 0,
       "recovered": 0
     }
@@ -3273,10 +3273,10 @@
     "country_code": "SE",
     "province": "",
     "data": {
-      "confirmed": 4028,
-      "existing": 3866,
-      "deaths": 146,
-      "recovered": 16
+      "confirmed": 4947,
+      "existing": 4605,
+      "deaths": 239,
+      "recovered": 103
     }
   },
   {
@@ -3289,10 +3289,10 @@
     "country_code": "CH",
     "province": "",
     "data": {
-      "confirmed": 15922,
-      "existing": 13740,
-      "deaths": 359,
-      "recovered": 1823
+      "confirmed": 17768,
+      "existing": 14313,
+      "deaths": 488,
+      "recovered": 2967
     }
   },
   {
@@ -3305,8 +3305,8 @@
     "country_code": "TW",
     "province": "",
     "data": {
-      "confirmed": 306,
-      "existing": 262,
+      "confirmed": 329,
+      "existing": 285,
       "deaths": 5,
       "recovered": 39
     }
@@ -3321,9 +3321,9 @@
     "country_code": "TZ",
     "province": "",
     "data": {
-      "confirmed": 19,
+      "confirmed": 20,
       "existing": 18,
-      "deaths": 0,
+      "deaths": 1,
       "recovered": 1
     }
   },
@@ -3337,10 +3337,10 @@
     "country_code": "TH",
     "province": "",
     "data": {
-      "confirmed": 1524,
-      "existing": 1286,
-      "deaths": 9,
-      "recovered": 229
+      "confirmed": 1771,
+      "existing": 1254,
+      "deaths": 12,
+      "recovered": 505
     }
   },
   {
@@ -3353,10 +3353,10 @@
     "country_code": "TG",
     "province": "",
     "data": {
-      "confirmed": 30,
-      "existing": 28,
-      "deaths": 1,
-      "recovered": 1
+      "confirmed": 36,
+      "existing": 24,
+      "deaths": 2,
+      "recovered": 10
     }
   },
   {
@@ -3369,9 +3369,9 @@
     "country_code": "TT",
     "province": "",
     "data": {
-      "confirmed": 82,
-      "existing": 78,
-      "deaths": 3,
+      "confirmed": 90,
+      "existing": 84,
+      "deaths": 5,
       "recovered": 1
     }
   },
@@ -3385,10 +3385,10 @@
     "country_code": "TN",
     "province": "",
     "data": {
-      "confirmed": 312,
-      "existing": 301,
-      "deaths": 8,
-      "recovered": 3
+      "confirmed": 423,
+      "existing": 406,
+      "deaths": 12,
+      "recovered": 5
     }
   },
   {
@@ -3401,10 +3401,10 @@
     "country_code": "TR",
     "province": "",
     "data": {
-      "confirmed": 10827,
-      "existing": 10497,
-      "deaths": 168,
-      "recovered": 162
+      "confirmed": 15679,
+      "existing": 15069,
+      "deaths": 277,
+      "recovered": 333
     }
   },
   {
@@ -3417,8 +3417,8 @@
     "country_code": "UG",
     "province": "",
     "data": {
-      "confirmed": 33,
-      "existing": 33,
+      "confirmed": 44,
+      "existing": 44,
       "deaths": 0,
       "recovered": 0
     }
@@ -3433,10 +3433,10 @@
     "country_code": "UA",
     "province": "",
     "data": {
-      "confirmed": 548,
-      "existing": 527,
-      "deaths": 13,
-      "recovered": 8
+      "confirmed": 794,
+      "existing": 761,
+      "deaths": 20,
+      "recovered": 13
     }
   },
   {
@@ -3449,9 +3449,9 @@
     "country_code": "AE",
     "province": "",
     "data": {
-      "confirmed": 611,
-      "existing": 545,
-      "deaths": 5,
+      "confirmed": 814,
+      "existing": 745,
+      "deaths": 8,
       "recovered": 61
     }
   },
@@ -3465,10 +3465,10 @@
     "country_code": "GB",
     "province": "Bermuda",
     "data": {
-      "confirmed": 27,
-      "existing": 25,
+      "confirmed": 32,
+      "existing": 22,
       "deaths": 0,
-      "recovered": 2
+      "recovered": 10
     }
   },
   {
@@ -3481,8 +3481,8 @@
     "country_code": "GB",
     "province": "Cayman Islands",
     "data": {
-      "confirmed": 12,
-      "existing": 11,
+      "confirmed": 22,
+      "existing": 21,
       "deaths": 1,
       "recovered": 0
     }
@@ -3497,9 +3497,9 @@
     "country_code": "GB",
     "province": "Channel Islands",
     "data": {
-      "confirmed": 141,
-      "existing": 139,
-      "deaths": 2,
+      "confirmed": 172,
+      "existing": 169,
+      "deaths": 3,
       "recovered": 0
     }
   },
@@ -3513,8 +3513,8 @@
     "country_code": "GB",
     "province": "Gibraltar",
     "data": {
-      "confirmed": 69,
-      "existing": 35,
+      "confirmed": 81,
+      "existing": 47,
       "deaths": 0,
       "recovered": 34
     }
@@ -3529,9 +3529,9 @@
     "country_code": "GB",
     "province": "Isle of Man",
     "data": {
-      "confirmed": 49,
-      "existing": 49,
-      "deaths": 0,
+      "confirmed": 68,
+      "existing": 67,
+      "deaths": 1,
       "recovered": 0
     }
   },
@@ -3561,9 +3561,9 @@
     "country_code": "GB",
     "province": "",
     "data": {
-      "confirmed": 22141,
-      "existing": 20598,
-      "deaths": 1408,
+      "confirmed": 29474,
+      "existing": 26987,
+      "deaths": 2352,
       "recovered": 135
     }
   },
@@ -3577,10 +3577,10 @@
     "country_code": "UY",
     "province": "",
     "data": {
-      "confirmed": 310,
-      "existing": 309,
-      "deaths": 1,
-      "recovered": 0
+      "confirmed": 338,
+      "existing": 295,
+      "deaths": 2,
+      "recovered": 41
     }
   },
   {
@@ -3593,10 +3593,10 @@
     "country_code": "US",
     "province": "",
     "data": {
-      "confirmed": 161807,
-      "existing": 153185,
-      "deaths": 2978,
-      "recovered": 5644
+      "confirmed": 213372,
+      "existing": 200141,
+      "deaths": 4757,
+      "recovered": 8474
     }
   },
   {
@@ -3609,10 +3609,10 @@
     "country_code": "UZ",
     "province": "",
     "data": {
-      "confirmed": 149,
-      "existing": 140,
+      "confirmed": 181,
+      "existing": 167,
       "deaths": 2,
-      "recovered": 7
+      "recovered": 12
     }
   },
   {
@@ -3625,10 +3625,10 @@
     "country_code": "VE",
     "province": "",
     "data": {
-      "confirmed": 135,
-      "existing": 93,
+      "confirmed": 143,
+      "existing": 99,
       "deaths": 3,
-      "recovered": 39
+      "recovered": 41
     }
   },
   {
@@ -3641,10 +3641,10 @@
     "country_code": "VN",
     "province": "",
     "data": {
-      "confirmed": 203,
-      "existing": 148,
+      "confirmed": 218,
+      "existing": 155,
       "deaths": 0,
-      "recovered": 55
+      "recovered": 63
     }
   },
   {
@@ -3657,8 +3657,8 @@
     "country_code": "ZM",
     "province": "",
     "data": {
-      "confirmed": 35,
-      "existing": 35,
+      "confirmed": 36,
+      "existing": 36,
       "deaths": 0,
       "recovered": 0
     }
@@ -3673,8 +3673,8 @@
     "country_code": "ZW",
     "province": "",
     "data": {
-      "confirmed": 7,
-      "existing": 6,
+      "confirmed": 8,
+      "existing": 7,
       "deaths": 1,
       "recovered": 0
     }
@@ -3705,8 +3705,8 @@
     "country_code": "DM",
     "province": "",
     "data": {
-      "confirmed": 11,
-      "existing": 11,
+      "confirmed": 12,
+      "existing": 12,
       "deaths": 0,
       "recovered": 0
     }
@@ -3737,8 +3737,8 @@
     "country_code": "MZ",
     "province": "",
     "data": {
-      "confirmed": 8,
-      "existing": 8,
+      "confirmed": 10,
+      "existing": 10,
       "deaths": 0,
       "recovered": 0
     }
@@ -3817,8 +3817,8 @@
     "country_code": "LA",
     "province": "",
     "data": {
-      "confirmed": 8,
-      "existing": 8,
+      "confirmed": 10,
+      "existing": 10,
       "deaths": 0,
       "recovered": 0
     }
@@ -3833,8 +3833,8 @@
     "country_code": "LY",
     "province": "",
     "data": {
-      "confirmed": 8,
-      "existing": 8,
+      "confirmed": 10,
+      "existing": 10,
       "deaths": 0,
       "recovered": 0
     }
@@ -3849,8 +3849,8 @@
     "country_code": "PS",
     "province": "",
     "data": {
-      "confirmed": 116,
-      "existing": 97,
+      "confirmed": 134,
+      "existing": 115,
       "deaths": 1,
       "recovered": 18
     }
@@ -3865,8 +3865,8 @@
     "country_code": "GW",
     "province": "",
     "data": {
-      "confirmed": 8,
-      "existing": 8,
+      "confirmed": 9,
+      "existing": 9,
       "deaths": 0,
       "recovered": 0
     }
@@ -3881,9 +3881,9 @@
     "country_code": "ML",
     "province": "",
     "data": {
-      "confirmed": 25,
-      "existing": 23,
-      "deaths": 2,
+      "confirmed": 31,
+      "existing": 28,
+      "deaths": 3,
       "recovered": 0
     }
   },
@@ -3897,8 +3897,8 @@
     "country_code": "KN",
     "province": "",
     "data": {
-      "confirmed": 7,
-      "existing": 7,
+      "confirmed": 8,
+      "existing": 8,
       "deaths": 0,
       "recovered": 0
     }
@@ -3913,8 +3913,8 @@
     "country_code": "CA",
     "province": "Northwest Territories",
     "data": {
-      "confirmed": 1,
-      "existing": 1,
+      "confirmed": 2,
+      "existing": 2,
       "deaths": 0,
       "recovered": 0
     }
@@ -3929,8 +3929,8 @@
     "country_code": "CA",
     "province": "Yukon",
     "data": {
-      "confirmed": 4,
-      "existing": 4,
+      "confirmed": 5,
+      "existing": 5,
       "deaths": 0,
       "recovered": 0
     }
@@ -3945,10 +3945,10 @@
     "country_code": "XK",
     "province": "",
     "data": {
-      "confirmed": 94,
-      "existing": 92,
+      "confirmed": 125,
+      "existing": 114,
       "deaths": 1,
-      "recovered": 1
+      "recovered": 10
     }
   },
   {
@@ -3977,8 +3977,8 @@
     "country_code": "GB",
     "province": "British Virgin Islands",
     "data": {
-      "confirmed": 2,
-      "existing": 2,
+      "confirmed": 3,
+      "existing": 3,
       "deaths": 0,
       "recovered": 0
     }
@@ -3993,8 +3993,8 @@
     "country_code": "GB",
     "province": "Turks and Caicos Islands",
     "data": {
-      "confirmed": 5,
-      "existing": 5,
+      "confirmed": 6,
+      "existing": 6,
       "deaths": 0,
       "recovered": 0
     }
@@ -4009,8 +4009,40 @@
     "country_code": "BW",
     "province": "",
     "data": {
-      "confirmed": 3,
+      "confirmed": 4,
       "existing": 3,
+      "deaths": 1,
+      "recovered": 0
+    }
+  },
+  {
+    "id": "903f5bff9d0bd5022da87fabe4f4b8a7",
+    "location": [
+      "29.9189",
+      "-3.3731"
+    ],
+    "country": "Burundi",
+    "country_code": "BI",
+    "province": "",
+    "data": {
+      "confirmed": 2,
+      "existing": 2,
+      "deaths": 0,
+      "recovered": 0
+    }
+  },
+  {
+    "id": "a42b3662ec18f74fe4e098c9ce136fb2",
+    "location": [
+      "-11.779889",
+      "8.460555000000001"
+    ],
+    "country": "Sierra Leone",
+    "country_code": "SL",
+    "province": "",
+    "data": {
+      "confirmed": 2,
+      "existing": 2,
       "deaths": 0,
       "recovered": 0
     }
@@ -4025,10 +4057,26 @@
       14.7504291
     ],
     "data": {
-      "confirmed": 23,
-      "existing": 22,
-      "deaths": 0,
+      "confirmed": 86,
+      "existing": 84,
+      "deaths": 1,
       "recovered": 1
+    }
+  },
+  {
+    "id": "fcb1cbf538cdd45cbde70d54c0458501",
+    "country_code": "IN",
+    "country": "India",
+    "province": "Assam",
+    "location": [
+      94.21666744,
+      26.7499809
+    ],
+    "data": {
+      "confirmed": 1,
+      "existing": 1,
+      "deaths": 0,
+      "recovered": 0
     }
   },
   {
@@ -4041,8 +4089,8 @@
       25.78541445
     ],
     "data": {
-      "confirmed": 15,
-      "existing": 14,
+      "confirmed": 23,
+      "existing": 22,
       "deaths": 1,
       "recovered": 0
     }
@@ -4057,8 +4105,8 @@
       30.71999697
     ],
     "data": {
-      "confirmed": 8,
-      "existing": 8,
+      "confirmed": 16,
+      "existing": 16,
       "deaths": 0,
       "recovered": 0
     }
@@ -4073,10 +4121,10 @@
       22.09042035
     ],
     "data": {
-      "confirmed": 7,
+      "confirmed": 9,
       "existing": 7,
       "deaths": 0,
-      "recovered": 0
+      "recovered": 2
     }
   },
   {
@@ -4089,8 +4137,8 @@
       28.6699929
     ],
     "data": {
-      "confirmed": 87,
-      "existing": 79,
+      "confirmed": 152,
+      "existing": 144,
       "deaths": 2,
       "recovered": 6
     }
@@ -4121,10 +4169,10 @@
       23.158831
     ],
     "data": {
-      "confirmed": 69,
-      "existing": 62,
+      "confirmed": 82,
+      "existing": 71,
       "deaths": 6,
-      "recovered": 1
+      "recovered": 5
     }
   },
   {
@@ -4137,10 +4185,10 @@
       28.45000633
     ],
     "data": {
-      "confirmed": 36,
-      "existing": 18,
+      "confirmed": 43,
+      "existing": 22,
       "deaths": 0,
-      "recovered": 18
+      "recovered": 21
     }
   },
   {
@@ -4154,9 +4202,9 @@
     ],
     "data": {
       "confirmed": 3,
-      "existing": 2,
+      "existing": 1,
       "deaths": 1,
-      "recovered": 0
+      "recovered": 1
     }
   },
   {
@@ -4169,10 +4217,26 @@
       34.29995933
     ],
     "data": {
-      "confirmed": 48,
-      "existing": 44,
+      "confirmed": 62,
+      "existing": 58,
       "deaths": 2,
       "recovered": 2
+    }
+  },
+  {
+    "id": "e474f816cd86851b3383d6130a4f0afd",
+    "country_code": "IN",
+    "country": "India",
+    "province": "Jharkhand",
+    "location": [
+      86.41998572,
+      23.80039349
+    ],
+    "data": {
+      "confirmed": 1,
+      "existing": 1,
+      "deaths": 0,
+      "recovered": 0
     }
   },
   {
@@ -4185,10 +4249,10 @@
       12.57038129
     ],
     "data": {
-      "confirmed": 83,
-      "existing": 75,
+      "confirmed": 110,
+      "existing": 98,
       "deaths": 3,
-      "recovered": 5
+      "recovered": 9
     }
   },
   {
@@ -4201,10 +4265,10 @@
       8.900372741
     ],
     "data": {
-      "confirmed": 202,
-      "existing": 182,
-      "deaths": 1,
-      "recovered": 19
+      "confirmed": 265,
+      "existing": 238,
+      "deaths": 2,
+      "recovered": 25
     }
   },
   {
@@ -4233,9 +4297,9 @@
       21.30039105
     ],
     "data": {
-      "confirmed": 47,
-      "existing": 44,
-      "deaths": 3,
+      "confirmed": 99,
+      "existing": 93,
+      "deaths": 6,
       "recovered": 0
     }
   },
@@ -4249,10 +4313,10 @@
       19.25023195
     ],
     "data": {
-      "confirmed": 198,
-      "existing": 165,
-      "deaths": 8,
-      "recovered": 25
+      "confirmed": 335,
+      "existing": 280,
+      "deaths": 13,
+      "recovered": 42
     }
   },
   {
@@ -4297,8 +4361,8 @@
       19.82042971
     ],
     "data": {
-      "confirmed": 3,
-      "existing": 3,
+      "confirmed": 4,
+      "existing": 4,
       "deaths": 0,
       "recovered": 0
     }
@@ -4313,10 +4377,10 @@
       11.93499371
     ],
     "data": {
-      "confirmed": 1,
-      "existing": 1,
+      "confirmed": 3,
+      "existing": 2,
       "deaths": 0,
-      "recovered": 0
+      "recovered": 1
     }
   },
   {
@@ -4329,9 +4393,9 @@
       31.51997398
     ],
     "data": {
-      "confirmed": 38,
-      "existing": 36,
-      "deaths": 1,
+      "confirmed": 46,
+      "existing": 41,
+      "deaths": 4,
       "recovered": 1
     }
   },
@@ -4345,8 +4409,8 @@
       26.44999921
     ],
     "data": {
-      "confirmed": 59,
-      "existing": 56,
+      "confirmed": 108,
+      "existing": 105,
       "deaths": 0,
       "recovered": 3
     }
@@ -4361,10 +4425,10 @@
       12.92038576
     ],
     "data": {
-      "confirmed": 67,
-      "existing": 62,
+      "confirmed": 234,
+      "existing": 227,
       "deaths": 1,
-      "recovered": 4
+      "recovered": 6
     }
   },
   {
@@ -4377,9 +4441,9 @@
       17.697963
     ],
     "data": {
-      "confirmed": 71,
-      "existing": 69,
-      "deaths": 1,
+      "confirmed": 96,
+      "existing": 92,
+      "deaths": 3,
       "recovered": 1
     }
   },
@@ -4409,10 +4473,10 @@
       27.59998069
     ],
     "data": {
-      "confirmed": 82,
-      "existing": 71,
-      "deaths": 0,
-      "recovered": 11
+      "confirmed": 113,
+      "existing": 97,
+      "deaths": 2,
+      "recovered": 14
     }
   },
   {
@@ -4425,10 +4489,10 @@
       22.58039044
     ],
     "data": {
-      "confirmed": 22,
-      "existing": 20,
-      "deaths": 2,
-      "recovered": 0
+      "confirmed": 37,
+      "existing": 28,
+      "deaths": 3,
+      "recovered": 6
     }
   }
 ]
