@@ -1,13 +1,13 @@
 {
   "Andhra Pradesh": {
     "state": "Andhra Pradesh",
-    "confirmed": 305,
-    "recovered": 5,
+    "confirmed": 348,
+    "recovered": 6,
     "deaths": 4
   },
   "Andaman and Nicobar Islands": {
     "state": "Andaman and Nicobar Islands",
-    "confirmed": 10,
+    "confirmed": 11,
     "recovered": 0,
     "deaths": 0
   },
@@ -19,7 +19,7 @@
   },
   "Assam": {
     "state": "Assam",
-    "confirmed": 27,
+    "confirmed": 28,
     "recovered": 0,
     "deaths": 0
   },
@@ -43,7 +43,7 @@
   },
   "Delhi": {
     "state": "Delhi",
-    "confirmed": 576,
+    "confirmed": 669,
     "recovered": 21,
     "deaths": 9
   },
@@ -55,9 +55,9 @@
   },
   "Gujarat": {
     "state": "Gujarat",
-    "confirmed": 165,
+    "confirmed": 179,
     "recovered": 25,
-    "deaths": 13
+    "deaths": 16
   },
   "Haryana": {
     "state": "Haryana",
@@ -73,9 +73,9 @@
   },
   "Jammu and Kashmir": {
     "state": "Jammu and Kashmir",
-    "confirmed": 116,
+    "confirmed": 158,
     "recovered": 4,
-    "deaths": 2
+    "deaths": 4
   },
   "Jharkhand": {
     "state": "Jharkhand",
@@ -85,14 +85,14 @@
   },
   "Karnataka": {
     "state": "Karnataka",
-    "confirmed": 175,
-    "recovered": 25,
-    "deaths": 4
+    "confirmed": 181,
+    "recovered": 28,
+    "deaths": 5
   },
   "Kerala": {
     "state": "Kerala",
-    "confirmed": 336,
-    "recovered": 70,
+    "confirmed": 345,
+    "recovered": 83,
     "deaths": 2
   },
   "Ladakh": {
@@ -109,14 +109,14 @@
   },
   "Maharashtra": {
     "state": "Maharashtra",
-    "confirmed": 1018,
-    "recovered": 79,
-    "deaths": 64
+    "confirmed": 1135,
+    "recovered": 117,
+    "deaths": 72
   },
   "Manipur": {
     "state": "Manipur",
-    "confirmed": 2,
-    "recovered": 0,
+    "confirmed": 1,
+    "recovered": 1,
     "deaths": 0
   },
   "Mizoram": {
@@ -139,21 +139,21 @@
   },
   "Punjab": {
     "state": "Punjab",
-    "confirmed": 91,
+    "confirmed": 101,
     "recovered": 4,
-    "deaths": 7
+    "deaths": 8
   },
   "Rajasthan": {
     "state": "Rajasthan",
-    "confirmed": 328,
+    "confirmed": 381,
     "recovered": 21,
     "deaths": 3
   },
   "Tamil Nadu": {
     "state": "Tamil Nadu",
-    "confirmed": 690,
-    "recovered": 19,
-    "deaths": 7
+    "confirmed": 738,
+    "recovered": 21,
+    "deaths": 8
   },
   "Telengana": {
     "state": "Telengana",
@@ -169,26 +169,26 @@
   },
   "Uttarakhand": {
     "state": "Uttarakhand",
-    "confirmed": 31,
+    "confirmed": 33,
     "recovered": 5,
     "deaths": 0
   },
   "Uttar Pradesh": {
     "state": "Uttar Pradesh",
-    "confirmed": 343,
-    "recovered": 26,
-    "deaths": 3
+    "confirmed": 361,
+    "recovered": 27,
+    "deaths": 4
   },
   "West Bengal": {
     "state": "West Bengal",
-    "confirmed": 99,
-    "recovered": 13,
+    "confirmed": 103,
+    "recovered": 16,
     "deaths": 5
   },
-  "5274*": {
-    "state": "5274*",
-    "confirmed": 411,
-    "recovered": 149,
+  "5734*": {
+    "state": "5734*",
+    "confirmed": 473,
+    "recovered": 166,
     "deaths": null
   }
 }
