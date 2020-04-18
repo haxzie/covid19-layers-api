@@ -1,14 +1,14 @@
 {
   "Andaman and Nicobar Islands": {
     "state": "Andaman and Nicobar Islands",
-    "confirmed": 11,
-    "recovered": 10,
+    "confirmed": 12,
+    "recovered": 11,
     "deaths": 0
   },
   "Andhra Pradesh": {
     "state": "Andhra Pradesh",
-    "confirmed": 534,
-    "recovered": 20,
+    "confirmed": 572,
+    "recovered": 36,
     "deaths": 14
   },
   "Arunachal Pradesh": {
@@ -25,9 +25,9 @@
   },
   "Bihar": {
     "state": "Bihar",
-    "confirmed": 80,
+    "confirmed": 83,
     "recovered": 37,
-    "deaths": 1
+    "deaths": 2
   },
   "Chandigarh": {
     "state": "Chandigarh",
@@ -37,15 +37,15 @@
   },
   "Chhattisgarh": {
     "state": "Chhattisgarh",
-    "confirmed": 33,
-    "recovered": 23,
+    "confirmed": 36,
+    "recovered": 24,
     "deaths": 0
   },
   "Delhi": {
     "state": "Delhi",
-    "confirmed": 1640,
-    "recovered": 51,
-    "deaths": 38
+    "confirmed": 1707,
+    "recovered": 72,
+    "deaths": 42
   },
   "Goa": {
     "state": "Goa",
@@ -55,44 +55,44 @@
   },
   "Gujarat": {
     "state": "Gujarat",
-    "confirmed": 930,
-    "recovered": 73,
-    "deaths": 36
+    "confirmed": 1099,
+    "recovered": 86,
+    "deaths": 41
   },
   "Haryana": {
     "state": "Haryana",
-    "confirmed": 205,
+    "confirmed": 225,
     "recovered": 43,
     "deaths": 3
   },
   "Himachal Pradesh": {
     "state": "Himachal Pradesh",
-    "confirmed": 35,
+    "confirmed": 36,
     "recovered": 16,
     "deaths": 1
   },
   "Jammu and Kashmir": {
     "state": "Jammu and Kashmir",
-    "confirmed": 314,
-    "recovered": 38,
-    "deaths": 4
+    "confirmed": 328,
+    "recovered": 42,
+    "deaths": 5
   },
   "Jharkhand": {
     "state": "Jharkhand",
-    "confirmed": 28,
+    "confirmed": 33,
     "recovered": 0,
     "deaths": 2
   },
   "Karnataka": {
     "state": "Karnataka",
-    "confirmed": 315,
-    "recovered": 82,
+    "confirmed": 359,
+    "recovered": 89,
     "deaths": 13
   },
   "Kerala": {
     "state": "Kerala",
-    "confirmed": 395,
-    "recovered": 245,
+    "confirmed": 396,
+    "recovered": 255,
     "deaths": 3
   },
   "Ladakh": {
@@ -103,15 +103,15 @@
   },
   "Madhya Pradesh": {
     "state": "Madhya Pradesh",
-    "confirmed": 1120,
-    "recovered": 64,
-    "deaths": 53
+    "confirmed": 1310,
+    "recovered": 69,
+    "deaths": 69
   },
   "Maharashtra": {
     "state": "Maharashtra",
-    "confirmed": 3205,
-    "recovered": 300,
-    "deaths": 194
+    "confirmed": 3323,
+    "recovered": 331,
+    "deaths": 201
   },
   "Manipur": {
     "state": "Manipur",
@@ -121,7 +121,7 @@
   },
   "Meghalaya": {
     "state": "Meghalaya",
-    "confirmed": 7,
+    "confirmed": 9,
     "recovered": 0,
     "deaths": 1
   },
@@ -151,25 +151,25 @@
   },
   "Punjab": {
     "state": "Punjab",
-    "confirmed": 186,
+    "confirmed": 202,
     "recovered": 27,
     "deaths": 13
   },
   "Rajasthan": {
     "state": "Rajasthan",
-    "confirmed": 1131,
-    "recovered": 164,
-    "deaths": 3
+    "confirmed": 1229,
+    "recovered": 183,
+    "deaths": 11
   },
   "Tamil Nadu": {
     "state": "Tamil Nadu",
-    "confirmed": 1267,
-    "recovered": 180,
+    "confirmed": 1323,
+    "recovered": 283,
     "deaths": 15
   },
   "Telengana": {
     "state": "Telengana",
-    "confirmed": 700,
+    "confirmed": 766,
     "recovered": 186,
     "deaths": 18
   },
@@ -181,26 +181,26 @@
   },
   "Uttarakhand": {
     "state": "Uttarakhand",
-    "confirmed": 37,
+    "confirmed": 40,
     "recovered": 9,
     "deaths": 0
   },
   "Uttar Pradesh": {
     "state": "Uttar Pradesh",
-    "confirmed": 805,
-    "recovered": 74,
-    "deaths": 13
+    "confirmed": 849,
+    "recovered": 82,
+    "deaths": 14
   },
   "West Bengal": {
     "state": "West Bengal",
-    "confirmed": 255,
-    "recovered": 51,
+    "confirmed": 287,
+    "recovered": 55,
     "deaths": 10
   },
-  "13387*": {
-    "state": "13387*",
-    "confirmed": 1749,
-    "recovered": 437,
+  "14378*": {
+    "state": "14378*",
+    "confirmed": 1992,
+    "recovered": 480,
     "deaths": null
   },
   "undefined": {
